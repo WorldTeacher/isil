@@ -2,6 +2,7 @@ import sqlite3
 import glob
 from time import sleep
 import random
+from turtle import home
 import json5 as json
 data_path = "data/"
 database="isil.db"
@@ -138,7 +139,7 @@ def print_files():
                         date_created=content
                 if field =='001B':
                     for content in metadata[field]:
-                        date_modified=content[0][0]
+                        date_modified=content[0]
                         timestamp=content[1]['t']
                 if field =='001D':
                     for content in metadata[field]:
@@ -151,7 +152,7 @@ def print_files():
                         something=content[0][0]
                 if field =='003@':
                     for content in metadata[field]:
-                        something=content[0][0]
+                        something_2=content[0][0]
                 if field =='008H':
                     for content in metadata[field]:
                         #go through all sigils
@@ -171,16 +172,20 @@ def print_files():
                                     ezb=sigil[key]
                 if field =='009Q':
                     for content in metadata[field]:
-                        for entry in content:
-                            print(entry)
-                            #if 
+                        temp_dict = {k:v for subdict in content for k, v in subdict.items()} 
+                        if temp_dict.get("z", None) == 'A':
+                            homepage=temp_dict.get("u", None)
+                        if temp_dict.get("z", None) == 'B':
+                            opac=temp_dict.get("u", None)
+                
+
+                            
 
 
                         
                     # content=metadata[field]
                     # print('date created:', metadata[field])
                 #print(field, metadata[field])
-
 if __name__=="__main__":
     # create_table()
     #insert_data()
