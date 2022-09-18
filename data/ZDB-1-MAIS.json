@@ -1,0 +1,203 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/ZDB-1-MAIS.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:26-10-20"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:03-06-21"
+                ],
+                {
+                    "t": "09:31:51.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:26-10-20"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1220242608"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "d": "ZDB-1-MAIS"
+                },
+                {
+                    "e": "ZDB-1-MAIS"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://erf.sbb.spk-berlin.de/han/Maisaku"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://mainichi.jp/contents/edu/maisaku/index.html"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "FID-Lizenz Maisaku"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Maisaku [FID-Lizenz]"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Staatsbibliothek zu Berlin - Preu\u00dfischer Kulturbesitz"
+                },
+                {
+                    "b": "Berlin"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "10785"
+                },
+                {
+                    "k": "13.37063"
+                },
+                {
+                    "l": "52.50771"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "k": "x-asia@sbb.spk-berlin.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "P"
+                },
+                {
+                    "f": "89"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "E-Journals"
+                },
+                {
+                    "a": "Zeitung (Mainichi Shimbun)"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "ANL"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ],
+        "035P": [
+            [
+                {
+                    "a": "E-Journals"
+                },
+                {
+                    "c": "k.A"
+                },
+                {
+                    "d": "n"
+                },
+                {
+                    "g": "Mainichi Shimbun"
+                },
+                {
+                    "i": "FID-Lizenz"
+                }
+            ]
+        ],
+        "047A": [
+            [
+                {
+                    "a": "Datenbank. - Der Zugriff auf dieses Produkt wird von der DFG finanziert und vom FID Asien erm\u00f6glicht"
+                }
+            ]
+        ]
+    },
+    "_id": "ZDB-1-MAIS",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/ZDB-1-MAIS",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/ZDB-1-MAIS",
+    "identifier": "ZDB-1-MAIS",
+    "name": "Maisaku [FID-Lizenz]",
+    "location": "Berlin",
+    "type": [
+        "Organization",
+        "Product"
+    ],
+    "addressRegion": "ANL"
+}

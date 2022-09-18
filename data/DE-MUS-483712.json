@@ -1,0 +1,131 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-MUS-483712.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:06-01-12"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:12-10-20"
+                ],
+                {
+                    "t": "10:11:11.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:06-01-12"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1018586458"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "e": "DE-MUS-483712"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.museen-in-deutschland.de/singleview.php?muges=483712"
+                },
+                {
+                    "x": "Weitere Informationen"
+                },
+                {
+                    "z": "W"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Goethe-Stube Bad Berka"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Parkstra\u00dfe 16"
+                },
+                {
+                    "b": "Bad Berka"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "99438"
+                },
+                {
+                    "f": "Th\u00fcringen"
+                },
+                {
+                    "k": "11.28793"
+                },
+                {
+                    "l": "50.89759"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "m"
+                },
+                {
+                    "f": "86"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-MUS-483712",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-MUS-483712",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-MUS-483712",
+    "identifier": "DE-MUS-483712",
+    "name": "Goethe-Stube Bad Berka",
+    "location": "Bad Berka",
+    "type": [
+        "Organization",
+        "Museum"
+    ]
+}

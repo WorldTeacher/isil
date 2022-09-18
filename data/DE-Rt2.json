@@ -1,0 +1,268 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Rt2.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:18-11-99"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:24-09-21"
+                ],
+                {
+                    "t": "09:54:32.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:27-05-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "00902011X"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "745200-7"
+                },
+                {
+                    "b": "BH423"
+                },
+                {
+                    "d": "Rt 2"
+                },
+                {
+                    "e": "DE-Rt2"
+                },
+                {
+                    "f": "FHRT"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.reutlingen-university.de/im-studium/lernzentrum/"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://bsz.ibs-bw.de/hsrt"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Hochschulbibliothek Reutlingen"
+                },
+                {
+                    "4": "a"
+                }
+            ],
+            [
+                {
+                    "a": "Reutlingen HSB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Hochschulbibliothek Reutlingen (Lernzentrum)"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Alteburgstr. 150"
+                },
+                {
+                    "b": "Reutlingen"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "72762"
+                },
+                {
+                    "f": "Baden-W\u00fcrttemberg"
+                },
+                {
+                    "h": "Geb\u00e4ude 3"
+                },
+                {
+                    "i": "Mo-Fr 8.00-22.00, Sa 10.00-20.00"
+                },
+                {
+                    "k": "9.18682"
+                },
+                {
+                    "l": "48.48217"
+                },
+                {
+                    "n": "08415061"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "7121"
+                },
+                {
+                    "f": "2 71-1333"
+                },
+                {
+                    "k": "Fernleihe@reutlingen-university.de"
+                }
+            ]
+        ],
+        "035D": [
+            [
+                {
+                    "a": "Rt 1"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0128"
+                },
+                {
+                    "d": "SWB"
+                },
+                {
+                    "f": "70"
+                },
+                {
+                    "g": "02"
+                },
+                {
+                    "h": "08"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "P\u00e4dagogik"
+                },
+                {
+                    "a": "Sonderp\u00e4dagogik"
+                },
+                {
+                    "a": "Psychologie"
+                },
+                {
+                    "a": "Wirtschaftswissenschaften"
+                },
+                {
+                    "a": "Informatik"
+                },
+                {
+                    "a": "Textilwesen"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "SWB"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035Q": [
+            [
+                {
+                    "a": "j"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Rt2",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Rt2",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Rt2",
+    "identifier": "DE-Rt2",
+    "name": "Hochschulbibliothek Reutlingen (Lernzentrum)",
+    "location": "Reutlingen",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAW"
+}

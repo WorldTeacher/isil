@@ -1,0 +1,217 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Ste3.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:17-02-16"
+                ],
+                {
+                    "t": "14:05:14.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020598181"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "MB257"
+                },
+                {
+                    "d": "Ste 3"
+                },
+                {
+                    "e": "DE-Ste3"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://bibliothek.stendal.de/de/startseite.html"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Stendal StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtbibliothek \"Anna Seghers\""
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "M\u00f6nchskirchhof 1"
+                },
+                {
+                    "b": "Stendal"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "39576"
+                },
+                {
+                    "f": "Sachsen-Anhalt"
+                },
+                {
+                    "i": "Mo-Di und Do 10.00-18.00, Fr 10.00-15.00"
+                },
+                {
+                    "k": "11.85502"
+                },
+                {
+                    "l": "52.60307"
+                },
+                {
+                    "n": "15090535"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "3931"
+                },
+                {
+                    "f": "71 20 09"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "3931"
+                },
+                {
+                    "i": "65-1222"
+                },
+                {
+                    "k": "stadtbibliothek@stendal.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "07"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Stadtbibliothek"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "SAA"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "GBV"
+                },
+                {
+                    "d": "\u00d6VK"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Ste3",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Ste3",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Ste3",
+    "identifier": "DE-Ste3",
+    "name": "Stadtbibliothek \"Anna Seghers\"",
+    "location": "Stendal",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "SAA"
+}

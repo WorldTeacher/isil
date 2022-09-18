@@ -1,0 +1,184 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/ZDB-2-SMD.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:25-05-07"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:01-11-16"
+                ],
+                {
+                    "t": "10:11:18.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:25-05-07"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "98440693X"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "d": "ZDB-2-SMD"
+                },
+                {
+                    "e": "ZDB-2-SMD"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://link.springer.com/"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Springer ebook Medizin"
+                },
+                {
+                    "4": "c"
+                }
+            ],
+            [
+                {
+                    "a": "Springer ebook collection / Medicine (German Language)"
+                },
+                {
+                    "4": "d"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Springer ebook collection / Medizin"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Springer-Verlag GmbH, Tiergartenstr. 17"
+                },
+                {
+                    "b": "Heidelberg"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "69121"
+                },
+                {
+                    "k": "8.65645"
+                },
+                {
+                    "l": "49.42465"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "P"
+                },
+                {
+                    "f": "89"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "E-Books (deutsch)"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "WWW"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ],
+        "035P": [
+            [
+                {
+                    "a": "E-Books"
+                },
+                {
+                    "d": "n"
+                },
+                {
+                    "g": "Springer-Verlag GmbH"
+                },
+                {
+                    "i": "Anbieter kostenpflichtig"
+                }
+            ]
+        ],
+        "047A": [
+            [
+                {
+                    "a": "Online-Ressource / Datenbank"
+                }
+            ]
+        ]
+    },
+    "_id": "ZDB-2-SMD",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/ZDB-2-SMD",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/ZDB-2-SMD",
+    "identifier": "ZDB-2-SMD",
+    "name": "Springer ebook collection / Medizin",
+    "location": "Heidelberg",
+    "type": [
+        "Organization",
+        "Product"
+    ],
+    "addressRegion": "WWW"
+}

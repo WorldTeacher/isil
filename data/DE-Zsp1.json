@@ -1,0 +1,235 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Zsp1.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:13-02-19"
+                ],
+                {
+                    "t": "14:00:18.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020599838"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "WB691"
+                },
+                {
+                    "d": "Zsp 1"
+                },
+                {
+                    "e": "DE-Zsp1"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.zschopau.de/de/leben-in-zschopau/familie-bildung/stadtbibliothek"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://zschopau.bbopac.de/index"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Zschopau StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtbibliothek \"Jacob Georg Bodemer\""
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Schlo\u00df Wildeck"
+                },
+                {
+                    "b": "Zschopau"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "09405"
+                },
+                {
+                    "f": "Sachsen"
+                },
+                {
+                    "i": "Mo und Fr 12.00-18.00, Di und Do 10.00-18.00"
+                },
+                {
+                    "k": "13.06840"
+                },
+                {
+                    "l": "50.74593"
+                },
+                {
+                    "n": "14521690"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Zschopau"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "09402"
+                },
+                {
+                    "f": "Sachsen"
+                },
+                {
+                    "g": "62"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "3725"
+                },
+                {
+                    "f": "2 87-190 und 191"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "3725"
+                },
+                {
+                    "i": "2 87-199"
+                },
+                {
+                    "k": "stadtbibliothek@zschopau.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "07"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "SAX"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Zsp1",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Zsp1",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Zsp1",
+    "identifier": "DE-Zsp1",
+    "name": "Stadtbibliothek \"Jacob Georg Bodemer\"",
+    "location": "Zschopau",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "SAX"
+}

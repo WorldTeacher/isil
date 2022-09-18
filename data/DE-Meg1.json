@@ -1,0 +1,256 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Meg1.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:05-04-05"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:10-02-21"
+                ],
+                {
+                    "t": "14:48:09.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:27-05-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "027299619"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "695250-1"
+                },
+                {
+                    "d": "Meg 1"
+                },
+                {
+                    "e": "DE-Meg1"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "https://www.mosbach.dhbw.de/"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://bsz.ibs-bw.de/opac10"
+                },
+                {
+                    "z": "B"
+                }
+            ],
+            [
+                {
+                    "u": "https://www.mosbach.dhbw.de/service-einrichtungen/bibliothek/oeffnungszeiten-kontakt"
+                },
+                {
+                    "x": "\u00d6ffnungszeiten"
+                },
+                {
+                    "z": "W"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "DHBW Mosbach Campus Bad Mergentheim"
+                },
+                {
+                    "4": "a"
+                }
+            ],
+            [
+                {
+                    "a": "Bad Mergentheim Duale HS"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Duale Hochschule Baden W\u00fcrttemberg Mosbach, Campus Bad Mergentheim Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Schloss 2"
+                },
+                {
+                    "b": "Bad Mergentheim"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "97980"
+                },
+                {
+                    "f": "Baden-W\u00fcrttemberg"
+                },
+                {
+                    "j": "\u00d6ffnungszeiten s. weitere Homepage"
+                },
+                {
+                    "k": "9.79030"
+                },
+                {
+                    "l": "49.44426"
+                },
+                {
+                    "n": "08128007"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "7931"
+                },
+                {
+                    "f": "1230 553"
+                },
+                {
+                    "k": "bibliothek-mgh@mosbach.dhbw.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0128"
+                },
+                {
+                    "d": "SWB"
+                },
+                {
+                    "f": "70"
+                },
+                {
+                    "g": "02"
+                },
+                {
+                    "h": "06"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "International Business"
+                },
+                {
+                    "a": "Digital Business"
+                },
+                {
+                    "a": "Management"
+                },
+                {
+                    "a": "Gesundheitsmanagement"
+                },
+                {
+                    "a": "Angewandte Informatik"
+                },
+                {
+                    "a": "Wirtschaftsingenieurwesen"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "SWB"
+                },
+                {
+                    "e": "k"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Meg1",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Meg1",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Meg1",
+    "identifier": "DE-Meg1",
+    "name": "Duale Hochschule Baden W\u00fcrttemberg Mosbach, Campus Bad Mergentheim Bibliothek",
+    "location": "Bad Mergentheim",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAW"
+}

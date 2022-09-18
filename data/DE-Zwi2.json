@@ -1,0 +1,283 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Zwi2.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:25-01-02"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:08-04-22"
+                ],
+                {
+                    "t": "13:42:34.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "023142340"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "956000-2"
+                },
+                {
+                    "b": "EM688"
+                },
+                {
+                    "d": "Zwi 2"
+                },
+                {
+                    "e": "DE-Zwi2"
+                },
+                {
+                    "f": "WHZ"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.fh-zwickau.de/hsb"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://www.katalog.fh-zwickau.de/"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Zwickau HS"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Wests\u00e4chsische Hochschule Zwickau, Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Kornmarkt 1"
+                },
+                {
+                    "b": "Zwickau"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "08056"
+                },
+                {
+                    "f": "Sachsen"
+                },
+                {
+                    "k": "12.49545"
+                },
+                {
+                    "l": "50.71603"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Zwickau"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "08012"
+                },
+                {
+                    "f": "Sachsen"
+                },
+                {
+                    "g": "20 10 37"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "375"
+                },
+                {
+                    "f": "5 36 12 51 (Ausleihe) und -1254 (Auskunft/Fernleihe)"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "375"
+                },
+                {
+                    "i": "5 36 12 52"
+                },
+                {
+                    "k": "hochschulbibliothek@fh-zwickau.de"
+                },
+                {
+                    "l": "weitere E-Mailadresse: Fernleihe-hsb@fh-zwickau.de"
+                }
+            ]
+        ],
+        "035D": [
+            [
+                {
+                    "a": "Pl 2"
+                }
+            ],
+            [
+                {
+                    "a": "Ri 1"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0149"
+                },
+                {
+                    "d": "SWB"
+                },
+                {
+                    "f": "70"
+                },
+                {
+                    "g": "02"
+                },
+                {
+                    "h": "08"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Kraftfahrzeugtechnik"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "SAX"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "SWB"
+                },
+                {
+                    "e": "k"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035O": [
+            [
+                {
+                    "a": "FZL DE-622"
+                }
+            ]
+        ],
+        "035Q": [
+            [
+                {
+                    "a": "j"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Zwi2",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Zwi2",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Zwi2",
+    "identifier": "DE-Zwi2",
+    "name": "Wests\u00e4chsische Hochschule Zwickau, Bibliothek",
+    "location": "Zwickau",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "SAX"
+}

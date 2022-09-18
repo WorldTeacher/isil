@@ -1,0 +1,233 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/ZDB-1-LEO.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:07-02-11"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:11-12-18"
+                ],
+                {
+                    "t": "11:38:31.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:07-02-11"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1009926497"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "041211-9"
+                },
+                {
+                    "d": "ZDB-1-LEO"
+                },
+                {
+                    "e": "ZDB-1-LEO"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.bibliothek.uni-regensburg.de/dbinfo/frontdoor.php?titel_id=10510"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://www.nationallizenzen.de/angebote/nlproduct.2011-02-03.4657101036"
+                },
+                {
+                    "x": "Produktinfo"
+                },
+                {
+                    "z": "W"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Nationallizenz Lit.Expression."
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Der Literarische Expressionismus Online  [Nationallizenz]"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Staatsbibliothek zu Berlin - Preu\u00dfischer Kulturbesitz"
+                },
+                {
+                    "b": "Berlin"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "10785"
+                },
+                {
+                    "k": "13.37063"
+                },
+                {
+                    "l": "52.50771"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "k": "ssg-nationallizenzen@sbb.spk-berlin.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "P"
+                },
+                {
+                    "c": "0168"
+                },
+                {
+                    "d": "HBV"
+                },
+                {
+                    "d": "SWB"
+                },
+                {
+                    "f": "89"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "E-Books"
+                },
+                {
+                    "a": "E-Journals"
+                },
+                {
+                    "a": "Volltexte aus 151 Zeitschriften, Jahrb\u00fcchern, Sammelwerken und Anthologien aus dem fr\u00fchen 20. Jahrhundert mit insgesamt 40.000 Artikeln und 79.000 Seiten"
+                },
+                {
+                    "a": "Germanistik, Deutsche Sprache und Literatur (SSG 7,20)"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "ANL"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ],
+        "035P": [
+            [
+                {
+                    "a": "E-Books E-Journals"
+                },
+                {
+                    "c": "neu 2011"
+                },
+                {
+                    "d": "j"
+                },
+                {
+                    "e": "151"
+                },
+                {
+                    "f": "111"
+                },
+                {
+                    "g": "Walter de Gruyter Verlag"
+                },
+                {
+                    "h": "http://www.nationallizenzen.de/angebote/nlproduct.2011-02-03.4657101036"
+                },
+                {
+                    "i": "Nationallizenz"
+                }
+            ]
+        ],
+        "047A": [
+            [
+                {
+                    "a": "Datenbank. - Der deutschlandweite Zugriff auf dieses Produkt wird durch die F\u00f6rderung der Deutschen Forschungsgemeinschaft (DFG) erm\u00f6glicht und durch die Staatsbibliothek zu Berlin - Preu\u00dfischer Kulturbesitz organisiert"
+                }
+            ]
+        ]
+    },
+    "_id": "ZDB-1-LEO",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/ZDB-1-LEO",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/ZDB-1-LEO",
+    "identifier": "ZDB-1-LEO",
+    "name": "Der Literarische Expressionismus Online  [Nationallizenz]",
+    "location": "Berlin",
+    "type": [
+        "Organization",
+        "Product"
+    ],
+    "addressRegion": "ANL"
+}

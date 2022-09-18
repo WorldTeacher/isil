@@ -1,0 +1,267 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/ZDB-1-ISP.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:26-03-14"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:08-01-19"
+                ],
+                {
+                    "t": "15:29:42.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:26-03-14"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1049276132"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "d": "ZDB-1-ISP"
+                },
+                {
+                    "e": "ZDB-1-ISP"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "https://www.theiet.org/resources/inspec/"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://search.ebscohost.com/login.aspx?authtype=ip,uid&profile=ehost&defaultdb=inh"
+                },
+                {
+                    "x": "Weitere Homepage"
+                },
+                {
+                    "z": "W"
+                }
+            ],
+            [
+                {
+                    "u": "http://apps.webofknowledge.com/"
+                },
+                {
+                    "x": "Weitere Homepage"
+                },
+                {
+                    "z": "W"
+                }
+            ],
+            [
+                {
+                    "u": "https://search.proquest.com/"
+                },
+                {
+                    "x": "Weitere Homepage"
+                },
+                {
+                    "z": "W"
+                }
+            ],
+            [
+                {
+                    "u": "http://ovidsp.ovid.com/ovidweb.cgi?T=JS&NEWS=n&CSC=Y&PAGE=main&D=insz"
+                },
+                {
+                    "x": "Weitere Homepage"
+                },
+                {
+                    "z": "W"
+                }
+            ],
+            [
+                {
+                    "u": "https://www.nationallizenzen.de/angebote/nlproduct.2013-12-20.5636005783"
+                },
+                {
+                    "x": "Produktinfo"
+                },
+                {
+                    "z": "W"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "The Institution of Engineering and Technology"
+                },
+                {
+                    "4": "a"
+                }
+            ],
+            [
+                {
+                    "a": "Nationalkonsortium/IET INSPEC"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "INSPEC [Nationalkonsortium]"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Technische Informationsbibliothek (TIB)"
+                },
+                {
+                    "b": "Hannover"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "30167"
+                },
+                {
+                    "k": "9.72001"
+                },
+                {
+                    "l": "52.38163"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "k": "anmeldung.nationallizenzen@tib.eu"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "P"
+                },
+                {
+                    "f": "89"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "E-Books"
+                },
+                {
+                    "a": "E-Journals"
+                },
+                {
+                    "a": "Dynamische Datenbank"
+                },
+                {
+                    "a": "Die Datenbank enth\u00e4lt bibliographische Hinweise und Abstracts auf die internationale Fachliteratur der Physik, Elektrotechnik, Elektronik, Computer- und Informationstechnik, Regelungstechnik sowie verwandter Gebiete"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "ANL"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ],
+        "035P": [
+            [
+                {
+                    "a": "E-Books E-Journals"
+                },
+                {
+                    "c": "neu 2014"
+                },
+                {
+                    "d": "j"
+                },
+                {
+                    "g": "Institution of Engeneering and Technology (IET)"
+                },
+                {
+                    "h": "https://www.nationallizenzen.de/angebote/nlproduct.2013-12-20.5636005783"
+                },
+                {
+                    "i": "Nationalkonsortium"
+                }
+            ]
+        ],
+        "047A": [
+            [
+                {
+                    "a": "Datenbank. - Der deutschlandweite Zugriff auf dieses Produkt wird im Rahmen eines Nationalkonsortiums durch die Technische Informationsbibliothek organisiert. Der Zugriff erfolgt \u00fcber den Anbieter oder die Plattformen der Drittanbieter."
+                }
+            ]
+        ]
+    },
+    "_id": "ZDB-1-ISP",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/ZDB-1-ISP",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/ZDB-1-ISP",
+    "identifier": "ZDB-1-ISP",
+    "name": "INSPEC [Nationalkonsortium]",
+    "location": "Hannover",
+    "type": [
+        "Organization",
+        "Product"
+    ],
+    "addressRegion": "ANL"
+}

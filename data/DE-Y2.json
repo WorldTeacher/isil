@@ -1,0 +1,271 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Y2.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:12-07-11"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:24-09-21"
+                ],
+                {
+                    "t": "09:53:08.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:12-07-11"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1013492196"
+                ]
+            ]
+        ],
+        "007N": [
+            [
+                [
+                    "00903434X"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "080802-7"
+                },
+                {
+                    "d": "Y 2"
+                },
+                {
+                    "e": "DE-Y2"
+                },
+                {
+                    "f": "HERTZ"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.biblhertz.it"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://www.kubikat.org"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Rom Bibliotheca Hertziana MPI"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Bibliotheca Hertziana - Max-Planck-Institut f\u00fcr Kunstgeschichte"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Palazzo Zuccari, Via Gregoriana 30"
+                },
+                {
+                    "b": "Roma"
+                },
+                {
+                    "d": "IT"
+                },
+                {
+                    "e": "I-00187"
+                },
+                {
+                    "f": "Italien"
+                },
+                {
+                    "i": "Mo-Fr 9.30-20.00"
+                },
+                {
+                    "k": "12.48414"
+                },
+                {
+                    "l": "41.90534"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "a": "Palazzo Zuccari, Via Gregoriana 28"
+                },
+                {
+                    "b": "Roma"
+                },
+                {
+                    "d": "IT"
+                },
+                {
+                    "e": "I-00187"
+                },
+                {
+                    "f": "Italien"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "39"
+                },
+                {
+                    "e": "06"
+                },
+                {
+                    "f": "6 99 93-242"
+                },
+                {
+                    "g": "39"
+                },
+                {
+                    "h": "06"
+                },
+                {
+                    "i": "6 99 93-279"
+                },
+                {
+                    "k": "info@biblhertz.it"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0180"
+                },
+                {
+                    "d": "MPG"
+                },
+                {
+                    "d": "BVB"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "07"
+                },
+                {
+                    "h": "08"
+                },
+                {
+                    "i": "P"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Italien <Kunstgeschichte>"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "WEU"
+                },
+                {
+                    "c": "BVB"
+                },
+                {
+                    "d": "KuBiFV"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ],
+        "035Q": [
+            [
+                {
+                    "a": "j"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Y2",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Y2",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Y2",
+    "identifier": "DE-Y2",
+    "name": "Bibliotheca Hertziana - Max-Planck-Institut f\u00fcr Kunstgeschichte",
+    "location": "Roma",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "WEU"
+}

@@ -1,0 +1,198 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Wei1.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:29-03-16"
+                ],
+                {
+                    "t": "08:32:55.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020599412"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "BK535"
+                },
+                {
+                    "d": "Wei 1"
+                },
+                {
+                    "e": "DE-Wei1"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Weingarten Klosterbibl."
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Klosterbibliothek der Abtei Weingarten"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "c/o Di\u00f6zesanbibliothek Rottenburg, Karmeliter Str. 9"
+                },
+                {
+                    "b": "Rottenburg/Neckar"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "72108"
+                },
+                {
+                    "f": "Baden-W\u00fcrttemberg"
+                },
+                {
+                    "i": "Benutzung nur nach Terminabsprache mit der Di\u00f6zesanbibliothek Rottenburg m\u00f6glich"
+                },
+                {
+                    "k": "8.95000"
+                },
+                {
+                    "l": "48.47960"
+                },
+                {
+                    "n": "08436082"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "7472"
+                },
+                {
+                    "f": "92 21 91"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "7472"
+                },
+                {
+                    "i": "92 21 97"
+                },
+                {
+                    "k": "info@bibliothek.drs.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "10"
+                },
+                {
+                    "h": "08"
+                },
+                {
+                    "i": "P"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAW"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ],
+        "047A": [
+            [
+                {
+                    "a": "Das Benediktinerkloster in Weingarten hat seine Bibliothek der Di\u00f6zese Rottenburg-Stuttart als Depositum \u00fcberlassen"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Wei1",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Wei1",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Wei1",
+    "identifier": "DE-Wei1",
+    "name": "Klosterbibliothek der Abtei Weingarten",
+    "location": "Rottenburg/Neckar",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAW"
+}

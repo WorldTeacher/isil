@@ -1,0 +1,238 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/ZDB-1-DHC.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:12-02-19"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:12-03-19"
+                ],
+                {
+                    "t": "17:22:45.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:12-02-19"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1177837250"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "d": "ZDB-1-DHC"
+                },
+                {
+                    "e": "ZDB-1-DHC"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "https://www.digitaliapublishing.com/"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://romanistik.fid-lizenzen.de/angebote/nlproduct.2019-02-05.3671774682"
+                },
+                {
+                    "x": "Produktinfo"
+                },
+                {
+                    "z": "W"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "FID-Lizenz Digitalia Hispanica"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Digitalia Hispanica and Catalan Collection [FID-Lizenz]"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Staats- und Universit\u00e4tsbibliothek Hamburg Carl von Ossietzky, Von-Melle-Park 3"
+                },
+                {
+                    "b": "Hamburg"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "20146"
+                },
+                {
+                    "f": "Hamburg"
+                },
+                {
+                    "k": "9.98519"
+                },
+                {
+                    "l": "53.56486"
+                },
+                {
+                    "n": "02000000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "a": "Universit\u00e4ts- und Landesbibliothek Bonn, Adenauerallee 39-41"
+                },
+                {
+                    "b": "Bonn"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "53113"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "W"
+                },
+                {
+                    "3": "Weitere FID-Betreuung"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "k": "lizenzen@fid-romanistik.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "P"
+                },
+                {
+                    "f": "89"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "E-Books"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "ANL"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ],
+        "035P": [
+            [
+                {
+                    "a": "E-Books"
+                },
+                {
+                    "c": "neu 2019"
+                },
+                {
+                    "d": "n"
+                },
+                {
+                    "e": "1382"
+                },
+                {
+                    "g": "Digitalia Publishing"
+                },
+                {
+                    "i": "FID-Lizenz"
+                }
+            ]
+        ],
+        "047A": [
+            [
+                {
+                    "a": "Datenbank. - Der deutschlandweite Zugriff auf dieses Produkt wird im Rahmen des durch die Deutsche Forschungsgemeinschaft (DFG) gef\u00f6rderten Fachinformationsdienstes (FID) Romanistik durch die Staats- und Universit\u00e4tsbibliothek Hamburg Carl von Ossietzky und die Universit\u00e4ts- und Landesbibliothek Bonn erm\u00f6glicht und organisiert."
+                }
+            ]
+        ]
+    },
+    "_id": "ZDB-1-DHC",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/ZDB-1-DHC",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/ZDB-1-DHC",
+    "identifier": "ZDB-1-DHC",
+    "name": "Digitalia Hispanica and Catalan Collection [FID-Lizenz]",
+    "location": "Hamburg",
+    "type": [
+        "Organization",
+        "Product"
+    ],
+    "addressRegion": "ANL"
+}

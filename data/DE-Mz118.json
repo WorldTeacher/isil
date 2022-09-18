@@ -1,0 +1,234 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Mz118.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:08-03-10"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:28-02-18"
+                ],
+                {
+                    "t": "14:42:30.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:08-03-10"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1000691144"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "658118-3"
+                },
+                {
+                    "d": "Mz 118"
+                },
+                {
+                    "e": "DE-Mz118"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Bibliotheca Carmelitarum Moguntiacum"
+                },
+                {
+                    "4": "a"
+                }
+            ],
+            [
+                {
+                    "a": "Mainz Karmeliterbibl."
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Karmeliterbibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Karmeliterstr.7"
+                },
+                {
+                    "b": "Mainz"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "55116"
+                },
+                {
+                    "f": "Rheinland-Pfalz"
+                },
+                {
+                    "h": "Karmeliterkloster"
+                },
+                {
+                    "i": "nicht \u00f6ffentlich zug\u00e4nglich"
+                },
+                {
+                    "k": "8.27426"
+                },
+                {
+                    "l": "50.00279"
+                },
+                {
+                    "n": "07315000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "6131"
+                },
+                {
+                    "f": "2 88 57-32 und  -18"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "6131"
+                },
+                {
+                    "i": "2 88 57-21"
+                },
+                {
+                    "k": "provinzbibliothekar@karmeliten.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0085"
+                },
+                {
+                    "d": "BVB"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "10"
+                },
+                {
+                    "h": "06"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Theologie"
+                },
+                {
+                    "a": "Carmelitana"
+                },
+                {
+                    "a": "Altphilologie"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "HES"
+                },
+                {
+                    "c": "BVB"
+                },
+                {
+                    "d": "CLA"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ],
+        "047A": [
+            [
+                {
+                    "a": "Nach R\u00fccksprache mit dem Bibliothekar k\u00f6nnen B\u00fccher befristet ausgeliehen werden"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Mz118",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Mz118",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Mz118",
+    "identifier": "DE-Mz118",
+    "name": "Karmeliterbibliothek",
+    "location": "Mainz",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "HES"
+}

@@ -1,0 +1,184 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/ZDB-2-BAD.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:16-05-14"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:01-11-16"
+                ],
+                {
+                    "t": "10:18:43.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:16-05-14"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1051235863"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "d": "ZDB-2-BAD"
+                },
+                {
+                    "e": "ZDB-2-BAD"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.springer.com/de/eproducts/springer-archives"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Springer Book Archive Deutsch"
+                },
+                {
+                    "4": "c"
+                }
+            ],
+            [
+                {
+                    "a": "Springer ebook collection / Springer Book Archives German (German Language)"
+                },
+                {
+                    "4": "d"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Springer Book Archive Deutsch"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Springer-Verlag GmbH, Tiergartenstr. 17"
+                },
+                {
+                    "b": "Heidelberg"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "69121"
+                },
+                {
+                    "k": "8.65645"
+                },
+                {
+                    "l": "49.42465"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "P"
+                },
+                {
+                    "f": "89"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "E-Books"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "WWW"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ],
+        "035P": [
+            [
+                {
+                    "a": "E-Books"
+                },
+                {
+                    "d": "n"
+                },
+                {
+                    "g": "Springer-Verlag GmbH"
+                },
+                {
+                    "i": "Anbieter kostenpflichtig"
+                }
+            ]
+        ],
+        "047A": [
+            [
+                {
+                    "a": "Online-Ressource / Datenbank"
+                }
+            ]
+        ]
+    },
+    "_id": "ZDB-2-BAD",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/ZDB-2-BAD",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/ZDB-2-BAD",
+    "identifier": "ZDB-2-BAD",
+    "name": "Springer Book Archive Deutsch",
+    "location": "Heidelberg",
+    "type": [
+        "Organization",
+        "Product"
+    ],
+    "addressRegion": "WWW"
+}

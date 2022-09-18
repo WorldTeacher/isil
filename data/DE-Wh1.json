@@ -1,0 +1,243 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Wh1.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:18-11-99"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:27-02-19"
+                ],
+                {
+                    "t": "10:37:37.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "009074686"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "698003-X"
+                },
+                {
+                    "b": "BG923"
+                },
+                {
+                    "d": "Wh 1"
+                },
+                {
+                    "e": "DE-Wh1"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.landesarchiv-bw.de/staw"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://opac.bsz-bw.de/Wplabw.html?opt=6"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Wertheim Staatsarchiv"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Staatsarchiv Wertheim, Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Bronnbach 19"
+                },
+                {
+                    "b": "Wertheim"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "97877"
+                },
+                {
+                    "f": "Baden-W\u00fcrttemberg"
+                },
+                {
+                    "i": "Di-Fr 8.30-16.30"
+                },
+                {
+                    "j": "und nach Vereinbarung"
+                },
+                {
+                    "k": "9.54871"
+                },
+                {
+                    "l": "49.71209"
+                },
+                {
+                    "n": "08128131"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "9342"
+                },
+                {
+                    "f": "9 15 92-0"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "9342"
+                },
+                {
+                    "i": "9 15 92-30"
+                },
+                {
+                    "k": "staWertheim@la-bw.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0128"
+                },
+                {
+                    "d": "SWB"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "02"
+                },
+                {
+                    "h": "07"
+                },
+                {
+                    "i": "P"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Main-Tauber-Kreis"
+                },
+                {
+                    "a": "Wertheim <Region>"
+                },
+                {
+                    "a": "Kloster Bronnbach"
+                },
+                {
+                    "a": "Grafschaft Wertheim"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAW"
+                },
+                {
+                    "c": "SWB"
+                },
+                {
+                    "e": "l"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Wh1",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Wh1",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Wh1",
+    "identifier": "DE-Wh1",
+    "name": "Staatsarchiv Wertheim, Bibliothek",
+    "location": "Wertheim",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAW"
+}

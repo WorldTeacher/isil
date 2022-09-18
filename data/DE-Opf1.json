@@ -1,0 +1,224 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Opf1.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:01-02-08"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:17-02-16"
+                ],
+                {
+                    "t": "14:00:21.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:01-02-08"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "987396943"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "d": "Opf 1"
+                },
+                {
+                    "e": "DE-Opf1"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.fssp.org"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Opfenbach Priesterseminar"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Priesterseminar Sankt Petrus, Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Kirchstr. 16"
+                },
+                {
+                    "b": "Opfenbach"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "88145"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "i": "nicht \u00f6ffentlich zug\u00e4nglich"
+                },
+                {
+                    "k": "9.83387"
+                },
+                {
+                    "l": "47.64204"
+                },
+                {
+                    "n": "09776122"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "z": "OT: Wigratzbad"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "8385"
+                },
+                {
+                    "f": "92 21-0"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "8385"
+                },
+                {
+                    "i": "92 21-33"
+                },
+                {
+                    "k": "bibliothek@fssp.org"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "10"
+                },
+                {
+                    "h": "06"
+                },
+                {
+                    "i": "P"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "deutsche und franz\u00f6sische Werke der Bereiche der Philosophie und Katholische Theologie, Schwerpunkt: liturgiewissenschaftliche Werke u. Werke in lateinischer Sprache"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAY"
+                },
+                {
+                    "c": "BVB"
+                },
+                {
+                    "e": "n"
+                },
+                {
+                    "g": "R"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "bibliothek@fssp.org"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Opf1",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Opf1",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Opf1",
+    "identifier": "DE-Opf1",
+    "name": "Priesterseminar Sankt Petrus, Bibliothek",
+    "location": "Opfenbach",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAY"
+}

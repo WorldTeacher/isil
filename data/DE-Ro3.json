@@ -1,0 +1,270 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Ro3.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:18-11-99"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:17-02-16"
+                ],
+                {
+                    "t": "14:25:41.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:27-05-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "00903210X"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "EG083"
+                },
+                {
+                    "d": "Ro 3"
+                },
+                {
+                    "e": "DE-Ro3"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.klinikum-obergoeltzsch.de/"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Rodewisch Klinikum"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Klinikum Oberg\u00f6ltzsch Rodewisch, Medizinische Fachbibliothek/Patientenbibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Stiftstr. 10"
+                },
+                {
+                    "b": "Rodewisch"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "08228"
+                },
+                {
+                    "f": "Sachsen"
+                },
+                {
+                    "i": "Mo-Fr 8.00-15.00"
+                },
+                {
+                    "j": "nicht \u00f6ffentlich zug\u00e4nglich"
+                },
+                {
+                    "k": "12.41061"
+                },
+                {
+                    "l": "50.52289"
+                },
+                {
+                    "n": "14523360"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Rodewisch"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "08228"
+                },
+                {
+                    "f": "Sachsen"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "3744"
+                },
+                {
+                    "f": "3 61-2130"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "3744"
+                },
+                {
+                    "i": "3 61-2132"
+                },
+                {
+                    "k": "fachbibliothek@klinikum-obergoeltzsch.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "06"
+                },
+                {
+                    "h": "05"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "An\u00e4sthesie"
+                },
+                {
+                    "a": "Intensivtherapie"
+                },
+                {
+                    "a": "Schmerztherapie"
+                },
+                {
+                    "a": "Chirurgie"
+                },
+                {
+                    "a": "Gyn\u00e4kologie"
+                },
+                {
+                    "a": "Geburtshilfe"
+                },
+                {
+                    "a": "Innere Medizin"
+                },
+                {
+                    "a": "P\u00e4diatrie"
+                },
+                {
+                    "a": "Traumatologie"
+                },
+                {
+                    "a": "Gelenkchirurgie"
+                },
+                {
+                    "a": "Radiologie"
+                },
+                {
+                    "a": "Physiotherapie"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "SAX"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "SWB"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Ro3",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Ro3",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Ro3",
+    "identifier": "DE-Ro3",
+    "name": "Klinikum Oberg\u00f6ltzsch Rodewisch, Medizinische Fachbibliothek/Patientenbibliothek",
+    "location": "Rodewisch",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "SAX"
+}

@@ -1,0 +1,194 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/ZDB-6-STC.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:02-06-07"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:29-04-17"
+                ],
+                {
+                    "t": "12:06:38.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:02-06-07"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "984481079"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "043001-8"
+                },
+                {
+                    "d": "ZDB-6-STC"
+                },
+                {
+                    "e": "ZDB-6-STC"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://muse.jhu.edu/"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "MUSE Standard Collection"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Project MUSE Standard Collection"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Project MUSE, 2715 North Charles Street"
+                },
+                {
+                    "b": "Baltimore"
+                },
+                {
+                    "d": "US"
+                },
+                {
+                    "e": "21218-4319"
+                },
+                {
+                    "f": "MD, USA"
+                },
+                {
+                    "k": "-76.61679"
+                },
+                {
+                    "l": "39.32107"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "P"
+                },
+                {
+                    "c": "0172"
+                },
+                {
+                    "d": "SWB"
+                },
+                {
+                    "f": "89"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "E-Journals"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "WWW"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ],
+        "035P": [
+            [
+                {
+                    "a": "E-Journals"
+                },
+                {
+                    "d": "j"
+                },
+                {
+                    "e": "n.n."
+                },
+                {
+                    "f": "350"
+                },
+                {
+                    "g": "Project MUSE"
+                },
+                {
+                    "i": "Anbieter kostenpflichtig"
+                }
+            ]
+        ],
+        "047A": [
+            [
+                {
+                    "a": "Online-Ressource / Datenbank"
+                }
+            ]
+        ]
+    },
+    "_id": "ZDB-6-STC",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/ZDB-6-STC",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/ZDB-6-STC",
+    "identifier": "ZDB-6-STC",
+    "name": "Project MUSE Standard Collection",
+    "location": "Baltimore",
+    "type": [
+        "Organization",
+        "Product"
+    ],
+    "addressRegion": "WWW"
+}

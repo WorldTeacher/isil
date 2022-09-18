@@ -1,0 +1,131 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-MUS-706010.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-01-12"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:12-10-20"
+                ],
+                {
+                    "t": "08:13:12.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:11-01-12"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1018738185"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "e": "DE-MUS-706010"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.museen-in-deutschland.de/singleview.php?muges=706010"
+                },
+                {
+                    "x": "Weitere Informationen"
+                },
+                {
+                    "z": "W"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Liebermann-Villa"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Colomierstr. 3"
+                },
+                {
+                    "b": "Berlin"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "14109"
+                },
+                {
+                    "f": "Berlin"
+                },
+                {
+                    "k": "13.16488"
+                },
+                {
+                    "l": "52.42877"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "m"
+                },
+                {
+                    "f": "86"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-MUS-706010",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-MUS-706010",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-MUS-706010",
+    "identifier": "DE-MUS-706010",
+    "name": "Liebermann-Villa",
+    "location": "Berlin",
+    "type": [
+        "Organization",
+        "Museum"
+    ]
+}

@@ -1,0 +1,189 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Odr1.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:29-03-10"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:11-05-22"
+                ],
+                {
+                    "t": "12:50:37.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:29-03-10"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1001174097"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "101079-7"
+                },
+                {
+                    "d": "Odr 1"
+                },
+                {
+                    "e": "DE-Odr1"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.oederan.de/rathaus-online/stadtverwaltung/oeffnungszeiten/"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Oederan Stadtarchiv"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtarchiv Oederan"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Markt 6"
+                },
+                {
+                    "b": "Oederan"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "09569"
+                },
+                {
+                    "f": "Sachsen"
+                },
+                {
+                    "k": "13.16785"
+                },
+                {
+                    "l": "50.86177"
+                },
+                {
+                    "n": "14522440"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "37292"
+                },
+                {
+                    "f": "2 71 19"
+                },
+                {
+                    "k": "archiv.sv@oederan.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0367"
+                },
+                {
+                    "f": "52"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "01"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "SAX"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Odr1",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Odr1",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Odr1",
+    "identifier": "DE-Odr1",
+    "name": "Stadtarchiv Oederan",
+    "location": "Oederan",
+    "type": [
+        "Organization",
+        "Archive"
+    ],
+    "addressRegion": "SAX"
+}

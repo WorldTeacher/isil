@@ -1,0 +1,233 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/ZDB-1-MSN.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-11-15"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:10-12-18"
+                ],
+                {
+                    "t": "11:31:08.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:11-11-15"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1078716803"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "041285-5"
+                },
+                {
+                    "d": "ZDB-1-MSN"
+                },
+                {
+                    "e": "ZDB-1-MSN"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.ams.org/mathscinet"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://www.nationallizenzen.de/angebote/nlproduct.2015-10-29.5778302432/nllicencemodeloptin.2015-10-29.8611212519"
+                },
+                {
+                    "x": "Produktinfo"
+                },
+                {
+                    "z": "W"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "AllianzLizenz/DFG MathSciNet"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "MathSciNet (American Mathematical Society / AMS) [DFG-gef\u00f6rderte Allianz-Lizenz]"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Nieders\u00e4chsische Staats- und Universit\u00e4tsbibliothek G\u00f6ttingen"
+                },
+                {
+                    "b": "G\u00f6ttingen"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "37073"
+                },
+                {
+                    "k": "9.93567"
+                },
+                {
+                    "l": "51.53978"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "k": "nationallizenzen@sub.uni-goettingen.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "P"
+                },
+                {
+                    "c": "0168"
+                },
+                {
+                    "d": "HBV"
+                },
+                {
+                    "f": "89"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "E-Books"
+                },
+                {
+                    "a": "E-Journals"
+                },
+                {
+                    "a": "Dynamische Datenbank"
+                },
+                {
+                    "a": "MathSciNet ist die Online-Version des Referateblattes Mathematical Reviews und der laufenden Fachbibliographie Current Mathematical Publications. Enthalten sind bibliographische Daten und Abstracts von Zeitschriftenaufs\u00e4tzen und B\u00fcchern sowie Neuerscheinungen auf dem Gebiet der Mathematik"
+                },
+                {
+                    "a": "Laufzeit: 2016-2018"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "ANL"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ],
+        "035P": [
+            [
+                {
+                    "a": "E-Books E-Journals"
+                },
+                {
+                    "c": "neu 2015"
+                },
+                {
+                    "d": "j"
+                },
+                {
+                    "e": "n.n."
+                },
+                {
+                    "f": "0"
+                },
+                {
+                    "g": "American Mathematical Society"
+                },
+                {
+                    "h": "http://www.nationallizenzen.de/angebote/nlproduct.2015-10-29.5778302432/nllicencemodeloptin.2015-10-29.8611212519"
+                },
+                {
+                    "i": "DFG-gef\u00f6rderte Allianz-Lizenz"
+                }
+            ]
+        ],
+        "047A": [
+            [
+                {
+                    "a": "Datenbank. - Der deutschlandweite Zugriff auf dieses Produkt wird im Rahmen der Allianz-Initiative Digitale Information mit finanzieller Unterst\u00fctzung der Deutschen Forschungsgemeinschaft (DFG) bereitgestellt und durch die Nieders\u00e4chsische Staats- und Universit\u00e4tsbibliothek G\u00f6ttingen organisiert"
+                }
+            ]
+        ]
+    },
+    "_id": "ZDB-1-MSN",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/ZDB-1-MSN",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/ZDB-1-MSN",
+    "identifier": "ZDB-1-MSN",
+    "name": "MathSciNet (American Mathematical Society / AMS) [DFG-gef\u00f6rderte Allianz-Lizenz]",
+    "location": "G\u00f6ttingen",
+    "type": [
+        "Organization",
+        "Product"
+    ],
+    "addressRegion": "ANL"
+}

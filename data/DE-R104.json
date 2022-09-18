@@ -1,0 +1,219 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-R104.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-05-01"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:21-10-21"
+                ],
+                {
+                    "t": "15:32:53.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "021817251"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "928204-X"
+                },
+                {
+                    "d": "R 104"
+                },
+                {
+                    "e": "DE-R104"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.bsh.de/bibliothek"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://bibliothek.bsh.de/webOPACClient/start.do"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Rostock BA Seeschifffahrt"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Bundesamt f\u00fcr Seeschifffahrt und Hydrographie, Bibliothek Rostock"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Neptunallee 5"
+                },
+                {
+                    "b": "Rostock"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "18057"
+                },
+                {
+                    "f": "Mecklenburg-Vorpommern"
+                },
+                {
+                    "i": "Mo, Mi-Do 8.30-11.30 und 13.00-15.00, Fr 8.30-11.30 und 13.00-14.00"
+                },
+                {
+                    "k": "12.10634"
+                },
+                {
+                    "l": "54.09742"
+                },
+                {
+                    "n": "13003000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "381"
+                },
+                {
+                    "f": "45 63-601"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "381"
+                },
+                {
+                    "i": "45 63-948"
+                },
+                {
+                    "k": "bibliothek.rostock@bsh.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0211"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "01"
+                },
+                {
+                    "h": "05"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035H": [
+            [
+                {
+                    "a": "SSG 28,3 / Seekarten (bis einschlie\u00dflich 2015)"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "HAM"
+                },
+                {
+                    "e": "l"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-R104",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-R104",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-R104",
+    "identifier": "DE-R104",
+    "name": "Bundesamt f\u00fcr Seeschifffahrt und Hydrographie, Bibliothek Rostock",
+    "location": "Rostock",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "HAM"
+}

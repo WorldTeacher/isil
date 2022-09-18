@@ -1,0 +1,239 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Ste9.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:01-06-05"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:01-09-16"
+                ],
+                {
+                    "t": "16:41:32.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:01-06-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "975112740"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "938208-2"
+                },
+                {
+                    "d": "Ste 9"
+                },
+                {
+                    "e": "DE-Ste9"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Stendal Stadtarchiv"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtarchiv Stendal"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Br\u00fcderstr. 16"
+                },
+                {
+                    "b": "Stendal"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "39576"
+                },
+                {
+                    "f": "Sachsen-Anhalt"
+                },
+                {
+                    "i": "Di 9.00-12.00 und 13.00-16.00, Do 9.00-12.00 und 13.00-18.00"
+                },
+                {
+                    "j": "und nach Vereinbarung"
+                },
+                {
+                    "k": "11.85624"
+                },
+                {
+                    "l": "52.60367"
+                },
+                {
+                    "n": "15090535"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Hansestadt Stendal"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "39551"
+                },
+                {
+                    "f": "Sachsen-Anhalt"
+                },
+                {
+                    "g": "10 11 44"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "3931"
+                },
+                {
+                    "f": "65 12 20"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "3931"
+                },
+                {
+                    "i": "65 12 22"
+                },
+                {
+                    "k": "stadtarchiv@stendal.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0165"
+                },
+                {
+                    "f": "52"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "07"
+                },
+                {
+                    "i": "P"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Stendal <Stadtgeschichte>"
+                },
+                {
+                    "a": "Altmark <Geschichte>"
+                },
+                {
+                    "a": "Mark Brandenburg <Geschichte>"
+                },
+                {
+                    "a": "Familie von Bismarck"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "SAA"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Ste9",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Ste9",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Ste9",
+    "identifier": "DE-Ste9",
+    "name": "Stadtarchiv Stendal",
+    "location": "Stendal",
+    "type": [
+        "Organization",
+        "Archive"
+    ],
+    "addressRegion": "SAA"
+}

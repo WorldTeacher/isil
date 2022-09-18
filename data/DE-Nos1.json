@@ -1,0 +1,180 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Nos1.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:29-03-10"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:11-05-22"
+                ],
+                {
+                    "t": "12:50:46.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:29-03-10"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1001173945"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "101081-5"
+                },
+                {
+                    "d": "Nos 1"
+                },
+                {
+                    "e": "DE-Nos1"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.nossen.de/"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Nossen Stadtarchiv"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtarchiv Nossen"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Markt 31"
+                },
+                {
+                    "b": "Nossen"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "01683"
+                },
+                {
+                    "f": "Sachsen"
+                },
+                {
+                    "k": "13.29807"
+                },
+                {
+                    "l": "51.05668"
+                },
+                {
+                    "n": "14627180"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "k": "stadt@nossen.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0367"
+                },
+                {
+                    "f": "52"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "01"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "SAX"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Nos1",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Nos1",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Nos1",
+    "identifier": "DE-Nos1",
+    "name": "Stadtarchiv Nossen",
+    "location": "Nossen",
+    "type": [
+        "Organization",
+        "Archive"
+    ],
+    "addressRegion": "SAX"
+}

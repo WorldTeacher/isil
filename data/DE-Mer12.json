@@ -1,0 +1,228 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Mer12.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:16-04-20"
+                ],
+                {
+                    "t": "15:11:27.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020596650"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "WA868"
+                },
+                {
+                    "d": "Mer 12"
+                },
+                {
+                    "e": "DE-Mer12"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.bibliothek-merseburg.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://www.bibliothek-merseburg.de"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Merseburg StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtbibliothek 'Walter Bauer'"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "K\u00f6nig-Heinrich-Str. 20"
+                },
+                {
+                    "b": "Merseburg"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "06217"
+                },
+                {
+                    "f": "Sachsen-Anhalt"
+                },
+                {
+                    "i": "Mo und Freitag 10.00-16.00 Di und Do 14.00-19.00"
+                },
+                {
+                    "k": "11.99167"
+                },
+                {
+                    "l": "51.35843"
+                },
+                {
+                    "n": "15088220"
+                },
+                {
+                    "o": "Behinderteneingang, Fahrstuhl und Behindertentoilette sind gegeben"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "3461"
+                },
+                {
+                    "f": "445560"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "3461"
+                },
+                {
+                    "i": "445561"
+                },
+                {
+                    "k": "stadtbibliothek@merseburg.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "06"
+                },
+                {
+                    "h": "07"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Bauer, Walter"
+                },
+                {
+                    "a": "Berger, Siegfried"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "SAA"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "GBV"
+                },
+                {
+                    "d": "\u00d6VK; biblio24"
+                },
+                {
+                    "e": "l"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Mer12",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Mer12",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Mer12",
+    "identifier": "DE-Mer12",
+    "name": "Stadtbibliothek 'Walter Bauer'",
+    "location": "Merseburg",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "SAA"
+}

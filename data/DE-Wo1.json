@@ -1,0 +1,246 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Wo1.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:28-11-16"
+                ],
+                {
+                    "t": "11:12:45.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020599595"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "938210-0"
+                },
+                {
+                    "b": "DD969"
+                },
+                {
+                    "d": "Wo 1"
+                },
+                {
+                    "e": "DE-Wo1"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.nla.niedersachsen.de/startseite/"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Wolfenb\u00fcttel NLA Bib"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Nieders\u00e4chsisches Landesarchiv, Standort Wolfenb\u00fcttel, Dienstbibliothek"
+                }
+            ]
+        ],
+        "029R": [
+            [
+                {
+                    "9": "99807330X"
+                },
+                {
+                    "7": "Tw"
+                },
+                {
+                    "a": "Nieders\u00e4chsisches Landesarchiv"
+                },
+                {
+                    "e": "DE-1811-HA"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Forstweg 2"
+                },
+                {
+                    "b": "Wolfenb\u00fcttel"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "38302"
+                },
+                {
+                    "f": "Niedersachsen"
+                },
+                {
+                    "i": "nicht \u00f6ffentlich zug\u00e4nglich"
+                },
+                {
+                    "k": "10.53219"
+                },
+                {
+                    "l": "52.18198"
+                },
+                {
+                    "n": "03158037"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "5331"
+                },
+                {
+                    "f": "9 35-0"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "5331"
+                },
+                {
+                    "i": "9 35-211"
+                },
+                {
+                    "k": "wolfenbuettel@nla.niedersachsen.de"
+                }
+            ]
+        ],
+        "035D": [
+            [
+                {
+                    "b": "GyWoS (fr\u00fcherer MARC Code)"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0165"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "02"
+                },
+                {
+                    "h": "07"
+                },
+                {
+                    "i": "P"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Braunschweig <Landesgeschichte>"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NIE"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "GBV"
+                },
+                {
+                    "e": "l"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Wo1",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Wo1",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Wo1",
+    "identifier": "DE-Wo1",
+    "name": "Nieders\u00e4chsisches Landesarchiv, Standort Wolfenb\u00fcttel, Dienstbibliothek",
+    "location": "Wolfenb\u00fcttel",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NIE"
+}

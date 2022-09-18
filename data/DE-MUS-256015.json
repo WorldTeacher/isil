@@ -1,0 +1,180 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-MUS-256015.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:06-01-12"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:25-08-21"
+                ],
+                {
+                    "t": "17:47:11.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:06-01-12"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1018569154"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "e": "DE-MUS-256015"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.hermann-allmers.de/"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://www.museen-in-deutschland.de/singleview.php?muges=256015"
+                },
+                {
+                    "x": "Weitere Informationen"
+                },
+                {
+                    "z": "W"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Hermann-Allmers-Gesellschaft e. V."
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Mittelstr. 1"
+                },
+                {
+                    "b": "Hagen im Bremischen"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "27628"
+                },
+                {
+                    "f": "Niedersachsen"
+                },
+                {
+                    "h": "OT Rechtenfleth"
+                },
+                {
+                    "k": "8.50856"
+                },
+                {
+                    "l": "53.38279"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "4751"
+                },
+                {
+                    "f": "91 48-0"
+                },
+                {
+                    "k": "besuch@hermann-allmers.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "86"
+                },
+                {
+                    "g": "03"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "d": "Kalliope"
+                },
+                {
+                    "e": "n"
+                },
+                {
+                    "f": "x"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-MUS-256015",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-MUS-256015",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-MUS-256015",
+    "identifier": "DE-MUS-256015",
+    "name": "Hermann-Allmers-Gesellschaft e. V.",
+    "location": "Hagen im Bremischen",
+    "type": [
+        "Organization",
+        "Museum"
+    ]
+}

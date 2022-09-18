@@ -1,0 +1,200 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/ZDB-1-UDN.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:03-06-21"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:03-06-21"
+                ],
+                {
+                    "t": "13:21:47.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:03-06-21"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "123467906X"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "d": "ZDB-1-UDN"
+                },
+                {
+                    "e": "ZDB-1-UDN"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://erf.sbb.spk-berlin.de/han/udndata"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://udndata.com/"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "FID-Lizenz UDN knowledge base"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "United Daily News Group knowledge base [FID-Lizenz]"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Staatsbibliothek zu Berlin - Preu\u00dfischer Kulturbesitz"
+                },
+                {
+                    "b": "Berlin"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "10785"
+                },
+                {
+                    "k": "13.37063"
+                },
+                {
+                    "l": "52.50771"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "k": "x-asia@sbb.spk-berlin.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "P"
+                },
+                {
+                    "f": "89"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "E-Books E-Journals E-Medien"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "ANL"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ],
+        "035P": [
+            [
+                {
+                    "a": "E-Books E-Journals E-Medien"
+                },
+                {
+                    "c": "k.A"
+                },
+                {
+                    "d": "n"
+                },
+                {
+                    "g": "Lianhe xianshang gongsi"
+                },
+                {
+                    "i": "FID-Lizenz"
+                }
+            ]
+        ],
+        "047A": [
+            [
+                {
+                    "a": "Datenbank. - Der Zugriff auf dieses Produkt wird von der DFG finanziert und vom FID Asien erm\u00f6glicht"
+                }
+            ]
+        ]
+    },
+    "_id": "ZDB-1-UDN",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/ZDB-1-UDN",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/ZDB-1-UDN",
+    "identifier": "ZDB-1-UDN",
+    "name": "United Daily News Group knowledge base [FID-Lizenz]",
+    "location": "Berlin",
+    "type": [
+        "Organization",
+        "Product"
+    ],
+    "addressRegion": "ANL"
+}

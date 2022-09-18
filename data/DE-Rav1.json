@@ -1,0 +1,260 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Rav1.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:24-09-21"
+                ],
+                {
+                    "t": "09:53:35.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:27-05-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020597738"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "797100-X"
+                },
+                {
+                    "b": "RA882"
+                },
+                {
+                    "d": "Rav 1"
+                },
+                {
+                    "e": "DE-Rav1"
+                },
+                {
+                    "f": "BARV"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.dhbw-ravensburg.de/bibliothek-rv.html"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://bsz.ibs-bw.de/opac12"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Ravensburg DHBW"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Duale Hochschule Baden-W\u00fcrttemberg Ravensburg, Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Rudolfstr. 19"
+                },
+                {
+                    "b": "Ravensburg"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "88214"
+                },
+                {
+                    "f": "Baden-W\u00fcrttemberg"
+                },
+                {
+                    "i": "Mo-Do 8.00-21.00, Fr 8.00-18.00, Sa 9.00-13.00"
+                },
+                {
+                    "k": "9.60918"
+                },
+                {
+                    "l": "47.77866"
+                },
+                {
+                    "n": "08436064"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Ravensburg"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "88181"
+                },
+                {
+                    "f": "Baden-W\u00fcrttemberg"
+                },
+                {
+                    "g": "11 69"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "751"
+                },
+                {
+                    "f": "1 89 99-2715"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "751"
+                },
+                {
+                    "i": "1 89 99-2706"
+                },
+                {
+                    "k": "biblio@dhbw-ravensburg.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0128"
+                },
+                {
+                    "d": "SWB"
+                },
+                {
+                    "f": "70"
+                },
+                {
+                    "g": "02"
+                },
+                {
+                    "h": "07"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "SWB"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035Q": [
+            [
+                {
+                    "a": "j"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Rav1",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Rav1",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Rav1",
+    "identifier": "DE-Rav1",
+    "name": "Duale Hochschule Baden-W\u00fcrttemberg Ravensburg, Bibliothek",
+    "location": "Ravensburg",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAW"
+}

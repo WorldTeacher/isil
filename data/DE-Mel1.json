@@ -1,0 +1,191 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Mel1.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:08-02-18"
+                ],
+                {
+                    "t": "09:20:27.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020596642"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "DF085"
+                },
+                {
+                    "d": "Mel 1"
+                },
+                {
+                    "e": "DE-Mel1"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Melsungen B.Braun ZB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "B. Braun Melsungen AG, Information Services"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Stadtwaldpark"
+                },
+                {
+                    "b": "Melsungen"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "34212"
+                },
+                {
+                    "f": "Hessen"
+                },
+                {
+                    "h": "Haus 8/9"
+                },
+                {
+                    "i": "nicht \u00f6ffentlich zug\u00e4nglich"
+                },
+                {
+                    "k": "9.57058"
+                },
+                {
+                    "l": "51.11845"
+                },
+                {
+                    "n": "06634014"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "5661"
+                },
+                {
+                    "f": "71-2958"
+                },
+                {
+                    "k": "information-services@bbraun.com"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "08"
+                },
+                {
+                    "h": "02"
+                },
+                {
+                    "i": "P"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "HES"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "e": "n"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Mel1",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Mel1",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Mel1",
+    "identifier": "DE-Mel1",
+    "name": "B. Braun Melsungen AG, Information Services",
+    "location": "Melsungen",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "HES"
+}

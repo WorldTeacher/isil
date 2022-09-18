@@ -1,0 +1,220 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/ZDB-1-CLF.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:28-03-07"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:19-12-18"
+                ],
+                {
+                    "t": "18:30:11.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:28-03-07"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "983665095"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "d": "ZDB-1-CLF"
+                },
+                {
+                    "e": "ZDB-1-CLF"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.classiques-garnier.com/numerique/"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://www.classiques-garnier.com/numerique-bases/index.php?module=App&action=FrameMain&colname=ColClf"
+                },
+                {
+                    "x": "Login"
+                },
+                {
+                    "z": "W"
+                }
+            ],
+            [
+                {
+                    "u": "http://www.nationallizenzen.de/angebote/nlproduct.2007-02-24.4661407110"
+                },
+                {
+                    "x": "Produktinfo"
+                },
+                {
+                    "z": "W"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Nationallizenz litt.francoph."
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Corpus de la premi\u00e8re litt\u00e9rature francophone de l'Afrique noire [Nationallizenz]"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Bayerische Staatsbibliothek M\u00fcnchen"
+                },
+                {
+                    "b": "M\u00fcnchen"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "80539"
+                },
+                {
+                    "k": "11.58015"
+                },
+                {
+                    "l": "48.14751"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "k": "nationallizenzen@bsb-muenchen.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "P"
+                },
+                {
+                    "f": "89"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "E-Books"
+                },
+                {
+                    "a": "Volltextsammlung zur m\u00fcndlich und schriftlich \u00fcberlieferten frankophonen Literatur s\u00fcdlich der Sahara vom Ende des 18. Jahrhunderts bis 1960 mit rund 11.000 Texten aller Gattungen (u.a. Romane, Erz\u00e4hlungen, Gedichte, Dramen, Lieder, Sagen, R\u00e4tsel)"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "ANL"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ],
+        "035P": [
+            [
+                {
+                    "a": "E-Books"
+                },
+                {
+                    "c": "neu 2007"
+                },
+                {
+                    "d": "n"
+                },
+                {
+                    "g": "Classiques Garnier Num\u00e9rique"
+                },
+                {
+                    "h": "http://www.nationallizenzen.de/angebote/nlproduct.2007-02-24.4661407110"
+                },
+                {
+                    "i": "Nationallizenz"
+                }
+            ]
+        ],
+        "047A": [
+            [
+                {
+                    "a": "Datenbank. - Der deutschlandweite Zugriff auf dieses Produkt wird durch die F\u00f6rderung der Deutschen Forschungsgemeinschaft (DFG) erm\u00f6glicht und durch die Bayerische Staatsbibliothek M\u00fcnchen organisiert"
+                }
+            ]
+        ]
+    },
+    "_id": "ZDB-1-CLF",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/ZDB-1-CLF",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/ZDB-1-CLF",
+    "identifier": "ZDB-1-CLF",
+    "name": "Corpus de la premi\u00e8re litt\u00e9rature francophone de l'Afrique noire [Nationallizenz]",
+    "location": "M\u00fcnchen",
+    "type": [
+        "Organization",
+        "Product"
+    ],
+    "addressRegion": "ANL"
+}

@@ -1,0 +1,286 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-N1.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:18-11-99"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:23-01-17"
+                ],
+                {
+                    "t": "10:44:00.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "009024174"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "858001-7"
+                },
+                {
+                    "b": "DD246"
+                },
+                {
+                    "d": "N 1"
+                },
+                {
+                    "e": "DE-N1"
+                },
+                {
+                    "f": "GNM"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.gnm.de/museum/abteilungen-anlaufstellen/bibliothek/"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://webopac.gnm.de"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "N\u00fcrnberg GermNatMus WGL"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Germanisches Nationalmuseum, Bibliothek"
+                }
+            ]
+        ],
+        "029R": [
+            [
+                {
+                    "9": "1018498311"
+                },
+                {
+                    "7": "Tw"
+                },
+                {
+                    "a": "Germanisches Nationalmuseum"
+                },
+                {
+                    "e": "DE-MUS-105615"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Kornmarkt 1"
+                },
+                {
+                    "b": "N\u00fcrnberg"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "90402"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "i": "Mo-Di und Do-Fr 9.30-18.00, Mi 9.30-20.00"
+                },
+                {
+                    "k": "11.07550"
+                },
+                {
+                    "l": "49.44874"
+                },
+                {
+                    "n": "09564000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "N\u00fcrnberg"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "90105"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "g": "11 95 80"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "911"
+                },
+                {
+                    "f": "13 31-151"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "911"
+                },
+                {
+                    "i": "13 31-356"
+                },
+                {
+                    "k": "bibliothek@gnm.de"
+                }
+            ]
+        ],
+        "035D": [
+            [
+                {
+                    "a": "N 5a"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0113"
+                },
+                {
+                    "d": "SWB"
+                },
+                {
+                    "d": "WGL"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "07"
+                },
+                {
+                    "h": "09"
+                },
+                {
+                    "i": "P"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Kunst <deutschsprachige L\u00e4nder>"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAY"
+                },
+                {
+                    "c": "SWB"
+                },
+                {
+                    "d": "WGL"
+                },
+                {
+                    "e": "k"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-N1",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-N1",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-N1",
+    "identifier": "DE-N1",
+    "name": "Germanisches Nationalmuseum, Bibliothek",
+    "location": "N\u00fcrnberg",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAY"
+}

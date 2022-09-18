@@ -1,0 +1,131 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-MUS-861810.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-01-12"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:12-10-20"
+                ],
+                {
+                    "t": "08:05:02.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:11-01-12"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1018750886"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "e": "DE-MUS-861810"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.museen-in-deutschland.de/singleview.php?muges=861810"
+                },
+                {
+                    "x": "Weitere Informationen"
+                },
+                {
+                    "z": "W"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Museum der Stadt Schkeuditz"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "M\u00fchlstra\u00dfe 50"
+                },
+                {
+                    "b": "Schkeuditz"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "04435"
+                },
+                {
+                    "f": "Sachsen"
+                },
+                {
+                    "k": "12.22085"
+                },
+                {
+                    "l": "51.38999"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "m"
+                },
+                {
+                    "f": "86"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-MUS-861810",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-MUS-861810",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-MUS-861810",
+    "identifier": "DE-MUS-861810",
+    "name": "Museum der Stadt Schkeuditz",
+    "location": "Schkeuditz",
+    "type": [
+        "Organization",
+        "Museum"
+    ]
+}

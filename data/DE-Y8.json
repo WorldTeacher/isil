@@ -1,0 +1,245 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Y8.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:19-03-14"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:21-01-20"
+                ],
+                {
+                    "t": "17:33:11.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:19-03-14"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1048653854"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "080808-8"
+                },
+                {
+                    "d": "Y 8"
+                },
+                {
+                    "e": "DE-Y8"
+                },
+                {
+                    "f": "GHI"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.ghi-dc.org"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "DHI"
+                },
+                {
+                    "4": "b"
+                }
+            ],
+            [
+                {
+                    "a": "Washington DHI"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Deutsches Historisches Institut Washington, Bibliothek"
+                }
+            ]
+        ],
+        "029R": [
+            [
+                {
+                    "9": "1191199339"
+                },
+                {
+                    "7": "Tw"
+                },
+                {
+                    "a": "Max Weber Stiftung - Deutsche Geisteswissenschaftliche Institute im Ausland, Digitale Bibliothek"
+                },
+                {
+                    "e": "DE-2809"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "1607 New Hampshire Ave NW"
+                },
+                {
+                    "b": "Washington"
+                },
+                {
+                    "d": "US"
+                },
+                {
+                    "e": "20009"
+                },
+                {
+                    "f": "DC, USA"
+                },
+                {
+                    "i": "Mo-Do 9.00-17.00, Fr 9.00-16.00"
+                },
+                {
+                    "k": "-77.04120"
+                },
+                {
+                    "l": "38.91173"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "1"
+                },
+                {
+                    "e": "202"
+                },
+                {
+                    "f": "3 87 33 55"
+                },
+                {
+                    "k": "library@ghi-dc.org"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0111"
+                },
+                {
+                    "e": "GBV"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "01"
+                },
+                {
+                    "h": "07"
+                },
+                {
+                    "i": "P"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Neuere Geschichte"
+                },
+                {
+                    "a": "Deutsch-Amerikana"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "WEU"
+                },
+                {
+                    "c": "GBV"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ],
+        "047A": [
+            [
+                {
+                    "a": "Das DHI Washington ist Teil der Max-Weber-Stiftung Deutsche Geisteswissenschaftliche Institute im Ausland"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Y8",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Y8",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Y8",
+    "identifier": "DE-Y8",
+    "name": "Deutsches Historisches Institut Washington, Bibliothek",
+    "location": "Washington",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "WEU"
+}

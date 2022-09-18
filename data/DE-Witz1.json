@@ -1,0 +1,278 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Witz1.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:18-11-99"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:17-02-16"
+                ],
+                {
+                    "t": "14:25:39.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:27-05-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "009005692"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "352001-8"
+                },
+                {
+                    "b": "DD957"
+                },
+                {
+                    "d": "Witz 1"
+                },
+                {
+                    "e": "DE-Witz1"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.ditsl.org/de/biblio.html"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://hds.hebis.de/ubks/index.php"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "DITSL-Bibliothek"
+                },
+                {
+                    "4": "a"
+                }
+            ],
+            [
+                {
+                    "a": "Witzenhausen DITSL"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Deutsches Institut f\u00fcr tropische und subtropische Landwirtschaft GmbH, Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Steinstr. 19"
+                },
+                {
+                    "b": "Witzenhausen"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "37213"
+                },
+                {
+                    "f": "Hessen"
+                },
+                {
+                    "i": "Mo-Fr 8.00-13.00, Mi 8.00-13.00 und 13.30-17.00"
+                },
+                {
+                    "k": "9.86046"
+                },
+                {
+                    "l": "51.34449"
+                },
+                {
+                    "n": "06636016"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Witzenhausen"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "37206"
+                },
+                {
+                    "f": "Hessen"
+                },
+                {
+                    "g": "16 52"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "5542"
+                },
+                {
+                    "f": "6 07-13"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "5542"
+                },
+                {
+                    "i": "6 07-39"
+                },
+                {
+                    "k": "bibliothek@ditsl.org"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0040"
+                },
+                {
+                    "e": "HBV"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "08"
+                },
+                {
+                    "h": "07"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Tropische und subtropische Landwirtschaft und Forstwirtschaft"
+                },
+                {
+                    "a": "Kolonialgeschichte"
+                },
+                {
+                    "a": "Entwicklungspolitik"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "HES"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "HeBIS"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "047A": [
+            [
+                {
+                    "a": "Gemeinsamer Katalog der Universit\u00e4tsbibliothek Kassel und der DITSL-Bibliothek"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Witz1",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Witz1",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Witz1",
+    "identifier": "DE-Witz1",
+    "name": "Deutsches Institut f\u00fcr tropische und subtropische Landwirtschaft GmbH, Bibliothek",
+    "location": "Witzenhausen",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "HES"
+}

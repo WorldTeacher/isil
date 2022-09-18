@@ -1,0 +1,248 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Re5.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:20-01-04"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:16-10-15"
+                ],
+                {
+                    "t": "18:10:29.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "025522914"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "848005-9"
+                },
+                {
+                    "b": "CQ563"
+                },
+                {
+                    "d": "Re 5"
+                },
+                {
+                    "e": "DE-Re5"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.bistum-regensburg.de/borPage000002.asp"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Regensburg Bisch\u00f6fl.ZB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Bisch\u00f6fliche Zentralbibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "St. Petersweg 11-13"
+                },
+                {
+                    "b": "Regensburg"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "93047"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "i": "Mo-Mi 9.00-12.00 und 13.00-17.00, Do 9.00-18.00,"
+                },
+                {
+                    "k": "12.09534"
+                },
+                {
+                    "l": "49.01562"
+                },
+                {
+                    "n": "09362000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "941"
+                },
+                {
+                    "f": "5 97-2513 (Sekr.) und -2514 (Ausleihe)"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "941"
+                },
+                {
+                    "i": "5 97-2521"
+                },
+                {
+                    "k": "bibliothek@bistum-regensburg.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0075"
+                },
+                {
+                    "d": "BVB"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "10"
+                },
+                {
+                    "h": "09"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAY"
+                },
+                {
+                    "c": "BVB"
+                },
+                {
+                    "d": "Kalliope"
+                },
+                {
+                    "e": "n"
+                },
+                {
+                    "g": "R"
+                }
+            ]
+        ],
+        "035J": [
+            [
+                {
+                    "a": "Bei Alleinbesitz ausnahmsweise Fernleihe m\u00f6glich"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "bibliothek@bistum-regensburg.de"
+                }
+            ]
+        ],
+        "035O": [
+            [
+                {
+                    "a": "ISIL DE-355; AUTO DE-618"
+                }
+            ],
+            [
+                {
+                    "a": "ISIL DE-355; FZL DE-619"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Re5",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Re5",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Re5",
+    "identifier": "DE-Re5",
+    "name": "Bisch\u00f6fliche Zentralbibliothek",
+    "location": "Regensburg",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAY"
+}

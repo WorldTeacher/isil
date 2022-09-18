@@ -1,0 +1,214 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Oel1.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:03-06-21"
+                ],
+                {
+                    "t": "15:11:52.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "02059738X"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "WB605"
+                },
+                {
+                    "d": "Oel 1"
+                },
+                {
+                    "e": "DE-Oel1"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.oelsnitz.bbopac.de"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Oelsnitz/V. StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtbibliothek Oelsnitz"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Grabenstr. 31"
+                },
+                {
+                    "b": "Oelsnitz/Vogtland"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "08606"
+                },
+                {
+                    "f": "Sachsen"
+                },
+                {
+                    "i": "Mo-Di 13.00-18.00, Do 13.00-17.00, Fr 10.00-15.00, Sa 9.00-12.00"
+                },
+                {
+                    "k": "12.16884"
+                },
+                {
+                    "l": "50.41491"
+                },
+                {
+                    "n": "14523300"
+                },
+                {
+                    "o": "barrierefrei"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "37421"
+                },
+                {
+                    "f": "2 27 22"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "37421"
+                },
+                {
+                    "i": "2 63 88"
+                },
+                {
+                    "k": "bibliothekoelsnitz@web.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "07"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Euregio Egrensis"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "SAX"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "d": "\u00d6VK"
+                },
+                {
+                    "e": "a"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Oel1",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Oel1",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Oel1",
+    "identifier": "DE-Oel1",
+    "name": "Stadtbibliothek Oelsnitz",
+    "location": "Oelsnitz/Vogtland",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "SAX"
+}

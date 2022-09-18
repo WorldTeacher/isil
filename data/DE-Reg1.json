@@ -1,0 +1,204 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Reg1.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:25-07-06"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:07-11-16"
+                ],
+                {
+                    "t": "13:26:32.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:25-07-06"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "980631564"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "848025-4"
+                },
+                {
+                    "d": "Reg 1"
+                },
+                {
+                    "e": "DE-Reg1"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.regenstauf.de"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Regenstauf Marktarchiv"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Marktarchiv Regenstauf"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Bahnhofstr. 15"
+                },
+                {
+                    "b": "Regenstauf"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "93128"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "i": "Mo-Mi und Fr 8.00-12.00, Fr 13.30-17.30"
+                },
+                {
+                    "k": "12.12643"
+                },
+                {
+                    "l": "49.12286"
+                },
+                {
+                    "n": "09375190"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "9402"
+                },
+                {
+                    "f": "5 09-0"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "9402"
+                },
+                {
+                    "i": "5 09-50"
+                },
+                {
+                    "k": "markt@regenstauf.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0167"
+                },
+                {
+                    "f": "52"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "01"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAY"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Reg1",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Reg1",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Reg1",
+    "identifier": "DE-Reg1",
+    "name": "Marktarchiv Regenstauf",
+    "location": "Regenstauf",
+    "type": [
+        "Organization",
+        "Archive"
+    ],
+    "addressRegion": "BAY"
+}

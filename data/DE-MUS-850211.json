@@ -1,0 +1,131 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-MUS-850211.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-01-12"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:12-10-20"
+                ],
+                {
+                    "t": "08:05:22.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:11-01-12"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "101874987X"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "e": "DE-MUS-850211"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.museen-in-deutschland.de/singleview.php?muges=850211"
+                },
+                {
+                    "x": "Weitere Informationen"
+                },
+                {
+                    "z": "W"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "G\u00f6schenhaus Grimma"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Schillerstr. 25"
+                },
+                {
+                    "b": "Grimma"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "04668"
+                },
+                {
+                    "f": "Sachsen"
+                },
+                {
+                    "k": "12.73156"
+                },
+                {
+                    "l": "51.25247"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "m"
+                },
+                {
+                    "f": "86"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-MUS-850211",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-MUS-850211",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-MUS-850211",
+    "identifier": "DE-MUS-850211",
+    "name": "G\u00f6schenhaus Grimma",
+    "location": "Grimma",
+    "type": [
+        "Organization",
+        "Museum"
+    ]
+}

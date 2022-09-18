@@ -1,0 +1,189 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/ZDB-245-NPR.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:25-09-19"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:25-09-19"
+                ],
+                {
+                    "t": "13:53:45.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:25-09-19"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "119565667X"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "d": "ZDB-245-NPR"
+                },
+                {
+                    "e": "ZDB-245-NPR"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "https://www.nwb.de/"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "NWB PRO"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "NWB PRO"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Eschstr. 22"
+                },
+                {
+                    "b": "Herne"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "44629"
+                },
+                {
+                    "k": "7.22002"
+                },
+                {
+                    "l": "51.54678"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "k": "service@nwb.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "P"
+                },
+                {
+                    "f": "89"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "E-Books"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "WWW"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ],
+        "035P": [
+            [
+                {
+                    "a": "E-Books"
+                },
+                {
+                    "d": "n"
+                },
+                {
+                    "g": "NWB Verlag GmbH & Co. KG"
+                },
+                {
+                    "i": "Anbieter kostenpflichtig"
+                }
+            ]
+        ],
+        "047A": [
+            [
+                {
+                    "a": "Online-Ressource / Datenbank"
+                }
+            ]
+        ]
+    },
+    "_id": "ZDB-245-NPR",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/ZDB-245-NPR",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/ZDB-245-NPR",
+    "identifier": "ZDB-245-NPR",
+    "name": "NWB PRO",
+    "location": "Herne",
+    "type": [
+        "Organization",
+        "Product"
+    ],
+    "addressRegion": "WWW"
+}

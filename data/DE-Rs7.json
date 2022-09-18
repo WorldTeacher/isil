@@ -1,0 +1,189 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Rs7.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:06-04-10"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:11-05-22"
+                ],
+                {
+                    "t": "12:49:11.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:06-04-10"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1001333780"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "101058-X"
+                },
+                {
+                    "d": "Rs 7"
+                },
+                {
+                    "e": "DE-Rs7"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.riesa.de/"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Riesa Stadtarchiv"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtarchiv Riesa"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Goethestr. 66"
+                },
+                {
+                    "b": "Riesa"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "01589"
+                },
+                {
+                    "f": "Sachsen"
+                },
+                {
+                    "k": "13.30875"
+                },
+                {
+                    "l": "51.30207"
+                },
+                {
+                    "n": "14627230"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "3525"
+                },
+                {
+                    "f": "63 40 00"
+                },
+                {
+                    "k": "archiv@riesa.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0367"
+                },
+                {
+                    "f": "52"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "01"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "SAX"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Rs7",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Rs7",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Rs7",
+    "identifier": "DE-Rs7",
+    "name": "Stadtarchiv Riesa",
+    "location": "Riesa",
+    "type": [
+        "Organization",
+        "Archive"
+    ],
+    "addressRegion": "SAX"
+}

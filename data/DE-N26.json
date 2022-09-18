@@ -1,0 +1,269 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-N26.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:26-09-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:19-01-15"
+                ],
+                {
+                    "t": "13:16:56.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020842554"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "858027-3"
+                },
+                {
+                    "b": "DD283"
+                },
+                {
+                    "d": "N 26"
+                },
+                {
+                    "e": "DE-N26"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.archiv-elkb.de"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "N\u00fcrnberg LAELKB Bibliothek"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Landeskirchliches Archiv der Evangelisch-Lutherischen Kirche in Bayern, Bibliothek"
+                }
+            ]
+        ],
+        "029R": [
+            [
+                {
+                    "9": "1065094299"
+                },
+                {
+                    "7": "Tw"
+                },
+                {
+                    "a": "Landeskirchliches Archiv der Evangelisch-Lutherischen Kirche in Bayern"
+                },
+                {
+                    "e": "DE-2271"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Veilhofstr. 8"
+                },
+                {
+                    "b": "N\u00fcrnberg"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "90489"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "i": "Mo-Mi 9.00-17.00, Do 9.00-20.00, Fr 9.00-13.00"
+                },
+                {
+                    "j": "Aushebezeiten: Mo-Mi 10.00 und 13:00, Do 10.00, 13.00 und 16.00, Fr 10.00"
+                },
+                {
+                    "k": "11.10380"
+                },
+                {
+                    "l": "49.45758"
+                },
+                {
+                    "n": "09564000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "911"
+                },
+                {
+                    "f": "5 88 69-0"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "911"
+                },
+                {
+                    "i": "5 88 69-69"
+                },
+                {
+                    "k": "archiv@elkb.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0035"
+                },
+                {
+                    "d": "BVB"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "09"
+                },
+                {
+                    "h": "08"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Schrifttum aus dem / \u00fcber den Raum der Evangelisch-Lutherischen Kirche in Bayern"
+                },
+                {
+                    "a": "Gesangbuchsammlung"
+                },
+                {
+                    "a": "Landes- und Ortsgeschichte"
+                },
+                {
+                    "a": "historische Kirchenbibliotheken"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAY"
+                },
+                {
+                    "c": "BVB"
+                },
+                {
+                    "d": "VThK"
+                },
+                {
+                    "e": "l"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "archiv.bibliothek@elkb.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "archiv.bibliothek@elkb.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-N26",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-N26",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-N26",
+    "identifier": "DE-N26",
+    "name": "Landeskirchliches Archiv der Evangelisch-Lutherischen Kirche in Bayern, Bibliothek",
+    "location": "N\u00fcrnberg",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAY"
+}

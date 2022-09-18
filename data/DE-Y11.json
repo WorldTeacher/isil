@@ -1,0 +1,261 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Y11.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:28-08-12"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:22-08-19"
+                ],
+                {
+                    "t": "11:47:25.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:28-08-12"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1025487311"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "080811-8"
+                },
+                {
+                    "d": "Y 11"
+                },
+                {
+                    "e": "DE-Y11"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.oiist.org"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://vzlbs2.gbv.de/DB=47/"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "OII"
+                },
+                {
+                    "4": "b"
+                }
+            ],
+            [
+                {
+                    "a": "Istanbul Orient-Institut"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Orient-Institut Istanbul"
+                }
+            ]
+        ],
+        "029R": [
+            [
+                {
+                    "9": "1191199339"
+                },
+                {
+                    "7": "Tw"
+                },
+                {
+                    "a": "Max Weber Stiftung - Deutsche Geisteswissenschaftliche Institute im Ausland, Digitale Bibliothek"
+                },
+                {
+                    "e": "DE-2809"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Susam Sokak 16 D. 8"
+                },
+                {
+                    "b": "Istanbul"
+                },
+                {
+                    "d": "TR"
+                },
+                {
+                    "e": "34433"
+                },
+                {
+                    "f": "T\u00fcrkei"
+                },
+                {
+                    "h": "Cihangir"
+                },
+                {
+                    "i": "Mo-Do 10.00-19.00, Fr 9.00-13.00"
+                },
+                {
+                    "k": "28.98566"
+                },
+                {
+                    "l": "41.03071"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "90"
+                },
+                {
+                    "e": "212"
+                },
+                {
+                    "f": "2 93 60 67"
+                },
+                {
+                    "g": "90"
+                },
+                {
+                    "h": "212"
+                },
+                {
+                    "i": "2 49 63 59"
+                },
+                {
+                    "k": "oiibib@oiist.org"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0012"
+                },
+                {
+                    "e": "GBV"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "07"
+                },
+                {
+                    "h": "07"
+                },
+                {
+                    "i": "P"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Turkologie"
+                },
+                {
+                    "a": "Osmanistik"
+                },
+                {
+                    "a": "T\u00fcrkeikunde"
+                },
+                {
+                    "a": "Islamwissenschaft"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "WEU"
+                },
+                {
+                    "c": "GBV"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Y11",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Y11",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Y11",
+    "identifier": "DE-Y11",
+    "name": "Orient-Institut Istanbul",
+    "location": "Istanbul",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "WEU"
+}

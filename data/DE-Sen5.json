@@ -1,0 +1,247 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Sen5.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:11-05-22"
+                ],
+                {
+                    "t": "14:25:15.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020597959"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "101243-5"
+                },
+                {
+                    "b": "GC428"
+                },
+                {
+                    "d": "Sen 5"
+                },
+                {
+                    "e": "DE-Sen5"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.senftenberg.de/index.phtml?mNavID=1704.7&sNavID=1704.19&La=1"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://www.oberspreewald-lausitz.city-map.de/01110000/stadtbibliothek"
+                },
+                {
+                    "x": "Weitere URL"
+                },
+                {
+                    "z": "W"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Senftenberg StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtbibliothek Senftenberg"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Krankenhausstr. 4"
+                },
+                {
+                    "b": "Senftenberg"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "01968"
+                },
+                {
+                    "f": "Brandenburg"
+                },
+                {
+                    "i": "Mo-Di und Do-Fr 9.00-18.00, Sa 9.00-12.00"
+                },
+                {
+                    "k": "14.00162"
+                },
+                {
+                    "l": "51.52730"
+                },
+                {
+                    "n": "12066304"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "3573"
+                },
+                {
+                    "f": "37 80-12"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "3573"
+                },
+                {
+                    "i": "37 80-18"
+                },
+                {
+                    "k": "sb.senftenberg@t-online.de"
+                }
+            ],
+            [
+                {
+                    "a": "W"
+                },
+                {
+                    "b": "Fernleihe"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "3573"
+                },
+                {
+                    "f": "37 80-11"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0367"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "07"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BER"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "KOBV"
+                },
+                {
+                    "d": "VOEB"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Sen5",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Sen5",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Sen5",
+    "identifier": "DE-Sen5",
+    "name": "Stadtbibliothek Senftenberg",
+    "location": "Senftenberg",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BER"
+}

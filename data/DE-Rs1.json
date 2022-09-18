@@ -1,0 +1,281 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Rs1.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:24-09-21"
+                ],
+                {
+                    "t": "09:53:35.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020597800"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "958404-3"
+                },
+                {
+                    "b": "RI159"
+                },
+                {
+                    "d": "Rs 1"
+                },
+                {
+                    "e": "DE-Rs1"
+                },
+                {
+                    "f": "BARIE"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.ba-riesa.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://katalog.ba-sachsen.de/"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Riesa Berufsakademie"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Berufsakademie Sachsen, Staatliche Studienakademie Riesa, Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Rittergutsstr. 6"
+                },
+                {
+                    "b": "Riesa"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "01591"
+                },
+                {
+                    "f": "Sachsen"
+                },
+                {
+                    "i": "Mo - Do 9.00-15.30 , Fr 8.00-14.00"
+                },
+                {
+                    "k": "13.28848"
+                },
+                {
+                    "l": "51.31690"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "3525"
+                },
+                {
+                    "f": "70 75 16"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "3525"
+                },
+                {
+                    "i": "73 36 13"
+                },
+                {
+                    "j": "25323"
+                },
+                {
+                    "k": "Bibliothek.Riesa@ba-sachsen.de"
+                }
+            ]
+        ],
+        "035D": [
+            [
+                {
+                    "a": "Mei 2"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0108"
+                },
+                {
+                    "d": "SWB"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "02"
+                },
+                {
+                    "h": "06"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Maschinenbau"
+                },
+                {
+                    "a": "Biotechnologie"
+                },
+                {
+                    "a": "Umwelttechnik"
+                },
+                {
+                    "a": "Strahlenschutz"
+                },
+                {
+                    "a": "Geb\u00e4udetechnik"
+                },
+                {
+                    "a": "Energietechnik"
+                },
+                {
+                    "a": "Versorgungstechnik"
+                },
+                {
+                    "a": "Handelsmanagement"
+                },
+                {
+                    "a": "Sportmanagement"
+                },
+                {
+                    "a": "Eventmanagement"
+                },
+                {
+                    "a": "Biotechnik"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "SAX"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "SWB"
+                },
+                {
+                    "e": "k"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035Q": [
+            [
+                {
+                    "a": "j"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Rs1",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Rs1",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Rs1",
+    "identifier": "DE-Rs1",
+    "name": "Berufsakademie Sachsen, Staatliche Studienakademie Riesa, Bibliothek",
+    "location": "Riesa",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "SAX"
+}

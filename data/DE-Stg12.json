@@ -1,0 +1,234 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Stg12.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:19-02-16"
+                ],
+                {
+                    "t": "07:12:39.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "02059822X"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "CW925"
+                },
+                {
+                    "d": "Stg 12"
+                },
+                {
+                    "e": "DE-Stg12"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.statistik.baden-wuerttemberg.de/"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Stuttgart StaLA"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Statistisches Landesamt Baden-W\u00fcrttemberg, Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "B\u00f6blinger Str. 68"
+                },
+                {
+                    "b": "Stuttgart"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "70199"
+                },
+                {
+                    "f": "Baden-W\u00fcrttemberg"
+                },
+                {
+                    "i": "Mo-Do 9.00-15.30, Fr 9.00-12.00"
+                },
+                {
+                    "k": "9.16072"
+                },
+                {
+                    "l": "48.76401"
+                },
+                {
+                    "n": "08111000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Stuttgart"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "70049"
+                },
+                {
+                    "f": "Baden-W\u00fcrttemberg"
+                },
+                {
+                    "g": "10 60 33"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "711"
+                },
+                {
+                    "f": "6 41-2876"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "711"
+                },
+                {
+                    "i": "6 41-2973"
+                },
+                {
+                    "k": "Bibliothek@stala.bwl.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "02"
+                },
+                {
+                    "h": "07"
+                },
+                {
+                    "i": "P"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Baden-W\u00fcrttemberg <Landeskunde>"
+                },
+                {
+                    "a": "Statistik"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAW"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Stg12",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Stg12",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Stg12",
+    "identifier": "DE-Stg12",
+    "name": "Statistisches Landesamt Baden-W\u00fcrttemberg, Bibliothek",
+    "location": "Stuttgart",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAW"
+}

@@ -1,0 +1,192 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/ZDB-122-SPV.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:20-06-14"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:03-09-19"
+                ],
+                {
+                    "t": "13:54:43.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:20-06-14"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1052362419"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "d": "ZDB-122-SPV"
+                },
+                {
+                    "e": "ZDB-122-SPV"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.sp-datenbanken.de/"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "SP.datenbanken"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "SP.datenbanken"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Sch\u00e4ffer-Poeschel Verlag f\u00fcr Wirtschaft, Steuern, Recht GmbH, Reinsburgstr. 27"
+                },
+                {
+                    "b": "Stuttgart"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "70178"
+                },
+                {
+                    "f": "Deutschland"
+                },
+                {
+                    "k": "9.16662"
+                },
+                {
+                    "l": "48.76997"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "k": "info@schaeffer-poeschel.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "P"
+                },
+                {
+                    "f": "89"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "E-Books"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "WWW"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ],
+        "035P": [
+            [
+                {
+                    "a": "E-Books"
+                },
+                {
+                    "d": "n"
+                },
+                {
+                    "g": "Haufe Lexware Services GmbH & Co. KG / Sch\u00e4ffer-Poeschel Verlag f\u00fcr Wirtschaft, Steuern, Recht GmbH"
+                },
+                {
+                    "i": "Anbieter kostenpflichtig"
+                }
+            ]
+        ],
+        "047A": [
+            [
+                {
+                    "a": "Online-Ressource / Datenbank"
+                }
+            ]
+        ]
+    },
+    "_id": "ZDB-122-SPV",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/ZDB-122-SPV",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/ZDB-122-SPV",
+    "identifier": "ZDB-122-SPV",
+    "name": "SP.datenbanken",
+    "location": "Stuttgart",
+    "type": [
+        "Organization",
+        "Product"
+    ],
+    "addressRegion": "WWW"
+}

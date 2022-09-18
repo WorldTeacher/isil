@@ -1,0 +1,200 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/ZDB-25-KNS.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:01-12-14"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:18-10-17"
+                ],
+                {
+                    "t": "11:28:25.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:01-12-14"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1062937945"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "d": "ZDB-25-KNS"
+                },
+                {
+                    "e": "ZDB-25-KNS"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.karger.com/Collections/eBookNonSerials"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Karger eBooks Non-Serials Collection (fr\u00fcherer Name)"
+                },
+                {
+                    "4": "a"
+                }
+            ],
+            [
+                {
+                    "a": "Karger eBook Non-Series Coll."
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Karger eBook Non-Series Collection"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "S. Karger AG, Allschwilerstr. 10"
+                },
+                {
+                    "b": "Basel"
+                },
+                {
+                    "d": "CH"
+                },
+                {
+                    "e": "CH-4055"
+                },
+                {
+                    "f": "Schweiz"
+                },
+                {
+                    "k": "7.57478"
+                },
+                {
+                    "l": "47.55589"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "k": "karger@karger.com"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "P"
+                },
+                {
+                    "f": "89"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "E-Books"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "WWW"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ],
+        "035P": [
+            [
+                {
+                    "a": "E-Books"
+                },
+                {
+                    "d": "n"
+                },
+                {
+                    "g": "S. Karger AG"
+                },
+                {
+                    "i": "Anbieter kostenpflichtig"
+                }
+            ]
+        ],
+        "047A": [
+            [
+                {
+                    "a": "Online-Ressource / Datenbank"
+                }
+            ]
+        ]
+    },
+    "_id": "ZDB-25-KNS",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/ZDB-25-KNS",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/ZDB-25-KNS",
+    "identifier": "ZDB-25-KNS",
+    "name": "Karger eBook Non-Series Collection",
+    "location": "Basel",
+    "type": [
+        "Organization",
+        "Product"
+    ],
+    "addressRegion": "WWW"
+}

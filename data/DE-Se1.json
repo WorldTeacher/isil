@@ -1,0 +1,198 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Se1.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:17-02-16"
+                ],
+                {
+                    "t": "13:29:31.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020597932"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "DZ634"
+                },
+                {
+                    "d": "Se 1"
+                },
+                {
+                    "e": "DE-Se1"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.ulb.uni-muenster.de/hbw/bibliotheken/senden-nuenning/"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Senden Bibliothek N\u00fcnning"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Von und zur M\u00fchlensche Bibliothek / N\u00fcnning"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Alvingheide 36"
+                },
+                {
+                    "b": "Senden/Westfalen"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "48308"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "h": "Haus Alvinghof"
+                },
+                {
+                    "k": "7.47942"
+                },
+                {
+                    "l": "51.92099"
+                },
+                {
+                    "n": "05558044"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "2536"
+                },
+                {
+                    "f": "34 11 31"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "2536"
+                },
+                {
+                    "i": "34 11 32"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "01"
+                },
+                {
+                    "i": "P"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Se1",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Se1",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Se1",
+    "identifier": "DE-Se1",
+    "name": "Von und zur M\u00fchlensche Bibliothek / N\u00fcnning",
+    "location": "Senden/Westfalen",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NRW"
+}

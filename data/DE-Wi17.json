@@ -1,0 +1,264 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Wi17.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:17-06-21"
+                ],
+                {
+                    "t": "10:21:26.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020599501"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "608917-3"
+                },
+                {
+                    "b": "DD854"
+                },
+                {
+                    "d": "Wi 17"
+                },
+                {
+                    "e": "DE-Wi17"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "https://www.dff.film/"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://www.museumsbibliotheken.frankfurt.de"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Frankfurt/Main DFF"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "DFF - Deutsches Filminstitut & Filmmuseum, Bibliothek"
+                }
+            ]
+        ],
+        "029R": [
+            [
+                {
+                    "9": "1179734459"
+                },
+                {
+                    "7": "Tw"
+                },
+                {
+                    "a": "DFF - Deutsches Filminstitut & Filmmuseum"
+                },
+                {
+                    "e": "DE-2768"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "c/o Deutsche Nationalbibliothek, Adickesallee 1"
+                },
+                {
+                    "b": "Frankfurt/Main"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "60322"
+                },
+                {
+                    "f": "Hessen"
+                },
+                {
+                    "i": "Di-Fr 10.00-18.00"
+                },
+                {
+                    "k": "8.68316"
+                },
+                {
+                    "l": "50.13122"
+                },
+                {
+                    "n": "06412000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "z": "Die Bibliothek befindet sich im Hause der Deutschen Nationalbibliothek Frankfurt. Die Rechnungsadresse weicht ab."
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "a": "Schaumainkai 41"
+                },
+                {
+                    "b": "Frankfurt/Main"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "60596"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "R"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "69"
+                },
+                {
+                    "f": "96 12 20-430"
+                },
+                {
+                    "k": "bibliothek@deutsches-filminstitut.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0321"
+                },
+                {
+                    "d": "SWB"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "08"
+                },
+                {
+                    "h": "07"
+                },
+                {
+                    "i": "P"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Film"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "HES"
+                },
+                {
+                    "c": "SWB"
+                },
+                {
+                    "d": "VFMB"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Wi17",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Wi17",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Wi17",
+    "identifier": "DE-Wi17",
+    "name": "DFF - Deutsches Filminstitut & Filmmuseum, Bibliothek",
+    "location": "Frankfurt/Main",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "HES"
+}

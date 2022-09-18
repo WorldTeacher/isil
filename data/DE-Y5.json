@@ -1,0 +1,225 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Y5.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:22-01-03"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:22-02-18"
+                ],
+                {
+                    "t": "15:30:31.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "024232459"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "d": "Y 5"
+                },
+                {
+                    "e": "DE-Y5"
+                },
+                {
+                    "f": "DIJ"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.dijtokyo.org/library"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://dijbib.dijtokyo.org/"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Tokyo DIJ"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Deutsches Institut f\u00fcr Japanstudien, Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Jochi Kioizaka Bldg., 7-1 Kioi-cho"
+                },
+                {
+                    "b": "Tokyo"
+                },
+                {
+                    "d": "JP"
+                },
+                {
+                    "e": "102-0094"
+                },
+                {
+                    "f": "Japan"
+                },
+                {
+                    "h": "Chiyoda-ku"
+                },
+                {
+                    "i": "Mo-Fr 10.00-16.00"
+                },
+                {
+                    "k": "139.73414"
+                },
+                {
+                    "l": "35.68239"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "81"
+                },
+                {
+                    "e": "3"
+                },
+                {
+                    "f": "32 22-5274"
+                },
+                {
+                    "g": "81"
+                },
+                {
+                    "h": "3"
+                },
+                {
+                    "i": "32 22-5420"
+                },
+                {
+                    "k": "dijbibli@dijtokyo.org"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "07"
+                },
+                {
+                    "h": "07"
+                },
+                {
+                    "i": "P"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Deutsches Schrifttum \u00fcber Japan"
+                },
+                {
+                    "a": "Deutsch-Japanische Beziehungen"
+                },
+                {
+                    "a": "Hilfsmittel zur Japanforschung"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "WEU"
+                },
+                {
+                    "d": "NACSIS"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Y5",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Y5",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Y5",
+    "identifier": "DE-Y5",
+    "name": "Deutsches Institut f\u00fcr Japanstudien, Bibliothek",
+    "location": "Tokyo",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "WEU"
+}

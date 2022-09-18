@@ -1,0 +1,221 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Sw2.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:16-04-20"
+                ],
+                {
+                    "t": "17:13:31.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020598459"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "EK072"
+                },
+                {
+                    "d": "Sw 2"
+                },
+                {
+                    "e": "DE-Sw2"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.kultour-saw.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://salzwedel.iopac.de"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Salzwedel StuKrsB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadt- und Kreisbibliothek Salzwedel"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Vor dem Neuperver Tor 2"
+                },
+                {
+                    "b": "Salzwedel"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "29410"
+                },
+                {
+                    "f": "Sachsen-Anhalt"
+                },
+                {
+                    "i": "Mo und Fr 10-16 Uhr, Di und Do 10-18 Uhr"
+                },
+                {
+                    "k": "11.15795"
+                },
+                {
+                    "l": "52.85108"
+                },
+                {
+                    "n": "15081455"
+                },
+                {
+                    "o": "ja"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "z": "eigener Parkplatz hinter dem Geb\u00e4ude"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "3901"
+                },
+                {
+                    "f": "83 44-0"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "3901"
+                },
+                {
+                    "i": "83 44-20"
+                },
+                {
+                    "k": "bibliothek@salzwedel.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "07"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "SAA"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "GBV"
+                },
+                {
+                    "d": "\u00d6VK"
+                },
+                {
+                    "e": "l"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Sw2",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Sw2",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Sw2",
+    "identifier": "DE-Sw2",
+    "name": "Stadt- und Kreisbibliothek Salzwedel",
+    "location": "Salzwedel",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "SAA"
+}

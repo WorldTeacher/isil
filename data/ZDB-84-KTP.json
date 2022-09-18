@@ -1,0 +1,187 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/ZDB-84-KTP.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-16"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:01-10-19"
+                ],
+                {
+                    "t": "15:23:50.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:11-07-16"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1106121848"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "d": "ZDB-84-KTP"
+                },
+                {
+                    "e": "ZDB-84-KTP"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "https://content-select.com/de/"
+                },
+                {
+                    "x": "Vertrieb"
+                },
+                {
+                    "z": "W"
+                }
+            ],
+            [
+                {
+                    "u": "http://www.kohlhammer.de/"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Kohlhammer Theol.Phil.Kultw."
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Kohlhammer Theologie, Philosophie, Kulturwissenschaft"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "W. Kohlhammer GmbH, He\u00dfbr\u00fchlstra\u00dfe 69"
+                },
+                {
+                    "b": "Stuttgart"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "70565"
+                },
+                {
+                    "k": "9.11926"
+                },
+                {
+                    "l": "48.72249"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "P"
+                },
+                {
+                    "f": "89"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "E-Books"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "WWW"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ],
+        "035P": [
+            [
+                {
+                    "a": "E-Books"
+                },
+                {
+                    "d": "n"
+                },
+                {
+                    "g": "W. Kohlhammer GmbH"
+                },
+                {
+                    "i": "Anbieter kostenpflichtig"
+                }
+            ]
+        ],
+        "047A": [
+            [
+                {
+                    "a": "Online-Ressource / Datenbank; Vertrieb \u00fcber Content-Select"
+                }
+            ]
+        ]
+    },
+    "_id": "ZDB-84-KTP",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/ZDB-84-KTP",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/ZDB-84-KTP",
+    "identifier": "ZDB-84-KTP",
+    "name": "Kohlhammer Theologie, Philosophie, Kulturwissenschaft",
+    "location": "Stuttgart",
+    "type": [
+        "Organization",
+        "Product"
+    ],
+    "addressRegion": "WWW"
+}

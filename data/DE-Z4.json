@@ -1,0 +1,210 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Z4.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9040:05-09-22"
+                ],
+                {
+                    "t": "18:10:15.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020599773"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "WA972"
+                },
+                {
+                    "d": "Z 4"
+                },
+                {
+                    "e": "DE-Z4"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.zeitz.de/de/stadtbibliothek_martin_luther.html"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Zeitz StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtbibliothek 'Martin Luther'"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Michaeliskirchhof 8"
+                },
+                {
+                    "b": "Zeitz"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "06712"
+                },
+                {
+                    "f": "Sachsen-Anhalt"
+                },
+                {
+                    "i": "Mo und Do 10.00-16.00, Di und Fr 14.00-18.00, Sa 10.00-12.00"
+                },
+                {
+                    "k": "12.13466"
+                },
+                {
+                    "l": "51.05095"
+                },
+                {
+                    "n": "15084590"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "3441"
+                },
+                {
+                    "f": "21 21 76"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "3441"
+                },
+                {
+                    "i": "21 64 13"
+                },
+                {
+                    "k": "stadtbibliothek@stadt-zeitz.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "06"
+                },
+                {
+                    "h": "07"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "SAA"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "GBV"
+                },
+                {
+                    "d": "\u00d6VK"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Z4",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Z4",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Z4",
+    "identifier": "DE-Z4",
+    "name": "Stadtbibliothek 'Martin Luther'",
+    "location": "Zeitz",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "SAA"
+}

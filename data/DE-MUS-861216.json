@@ -1,0 +1,131 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-MUS-861216.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-01-12"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:12-10-20"
+                ],
+                {
+                    "t": "08:09:02.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:11-01-12"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1018750835"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "e": "DE-MUS-861216"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.museen-in-deutschland.de/singleview.php?muges=861216"
+                },
+                {
+                    "x": "Weitere Informationen"
+                },
+                {
+                    "z": "W"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Museum 'G\u00f6ltzsch'"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Schlossstra\u00dfe 2"
+                },
+                {
+                    "b": "Rodewisch"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "08228"
+                },
+                {
+                    "f": "Sachsen"
+                },
+                {
+                    "k": "12.40296"
+                },
+                {
+                    "l": "50.52420"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "m"
+                },
+                {
+                    "f": "86"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-MUS-861216",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-MUS-861216",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-MUS-861216",
+    "identifier": "DE-MUS-861216",
+    "name": "Museum 'G\u00f6ltzsch'",
+    "location": "Rodewisch",
+    "type": [
+        "Organization",
+        "Museum"
+    ]
+}

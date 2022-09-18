@@ -1,0 +1,208 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/ZDB-1-KAZ.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:23-10-20"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:03-06-21"
+                ],
+                {
+                    "t": "09:32:20.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:23-10-20"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1220108499"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "d": "ZDB-1-KAZ"
+                },
+                {
+                    "e": "ZDB-1-KAZ"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://erf.sbb.spk-berlin.de/han/KoreaA2Z/"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://www.koreaa2z.com"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "FID-Lizenz KoreaA2Z"
+                },
+                {
+                    "4": "c"
+                }
+            ],
+            [
+                {
+                    "a": "Korea A to Z"
+                },
+                {
+                    "4": "a"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "KoreaA2Z [FID-Lizenz]"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Staatsbibliothek zu Berlin - Preu\u00dfischer Kulturbesitz"
+                },
+                {
+                    "b": "Berlin"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "10785"
+                },
+                {
+                    "k": "13.37063"
+                },
+                {
+                    "l": "52.50771"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "k": "x-asia@sbb.spk-berlin.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "P"
+                },
+                {
+                    "f": "89"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "E-Books"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "ANL"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ],
+        "035P": [
+            [
+                {
+                    "a": "E-Books"
+                },
+                {
+                    "c": "k.A"
+                },
+                {
+                    "d": "n"
+                },
+                {
+                    "g": "Dongbang Media"
+                },
+                {
+                    "i": "FID-Lizenz"
+                }
+            ]
+        ],
+        "047A": [
+            [
+                {
+                    "a": "Datenbank. - Der Zugriff auf dieses Produkt wird von der DFG finanziert und vom FID Asien erm\u00f6glicht"
+                }
+            ]
+        ]
+    },
+    "_id": "ZDB-1-KAZ",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/ZDB-1-KAZ",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/ZDB-1-KAZ",
+    "identifier": "ZDB-1-KAZ",
+    "name": "KoreaA2Z [FID-Lizenz]",
+    "location": "Berlin",
+    "type": [
+        "Organization",
+        "Product"
+    ],
+    "addressRegion": "ANL"
+}

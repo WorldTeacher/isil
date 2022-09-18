@@ -1,0 +1,131 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-MUS-869314.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-01-12"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:12-10-20"
+                ],
+                {
+                    "t": "10:12:14.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:11-01-12"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1018751521"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "e": "DE-MUS-869314"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.museen-in-deutschland.de/singleview.php?muges=869314"
+                },
+                {
+                    "x": "Weitere Informationen"
+                },
+                {
+                    "z": "W"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Burg Gleichen"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Thomas-M\u00fcntzer-Str. 4"
+                },
+                {
+                    "b": "Drei Gleichen"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "99869"
+                },
+                {
+                    "f": "Th\u00fcringen"
+                },
+                {
+                    "k": "10.82739"
+                },
+                {
+                    "l": "50.86900"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "m"
+                },
+                {
+                    "f": "86"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-MUS-869314",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-MUS-869314",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-MUS-869314",
+    "identifier": "DE-MUS-869314",
+    "name": "Burg Gleichen",
+    "location": "Drei Gleichen",
+    "type": [
+        "Organization",
+        "Museum"
+    ]
+}

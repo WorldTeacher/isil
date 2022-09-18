@@ -1,0 +1,131 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-MUS-980812.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-01-12"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:12-10-20"
+                ],
+                {
+                    "t": "09:29:26.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:11-01-12"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "101876027X"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "e": "DE-MUS-980812"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.museen-in-deutschland.de/singleview.php?muges=980812"
+                },
+                {
+                    "x": "Weitere Informationen"
+                },
+                {
+                    "z": "W"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Heimatmuseum Hohberg"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Bahnhofstr. 7"
+                },
+                {
+                    "b": "Hohberg"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "77749"
+                },
+                {
+                    "f": "Baden-W\u00fcrttemberg"
+                },
+                {
+                    "k": "7.88687"
+                },
+                {
+                    "l": "48.41439"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "m"
+                },
+                {
+                    "f": "86"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-MUS-980812",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-MUS-980812",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-MUS-980812",
+    "identifier": "DE-MUS-980812",
+    "name": "Heimatmuseum Hohberg",
+    "location": "Hohberg",
+    "type": [
+        "Organization",
+        "Museum"
+    ]
+}

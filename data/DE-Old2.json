@@ -1,0 +1,239 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Old2.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:17-10-16"
+                ],
+                {
+                    "t": "10:05:13.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "02059741X"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "GD822"
+                },
+                {
+                    "d": "Old 2"
+                },
+                {
+                    "e": "DE-Old2"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.stadtbibliothek-oldenburg.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://opac.oldenburg.de/opax/de/index.html.S"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Oldenburg StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtbibliothek Oldenburg"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Peterstr. 3"
+                },
+                {
+                    "b": "Oldenburg"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "26121"
+                },
+                {
+                    "f": "Niedersachsen"
+                },
+                {
+                    "i": "Mo-Di und Do-Fr 11.00-19.00, Sa 11.00-14.00"
+                },
+                {
+                    "j": "\u00d6ffnungszeiten der Stadtteilbibliotheken s. Homepage"
+                },
+                {
+                    "k": "8.20777"
+                },
+                {
+                    "l": "53.14278"
+                },
+                {
+                    "n": "03403000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Oldenburg"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "26105"
+                },
+                {
+                    "f": "Niedersachsen"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "441"
+                },
+                {
+                    "f": "2 35-3000 und -3022"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "441"
+                },
+                {
+                    "i": "2 35-3101"
+                },
+                {
+                    "k": "stadtbibliothek@stadt-oldenburg.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "08"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NIE"
+                },
+                {
+                    "c": "GBV"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ],
+        "047A": [
+            [
+                {
+                    "a": "Sowohl \u00fcber die URL des OPAC als auch \u00fcber die der Homepage kann das Angebot 'Onleihe' (digitale Medien zum Herunterladen) genutzt werden."
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Old2",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Old2",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Old2",
+    "identifier": "DE-Old2",
+    "name": "Stadtbibliothek Oldenburg",
+    "location": "Oldenburg",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NIE"
+}

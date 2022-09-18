@@ -1,0 +1,274 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Mau2.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:26-09-02"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:21-02-18"
+                ],
+                {
+                    "t": "10:21:36.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "023931418"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "708902-8"
+                },
+                {
+                    "d": "Mau 2"
+                },
+                {
+                    "e": "DE-Mau2"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.ifsg-bw.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://www.landesarchiv-bw.de"
+                },
+                {
+                    "x": "weitere URL"
+                },
+                {
+                    "z": "W"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Archiv und Bibliothek Institut f\u00fcr Sportgeschichte"
+                },
+                {
+                    "4": "a"
+                }
+            ],
+            [
+                {
+                    "a": "Stuttgart Sportgeschichte"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Sportarchiv im Landesarchiv Baden-W\u00fcrttemberg, Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Olgastra\u00dfe 80"
+                },
+                {
+                    "b": "Stuttgart"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "70182"
+                },
+                {
+                    "f": "Baden-W\u00fcrttemberg"
+                },
+                {
+                    "i": "Nach Vereinbarung"
+                },
+                {
+                    "k": "9.18138"
+                },
+                {
+                    "l": "48.77044"
+                },
+                {
+                    "n": "08111000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "z": "Besucheranschrift"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "a": "Konrad-Adenauer-Stra\u00dfe 4"
+                },
+                {
+                    "b": "Stuttgart"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "75433"
+                },
+                {
+                    "f": "Baden-W\u00fcrttemberg"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "711"
+                },
+                {
+                    "f": "2 12-4234"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "711"
+                },
+                {
+                    "i": "2 12-4360"
+                },
+                {
+                    "k": "hstastuttgart@la-bw.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0188"
+                },
+                {
+                    "d": "SWB"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "02"
+                },
+                {
+                    "h": "05"
+                },
+                {
+                    "i": "P"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Sportgeschichte"
+                },
+                {
+                    "a": "Sportwissenschaft"
+                },
+                {
+                    "a": "Geschichtswissenschaft"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "SWB"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Mau2",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Mau2",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Mau2",
+    "identifier": "DE-Mau2",
+    "name": "Sportarchiv im Landesarchiv Baden-W\u00fcrttemberg, Bibliothek",
+    "location": "Stuttgart",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAW"
+}

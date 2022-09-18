@@ -1,0 +1,270 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Me7.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:20-10-09"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:07-05-21"
+                ],
+                {
+                    "t": "09:19:54.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:20-10-09"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "997553677"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "d": "Me 7"
+                },
+                {
+                    "e": "DE-Me7"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "https://polizei.thueringen.de/bildungseinrichtungen/moderne-ausbildungsbedingungen/bibliothek"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://opac.lbs-ilmenau.gbv.de/LNG=DU/DB=3.3/"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Meiningen VerwFH/BZ Polizei"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Th\u00fcringer Verwaltungsfachhochschule, Fachbereich Polizei / Bildungszentrum der Th\u00fcringer Polizei, Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Friedenssiedlung 6"
+                },
+                {
+                    "b": "Meiningen"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "98617"
+                },
+                {
+                    "f": "Th\u00fcringen"
+                },
+                {
+                    "i": "Mo und Do 7.30-18.00, Di-Mi 7.30-15.30, Fr 7.30-11.30"
+                },
+                {
+                    "k": "10.42530"
+                },
+                {
+                    "l": "50.58401"
+                },
+                {
+                    "n": "16066042"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "3693"
+                },
+                {
+                    "f": "8 50-324"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "3693"
+                },
+                {
+                    "i": "8 50-399"
+                },
+                {
+                    "k": "medienstelle-bibliothek.bz@polizei.thueringen.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "02"
+                },
+                {
+                    "h": "06"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Polizei"
+                },
+                {
+                    "a": "Recht"
+                },
+                {
+                    "a": "Sozialwissenschaften"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "THU"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "GBV"
+                },
+                {
+                    "e": "k"
+                },
+                {
+                    "f": "x"
+                },
+                {
+                    "g": "R"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "a"
+                },
+                {
+                    "d": "medienstelle-bibliothek.bz@polizei.thueringen.de"
+                }
+            ],
+            [
+                {
+                    "a": "b"
+                },
+                {
+                    "d": "medienstelle-bibliothek.bz@polizei.thueringen.de"
+                }
+            ],
+            [
+                {
+                    "a": "d"
+                },
+                {
+                    "d": "medienstelle-bibliothek.bz@polizei.thueringen.de"
+                }
+            ],
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "medienstelle-bibliothek.bz@polizei.thueringen.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "medienstelle-bibliothek.bz@polizei.thueringen.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Me7",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Me7",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Me7",
+    "identifier": "DE-Me7",
+    "name": "Th\u00fcringer Verwaltungsfachhochschule, Fachbereich Polizei / Bildungszentrum der Th\u00fcringer Polizei, Bibliothek",
+    "location": "Meiningen",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "THU"
+}

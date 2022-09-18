@@ -1,0 +1,270 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Po24.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:18-11-99"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:05-05-22"
+                ],
+                {
+                    "t": "14:36:02.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "009026185"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "968018-4"
+                },
+                {
+                    "b": "EL660"
+                },
+                {
+                    "d": "Po 24"
+                },
+                {
+                    "e": "DE-Po24"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.blha.de"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Potsdam BLHA"
+                },
+                {
+                    "4": "a"
+                }
+            ],
+            [
+                {
+                    "a": "Potsdam Brandenburg. LHA Bib"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Brandenburgisches Landeshauptarchiv, Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Am M\u00fchlenberg 3"
+                },
+                {
+                    "b": "Potsdam"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "14476"
+                },
+                {
+                    "f": "Brandenburg"
+                },
+                {
+                    "h": "OT Golm"
+                },
+                {
+                    "i": "Mo-Mi 8.00-16.00, Do 10.00-18.00, Fr 8.00-14.00"
+                },
+                {
+                    "j": "Lesesaal"
+                },
+                {
+                    "k": "12.97074"
+                },
+                {
+                    "l": "52.41384"
+                },
+                {
+                    "n": "12054000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Potsdam"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "14404"
+                },
+                {
+                    "f": "Brandenburg"
+                },
+                {
+                    "g": "60 04 49"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "331"
+                },
+                {
+                    "f": "56 74-257"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "331"
+                },
+                {
+                    "i": "56 74-212"
+                },
+                {
+                    "k": "bibliothek@blha.brandenburg.de"
+                }
+            ]
+        ],
+        "035D": [
+            [
+                {
+                    "a": "B 1511"
+                },
+                {
+                    "b": "DE-B1511"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0101"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "02"
+                },
+                {
+                    "h": "08"
+                },
+                {
+                    "i": "P"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Archivwesen"
+                },
+                {
+                    "a": "Brandenburgische Landesgeschichte"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BER"
+                },
+                {
+                    "c": "KOBV"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Po24",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Po24",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Po24",
+    "identifier": "DE-Po24",
+    "name": "Brandenburgisches Landeshauptarchiv, Bibliothek",
+    "location": "Potsdam",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BER"
+}

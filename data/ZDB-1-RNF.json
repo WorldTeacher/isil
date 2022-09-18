@@ -1,0 +1,239 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/ZDB-1-RNF.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:16-02-21"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:16-02-21"
+                ],
+                {
+                    "t": "16:59:19.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:16-02-21"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1227415044"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "d": "ZDB-1-RNF"
+                },
+                {
+                    "e": "ZDB-1-RNF"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://geschichtswissenschaft.proxy.fid-lizenzen.de/fid/retronews/"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "FID-Lizenz Retronews"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Retronews.fr [FID-Lizenz]"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Bayerische Staatsbibliothek, Ludwigstr. 16"
+                },
+                {
+                    "b": "M\u00fcnchen"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "80539"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "k": "11.58015"
+                },
+                {
+                    "l": "48.14751"
+                },
+                {
+                    "n": "09162000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "a": "Deutsches Museum, Bibliothek, Museumsinsel 1"
+                },
+                {
+                    "b": "M\u00fcnchen"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "80538"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "k": "11.58352"
+                },
+                {
+                    "l": "48.13051"
+                },
+                {
+                    "n": "09162000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "W"
+                },
+                {
+                    "3": "Weiterer Standort"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "k": "lizenzen-fid-geschichte@bsb-muenchen.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "P"
+                },
+                {
+                    "f": "89"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Datenbank"
+                },
+                {
+                    "a": "Digitales Pressearchiv der Franz\u00f6sischen Nationalbibliothek. Digitalisate von ca. 1000 Titeln franz\u00f6sischer Zeitungen, angefangen bei der 1631 erschienenen ersten franz\u00f6sischen Wochenzeitung \"La Gazette\" bis in die Anfangsjahre der Vierten Franz\u00f6sischen Republik 1950. Mit Volltextsuche, zahlreichen thematischen Zug\u00e4ngen, semantischer Recherche, verschiedenen Analysefunktionen, Dossiers und einer t\u00e4glichen kuratierten Artikelauswahl."
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "ANL"
+                },
+                {
+                    "e": "n"
+                },
+                {
+                    "f": "x"
+                }
+            ]
+        ],
+        "035P": [
+            [
+                {
+                    "a": "Datenbank"
+                },
+                {
+                    "c": "neu2020"
+                },
+                {
+                    "d": "j"
+                },
+                {
+                    "e": "4"
+                },
+                {
+                    "g": "BnF-Partenariats"
+                },
+                {
+                    "i": "FID-Lizenz"
+                }
+            ]
+        ],
+        "047A": [
+            [
+                {
+                    "a": "Datenbank. - Der deutschlandweite Zugriff auf dieses Produkt wird im Rahmen des durch die Deutsche  Forschungsgemeinschaft (DFG) gef\u00f6rderten Fachinformationsdienstes (FID) Geschichtswissenschaft durch die Bayerische Staatsbibliothek und das Deutsche Museum (verantwortlich f\u00fcr Technikgeschichte) erm\u00f6glicht und organisiert."
+                }
+            ]
+        ]
+    },
+    "_id": "ZDB-1-RNF",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/ZDB-1-RNF",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/ZDB-1-RNF",
+    "identifier": "ZDB-1-RNF",
+    "name": "Retronews.fr [FID-Lizenz]",
+    "location": "M\u00fcnchen",
+    "type": [
+        "Organization",
+        "Product"
+    ],
+    "addressRegion": "ANL"
+}

@@ -1,0 +1,238 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/ZDB-1-SNT.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:23-02-09"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:25-01-21"
+                ],
+                {
+                    "t": "11:04:11.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:23-02-09"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "992837189"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "041155-3"
+                },
+                {
+                    "d": "ZDB-1-SNT"
+                },
+                {
+                    "e": "ZDB-1-SNT"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.scientific.net/"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://www.nationallizenzen.de/angebote/nlproduct.2009-03-11.4362210348"
+                },
+                {
+                    "x": "Produktinfo"
+                },
+                {
+                    "z": "W"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Trans Tech Publications Archiv"
+                },
+                {
+                    "4": "a"
+                }
+            ],
+            [
+                {
+                    "a": "Nationallizenz Scientific.Net"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Scientific.Net : Materials Science & Technology [Nationallizenz]"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Technische Informationsbibliothek (TIB)"
+                },
+                {
+                    "b": "Hannover"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "30167"
+                },
+                {
+                    "k": "9.72001"
+                },
+                {
+                    "l": "52.38163"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "k": "anmeldung.nationallizenzen@tib.eu"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "P"
+                },
+                {
+                    "c": "0168"
+                },
+                {
+                    "d": "BVB"
+                },
+                {
+                    "d": "SWB"
+                },
+                {
+                    "d": "HBV"
+                },
+                {
+                    "f": "89"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "E-Journals"
+                },
+                {
+                    "a": "Archiv von 10 Zeitschriften und Proceedings im Zeitraum 1984 bis zum Jahre 2008 bei Trans Tech Publications erschienenen und online verf\u00fcgbaren Publikationen (insg. 1320 B\u00e4nde mit ca. 400.000 Seiten). Insbesondere im Bereich der modernen Festk\u00f6rper- und Materialforschung stellt das fachlich breit gef\u00e4cherte Archiv mit seinen bekannten und in den g\u00e4ngigen Datenbanken gelisteten Zeitschriften (wie z.B. Material Sciences Forum, Defect and Diffusion Forum, Key Engineering Materials) eine wertvolle Plattform f\u00fcr die wissenschaftliche Literaturrecherche dar"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "ANL"
+                },
+                {
+                    "e": "k"
+                }
+            ]
+        ],
+        "035P": [
+            [
+                {
+                    "a": "E-Journals"
+                },
+                {
+                    "c": "neu 2009"
+                },
+                {
+                    "d": "j"
+                },
+                {
+                    "e": "14"
+                },
+                {
+                    "f": "12"
+                },
+                {
+                    "g": "Trans Tech Publications Ltd."
+                },
+                {
+                    "h": "http://www.nationallizenzen.de/angebote/nlproduct.2009-03-11.4362210348"
+                },
+                {
+                    "i": "Nationallizenz"
+                }
+            ]
+        ],
+        "047A": [
+            [
+                {
+                    "a": "Datenbank. - Der deutschlandweite Zugriff auf dieses Produkt wird durch die F\u00f6rderung der Deutschen Forschungsgemeinschaft (DFG) erm\u00f6glicht und durch die Technische Informationsbibliothek Hannover organisiert"
+                }
+            ]
+        ]
+    },
+    "_id": "ZDB-1-SNT",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/ZDB-1-SNT",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/ZDB-1-SNT",
+    "identifier": "ZDB-1-SNT",
+    "name": "Scientific.Net : Materials Science & Technology [Nationallizenz]",
+    "location": "Hannover",
+    "type": [
+        "Organization",
+        "Product"
+    ],
+    "addressRegion": "ANL"
+}

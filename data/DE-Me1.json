@@ -1,0 +1,262 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Me1.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:18-11-99"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:23-05-18"
+                ],
+                {
+                    "t": "18:44:43.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "00903319X"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "948805-4"
+                },
+                {
+                    "b": "EL386"
+                },
+                {
+                    "d": "Me 1"
+                },
+                {
+                    "e": "DE-Me1"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.thueringen.de/de/staatsarchive"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Meiningen StaatsarchivBib"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Th\u00fcringisches Staatsarchiv Meiningen, Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Schlo\u00df Bibrabau"
+                },
+                {
+                    "b": "Meiningen"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "98617"
+                },
+                {
+                    "f": "Th\u00fcringen"
+                },
+                {
+                    "i": "Mo und Mi 8.00-12.00 und 13.00-15.30, Di und Do 8.00-12.00 und 13.00-18.00"
+                },
+                {
+                    "k": "10.41297"
+                },
+                {
+                    "l": "50.57089"
+                },
+                {
+                    "n": "16066042"
+                },
+                {
+                    "o": "nicht barrierefrei"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Meiningen"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "98606"
+                },
+                {
+                    "f": "Th\u00fcringen"
+                },
+                {
+                    "g": "10 06 54"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "3693"
+                },
+                {
+                    "f": "4 46 70"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "3693"
+                },
+                {
+                    "i": "50 22 18"
+                },
+                {
+                    "k": "meiningen@staatsarchive.thueringen.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0101"
+                },
+                {
+                    "d": "GBV"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "02"
+                },
+                {
+                    "h": "07"
+                },
+                {
+                    "i": "P"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Geschichte <Th\u00fcringen>"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "THU"
+                },
+                {
+                    "c": "GBV"
+                },
+                {
+                    "d": "Kalliope"
+                },
+                {
+                    "e": "k"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "meiningen@staatsarchive.thueringen.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Me1",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Me1",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Me1",
+    "identifier": "DE-Me1",
+    "name": "Th\u00fcringisches Staatsarchiv Meiningen, Bibliothek",
+    "location": "Meiningen",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "THU"
+}

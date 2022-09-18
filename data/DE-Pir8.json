@@ -1,0 +1,260 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Pir8.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:28-10-21"
+                ],
+                {
+                    "t": "09:21:05.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020597533"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "WB332"
+                },
+                {
+                    "d": "Pir 8"
+                },
+                {
+                    "e": "DE-Pir8"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.bibliothek-pirna.de"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Pirna StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtbibliothek Pirna"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Dohnaische Str. 76"
+                },
+                {
+                    "b": "Pirna"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "01796"
+                },
+                {
+                    "f": "Sachsen"
+                },
+                {
+                    "i": "Di und Do 10.00-19.00, Mi und Fr 10.00-16.00 und Sa 10.00-13.00"
+                },
+                {
+                    "k": "13.93945"
+                },
+                {
+                    "l": "50.96300"
+                },
+                {
+                    "n": "14628270"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Pirna"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "01796"
+                },
+                {
+                    "f": "Sachsen"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "3501"
+                },
+                {
+                    "f": "55 62 79"
+                },
+                {
+                    "k": "stadtbibliothek@pirna.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "08"
+                },
+                {
+                    "h": "07"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "SAX"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "d": "\u00d6VK"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "a"
+                },
+                {
+                    "d": "stadtbibliothek@pirna.de"
+                }
+            ],
+            [
+                {
+                    "a": "b"
+                },
+                {
+                    "d": "stadtbibliothek@pirna.de"
+                }
+            ],
+            [
+                {
+                    "a": "d"
+                },
+                {
+                    "d": "stadtbibliothek@pirna.de"
+                }
+            ],
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "stadtbibliothek@pirna.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "stadtbibliothek@pirna.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Pir8",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Pir8",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Pir8",
+    "identifier": "DE-Pir8",
+    "name": "Stadtbibliothek Pirna",
+    "location": "Pirna",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "SAX"
+}

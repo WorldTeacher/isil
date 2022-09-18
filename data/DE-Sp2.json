@@ -1,0 +1,297 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Sp2.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:28-11-18"
+                ],
+                {
+                    "t": "16:37:17.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020598092"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "678102-0"
+                },
+                {
+                    "b": "DD520"
+                },
+                {
+                    "d": "Sp 2"
+                },
+                {
+                    "e": "DE-Sp2"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.sankt-german-speyer.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://www.psp.dabis.cc/PSI/init.psi"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Di\u00f6zesanbibliothek Speyer"
+                },
+                {
+                    "4": "a"
+                }
+            ],
+            [
+                {
+                    "a": "Speyer Bibliothek St. German"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Bibliothek St. German"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Am Germansberg 60"
+                },
+                {
+                    "b": "Speyer"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "67346"
+                },
+                {
+                    "f": "Rheinland-Pfalz"
+                },
+                {
+                    "i": "Mo-Fr 10.00-17.00, Sa 9.00-13.00"
+                },
+                {
+                    "k": "8.43536"
+                },
+                {
+                    "l": "49.30772"
+                },
+                {
+                    "n": "07318000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Speyer"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "67322"
+                },
+                {
+                    "f": "Rheinland-Pfalz"
+                },
+                {
+                    "g": "12 20"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "6232"
+                },
+                {
+                    "f": "60 30-50"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "6232"
+                },
+                {
+                    "i": "60 30-30"
+                },
+                {
+                    "k": "Bibliothek@Sankt-German-Speyer.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0302"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "10"
+                },
+                {
+                    "h": "08"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Katholische Theologie"
+                },
+                {
+                    "a": "Religionsp\u00e4dagogik"
+                },
+                {
+                    "a": "Di\u00f6zesangeschichte"
+                },
+                {
+                    "a": "Edith Stein"
+                },
+                {
+                    "a": "Buchmalerei"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "b"
+                },
+                {
+                    "d": "bibliothek@sankt-german-speyer.de"
+                }
+            ],
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "bibliothek@sankt-german-speyer.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "bibliothek@sankt-german-speyer.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Sp2",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Sp2",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Sp2",
+    "identifier": "DE-Sp2",
+    "name": "Bibliothek St. German",
+    "location": "Speyer",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NRW"
+}

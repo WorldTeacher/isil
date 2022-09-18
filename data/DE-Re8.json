@@ -1,0 +1,266 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Re8.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:25-10-05"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:09-09-20"
+                ],
+                {
+                    "t": "08:50:49.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:25-10-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "976836165"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "848008-4"
+                },
+                {
+                    "b": "DD428"
+                },
+                {
+                    "d": "Re 8"
+                },
+                {
+                    "e": "DE-Re8"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "https://www.regensburg.de/stadtarchiv"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://www.regensburger-katalog.de"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Regensburg Stadtarchiv"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtarchiv Regensburg"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Keplerstr. 1"
+                },
+                {
+                    "b": "Regensburg"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "93047"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "i": "Mo-Do 10.00-16.00, Fr 9.00-12.00"
+                },
+                {
+                    "k": "12.09383"
+                },
+                {
+                    "l": "49.02103"
+                },
+                {
+                    "n": "09362000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Regensburg"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "93019"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "g": "11 06 43"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "941"
+                },
+                {
+                    "f": "5 07-1455"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "941"
+                },
+                {
+                    "i": "5 07-4458"
+                },
+                {
+                    "k": "stadtarchiv@regensburg.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0075"
+                },
+                {
+                    "d": "BVB"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "07"
+                },
+                {
+                    "i": "P"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Regensburg <Stadtgeschichte>"
+                },
+                {
+                    "a": "Mittelalter"
+                },
+                {
+                    "a": "Stadtgeschichte"
+                },
+                {
+                    "a": "Bayern Landesgeschichte"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAY"
+                },
+                {
+                    "c": "BVB"
+                },
+                {
+                    "d": "Kalliope"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Re8",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Re8",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Re8",
+    "identifier": "DE-Re8",
+    "name": "Stadtarchiv Regensburg",
+    "location": "Regensburg",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAY"
+}

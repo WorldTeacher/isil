@@ -1,0 +1,220 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/ZDB-1-CLM.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:28-03-07"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:19-12-18"
+                ],
+                {
+                    "t": "18:29:54.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:28-03-07"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "983665109"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "d": "ZDB-1-CLM"
+                },
+                {
+                    "e": "ZDB-1-CLM"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.classiques-garnier.com/numerique/"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://www.classiques-garnier.com/numerique-bases/index.php?module=App&action=FrameMain&colname=ColClm"
+                },
+                {
+                    "x": "Login"
+                },
+                {
+                    "z": "W"
+                }
+            ],
+            [
+                {
+                    "u": "http://www.nationallizenzen.de/angebote/nlproduct.2007-02-24.8922326481"
+                },
+                {
+                    "x": "Produktinfo"
+                },
+                {
+                    "z": "W"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Nationallizenz litt.m\u00e9di\u00e9v."
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Le Corpus de la litt\u00e9rature m\u00e9di\u00e9vale, des origines \u00e0 la fin du Xve si\u00e8cle [Nationallizenz]"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Bayerische Staatsbibliothek M\u00fcnchen"
+                },
+                {
+                    "b": "M\u00fcnchen"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "80539"
+                },
+                {
+                    "k": "11.58015"
+                },
+                {
+                    "l": "48.14751"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "k": "nationallizenzen@bsb-muenchen.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "P"
+                },
+                {
+                    "f": "89"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "E-Books"
+                },
+                {
+                    "a": "Volltextdatenbank mit \u00fcber 900, in der langue d'oi\u034f\u0308l verfassten Werken der alt- und mittelfranz\u00f6sischen Literatur vom 9. Jahrhundert bis zum Ende des 15. Jahrhunderts. Repr\u00e4sentiert sind Erz\u00e4hlprosa, Chanson de geste, Lyrik sowie religi\u00f6ses und weltliches Drama"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "ANL"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ],
+        "035P": [
+            [
+                {
+                    "a": "E-Books"
+                },
+                {
+                    "c": "neu 2007"
+                },
+                {
+                    "d": "n"
+                },
+                {
+                    "g": "Classiques Garnier Num\u00e9rique"
+                },
+                {
+                    "h": "http://www.nationallizenzen.de/angebote/nlproduct.2007-02-24.8922326481"
+                },
+                {
+                    "i": "Nationallizenz"
+                }
+            ]
+        ],
+        "047A": [
+            [
+                {
+                    "a": "Datenbank. - Der deutschlandweite Zugriff auf dieses Produkt wird durch die F\u00f6rderung der Deutschen Forschungsgemeinschaft (DFG) erm\u00f6glicht und durch die Bayerische Staatsbibliothek M\u00fcnchen organisiert"
+                }
+            ]
+        ]
+    },
+    "_id": "ZDB-1-CLM",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/ZDB-1-CLM",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/ZDB-1-CLM",
+    "identifier": "ZDB-1-CLM",
+    "name": "Le Corpus de la litt\u00e9rature m\u00e9di\u00e9vale, des origines \u00e0 la fin du Xve si\u00e8cle [Nationallizenz]",
+    "location": "M\u00fcnchen",
+    "type": [
+        "Organization",
+        "Product"
+    ],
+    "addressRegion": "ANL"
+}

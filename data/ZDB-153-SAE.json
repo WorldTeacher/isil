@@ -1,0 +1,200 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/ZDB-153-SAE.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:01-04-16"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:02-08-18"
+                ],
+                {
+                    "t": "16:32:44.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:01-04-16"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1095248928"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "d": "ZDB-153-SAE"
+                },
+                {
+                    "e": "ZDB-153-SAE"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "https://saemobilus.sae.org/"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "SAE Digital Library (fr\u00fcherer Name)"
+                },
+                {
+                    "4": "a"
+                }
+            ],
+            [
+                {
+                    "a": "SAE Digital Library"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "SAE Mobilus"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "SAE International Headquarters, 400 Commonwealth Drive"
+                },
+                {
+                    "b": "Warrendale"
+                },
+                {
+                    "d": "US"
+                },
+                {
+                    "e": "15096"
+                },
+                {
+                    "f": "PA, USA"
+                },
+                {
+                    "k": "-80.07950"
+                },
+                {
+                    "l": "40.65340"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "k": "customerservice@sae.org"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "P"
+                },
+                {
+                    "f": "89"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "E-Books"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "WWW"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ],
+        "035P": [
+            [
+                {
+                    "a": "E-Books"
+                },
+                {
+                    "d": "n"
+                },
+                {
+                    "g": "SAE International"
+                },
+                {
+                    "i": "Anbieter kostenpflichtig"
+                }
+            ]
+        ],
+        "047A": [
+            [
+                {
+                    "a": "Online-Ressource / Datenbank"
+                }
+            ]
+        ]
+    },
+    "_id": "ZDB-153-SAE",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/ZDB-153-SAE",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/ZDB-153-SAE",
+    "identifier": "ZDB-153-SAE",
+    "name": "SAE Mobilus",
+    "location": "Warrendale",
+    "type": [
+        "Organization",
+        "Product"
+    ],
+    "addressRegion": "WWW"
+}

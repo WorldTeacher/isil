@@ -1,0 +1,276 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Re9.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:25-10-05"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:07-11-16"
+                ],
+                {
+                    "t": "16:00:27.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:25-10-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "976836882"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "848009-6"
+                },
+                {
+                    "b": "DD441"
+                },
+                {
+                    "d": "Re 9"
+                },
+                {
+                    "e": "DE-Re9"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.hvor.de/"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://www.regensburger-katalog.de"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Regensburg Hist.VereinOberpf."
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Historischer Verein f\u00fcr Oberpfalz und Regensburg, Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Keplerstr. 1"
+                },
+                {
+                    "b": "Regensburg"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "93047"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "i": "Mo-Do 9.00-12.00 und 14.00-16.00, Fr 9.00-12.00"
+                },
+                {
+                    "k": "12.09384"
+                },
+                {
+                    "l": "49.02103"
+                },
+                {
+                    "n": "09362000"
+                },
+                {
+                    "o": "nicht barrierefrei"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "941"
+                },
+                {
+                    "f": "5 67 46 84 und 5 07-1452"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "941"
+                },
+                {
+                    "i": "5 04 79 93"
+                },
+                {
+                    "k": "bibliothek@hvor.de"
+                }
+            ],
+            [
+                {
+                    "a": "W"
+                },
+                {
+                    "b": "Weitere E-Mail"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "k": "info@hvor.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0075"
+                },
+                {
+                    "d": "BVB"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "08"
+                },
+                {
+                    "h": "07"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Oberpfalz und Regensburg <Geschichte>"
+                },
+                {
+                    "a": "Oberpfalz und Regensburg <Landeskunde>"
+                },
+                {
+                    "a": "Historische Tauschschriftenbest\u00e4nde des Vereins europaweit"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAY"
+                },
+                {
+                    "c": "BVB"
+                },
+                {
+                    "e": "l"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "bibliothek@hvor.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "bibliothek@hvor.de"
+                }
+            ]
+        ],
+        "047A": [
+            [
+                {
+                    "a": "Ausleihe \u00fcber das Stadtarchiv Regensburg, Lesesaal zu den obigen \u00d6ffnungszeiten; spezielle direkte Ausleihe Mi 14.00-16.00 an Vereinsmitglieder"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Re9",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Re9",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Re9",
+    "identifier": "DE-Re9",
+    "name": "Historischer Verein f\u00fcr Oberpfalz und Regensburg, Bibliothek",
+    "location": "Regensburg",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAY"
+}

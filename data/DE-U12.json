@@ -1,0 +1,211 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-U12.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:24-09-04"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:13-10-16"
+                ],
+                {
+                    "t": "16:43:36.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "026497565"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "d": "U 12"
+                },
+                {
+                    "e": "DE-U12"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.arbg-ulm.de/"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Ulm Arbeitsgericht"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Arbeitsgericht Ulm, Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Zeughausgasse 12"
+                },
+                {
+                    "b": "Ulm"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "89073"
+                },
+                {
+                    "f": "Baden-W\u00fcrttemberg"
+                },
+                {
+                    "i": "Mo-Do 9.00-15.30, Fr 9.00-12.00"
+                },
+                {
+                    "j": "nicht \u00f6ffentlich zug\u00e4nglich"
+                },
+                {
+                    "k": "10.00080"
+                },
+                {
+                    "l": "48.40007"
+                },
+                {
+                    "n": "08421000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "731"
+                },
+                {
+                    "f": "1 89-0"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "731"
+                },
+                {
+                    "i": "1 89-2377"
+                },
+                {
+                    "k": "poststelle-ulm@lag.bwl.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "02"
+                },
+                {
+                    "h": "01"
+                },
+                {
+                    "i": "P"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Arbeitsrecht"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAW"
+                },
+                {
+                    "c": "SWB"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-U12",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-U12",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-U12",
+    "identifier": "DE-U12",
+    "name": "Arbeitsgericht Ulm, Bibliothek",
+    "location": "Ulm",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAW"
+}

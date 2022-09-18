@@ -1,0 +1,183 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Wet3.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:12-04-10"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:11-05-22"
+                ],
+                {
+                    "t": "12:47:46.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:12-04-10"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1001455665"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "101034-7"
+                },
+                {
+                    "d": "Wet 3"
+                },
+                {
+                    "e": "DE-Wet3"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "https://www.wetzlar.de/vv/oe/188010100000023286.php"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Wetzlar Hist. Archiv"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Historisches Archiv Wetzlar"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Hauser Gasse 17"
+                },
+                {
+                    "b": "Wetzlar"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "35578"
+                },
+                {
+                    "f": "Hessen"
+                },
+                {
+                    "k": "8.50060"
+                },
+                {
+                    "l": "50.55617"
+                },
+                {
+                    "n": "06532023"
+                },
+                {
+                    "o": "nicht barrierefrei"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "k": "archiv@wetzlar.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0367"
+                },
+                {
+                    "f": "52"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "01"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "HES"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Wet3",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Wet3",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Wet3",
+    "identifier": "DE-Wet3",
+    "name": "Historisches Archiv Wetzlar",
+    "location": "Wetzlar",
+    "type": [
+        "Organization",
+        "Archive"
+    ],
+    "addressRegion": "HES"
+}

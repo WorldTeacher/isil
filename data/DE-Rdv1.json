@@ -1,0 +1,180 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Rdv1.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:02-03-10"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:11-05-22"
+                ],
+                {
+                    "t": "13:01:11.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:02-03-10"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1000545547"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "101179-0"
+                },
+                {
+                    "d": "Rdv 1"
+                },
+                {
+                    "e": "DE-Rdv1"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.radevormwald.de/cms222/rat_verwaltung/bis/dienstleistungen/212031/index.shtml"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Radevormwald Stadtarchiv"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtarchiv Radevormwald"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Hohenfuhrstr. 13"
+                },
+                {
+                    "b": "Radevormwald"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "42477"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "k": "7.36006"
+                },
+                {
+                    "l": "51.20271"
+                },
+                {
+                    "n": "05374036"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "k": "stadt@radevormwald.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0367"
+                },
+                {
+                    "f": "52"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "01"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Rdv1",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Rdv1",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Rdv1",
+    "identifier": "DE-Rdv1",
+    "name": "Stadtarchiv Radevormwald",
+    "location": "Radevormwald",
+    "type": [
+        "Organization",
+        "Archive"
+    ],
+    "addressRegion": "NRW"
+}

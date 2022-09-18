@@ -1,0 +1,173 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-WC11.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:14-06-18"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:12-12-18"
+                ],
+                {
+                    "t": "14:09:10.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:14-06-18"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1161133143"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "999111-0"
+                },
+                {
+                    "d": "WC 11"
+                },
+                {
+                    "e": "DE-WC11"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Berlin TestBib WebCat"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Testbibliothek f\u00fcr den Webcat"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Teststr. 44"
+                },
+                {
+                    "b": "Berlin"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "10111"
+                },
+                {
+                    "f": "Landberlin"
+                },
+                {
+                    "h": "Hauptgeb\u00e4ude"
+                },
+                {
+                    "i": "Mo-Fr 9.00-21.00, Sa 9.00-19.00"
+                },
+                {
+                    "k": "13.47760"
+                },
+                {
+                    "l": "52.60272"
+                },
+                {
+                    "n": "11000000"
+                },
+                {
+                    "o": "barrierefrei"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0333"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "07"
+                },
+                {
+                    "h": "09"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BER"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ],
+        "047A": [
+            [
+                {
+                    "a": "nur f\u00fcr Testzwecke WebCat"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-WC11",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-WC11",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-WC11",
+    "identifier": "DE-WC11",
+    "name": "Testbibliothek f\u00fcr den Webcat",
+    "location": "Berlin",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BER"
+}

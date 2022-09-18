@@ -1,0 +1,257 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Wa1.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:18-11-99"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:07-11-16"
+                ],
+                {
+                    "t": "13:28:48.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "009027777"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "928103-4"
+                },
+                {
+                    "b": "ED458"
+                },
+                {
+                    "d": "Wa 1"
+                },
+                {
+                    "e": "DE-Wa1"
+                },
+                {
+                    "f": "IOW"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.io-warnemuende.de/"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://opac.lbs-rostock.gbv.de/DB=1.2/LNG=DU/"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Rostock Inst.f.Ostseefor. WGL"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Leibniz-Institut f\u00fcr Ostseeforschung Warnem\u00fcnde, Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Seestr. 15"
+                },
+                {
+                    "b": "Rostock"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "18119"
+                },
+                {
+                    "f": "Mecklenburg-Vorpommern"
+                },
+                {
+                    "i": "Mo-Di und Do-Fr 8.00-11.30 und 12.30-15.30, Mi 8.00-11.30 und 12.30-17.00"
+                },
+                {
+                    "k": "12.08172"
+                },
+                {
+                    "l": "54.17967"
+                },
+                {
+                    "n": "13003000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Rostock"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "18112"
+                },
+                {
+                    "f": "Mecklenburg-Vorpommern"
+                },
+                {
+                    "g": "30 11 61"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "381"
+                },
+                {
+                    "f": "51 97-460 und -461"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "381"
+                },
+                {
+                    "i": "51 97-440"
+                },
+                {
+                    "k": "bibliothek@io-warnemuende.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0111"
+                },
+                {
+                    "d": "WGL"
+                },
+                {
+                    "e": "GBV"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "06"
+                },
+                {
+                    "h": "07"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Meereskunde"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "HAM"
+                },
+                {
+                    "c": "GBV"
+                },
+                {
+                    "e": "l"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Wa1",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Wa1",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Wa1",
+    "identifier": "DE-Wa1",
+    "name": "Leibniz-Institut f\u00fcr Ostseeforschung Warnem\u00fcnde, Bibliothek",
+    "location": "Rostock",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "HAM"
+}

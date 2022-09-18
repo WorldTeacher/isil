@@ -1,0 +1,207 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/ZDB-1-BAA.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:16-05-06"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:05-12-18"
+                ],
+                {
+                    "t": "14:23:00.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:16-05-06"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "979777488"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "d": "ZDB-1-BAA"
+                },
+                {
+                    "e": "ZDB-1-BAA"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.nationallizenzen.de/angebote/nlproduct.2006-03-09.2627771694"
+                },
+                {
+                    "x": "Produktinfo"
+                },
+                {
+                    "z": "W"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Nationallizenz BIOSIS"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "BIOSIS previews / Biological Abstracts [Nationallizenz]"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Universit\u00e4tsbibliothek Johann Christian Senckenberg Frankfurt/Main"
+                },
+                {
+                    "b": "Frankfurt/Main"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "60325"
+                },
+                {
+                    "k": "8.65292"
+                },
+                {
+                    "l": "50.12043"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "k": "nationallizenzen@ub.uni-frankfurt.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "P"
+                },
+                {
+                    "f": "89"
+                },
+                {
+                    "k": "WWW 49/BAA"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "E-Books"
+                },
+                {
+                    "a": "Archiv der Datenbank BIOSIS mit ca. 5,8 Mio. Eintr\u00e4gen"
+                },
+                {
+                    "a": "Berichtszeitraum: Biological Abstracts Archive 1926-1968, Biological Abstracts 1969-2004"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "ANL"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ],
+        "035P": [
+            [
+                {
+                    "a": "E-Books"
+                },
+                {
+                    "c": "neu 2006"
+                },
+                {
+                    "d": "n"
+                },
+                {
+                    "g": "Thomson/Biosis; OvidSP"
+                },
+                {
+                    "h": "http //www.nationallizenzen.de/angebote/nlproduct.2006-03-09.2627771694"
+                },
+                {
+                    "i": "Nationallizenz"
+                }
+            ]
+        ],
+        "047A": [
+            [
+                {
+                    "a": "Datenbank. - Der deutschlandweite Zugriff auf dieses Produkt wird durch die F\u00f6rderung der Deutschen Forschungsgemeinschaft (DFG) erm\u00f6glicht und durch die Universit\u00e4tsbibliothek Johann Christian Senckenberg Frankfurt/Main organisiert"
+                }
+            ]
+        ]
+    },
+    "_id": "ZDB-1-BAA",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/ZDB-1-BAA",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/ZDB-1-BAA",
+    "identifier": "ZDB-1-BAA",
+    "name": "BIOSIS previews / Biological Abstracts [Nationallizenz]",
+    "location": "Frankfurt/Main",
+    "type": [
+        "Organization",
+        "Product"
+    ],
+    "addressRegion": "ANL"
+}

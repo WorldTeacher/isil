@@ -1,0 +1,203 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/ZDB-1-CNKE.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:28-10-20"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:03-06-21"
+                ],
+                {
+                    "t": "09:31:43.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:28-10-20"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1220388025"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "d": "ZDB-1-CNKE"
+                },
+                {
+                    "e": "ZDB-1-CNKE"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://erf.sbb.spk-berlin.de:80/han/cnkimaster-crossasia"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://oversea.cnki.net/kns/brief/result.aspx?dbPrefix=CMFD"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "FID-Lizenz Master's theses"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "CNKI / China master's theses full-text database : CMFD [FID-Lizenz]"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Staatsbibliothek zu Berlin - Preu\u00dfischer Kulturbesitz"
+                },
+                {
+                    "b": "Berlin"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "10785"
+                },
+                {
+                    "k": "13.37063"
+                },
+                {
+                    "l": "52.50771"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "k": "x-asia@sbb.spk-berlin.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "P"
+                },
+                {
+                    "f": "89"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "E-Books"
+                },
+                {
+                    "a": "Masterarbeiten"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "ANL"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ],
+        "035P": [
+            [
+                {
+                    "a": "E-Books"
+                },
+                {
+                    "c": "k.A"
+                },
+                {
+                    "d": "n"
+                },
+                {
+                    "g": "China Academic Journals Electronic Publishing House"
+                },
+                {
+                    "i": "FID-Lizenz"
+                }
+            ]
+        ],
+        "047A": [
+            [
+                {
+                    "a": "Datenbank. - Der Zugriff auf dieses Produkt wird von der DFG finanziert und vom FID Asien erm\u00f6glicht"
+                }
+            ]
+        ]
+    },
+    "_id": "ZDB-1-CNKE",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/ZDB-1-CNKE",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/ZDB-1-CNKE",
+    "identifier": "ZDB-1-CNKE",
+    "name": "CNKI / China master's theses full-text database : CMFD [FID-Lizenz]",
+    "location": "Berlin",
+    "type": [
+        "Organization",
+        "Product"
+    ],
+    "addressRegion": "ANL"
+}

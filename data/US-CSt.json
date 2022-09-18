@@ -1,0 +1,161 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/US-CSt.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:07-12-13"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:05-04-16"
+                ],
+                {
+                    "t": "14:33:22.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:07-12-13"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1045144959"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "c": "MARC CSt"
+                },
+                {
+                    "e": "US-CSt"
+                },
+                {
+                    "h": "OCLC-STF"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://library.stanford.edu/"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Stanford Univ. Library"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stanford University Libraries,  Cecil H. Green Library"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "557 Escondido Mall"
+                },
+                {
+                    "b": "Stanford"
+                },
+                {
+                    "d": "US"
+                },
+                {
+                    "e": "94305-6063"
+                },
+                {
+                    "f": "CA, USA"
+                },
+                {
+                    "k": "-122.16684"
+                },
+                {
+                    "l": "37.42663"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "b": "j"
+                },
+                {
+                    "k": "infocenter@stanford.edu"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "f": "60"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "d": "Kalliope"
+                }
+            ]
+        ]
+    },
+    "_id": "US-CSt",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/US-CSt",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/US-CSt",
+    "identifier": "US-CSt",
+    "name": "Stanford University Libraries,  Cecil H. Green Library",
+    "location": "Stanford",
+    "type": [
+        "Organization",
+        "Library"
+    ]
+}

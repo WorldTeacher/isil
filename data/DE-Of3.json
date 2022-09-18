@@ -1,0 +1,186 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Of3.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:02-03-10"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:11-05-22"
+                ],
+                {
+                    "t": "13:02:10.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:02-03-10"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1000537102"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "101185-6"
+                },
+                {
+                    "d": "Of 3"
+                },
+                {
+                    "e": "DE-Of3"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.haus-der-stadtgeschichte.de"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Offenbach Stadtarchiv"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtarchiv Offenbach"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Herrnstr. 61"
+                },
+                {
+                    "b": "Offenbach/Main"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "63065"
+                },
+                {
+                    "f": "Hessen"
+                },
+                {
+                    "k": "8.76158"
+                },
+                {
+                    "l": "50.10831"
+                },
+                {
+                    "n": "06413000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "69 80 65 20 48"
+                },
+                {
+                    "k": "haus-der-stadtgeschichte@offenbach.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0367"
+                },
+                {
+                    "f": "52"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "01"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "HES"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Of3",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Of3",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Of3",
+    "identifier": "DE-Of3",
+    "name": "Stadtarchiv Offenbach",
+    "location": "Offenbach/Main",
+    "type": [
+        "Organization",
+        "Archive"
+    ],
+    "addressRegion": "HES"
+}

@@ -1,0 +1,131 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-MUS-802019.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-01-12"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:12-10-20"
+                ],
+                {
+                    "t": "08:42:30.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:11-01-12"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1018746307"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "e": "DE-MUS-802019"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.museen-in-deutschland.de/singleview.php?muges=802019"
+                },
+                {
+                    "x": "Weitere Informationen"
+                },
+                {
+                    "z": "W"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Herbergsmuseum"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Bergstra\u00dfe 15"
+                },
+                {
+                    "b": "Blankenburg/Harz"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "38889"
+                },
+                {
+                    "f": "Sachsen-Anhalt"
+                },
+                {
+                    "k": "10.96670"
+                },
+                {
+                    "l": "51.78330"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "m"
+                },
+                {
+                    "f": "86"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-MUS-802019",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-MUS-802019",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-MUS-802019",
+    "identifier": "DE-MUS-802019",
+    "name": "Herbergsmuseum",
+    "location": "Blankenburg/Harz",
+    "type": [
+        "Organization",
+        "Museum"
+    ]
+}

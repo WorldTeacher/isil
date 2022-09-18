@@ -1,0 +1,131 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-MUS-888711.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-01-12"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:12-10-20"
+                ],
+                {
+                    "t": "08:06:47.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:11-01-12"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "101875296X"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "e": "DE-MUS-888711"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.museen-in-deutschland.de/singleview.php?muges=888711"
+                },
+                {
+                    "x": "Weitere Informationen"
+                },
+                {
+                    "z": "W"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Heimatstube"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Schulstra\u00dfe 79"
+                },
+                {
+                    "b": "Neudorf"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "06493"
+                },
+                {
+                    "f": "Sachsen-Anhalt"
+                },
+                {
+                    "k": "11.11792"
+                },
+                {
+                    "l": "51.60779"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "m"
+                },
+                {
+                    "f": "86"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-MUS-888711",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-MUS-888711",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-MUS-888711",
+    "identifier": "DE-MUS-888711",
+    "name": "Heimatstube",
+    "location": "Neudorf",
+    "type": [
+        "Organization",
+        "Museum"
+    ]
+}

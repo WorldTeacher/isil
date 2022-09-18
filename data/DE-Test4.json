@@ -1,0 +1,230 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Test4.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:14-06-21"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:25-06-21"
+                ],
+                {
+                    "t": "09:34:13.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:14-06-21"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1235350339"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "348004-5"
+                },
+                {
+                    "d": "Test 4"
+                },
+                {
+                    "e": "DE-Test4"
+                },
+                {
+                    "f": "GBV"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.gbv.de"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "G\u00f6ttingen TestB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "VZG-Testbibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Platz der G\u00f6ttinger Sieben 1"
+                },
+                {
+                    "b": "G\u00f6ttingen"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "37073"
+                },
+                {
+                    "f": "Niedersachsen"
+                },
+                {
+                    "k": "9.93492"
+                },
+                {
+                    "l": "51.53937"
+                },
+                {
+                    "n": "03152012"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "G\u00f6ttingen"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "37070"
+                },
+                {
+                    "f": "Niedersachsen"
+                },
+                {
+                    "g": "29 32"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "551"
+                },
+                {
+                    "f": "39-31000"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "551"
+                },
+                {
+                    "i": "39-31999"
+                },
+                {
+                    "k": "gbv@gbv.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0111"
+                },
+                {
+                    "e": "GBV"
+                },
+                {
+                    "f": "96"
+                },
+                {
+                    "g": "02"
+                },
+                {
+                    "h": "11"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NIE"
+                },
+                {
+                    "c": "GBV"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Test4",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Test4",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Test4",
+    "identifier": "DE-Test4",
+    "name": "VZG-Testbibliothek",
+    "location": "G\u00f6ttingen",
+    "type": [
+        "Organization",
+        "Organization"
+    ],
+    "addressRegion": "NIE"
+}

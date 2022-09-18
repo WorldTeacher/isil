@@ -1,0 +1,247 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/ZDB-1-PAO.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:23-02-06"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:05-12-18"
+                ],
+                {
+                    "t": "14:25:00.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:23-02-06"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "978682297"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "041035-4"
+                },
+                {
+                    "d": "ZDB-1-PAO"
+                },
+                {
+                    "e": "ZDB-1-PAO"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://search.proquest.com/pao"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://www.nationallizenzen.de/angebote/nlproduct.2006-03-10.0963879694"
+                },
+                {
+                    "x": "Produktinfo"
+                },
+                {
+                    "z": "W"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "PAO"
+                },
+                {
+                    "4": "a"
+                }
+            ],
+            [
+                {
+                    "a": "Nationallizenz PAO"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Periodicals Archive Online [Nationallizenz]"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Universit\u00e4tsbibliothek Johann Christian Senckenberg Frankfurt/Main"
+                },
+                {
+                    "b": "Frankfurt/Main"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "60325"
+                },
+                {
+                    "k": "8.65292"
+                },
+                {
+                    "l": "50.12043"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "k": "nationallizenzen@ub.uni-frankfurt.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "P"
+                },
+                {
+                    "c": "0168"
+                },
+                {
+                    "d": "BVB"
+                },
+                {
+                    "d": "SWB"
+                },
+                {
+                    "d": "HBV"
+                },
+                {
+                    "f": "89"
+                },
+                {
+                    "k": "WWW 49/PAO"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "E-Journals"
+                },
+                {
+                    "a": "Das Archiv enth\u00e4lt insgesamt 500 Zeitschriften mit 1,9 Mio. Artikeln oder 12,9 Mio. Seiten"
+                },
+                {
+                    "a": "Die Nationallizenz beinhaltet die Kollektionen 1-6"
+                },
+                {
+                    "a": "Berichtszeitraum: 1802-2000"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "ANL"
+                },
+                {
+                    "e": "k"
+                }
+            ]
+        ],
+        "035P": [
+            [
+                {
+                    "a": "E-Journals"
+                },
+                {
+                    "c": "neu 2006"
+                },
+                {
+                    "d": "j"
+                },
+                {
+                    "e": "500"
+                },
+                {
+                    "f": "647"
+                },
+                {
+                    "g": "ProQuest Information and Learning; Chadwyck Healey"
+                },
+                {
+                    "h": "http://www.nationallizenzen.de/angebote/nlproduct.2006-03-10.0963879694"
+                },
+                {
+                    "i": "Nationallizenz"
+                }
+            ]
+        ],
+        "047A": [
+            [
+                {
+                    "a": "Datenbank. - Der deutschlandweite Zugriff auf dieses Produkt wird durch die F\u00f6rderung der Deutschen Forschungsgemeinschaft (DFG) erm\u00f6glicht und durch die Universit\u00e4tsbibliothek Johann Christian Senckenberg Frankfurt/Main organisiert"
+                }
+            ]
+        ]
+    },
+    "_id": "ZDB-1-PAO",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/ZDB-1-PAO",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/ZDB-1-PAO",
+    "identifier": "ZDB-1-PAO",
+    "name": "Periodicals Archive Online [Nationallizenz]",
+    "location": "Frankfurt/Main",
+    "type": [
+        "Organization",
+        "Product"
+    ],
+    "addressRegion": "ANL"
+}

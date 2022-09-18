@@ -1,0 +1,245 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Met1.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:22-07-19"
+                ],
+                {
+                    "t": "10:28:20.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020596677"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "838020-X"
+                },
+                {
+                    "b": "DC503"
+                },
+                {
+                    "d": "Met 1"
+                },
+                {
+                    "e": "DE-Met1"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.kloster-metten.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://katalog.bib-bvb.de/avanti/bam/opac.html"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Metten Benediktinerabtei"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Benediktinerabtei Metten, Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Abteistr. 3"
+                },
+                {
+                    "b": "Metten"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "94526"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "i": "Mo-Do 7.30-16.30, Fr 7.30-15.00"
+                },
+                {
+                    "k": "12.91788"
+                },
+                {
+                    "l": "48.85589"
+                },
+                {
+                    "n": "09271132"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "991"
+                },
+                {
+                    "f": "91 08-125"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "991"
+                },
+                {
+                    "i": "91 08-211"
+                },
+                {
+                    "k": "bibliothek@kloster-metten.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0094"
+                },
+                {
+                    "d": "BVB"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "10"
+                },
+                {
+                    "h": "08"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAY"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "BVB"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "bibliothek@kloster-metten.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "bibliothek@kloster-metten.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Met1",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Met1",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Met1",
+    "identifier": "DE-Met1",
+    "name": "Benediktinerabtei Metten, Bibliothek",
+    "location": "Metten",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAY"
+}

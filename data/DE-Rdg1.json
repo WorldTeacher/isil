@@ -1,0 +1,180 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Rdg1.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:31-03-10"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:11-05-22"
+                ],
+                {
+                    "t": "12:49:37.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:31-03-10"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1001255771"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "101065-7"
+                },
+                {
+                    "d": "Rdg 1"
+                },
+                {
+                    "e": "DE-Rdg1"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.radeburg.de/"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Radeburg Stadtarchiv"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtarchiv Radeburg"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Heinrich-Zille-Str. 9"
+                },
+                {
+                    "b": "Radeburg"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "01471"
+                },
+                {
+                    "f": "Sachsen"
+                },
+                {
+                    "k": "13.72549"
+                },
+                {
+                    "l": "51.21501"
+                },
+                {
+                    "n": "14627220"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "k": "rathaus@radeburg.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0367"
+                },
+                {
+                    "f": "52"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "01"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "SAX"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Rdg1",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Rdg1",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Rdg1",
+    "identifier": "DE-Rdg1",
+    "name": "Stadtarchiv Radeburg",
+    "location": "Radeburg",
+    "type": [
+        "Organization",
+        "Archive"
+    ],
+    "addressRegion": "SAX"
+}

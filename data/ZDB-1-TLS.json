@@ -1,0 +1,252 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/ZDB-1-TLS.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:17-05-06"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:12-12-18"
+                ],
+                {
+                    "t": "11:28:16.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:17-05-06"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "979802202"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "041044-5"
+                },
+                {
+                    "d": "ZDB-1-TLS"
+                },
+                {
+                    "e": "ZDB-1-TLS"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://gale.cengage.co.uk/tls-historical-archive-19022005.aspx"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://infotrac.galegroup.com/itweb?db=TLSH"
+                },
+                {
+                    "z": "B"
+                }
+            ],
+            [
+                {
+                    "u": "http://www.nationallizenzen.de/angebote/nlproduct.2006-03-10.6236775959"
+                },
+                {
+                    "x": "Produktinfo"
+                },
+                {
+                    "z": "W"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "fr\u00fcher: Times Literary Supplement Centenary Archive"
+                },
+                {
+                    "4": "a"
+                }
+            ],
+            [
+                {
+                    "a": "Nationallizenz Times Lit.Suppl"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Times Literary Supplement Historical Archive 1902-2005 / TLS [Nationallizenz]"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Nieders\u00e4chsische Staats- und Universit\u00e4tsbibliothek G\u00f6ttingen"
+                },
+                {
+                    "b": "G\u00f6ttingen / Berlin"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "37073"
+                },
+                {
+                    "k": "9.93567"
+                },
+                {
+                    "l": "51.53978"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "k": "nationallizenzen@sub.uni-goettingen.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "P"
+                },
+                {
+                    "c": "0168"
+                },
+                {
+                    "d": "BVB"
+                },
+                {
+                    "d": "SWB"
+                },
+                {
+                    "d": "HBV"
+                },
+                {
+                    "f": "89"
+                },
+                {
+                    "k": "WWW 49/TLS"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "E-Journals"
+                },
+                {
+                    "a": "Volltext der Ausgaben des Times Literary Supplement mit Rezensionen zu Titeln aller akademischen F\u00e4cher, sch\u00f6ner Literatur, Produktionen aus Theater und Kino sowie Ausstellungen"
+                },
+                {
+                    "a": "Berichtszeitraum: 1902-2005"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "ANL"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ],
+        "035P": [
+            [
+                {
+                    "a": "E-Journals"
+                },
+                {
+                    "c": "neu 2006"
+                },
+                {
+                    "d": "j"
+                },
+                {
+                    "e": "n.n."
+                },
+                {
+                    "f": "1"
+                },
+                {
+                    "g": "Thomson Gale"
+                },
+                {
+                    "h": "http://www.nationallizenzen.de/angebote/nlproduct.2006-03-10.6236775959"
+                },
+                {
+                    "i": "Nationallizenz"
+                }
+            ]
+        ],
+        "047A": [
+            [
+                {
+                    "a": "Datenbank. - Der deutschlandweite Zugriff auf dieses Produkt wird durch die F\u00f6rderung der Deutschen Forschungsgemeinschaft (DFG) erm\u00f6glicht und durch die Nieders\u00e4chsische Staats- und Universit\u00e4tsbibliothek G\u00f6ttingen sowie die Staatsbibliothek zu Berlin organisiert"
+                }
+            ]
+        ]
+    },
+    "_id": "ZDB-1-TLS",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/ZDB-1-TLS",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/ZDB-1-TLS",
+    "identifier": "ZDB-1-TLS",
+    "name": "Times Literary Supplement Historical Archive 1902-2005 / TLS [Nationallizenz]",
+    "location": "G\u00f6ttingen / Berlin",
+    "type": [
+        "Organization",
+        "Product"
+    ],
+    "addressRegion": "ANL"
+}

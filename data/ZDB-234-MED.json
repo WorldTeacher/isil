@@ -1,0 +1,188 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/ZDB-234-MED.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:08-08-19"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:08-08-19"
+                ],
+                {
+                    "t": "08:20:18.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:08-08-19"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1192451120"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "d": "ZDB-234-MED"
+                },
+                {
+                    "e": "ZDB-234-MED"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://menadoc.bibliothek.uni-halle.de/"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "MENAdoc"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "MENAdoc"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Universit\u00e4ts- und Landesbibliothek Sachsen-Anhalt, August-Bebel-Str. 13 und 50"
+                },
+                {
+                    "b": "Halle/Saale"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "06108"
+                },
+                {
+                    "f": "Sachsen-Anhalt"
+                },
+                {
+                    "k": "11.96967"
+                },
+                {
+                    "l": "51.48941"
+                },
+                {
+                    "n": "15002000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "P"
+                },
+                {
+                    "f": "89"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "E-Books"
+                },
+                {
+                    "a": "E-Journals"
+                },
+                {
+                    "a": "Die MENAdoc-Sammlung beinhaltet frei zug\u00e4ngliche (Open Access) Dokumente mit Bezug zur MENA-Region und zur Islamwissenschaft."
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "WWW"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ],
+        "035P": [
+            [
+                {
+                    "a": "E-Books E-Journals"
+                },
+                {
+                    "d": "j"
+                },
+                {
+                    "g": "Universit\u00e4ts- und Landesbibliothek Sachsen-Anhalt"
+                },
+                {
+                    "i": "Open Access"
+                }
+            ]
+        ],
+        "047A": [
+            [
+                {
+                    "a": "Online-Ressource / Datenbank"
+                }
+            ]
+        ]
+    },
+    "_id": "ZDB-234-MED",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/ZDB-234-MED",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/ZDB-234-MED",
+    "identifier": "ZDB-234-MED",
+    "name": "MENAdoc",
+    "location": "Halle/Saale",
+    "type": [
+        "Organization",
+        "Product"
+    ],
+    "addressRegion": "WWW"
+}

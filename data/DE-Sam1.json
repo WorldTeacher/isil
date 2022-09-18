@@ -1,0 +1,259 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Sam1.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:29-10-09"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:06-03-18"
+                ],
+                {
+                    "t": "17:51:57.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:29-10-09"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "997767227"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "d": "Sam 1"
+                },
+                {
+                    "e": "DE-Sam1"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "https://www.bodenseekreis.de/bildung-kultur/kultur/kreisbibliothek.html"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Salem KrsB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Landratsamt Bodenseekreis, Kulturamt, Kreisbibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Schloss Salem - Schlossbezirk 1"
+                },
+                {
+                    "b": "Salem"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "88682"
+                },
+                {
+                    "f": "Baden-W\u00fcrttemberg"
+                },
+                {
+                    "h": "Pr\u00e4latur"
+                },
+                {
+                    "i": "Di und Do 9.00-12.00 und 14.00-16.00"
+                },
+                {
+                    "j": "Voranmeldung erforderlich"
+                },
+                {
+                    "k": "9.27805"
+                },
+                {
+                    "l": "47.77670"
+                },
+                {
+                    "n": "08435052"
+                },
+                {
+                    "o": "nicht barrierefrei"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "7541"
+                },
+                {
+                    "f": "2 04 64-15"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "7541"
+                },
+                {
+                    "i": "2 04 84-15"
+                },
+                {
+                    "k": "kreisbibliothek@bodenseekreis.de"
+                },
+                {
+                    "l": "nur w\u00e4hrend der \u00d6ffnungszeiten"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "03"
+                },
+                {
+                    "h": "07"
+                },
+                {
+                    "i": "P"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Publikationen \u00fcber den Bodenseekreis und seine Gemeinden"
+                },
+                {
+                    "a": "Inventare der f\u00fcr die Kreisgeschichte wichtigen Archivbest\u00e4nde"
+                },
+                {
+                    "a": "wichtige Werke \u00fcber den Bodenseeraum und Oberschwaben"
+                },
+                {
+                    "a": "grundlegende Werke zur Landeskunde und -geschichte"
+                },
+                {
+                    "a": "Standardwerke der Geschichtswissenschaft und Kunstgeschichte"
+                },
+                {
+                    "a": "Literatur zu den Baudenkm\u00e4lern der Region"
+                },
+                {
+                    "a": "Ausstellungskataloge der Gegenwartskunst in der Region"
+                },
+                {
+                    "a": "Werke regionaler Schriftsteller"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAW"
+                },
+                {
+                    "c": "SWB"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "kreisbibliothek@bodenseekreis.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "kreisbibliothek@bodenseekreis.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Sam1",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Sam1",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Sam1",
+    "identifier": "DE-Sam1",
+    "name": "Landratsamt Bodenseekreis, Kulturamt, Kreisbibliothek",
+    "location": "Salem",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAW"
+}

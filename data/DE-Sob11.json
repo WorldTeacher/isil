@@ -1,0 +1,236 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Sob11.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:28-01-16"
+                ],
+                {
+                    "t": "16:38:26.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020598076"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "WB253"
+                },
+                {
+                    "d": "Sob 11"
+                },
+                {
+                    "e": "DE-Sob11"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://sonneberg.bibliotheca-open.de/"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Sonneberg StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtbibliothek Sonneberg"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Bahnhofspl. 1"
+                },
+                {
+                    "b": "Sonneberg"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "96515"
+                },
+                {
+                    "f": "Th\u00fcringen"
+                },
+                {
+                    "h": "Rathaus"
+                },
+                {
+                    "i": "Di-Mi 9.00-12.00 und 14.00-17.00, Do 13.00-18.00, Fr-Sa 9.00-12.00"
+                },
+                {
+                    "k": "11.16864"
+                },
+                {
+                    "l": "50.35641"
+                },
+                {
+                    "n": "16072018"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Sonneberg"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "96505"
+                },
+                {
+                    "f": "Th\u00fcringen"
+                },
+                {
+                    "g": "10 05 16"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "3675"
+                },
+                {
+                    "f": "8 80-260"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "3675"
+                },
+                {
+                    "i": "8 80-624"
+                },
+                {
+                    "k": "bibliothek@stadt-son.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "07"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "THU"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "GBV"
+                },
+                {
+                    "d": "\u00d6VK"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Sob11",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Sob11",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Sob11",
+    "identifier": "DE-Sob11",
+    "name": "Stadtbibliothek Sonneberg",
+    "location": "Sonneberg",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "THU"
+}

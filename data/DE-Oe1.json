@@ -1,0 +1,275 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Oe1.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:11-10-21"
+                ],
+                {
+                    "t": "12:52:10.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020597371"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "508601-2"
+                },
+                {
+                    "b": "DF486"
+                },
+                {
+                    "d": "Oe 1"
+                },
+                {
+                    "e": "DE-Oe1"
+                },
+                {
+                    "f": "BAST"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "https://www.bast.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://www.digibib.net/Digibib?LOCATION=Oe1"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Bergisch Gladb. BA Stra\u00dfenw."
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Bundesanstalt f\u00fcr Stra\u00dfenwesen (BASt), Referat Externe Forschung, Bibliothek und Dokumentationswesen"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Br\u00fcderstr. 53"
+                },
+                {
+                    "b": "Bergisch Gladbach"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "51427"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "i": "Mo-Fr 10.00-14.00"
+                },
+                {
+                    "k": "7.14828"
+                },
+                {
+                    "l": "50.95187"
+                },
+                {
+                    "n": "05378004"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Bergisch Gladbach"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "51401"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "g": "10 01 50"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "2204"
+                },
+                {
+                    "f": "43-9101"
+                },
+                {
+                    "k": "bibliothek@bast.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0302"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "01"
+                },
+                {
+                    "h": "07"
+                },
+                {
+                    "i": "P"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Unfallforschung"
+                },
+                {
+                    "a": "Stra\u00dfenbautechnik"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "HBZ"
+                },
+                {
+                    "d": "BRB"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "bibliothek@bast.de"
+                }
+            ],
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "bibliothek@bast.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Oe1",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Oe1",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Oe1",
+    "identifier": "DE-Oe1",
+    "name": "Bundesanstalt f\u00fcr Stra\u00dfenwesen (BASt), Referat Externe Forschung, Bibliothek und Dokumentationswesen",
+    "location": "Bergisch Gladbach",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NRW"
+}

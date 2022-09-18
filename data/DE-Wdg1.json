@@ -1,0 +1,203 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Wdg1.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:03-03-10"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:11-05-22"
+                ],
+                {
+                    "t": "12:58:43.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:03-03-10"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1000572072"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "101161-3"
+                },
+                {
+                    "d": "Wdg 1"
+                },
+                {
+                    "e": "DE-Wdg1"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.bad-wildungen.de/de/buerger/kultur-veranstaltungen/kunst-geschichte/stadtarchiv/"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Bad Wildungen Stadtarchiv"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtarchiv Bad Wildungen"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Kornstr. 2"
+                },
+                {
+                    "b": "Bad Wildungen"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "34537"
+                },
+                {
+                    "f": "Hessen"
+                },
+                {
+                    "k": "9.12349"
+                },
+                {
+                    "l": "51.11991"
+                },
+                {
+                    "n": "06635003"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "a": "Am Markt 1"
+                },
+                {
+                    "b": "Bad Wildungen"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "34537"
+                },
+                {
+                    "f": "Hessen"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "k": "stadtarchiv@badwildungen.net"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0367"
+                },
+                {
+                    "f": "52"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "01"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "HES"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Wdg1",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Wdg1",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Wdg1",
+    "identifier": "DE-Wdg1",
+    "name": "Stadtarchiv Bad Wildungen",
+    "location": "Bad Wildungen",
+    "type": [
+        "Organization",
+        "Archive"
+    ],
+    "addressRegion": "HES"
+}

@@ -1,0 +1,231 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Mb109.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:14-07-09"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:09-11-20"
+                ],
+                {
+                    "t": "13:25:09.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:14-07-09"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "995315183"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "358109-3"
+                },
+                {
+                    "d": "Mb 109"
+                },
+                {
+                    "e": "DE-Mb109"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.eh-tabor.de/"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://opac.ub.uni-marburg.de/DB=6/"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Marburg Ev.HS Tabor"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Evangelische Hochschule Tabor, Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "D\u00fcrerstr. 43"
+                },
+                {
+                    "b": "Marburg/Lahn"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "35039"
+                },
+                {
+                    "f": "Hessen"
+                },
+                {
+                    "i": "nicht \u00f6ffentlich zug\u00e4nglich"
+                },
+                {
+                    "k": "8.78408"
+                },
+                {
+                    "l": "50.82013"
+                },
+                {
+                    "n": "06534014"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "6421"
+                },
+                {
+                    "f": "9 67-438"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "6421"
+                },
+                {
+                    "i": "9 67-411"
+                },
+                {
+                    "k": "bibliothek@tabor.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0013"
+                },
+                {
+                    "e": "HBV"
+                },
+                {
+                    "f": "70"
+                },
+                {
+                    "g": "08"
+                },
+                {
+                    "h": "07"
+                },
+                {
+                    "i": "P"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Neupietismus"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "HES"
+                },
+                {
+                    "c": "HeBIS"
+                },
+                {
+                    "d": "KIVK"
+                },
+                {
+                    "e": "k"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Mb109",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Mb109",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Mb109",
+    "identifier": "DE-Mb109",
+    "name": "Evangelische Hochschule Tabor, Bibliothek",
+    "location": "Marburg/Lahn",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "HES"
+}

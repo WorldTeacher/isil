@@ -1,0 +1,248 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Po82.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:21-11-02"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:05-08-19"
+                ],
+                {
+                    "t": "09:26:25.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "024090794"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "968082-2"
+                },
+                {
+                    "d": "Po 82"
+                },
+                {
+                    "e": "DE-Po82"
+                },
+                {
+                    "f": "ZZFPD"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "https://zzf-potsdam.de/de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://vzlbs3.gbv.de/LNG=DU/DB=10/"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "ZZF Bibliothek"
+                },
+                {
+                    "4": "a"
+                }
+            ],
+            [
+                {
+                    "a": "Potsdam Zeithist.Forsch."
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Leibniz-Zentrum f\u00fcr Zeithistorische Forschung Potsdam, Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Am Neuen Markt 9d"
+                },
+                {
+                    "b": "Potsdam"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "14467"
+                },
+                {
+                    "f": "Brandenburg"
+                },
+                {
+                    "i": "Mo-Do 10.00-17.00, Fr 10.00-15.00"
+                },
+                {
+                    "k": "13.05589"
+                },
+                {
+                    "l": "52.39677"
+                },
+                {
+                    "n": "12054000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "331"
+                },
+                {
+                    "f": "7 45 10-132"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "331"
+                },
+                {
+                    "i": "7 45 10-143"
+                },
+                {
+                    "k": "bibliothek@zzf-potsdam.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0111"
+                },
+                {
+                    "e": "GBV"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "08"
+                },
+                {
+                    "h": "07"
+                },
+                {
+                    "i": "P"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "deutsche und europ\u00e4ische Zeitgeschichte"
+                },
+                {
+                    "a": "Sozial- und Wirtschaftsgeschichte"
+                },
+                {
+                    "a": "Politik- und Kulturgeschichte"
+                },
+                {
+                    "a": "Mediengeschichte"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BER"
+                },
+                {
+                    "c": "GBV"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Po82",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Po82",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Po82",
+    "identifier": "DE-Po82",
+    "name": "Leibniz-Zentrum f\u00fcr Zeithistorische Forschung Potsdam, Bibliothek",
+    "location": "Potsdam",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BER"
+}

@@ -1,0 +1,184 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/ZDB-133-HSA.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:03-11-14"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:01-03-16"
+                ],
+                {
+                    "t": "09:06:15.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:03-11-14"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1060350548"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "d": "ZDB-133-HSA"
+                },
+                {
+                    "e": "ZDB-133-HSA"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.hirzel.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://elibrary.hirzel.de"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Hirzel eLibrary Sachbuch"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Hirzel eLibrary / Sachbuch"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "S. Hirzel Verlag GmbH & Co, Birkenwaldstr. 44"
+                },
+                {
+                    "b": "Stuttgart"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "70191"
+                },
+                {
+                    "k": "9.17711"
+                },
+                {
+                    "l": "48.78788"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "P"
+                },
+                {
+                    "f": "89"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "E-Books"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "WWW"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ],
+        "035P": [
+            [
+                {
+                    "a": "E-Books"
+                },
+                {
+                    "d": "n"
+                },
+                {
+                    "g": "S. Hirzel Verlag GmbH & Co"
+                },
+                {
+                    "i": "Anbieter kostenpflichtig"
+                }
+            ]
+        ],
+        "047A": [
+            [
+                {
+                    "a": "Online-Ressource / Datenbank"
+                }
+            ]
+        ]
+    },
+    "_id": "ZDB-133-HSA",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/ZDB-133-HSA",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/ZDB-133-HSA",
+    "identifier": "ZDB-133-HSA",
+    "name": "Hirzel eLibrary / Sachbuch",
+    "location": "Stuttgart",
+    "type": [
+        "Organization",
+        "Product"
+    ],
+    "addressRegion": "WWW"
+}

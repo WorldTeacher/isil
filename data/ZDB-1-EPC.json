@@ -1,0 +1,195 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/ZDB-1-EPC.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:22-03-18"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:04-04-18"
+                ],
+                {
+                    "t": "13:27:07.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:22-03-18"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "115496504X"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "d": "ZDB-1-EPC"
+                },
+                {
+                    "e": "ZDB-1-EPC"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "https://projecteuclid.org/librarians/lib_prime/"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "FID-Lizenz Euclid Prime Coll."
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Euclid Prime Collection [FID-Lizenz]"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Nieders\u00e4chsische Staats- und Universit\u00e4tsbibliothek"
+                },
+                {
+                    "b": "G\u00f6ttingen"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "37073"
+                },
+                {
+                    "f": "Niedersachsen"
+                },
+                {
+                    "k": "9.93567"
+                },
+                {
+                    "l": "51.53978"
+                },
+                {
+                    "n": "03152012"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "k": "fidmath@sub.uni-goettingen.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "P"
+                },
+                {
+                    "f": "89"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "E-Journals"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "ANL"
+                },
+                {
+                    "e": "k"
+                }
+            ]
+        ],
+        "035P": [
+            [
+                {
+                    "a": "E-Journals"
+                },
+                {
+                    "d": "j"
+                },
+                {
+                    "g": "Project Euclid"
+                },
+                {
+                    "i": "FID-Lizenz"
+                }
+            ]
+        ],
+        "047A": [
+            [
+                {
+                    "a": "Datenbank. - Der deutschlandweite Zugriff auf dieses Produkt wird durch die F\u00f6rderung der Deutschen Forschungsgemeinschaft (DFG) im Rahmen des Fachinformationsdienstes (FID) Mathematik durch die Nieders\u00e4chsische Staats- und Universit\u00e4tsbibliothek G\u00f6ttingen erm\u00f6glicht und organisiert"
+                }
+            ]
+        ]
+    },
+    "_id": "ZDB-1-EPC",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/ZDB-1-EPC",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/ZDB-1-EPC",
+    "identifier": "ZDB-1-EPC",
+    "name": "Euclid Prime Collection [FID-Lizenz]",
+    "location": "G\u00f6ttingen",
+    "type": [
+        "Organization",
+        "Product"
+    ],
+    "addressRegion": "ANL"
+}

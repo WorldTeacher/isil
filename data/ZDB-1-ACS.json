@@ -1,0 +1,236 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/ZDB-1-ACS.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:28-03-06"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:07-12-18"
+                ],
+                {
+                    "t": "14:41:19.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:28-03-06"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "979129184"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "041002-0"
+                },
+                {
+                    "d": "ZDB-1-ACS"
+                },
+                {
+                    "e": "ZDB-1-ACS"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://pubs.acs.org/archives/"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://www.nationallizenzen.de/angebote/nlproduct.2006-03-14.6843179503"
+                },
+                {
+                    "x": "Produktinfo"
+                },
+                {
+                    "z": "W"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Nationallizenz ACS Legacy Arch"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "ACS Legacy Archives [Nationallizenz]"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Technische Informationsbibliothek (TIB)"
+                },
+                {
+                    "b": "Hannover"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "30167"
+                },
+                {
+                    "k": "9.72001"
+                },
+                {
+                    "l": "52.38163"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "k": "anmeldung.nationallizenzen@tib.eu"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "P"
+                },
+                {
+                    "c": "0168"
+                },
+                {
+                    "d": "BVB"
+                },
+                {
+                    "d": "SWB"
+                },
+                {
+                    "d": "HBV"
+                },
+                {
+                    "f": "89"
+                },
+                {
+                    "k": "WWW 49/ACS"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "E-Journals"
+                },
+                {
+                    "a": "Archivdaten von \u00fcber 20 Titeln aus dem Bereich der Chemie und verwandter Gebiete"
+                },
+                {
+                    "a": "Berichtszeitraum: 1879-1995"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "ANL"
+                },
+                {
+                    "e": "k"
+                }
+            ]
+        ],
+        "035P": [
+            [
+                {
+                    "a": "E-Journals"
+                },
+                {
+                    "c": "neu 2006"
+                },
+                {
+                    "d": "j"
+                },
+                {
+                    "e": "31"
+                },
+                {
+                    "f": "30"
+                },
+                {
+                    "g": "American Chemical Society (ACS)"
+                },
+                {
+                    "h": "http //www.nationallizenzen.de/angebote/nlproduct.2006-03-14.6843179503"
+                },
+                {
+                    "i": "Nationallizenz"
+                }
+            ]
+        ],
+        "047A": [
+            [
+                {
+                    "a": "Datenbank. - Der deutschlandweite Zugriff auf dieses Produkt wird durch die F\u00f6rderung der Deutschen Forschungsgemeinschaft (DFG) erm\u00f6glicht und durch die Technische Informationsbibliothek Hannover (TIB) organisiert"
+                }
+            ]
+        ]
+    },
+    "_id": "ZDB-1-ACS",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/ZDB-1-ACS",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/ZDB-1-ACS",
+    "identifier": "ZDB-1-ACS",
+    "name": "ACS Legacy Archives [Nationallizenz]",
+    "location": "Hannover",
+    "type": [
+        "Organization",
+        "Product"
+    ],
+    "addressRegion": "ANL"
+}

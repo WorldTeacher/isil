@@ -1,0 +1,141 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-MUS-498219.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-01-12"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:12-10-20"
+                ],
+                {
+                    "t": "08:34:04.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:11-01-12"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1018737464"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "e": "DE-MUS-498219"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.museen-in-deutschland.de/singleview.php?muges=498219"
+                },
+                {
+                    "x": "Weitere Informationen"
+                },
+                {
+                    "z": "W"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Landschaftsverband Westfalen-Lippe (LWL)"
+                },
+                {
+                    "4": "a"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "LWL-Industriemuseum"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Sprikernheide 77"
+                },
+                {
+                    "b": "Lage"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "32791"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "k": "8.77789"
+                },
+                {
+                    "l": "52.02444"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "86"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-MUS-498219",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-MUS-498219",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-MUS-498219",
+    "identifier": "DE-MUS-498219",
+    "name": "LWL-Industriemuseum",
+    "location": "Lage",
+    "type": [
+        "Organization",
+        "Museum"
+    ]
+}

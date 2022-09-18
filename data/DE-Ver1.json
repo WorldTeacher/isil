@@ -1,0 +1,222 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Ver1.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:28-11-18"
+                ],
+                {
+                    "t": "16:37:14.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020598653"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "UA048"
+                },
+                {
+                    "d": "Ver 1"
+                },
+                {
+                    "e": "DE-Ver1"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.bibliothek.verl.de"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Verl StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Bibliothek Verl"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Hauptstr. 15"
+                },
+                {
+                    "b": "Verl"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "33415"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "i": "Mo-Di und Fr 11.00-18.00, Do 10.00-19.00, Sa 10.00-13.00"
+                },
+                {
+                    "k": "8.50717"
+                },
+                {
+                    "l": "51.88325"
+                },
+                {
+                    "n": "05754044"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "5246"
+                },
+                {
+                    "f": "9 25 23-0"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "5246"
+                },
+                {
+                    "i": "9 25 23-23"
+                },
+                {
+                    "k": "fl@bibliothek.verl.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "07"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "fl@bibliothek.verl.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "fl@bibliothek.verl.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Ver1",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Ver1",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Ver1",
+    "identifier": "DE-Ver1",
+    "name": "Bibliothek Verl",
+    "location": "Verl",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NRW"
+}

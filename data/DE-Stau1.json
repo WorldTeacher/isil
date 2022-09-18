@@ -1,0 +1,263 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Stau1.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-02-03"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:15-11-16"
+                ],
+                {
+                    "t": "17:58:38.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "02430932X"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "788501-5"
+                },
+                {
+                    "d": "Stau 1"
+                },
+                {
+                    "e": "DE-Stau1"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.ub.uni-freiburg.de/index.php?id=2299&bibid=263"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Sammlung Runhild B\u00f6hm"
+                },
+                {
+                    "4": "a"
+                }
+            ],
+            [
+                {
+                    "a": "Staufen Goethe-Sammlung"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Goethe-Sammlung Staufen, Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "c/o Badisches Landesmuseum Karlsruhe, Au\u00dfenstelle S\u00fcdbaden, Hauptstr. 11"
+                },
+                {
+                    "b": "Staufen/Breisgau"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "79219"
+                },
+                {
+                    "f": "Baden-W\u00fcrttemberg"
+                },
+                {
+                    "h": "Stadtschlo\u00df"
+                },
+                {
+                    "i": "Mo-Fr 9.00-13.00"
+                },
+                {
+                    "j": "Anmeldung erw\u00fcnscht"
+                },
+                {
+                    "k": "7.73234"
+                },
+                {
+                    "l": "47.88311"
+                },
+                {
+                    "n": "08315108"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "z": "Besuchsadresse"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "a": "Hauptstr. 53"
+                },
+                {
+                    "b": "Staufen/Breisgau"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "79219"
+                },
+                {
+                    "f": "Baden-W\u00fcrttemberg"
+                },
+                {
+                    "h": "Rathaus"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "7633"
+                },
+                {
+                    "f": "8 06 45-0"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "7633"
+                },
+                {
+                    "i": "8 06 45-25"
+                },
+                {
+                    "k": "aussenstelle.suedbaden@landesmuseum.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0031"
+                },
+                {
+                    "d": "SWB"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "02"
+                },
+                {
+                    "h": "02"
+                },
+                {
+                    "i": "P"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Goethe, Johann Wolfgang von"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAW"
+                },
+                {
+                    "c": "SWB"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Stau1",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Stau1",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Stau1",
+    "identifier": "DE-Stau1",
+    "name": "Goethe-Sammlung Staufen, Bibliothek",
+    "location": "Staufen/Breisgau",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAW"
+}

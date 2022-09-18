@@ -1,0 +1,182 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/ZDB-196-MPB.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:21-11-18"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:21-11-18"
+                ],
+                {
+                    "t": "15:48:26.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:21-11-18"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1171953321"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "d": "ZDB-196-MPB"
+                },
+                {
+                    "e": "ZDB-196-MPB"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "https://meiner-elibrary.de/"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Meiner eLibrary Philosoph.Bib."
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Meiner eLibrary / Philosophische Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Felix Meiner Verlag, Richardstr. 47"
+                },
+                {
+                    "b": "Hamburg"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "22081"
+                },
+                {
+                    "f": "Hamburg"
+                },
+                {
+                    "k": "10.04004"
+                },
+                {
+                    "l": "53.56774"
+                },
+                {
+                    "n": "02000000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "P"
+                },
+                {
+                    "f": "89"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "E-Books"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "WWW"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ],
+        "035P": [
+            [
+                {
+                    "a": "E-Books"
+                },
+                {
+                    "d": "n"
+                },
+                {
+                    "g": "Felix Meiner Verlag"
+                },
+                {
+                    "i": "Anbieter kostenpflichtig"
+                }
+            ]
+        ],
+        "047A": [
+            [
+                {
+                    "a": "Online-Ressource / Datenbank"
+                }
+            ]
+        ]
+    },
+    "_id": "ZDB-196-MPB",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/ZDB-196-MPB",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/ZDB-196-MPB",
+    "identifier": "ZDB-196-MPB",
+    "name": "Meiner eLibrary / Philosophische Bibliothek",
+    "location": "Hamburg",
+    "type": [
+        "Organization",
+        "Product"
+    ],
+    "addressRegion": "WWW"
+}

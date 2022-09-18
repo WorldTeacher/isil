@@ -1,0 +1,206 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/ZDB-1-MSB.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:29-11-17"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:06-02-18"
+                ],
+                {
+                    "t": "11:22:30.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:29-11-17"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1147515638"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "d": "ZDB-1-MSB"
+                },
+                {
+                    "e": "ZDB-1-MSB"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://minnesota.universitypressscholarship.com/"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://fid-kunst.idm.oclc.org/login?url=http://minnesota.universitypressscholarship.com/browse?t=OSO:architecture"
+                },
+                {
+                    "x": "Start-URL des FID"
+                },
+                {
+                    "z": "W"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "FID-Lizenz Min.Schol.Archit."
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Oxford University Press : Minnesota Scholarship Online / Architecture [FID-Lizenz]"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Universit\u00e4tsbibliothek Heidelberg, Pl\u00f6ck 107-109"
+                },
+                {
+                    "b": "Heidelberg"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "69117"
+                },
+                {
+                    "f": "Baden-W\u00fcrttemberg"
+                },
+                {
+                    "k": "8.70591"
+                },
+                {
+                    "l": "49.40974"
+                },
+                {
+                    "n": "08221000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "k": "ejournals@ub.uni-heidelberg.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "P"
+                },
+                {
+                    "f": "89"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "E-Books"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "ANL"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ],
+        "035P": [
+            [
+                {
+                    "a": "E-Books"
+                },
+                {
+                    "d": "n"
+                },
+                {
+                    "g": "Oxford University Press"
+                },
+                {
+                    "i": "FID-Lizenz"
+                }
+            ]
+        ],
+        "047A": [
+            [
+                {
+                    "a": "Datenbank. - Der deutschlandweite Zugriff auf dieses Produkt wird im Rahmen des \"Fachinformationsdienstes (FID) Kunst, Fotografie, Design - arthistoricum.net\" durch die Universit\u00e4tsbibliothek Heidelberg erm\u00f6glicht und organisiert"
+                }
+            ]
+        ]
+    },
+    "_id": "ZDB-1-MSB",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/ZDB-1-MSB",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/ZDB-1-MSB",
+    "identifier": "ZDB-1-MSB",
+    "name": "Oxford University Press : Minnesota Scholarship Online / Architecture [FID-Lizenz]",
+    "location": "Heidelberg",
+    "type": [
+        "Organization",
+        "Product"
+    ],
+    "addressRegion": "ANL"
+}

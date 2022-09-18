@@ -1,0 +1,267 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/ZDB-1-PRA.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:27-12-10"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:19-12-18"
+                ],
+                {
+                    "t": "18:24:32.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:27-12-10"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1009286951"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "041189-9"
+                },
+                {
+                    "d": "ZDB-1-PRA"
+                },
+                {
+                    "e": "ZDB-1-PRA"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.eastview.com/online"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://dlib.eastview.com/browse/udb/870"
+                },
+                {
+                    "x": "Login"
+                },
+                {
+                    "z": "W"
+                }
+            ],
+            [
+                {
+                    "u": "http://www.nationallizenzen.de/angebote/nlproduct.2011-02-08.0674390264"
+                },
+                {
+                    "x": "Produktinfo"
+                },
+                {
+                    "z": "W"
+                }
+            ],
+            [
+                {
+                    "u": "http://www.eastview.com/online/russiaonline"
+                },
+                {
+                    "x": "Produktinfo"
+                },
+                {
+                    "z": "W"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Pravda Digital Archive 1912-2009"
+                },
+                {
+                    "4": "a"
+                }
+            ],
+            [
+                {
+                    "a": "Nationallizenz Pravda"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Pravda  [Nationallizenz]"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Bayerische Staatsbibliothek M\u00fcnchen"
+                },
+                {
+                    "b": "M\u00fcnchen"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "80539"
+                },
+                {
+                    "k": "11.58015"
+                },
+                {
+                    "l": "48.14751"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "k": "nationallizenzen@bsb-muenchen.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "P"
+                },
+                {
+                    "c": "0168"
+                },
+                {
+                    "d": "BVB"
+                },
+                {
+                    "d": "HBV"
+                },
+                {
+                    "d": "SWB"
+                },
+                {
+                    "f": "89"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "E-Journals"
+                },
+                {
+                    "a": "Archiv der Zeitung Pravda"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "ANL"
+                },
+                {
+                    "e": "k"
+                }
+            ]
+        ],
+        "035J": [
+            [
+                {
+                    "a": "Elektronischer Versand zwischen Bibliotheken ausgeschlossen"
+                }
+            ]
+        ],
+        "035P": [
+            [
+                {
+                    "a": "E-Journals"
+                },
+                {
+                    "c": "neu 2011"
+                },
+                {
+                    "d": "j"
+                },
+                {
+                    "e": "1"
+                },
+                {
+                    "f": "1"
+                },
+                {
+                    "g": "East View Information Services"
+                },
+                {
+                    "h": "http://www.nationallizenzen.de/angebote/nlproduct.2011-02-08.0674390264"
+                },
+                {
+                    "i": "Nationallizenz"
+                }
+            ]
+        ],
+        "047A": [
+            [
+                {
+                    "a": "Datenbank. - Der deutschlandweite Zugriff auf dieses Produkt wird durch die F\u00f6rderung der Deutschen Forschungsgemeinschaft (DFG) erm\u00f6glicht und durch die Bayerische Staatsbibliothek M\u00fcnchen organisiert"
+                }
+            ]
+        ]
+    },
+    "_id": "ZDB-1-PRA",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/ZDB-1-PRA",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/ZDB-1-PRA",
+    "identifier": "ZDB-1-PRA",
+    "name": "Pravda  [Nationallizenz]",
+    "location": "M\u00fcnchen",
+    "type": [
+        "Organization",
+        "Product"
+    ],
+    "addressRegion": "ANL"
+}

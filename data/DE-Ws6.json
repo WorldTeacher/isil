@@ -1,0 +1,230 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Ws6.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:07-04-20"
+                ],
+                {
+                    "t": "10:42:51.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020599676"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "WA959"
+                },
+                {
+                    "d": "Ws 6"
+                },
+                {
+                    "e": "DE-Ws6"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "https://weissenfels.bibliotheca-open.de/"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Wei\u00dfenfels StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtbibliothek Wei\u00dfenfels"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Klosterstr. 24 (Novalishaus)"
+                },
+                {
+                    "b": "Wei\u00dfenfels"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "06667"
+                },
+                {
+                    "f": "Sachsen-Anhalt"
+                },
+                {
+                    "i": "Mo und Fr 12.00-18.00, Di und Do 9.00-18.00"
+                },
+                {
+                    "k": "11.96940"
+                },
+                {
+                    "l": "51.19991"
+                },
+                {
+                    "n": "15084550"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Wei\u00dfenfels"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "06654"
+                },
+                {
+                    "f": "Sachsen-Anhalt"
+                },
+                {
+                    "g": "1410"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "3443"
+                },
+                {
+                    "f": "37 03 18"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "3443"
+                },
+                {
+                    "i": "37 04 25"
+                },
+                {
+                    "k": "stadtbibliothek@weissenfels.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "06"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "SAA"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "GBV"
+                },
+                {
+                    "d": "\u00d6VK"
+                },
+                {
+                    "e": "l"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Ws6",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Ws6",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Ws6",
+    "identifier": "DE-Ws6",
+    "name": "Stadtbibliothek Wei\u00dfenfels",
+    "location": "Wei\u00dfenfels",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "SAA"
+}

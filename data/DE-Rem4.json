@@ -1,0 +1,266 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Rem4.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:18-11-99"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:13-10-16"
+                ],
+                {
+                    "t": "16:19:01.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "009074716"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "568004-9"
+                },
+                {
+                    "b": "FD294"
+                },
+                {
+                    "d": "Rem 4"
+                },
+                {
+                    "e": "DE-Rem4"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.werkzeugmuseum.org"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://www.remscheid.de"
+                },
+                {
+                    "x": "Stadt Remscheid"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Remscheid Hist.Zentrum"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Historisches Zentrum Remscheid, Archiv und Archivbibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Hastener Str. 100-102"
+                },
+                {
+                    "b": "Remscheid"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "42855"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "i": "Di 14.00-19.00, Mi 9.00-13.00 und 14.00-16.00 (nur nach Vorbestellung), Do 9.00-13.00"
+                },
+                {
+                    "k": "7.16615"
+                },
+                {
+                    "l": "51.19639"
+                },
+                {
+                    "n": "05120000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "z": "Archivabteilung"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "a": "Cleffstr. 2-4"
+                },
+                {
+                    "b": "Remscheid"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "42849"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "2191"
+                },
+                {
+                    "f": "16-2975 und -3535"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "2191"
+                },
+                {
+                    "i": "16-2055"
+                },
+                {
+                    "k": "Werkzeugmuseum-Hiz@remscheid.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0100"
+                },
+                {
+                    "d": "HBZ"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "05"
+                },
+                {
+                    "i": "P"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Werkzeugindustrie"
+                },
+                {
+                    "a": "Remscheid <Stadtgeschichte>"
+                },
+                {
+                    "a": "Rhein-bergische Geschichte"
+                },
+                {
+                    "a": "Industriegeschichte"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Rem4",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Rem4",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Rem4",
+    "identifier": "DE-Rem4",
+    "name": "Historisches Zentrum Remscheid, Archiv und Archivbibliothek",
+    "location": "Remscheid",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NRW"
+}

@@ -1,0 +1,282 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Stg10.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:04-12-17"
+                ],
+                {
+                    "t": "15:38:33.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020598211"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "708010-4"
+                },
+                {
+                    "b": "BS128"
+                },
+                {
+                    "d": "Stg 10"
+                },
+                {
+                    "e": "DE-Stg10"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://irb.fraunhofer.de/de/datenbanken/bibliothek.html"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://www.irb.fraunhofer.de/rswbplus"
+                },
+                {
+                    "z": "B"
+                }
+            ],
+            [
+                {
+                    "u": "http://irb.fraunhofer.de/de/datenbanken/kopienservice-und-literaturservice.html"
+                },
+                {
+                    "x": "Kopien- und Literaturservice"
+                },
+                {
+                    "z": "W"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Stuttgart Fraunhofer IRB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Fraunhofer-Informationszentrum Raum und Bau IRB, Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Nobelstr. 12"
+                },
+                {
+                    "b": "Stuttgart"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "70569"
+                },
+                {
+                    "f": "Baden-W\u00fcrttemberg"
+                },
+                {
+                    "h": "Hauptgeb\u00e4ude, Ebene B4"
+                },
+                {
+                    "i": "Mo-Do 9.00-16.00, Fr 9.00-13.00"
+                },
+                {
+                    "j": "telefonische Anmeldung erw\u00fcnscht"
+                },
+                {
+                    "k": "9.09900"
+                },
+                {
+                    "l": "48.74191"
+                },
+                {
+                    "n": "08111000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "711"
+                },
+                {
+                    "f": "9 70-2530 und -2564"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "711"
+                },
+                {
+                    "i": "9 70-2601"
+                },
+                {
+                    "k": "bibliothek@irb.fraunhofer.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0324"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "07"
+                },
+                {
+                    "h": "08"
+                },
+                {
+                    "i": "P"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Architektur"
+                },
+                {
+                    "a": "Bauwesen"
+                },
+                {
+                    "a": "St\u00e4dtebau"
+                },
+                {
+                    "a": "Wohnungswesen"
+                },
+                {
+                    "a": "Raumordnung"
+                },
+                {
+                    "a": "Denkmalpflege"
+                },
+                {
+                    "a": "Bauforschung"
+                },
+                {
+                    "a": "Bauingenieurwesen"
+                },
+                {
+                    "a": "Stadtplanung"
+                },
+                {
+                    "a": "Regionalplanung"
+                },
+                {
+                    "a": "Bauwirtschaft"
+                },
+                {
+                    "a": "Baurecht"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAW"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ],
+        "035K": [
+            [
+                {
+                    "a": "S"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Stg10",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Stg10",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Stg10",
+    "identifier": "DE-Stg10",
+    "name": "Fraunhofer-Informationszentrum Raum und Bau IRB, Bibliothek",
+    "location": "Stuttgart",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAW"
+}

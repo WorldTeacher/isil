@@ -1,0 +1,180 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Whm1.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:07-04-10"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:11-05-22"
+                ],
+                {
+                    "t": "12:48:05.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:07-04-10"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1001347501"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "101041-4"
+                },
+                {
+                    "d": "Whm 1"
+                },
+                {
+                    "e": "DE-Whm1"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.weilheim-teck.de/index.php?id=116"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Weilheim/Teck Stadtarchiv"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtarchiv Weilheim an der Teck"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Marktplatz 6"
+                },
+                {
+                    "b": "Weilheim/Teck"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "73235"
+                },
+                {
+                    "f": "Baden-W\u00fcrttemberg"
+                },
+                {
+                    "k": "9.53837"
+                },
+                {
+                    "l": "48.61535"
+                },
+                {
+                    "n": "08116070"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "k": "archiv@weilheim-teck.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0367"
+                },
+                {
+                    "f": "52"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "01"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAW"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Whm1",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Whm1",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Whm1",
+    "identifier": "DE-Whm1",
+    "name": "Stadtarchiv Weilheim an der Teck",
+    "location": "Weilheim/Teck",
+    "type": [
+        "Organization",
+        "Archive"
+    ],
+    "addressRegion": "BAW"
+}

@@ -1,0 +1,208 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/ZDB-1-SATAF.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:21-10-21"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:21-10-21"
+                ],
+                {
+                    "t": "10:47:49.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:21-10-21"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1243684259"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "d": "ZDB-1-SATAF"
+                },
+                {
+                    "e": "ZDB-1-SATAF"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "https://www.gale.com/intl/c/something-about-the-author-online"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://erf.sbb.spk-berlin.de/han/1008785741/"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "FID-L Someth About the Author"
+                },
+                {
+                    "4": "c"
+                }
+            ],
+            [
+                {
+                    "a": "FID-Lizenz Gale Literature: Something About the Author"
+                },
+                {
+                    "4": "a"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Something About the Author [FID-Lizenz]"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Staatsbibliothek zu Berlin - Preu\u00dfischer Kulturbesitz"
+                },
+                {
+                    "b": "Berlin"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "10785"
+                },
+                {
+                    "k": "13.37063"
+                },
+                {
+                    "l": "52.50771"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "k": "x-asia@sbb.spk-berlin.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "P"
+                },
+                {
+                    "f": "89"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "E-Books"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "WWW"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ],
+        "035P": [
+            [
+                {
+                    "a": "E-Books"
+                },
+                {
+                    "c": "n2021"
+                },
+                {
+                    "d": "n"
+                },
+                {
+                    "g": "GALE - Cengage Learning"
+                },
+                {
+                    "i": "Anbieter kostenpflichtig"
+                }
+            ]
+        ],
+        "047A": [
+            [
+                {
+                    "a": "Datenbank. - Der Zugriff auf dieses Produkt wird durch die F\u00f6rderung der Deutschen Forschungsgemeinschaft (DFG) im Rahmen des Fachinformationsdienstes (FID) Asien von der Staatsbibliothek zu Berlin erm\u00f6glicht und organisiert"
+                }
+            ]
+        ]
+    },
+    "_id": "ZDB-1-SATAF",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/ZDB-1-SATAF",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/ZDB-1-SATAF",
+    "identifier": "ZDB-1-SATAF",
+    "name": "Something About the Author [FID-Lizenz]",
+    "location": "Berlin",
+    "type": [
+        "Organization",
+        "Product"
+    ],
+    "addressRegion": "WWW"
+}

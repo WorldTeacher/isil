@@ -1,0 +1,183 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Wbg1.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:07-04-10"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:11-05-22"
+                ],
+                {
+                    "t": "12:47:56.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:07-04-10"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "100134765X"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "101038-4"
+                },
+                {
+                    "d": "Wbg 1"
+                },
+                {
+                    "e": "DE-Wbg1"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.weinsberg.de/"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Weinsberg Stadtarchiv"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtverwaltung Weinsberg, Stadtarchiv"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Marktplatz 11"
+                },
+                {
+                    "b": "Weinsberg"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "74189"
+                },
+                {
+                    "f": "Baden-W\u00fcrttemberg"
+                },
+                {
+                    "h": "Rathaus"
+                },
+                {
+                    "k": "9.28581"
+                },
+                {
+                    "l": "49.15190"
+                },
+                {
+                    "n": "08125102"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "k": "stadt@weinsberg.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0367"
+                },
+                {
+                    "f": "52"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "01"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAW"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Wbg1",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Wbg1",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Wbg1",
+    "identifier": "DE-Wbg1",
+    "name": "Stadtverwaltung Weinsberg, Stadtarchiv",
+    "location": "Weinsberg",
+    "type": [
+        "Organization",
+        "Archive"
+    ],
+    "addressRegion": "BAW"
+}

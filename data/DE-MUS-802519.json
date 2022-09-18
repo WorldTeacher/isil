@@ -1,0 +1,168 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-MUS-802519.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-01-12"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:12-10-20"
+                ],
+                {
+                    "t": "08:05:04.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:11-01-12"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1018746331"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "e": "DE-MUS-802519"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.barockschloss-delitzsch.de/"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://www.museen-in-deutschland.de/singleview.php?muges=802519"
+                },
+                {
+                    "x": "Weitere Informationen"
+                },
+                {
+                    "z": "W"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Museum Barockschlo\u00df Delitzsch"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Schlo\u00dfstr. 31"
+                },
+                {
+                    "b": "Delitzsch"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "04509"
+                },
+                {
+                    "f": "Sachsen"
+                },
+                {
+                    "k": "12.32976"
+                },
+                {
+                    "l": "51.52297"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "34202"
+                },
+                {
+                    "f": "67-208"
+                },
+                {
+                    "k": "barockschloss@delitzsch.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "86"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "d": "Kalliope"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-MUS-802519",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-MUS-802519",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-MUS-802519",
+    "identifier": "DE-MUS-802519",
+    "name": "Museum Barockschlo\u00df Delitzsch",
+    "location": "Delitzsch",
+    "type": [
+        "Organization",
+        "Museum"
+    ]
+}

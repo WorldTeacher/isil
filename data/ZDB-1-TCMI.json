@@ -1,0 +1,200 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/ZDB-1-TCMI.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:12-01-21"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:12-01-21"
+                ],
+                {
+                    "t": "12:47:01.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:12-01-21"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1224908805"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "d": "ZDB-1-TCMI"
+                },
+                {
+                    "e": "ZDB-1-TCMI"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://erf.sbb.spk-berlin.de/han/20thdb/"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://20thdb.jp/"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "FID-Lizenz 20th Cent Media"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "20th Century Media Information Database [FID-Lizenz]"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Staatsbibliothek zu Berlin - Preu\u00dfischer Kulturbesitz"
+                },
+                {
+                    "b": "Berlin"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "10785"
+                },
+                {
+                    "k": "13.37063"
+                },
+                {
+                    "l": "52.50771"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "k": "x-asia@sbb.spk-berlin.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "P"
+                },
+                {
+                    "f": "89"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "E-Books E-Journals"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "ANL"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ],
+        "035P": [
+            [
+                {
+                    "a": "E-Books E-Journals"
+                },
+                {
+                    "c": "neu 01.11.2021"
+                },
+                {
+                    "d": "n"
+                },
+                {
+                    "g": "Bunsei Shoin"
+                },
+                {
+                    "i": "FID-Lizenz"
+                }
+            ]
+        ],
+        "047A": [
+            [
+                {
+                    "a": "Datenbank. - Der deutschlandweite Zugriff auf dieses Produkt wird durch die F\u00f6rderung der Deutschen Forschungsgemeinschaft (DFG) im Rahmen des Fachinformationsdienstes (FID) Asien von der Staatsbibliothek zu Berlin erm\u00f6glicht und organisiert"
+                }
+            ]
+        ]
+    },
+    "_id": "ZDB-1-TCMI",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/ZDB-1-TCMI",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/ZDB-1-TCMI",
+    "identifier": "ZDB-1-TCMI",
+    "name": "20th Century Media Information Database [FID-Lizenz]",
+    "location": "Berlin",
+    "type": [
+        "Organization",
+        "Product"
+    ],
+    "addressRegion": "ANL"
+}

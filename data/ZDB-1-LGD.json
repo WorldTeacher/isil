@@ -1,0 +1,258 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/ZDB-1-LGD.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:06-12-12"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:19-12-18"
+                ],
+                {
+                    "t": "18:15:35.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:06-12-12"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1028651384"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "041274-0"
+                },
+                {
+                    "d": "ZDB-1-LGD"
+                },
+                {
+                    "e": "ZDB-1-LGD"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.eastview.com/online"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://dlib.eastview.com/browse/publication/19046"
+                },
+                {
+                    "x": "Login"
+                },
+                {
+                    "z": "W"
+                }
+            ],
+            [
+                {
+                    "u": "http://www.nationallizenzen.de/angebote/nlproduct.2012-12-17.5260525956"
+                },
+                {
+                    "x": "Produktinfo"
+                },
+                {
+                    "z": "W"
+                }
+            ],
+            [
+                {
+                    "u": "http://www.eastview.com/online/russiaonline"
+                },
+                {
+                    "x": "Produktinfo"
+                },
+                {
+                    "z": "W"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Literaturnaja gazeta digital archive"
+                },
+                {
+                    "4": "a"
+                }
+            ],
+            [
+                {
+                    "a": "Nationallizenz LiteraGazeta"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Literaturnaja gazeta [Nationallizenz]"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Bayerische Staatsbibliothek M\u00fcnchen"
+                },
+                {
+                    "b": "M\u00fcnchen"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "80539"
+                },
+                {
+                    "k": "11.58015"
+                },
+                {
+                    "l": "48.14751"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "k": "nationallizenzen@bsb-muenchen.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "P"
+                },
+                {
+                    "c": "0168"
+                },
+                {
+                    "d": "BVB"
+                },
+                {
+                    "f": "89"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "E-Journals"
+                },
+                {
+                    "a": "Enth\u00e4lt die Jahrg\u00e4nge 1929-2011 der Zeitschrift"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "ANL"
+                },
+                {
+                    "e": "k"
+                }
+            ]
+        ],
+        "035J": [
+            [
+                {
+                    "a": "Elektronischer Versand zwischen Bibliotheken ausgeschlossen"
+                }
+            ]
+        ],
+        "035P": [
+            [
+                {
+                    "a": "E-Journals"
+                },
+                {
+                    "c": "neu 2013"
+                },
+                {
+                    "d": "j"
+                },
+                {
+                    "e": "1"
+                },
+                {
+                    "f": "1"
+                },
+                {
+                    "g": "East View Information Services"
+                },
+                {
+                    "i": "Nationallizenz"
+                }
+            ]
+        ],
+        "047A": [
+            [
+                {
+                    "a": "Datenbank. - Der deutschlandweite Zugriff auf dieses Produkt wurde zun\u00e4chst im Rahmen der Allianz-Initiative Digitale Information mit finanzieller Unterst\u00fctzung der Deutschen Forschungsgemeinschaft (DFG) bereitgestellt und wird von der DFG ab 2016 als Nationallizenz erm\u00f6glicht und durch die Bayerische Staatsbibliothek M\u00fcnchen organisiert."
+                }
+            ]
+        ]
+    },
+    "_id": "ZDB-1-LGD",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/ZDB-1-LGD",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/ZDB-1-LGD",
+    "identifier": "ZDB-1-LGD",
+    "name": "Literaturnaja gazeta [Nationallizenz]",
+    "location": "M\u00fcnchen",
+    "type": [
+        "Organization",
+        "Product"
+    ],
+    "addressRegion": "ANL"
+}

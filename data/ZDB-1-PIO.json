@@ -1,0 +1,244 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/ZDB-1-PIO.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:09-05-06"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:05-12-18"
+                ],
+                {
+                    "t": "14:23:22.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:09-05-06"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "979660076"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "041036-6"
+                },
+                {
+                    "d": "ZDB-1-PIO"
+                },
+                {
+                    "e": "ZDB-1-PIO"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://search.proquest.com/pio"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://www.nationallizenzen.de/angebote/nlproduct.2006-03-09.0424799056"
+                },
+                {
+                    "x": "Produktinfo"
+                },
+                {
+                    "z": "W"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "PIO"
+                },
+                {
+                    "4": "a"
+                }
+            ],
+            [
+                {
+                    "a": "Nationallizenz PIO"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Periodicals Index Online [Nationallizenz]"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Universit\u00e4tsbibliothek Johann Christian Senckenberg Frankfurt/Main"
+                },
+                {
+                    "b": "Frankfurt/Main"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "60325"
+                },
+                {
+                    "k": "8.65292"
+                },
+                {
+                    "l": "50.12043"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "k": "nationallizenzen@ub.uni-frankfurt.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "P"
+                },
+                {
+                    "c": "0168"
+                },
+                {
+                    "d": "BVB"
+                },
+                {
+                    "d": "SWB"
+                },
+                {
+                    "d": "HBV"
+                },
+                {
+                    "f": "89"
+                },
+                {
+                    "k": "WWW 49/PIO"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "E-Journals"
+                },
+                {
+                    "a": "Mehr als 4.800 Zeitschriften aus den Geistes- und Sozialwissenschaften"
+                },
+                {
+                    "a": "Berichtszeit: 1739-2000"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "ANL"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ],
+        "035P": [
+            [
+                {
+                    "a": "E-Journals"
+                },
+                {
+                    "c": "neu 2006"
+                },
+                {
+                    "d": "j"
+                },
+                {
+                    "e": "4800"
+                },
+                {
+                    "f": "1"
+                },
+                {
+                    "g": "ProQuest Information and Learning; Chadwyck Healey"
+                },
+                {
+                    "h": "http //www.nationallizenzen.de/angebote/nlproduct.2006-03-09.0424799056"
+                },
+                {
+                    "i": "Nationallizenz"
+                }
+            ]
+        ],
+        "047A": [
+            [
+                {
+                    "a": "Datenbank. - Der deutschlandweite Zugriff auf dieses Produkt wird durch die F\u00f6rderung der Deutschen Forschungsgemeinschaft (DFG) erm\u00f6glicht und durch die Universit\u00e4tsbibliothek Johann Christian Senckenberg Frankfurt/Main organisiert"
+                }
+            ]
+        ]
+    },
+    "_id": "ZDB-1-PIO",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/ZDB-1-PIO",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/ZDB-1-PIO",
+    "identifier": "ZDB-1-PIO",
+    "name": "Periodicals Index Online [Nationallizenz]",
+    "location": "Frankfurt/Main",
+    "type": [
+        "Organization",
+        "Product"
+    ],
+    "addressRegion": "ANL"
+}

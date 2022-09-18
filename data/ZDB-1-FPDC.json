@@ -1,0 +1,192 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/ZDB-1-FPDC.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:06-01-21"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:25-01-21"
+                ],
+                {
+                    "t": "12:34:37.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:06-01-21"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1224567897"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "d": "ZDB-1-FPDC"
+                },
+                {
+                    "e": "ZDB-1-FPDC"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "https://www.ub.uni-koeln.de/forschen_publizieren/forschen/fachinformationsdienst_philosophie/index_ger.html"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "FID-Lizenz Philosophie PDC"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Philosophy Document Center E-Collection FID Philosophie [FID-Lizenz]"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Universit\u00e4ts- und Stadtbibliothek K\u00f6ln"
+                },
+                {
+                    "b": "K\u00f6ln"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "50931"
+                },
+                {
+                    "k": "6.92859"
+                },
+                {
+                    "l": "50.92592"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "k": "fid-philosophie@ub.uni-koeln.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "P"
+                },
+                {
+                    "f": "89"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "E-Journals"
+                },
+                {
+                    "a": "Die Datenbank bietet Zugriff auf ca. 200 wissenschaftliche Zeitschriften, Serien und Tagungsb\u00e4nde aus Philosophie, Religionswissenschaften und der klassischen Philologie"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "ANL"
+                },
+                {
+                    "e": "k"
+                }
+            ]
+        ],
+        "035P": [
+            [
+                {
+                    "a": "E-Journals"
+                },
+                {
+                    "d": "j"
+                },
+                {
+                    "g": "Philosophy Documentation Center"
+                },
+                {
+                    "i": "FID-Lizenz"
+                }
+            ]
+        ],
+        "047A": [
+            [
+                {
+                    "a": "Datenbank. - Der Zugriff auf dieses Produkt wird mit F\u00f6rderung der Deutschen Forschungsgemeinschaft (DFG) einem definierten Nutzerkreis in Deutschland im Rahmen des Fachinformationsdienstes (FID) Philosophie durch die Universit\u00e4ts- und Stadtbibliothek K\u00f6ln erm\u00f6glicht und organisiert."
+                }
+            ]
+        ]
+    },
+    "_id": "ZDB-1-FPDC",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/ZDB-1-FPDC",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/ZDB-1-FPDC",
+    "identifier": "ZDB-1-FPDC",
+    "name": "Philosophy Document Center E-Collection FID Philosophie [FID-Lizenz]",
+    "location": "K\u00f6ln",
+    "type": [
+        "Organization",
+        "Product"
+    ],
+    "addressRegion": "ANL"
+}

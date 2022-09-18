@@ -1,0 +1,291 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-We5.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:29-06-20"
+                ],
+                {
+                    "t": "15:40:09.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020599390"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "MB270"
+                },
+                {
+                    "d": "We 5"
+                },
+                {
+                    "e": "DE-We5"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.stadtbibliothek-ilsenburg.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://opac-ilsenburg.gbv.de"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Ilsenburg StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtbibliothek Ilsenburg"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Marienh\u00f6fer Str. 9 b"
+                },
+                {
+                    "b": "Ilsenburg"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "38871"
+                },
+                {
+                    "f": "Sachsen-Anhalt"
+                },
+                {
+                    "i": "Mo 10.00-12.00 und 13.00-16.00, Di 13.00-18.00, Do 10.00-12.00 und 13.00-18.00, Fr 13.00-16.00"
+                },
+                {
+                    "k": "10.67895"
+                },
+                {
+                    "l": "51.86399"
+                },
+                {
+                    "n": "15085190"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "z": "Der Standort ist ist wegen Sanierung vor\u00fcbergehend geschlossen. Aktuelle Adressen siehe weitere Anschriften."
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "a": "Marktplatz 1"
+                },
+                {
+                    "b": "Ilsenburg"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "38871"
+                },
+                {
+                    "f": "Sachsen-Anhalt"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "W"
+                },
+                {
+                    "3": "B\u00fcro- und Postadresse (w\u00e4hrend Sanierung)"
+                }
+            ],
+            [
+                {
+                    "a": "Auf der See 16"
+                },
+                {
+                    "b": "Ilsenburg"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "38871"
+                },
+                {
+                    "f": "Sachsen-Anhalt"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "W"
+                },
+                {
+                    "3": "Ausleihe (w\u00e4hrend Sanierung)"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "39452"
+                },
+                {
+                    "f": "24 39"
+                },
+                {
+                    "k": "bibliothek.ilsenburg@gmx.de"
+                }
+            ],
+            [
+                {
+                    "a": "W"
+                },
+                {
+                    "b": "Telefon B\u00fcro"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "39452"
+                },
+                {
+                    "f": "807671"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "06"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Stadtbibliothek"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "SAA"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "GBV"
+                },
+                {
+                    "d": "\u00d6VK"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-We5",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-We5",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-We5",
+    "identifier": "DE-We5",
+    "name": "Stadtbibliothek Ilsenburg",
+    "location": "Ilsenburg",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "SAA"
+}

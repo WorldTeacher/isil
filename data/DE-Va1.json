@@ -1,0 +1,284 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Va1.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:19-07-21"
+                ],
+                {
+                    "t": "13:20:58.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020598637"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "283000-0"
+                },
+                {
+                    "b": "DE081"
+                },
+                {
+                    "d": "Va 1"
+                },
+                {
+                    "e": "DE-Va1"
+                },
+                {
+                    "f": "UBVE"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.bibliothek.uni-vechta.de/home/"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://lhosb.gbv.de/LNG=DU/DB=3/"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Vechta UB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Universit\u00e4tsbibliothek Vechta"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Driverstr. 26"
+                },
+                {
+                    "b": "Vechta"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "49377"
+                },
+                {
+                    "f": "Niedersachsen"
+                },
+                {
+                    "i": "Mo-Do 8.30-20.00, Fr 8.30-18.00, Sa 8.30-16.00"
+                },
+                {
+                    "j": "in der vorlesungsfreien Zeit: Mo-Fr 8.30-18.00"
+                },
+                {
+                    "k": "8.29589"
+                },
+                {
+                    "l": "52.72069"
+                },
+                {
+                    "n": "03460009"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Vechta"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "49364"
+                },
+                {
+                    "f": "Niedersachsen"
+                },
+                {
+                    "g": "15 53"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "4441"
+                },
+                {
+                    "f": "15-355"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "4441"
+                },
+                {
+                    "i": "15-447"
+                },
+                {
+                    "k": "Bibliothek@Uni-Vechta.de"
+                }
+            ],
+            [
+                {
+                    "a": "W"
+                },
+                {
+                    "b": "Fernleihe"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "k": "fernleihe@listserv.uni-vechta.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0111"
+                },
+                {
+                    "e": "GBV"
+                },
+                {
+                    "f": "60"
+                },
+                {
+                    "g": "02"
+                },
+                {
+                    "h": "09"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NIE"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "GBV"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035K": [
+            [
+                {
+                    "b": "A"
+                }
+            ]
+        ],
+        "035O": [
+            [
+                {
+                    "a": "FZL DE-622"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Va1",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Va1",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Va1",
+    "identifier": "DE-Va1",
+    "name": "Universit\u00e4tsbibliothek Vechta",
+    "location": "Vechta",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NIE"
+}

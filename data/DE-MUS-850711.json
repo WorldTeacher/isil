@@ -1,0 +1,131 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-MUS-850711.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-01-12"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:12-10-20"
+                ],
+                {
+                    "t": "08:08:59.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:11-01-12"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1018749926"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "e": "DE-MUS-850711"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.museen-in-deutschland.de/singleview.php?muges=850711"
+                },
+                {
+                    "x": "Weitere Informationen"
+                },
+                {
+                    "z": "W"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Museum Burg Stein"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Stein 1"
+                },
+                {
+                    "b": "Hartenstein"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "08118"
+                },
+                {
+                    "f": "Sachsen"
+                },
+                {
+                    "k": "12.66286"
+                },
+                {
+                    "l": "50.64966"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "m"
+                },
+                {
+                    "f": "86"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-MUS-850711",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-MUS-850711",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-MUS-850711",
+    "identifier": "DE-MUS-850711",
+    "name": "Museum Burg Stein",
+    "location": "Hartenstein",
+    "type": [
+        "Organization",
+        "Museum"
+    ]
+}

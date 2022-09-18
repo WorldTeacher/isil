@@ -1,0 +1,967 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/ZDB-Test2.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:08-05-09"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:31-05-22"
+                ],
+                {
+                    "t": "11:28:51.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:17-02-11"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "994148992"
+                ]
+            ]
+        ],
+        "007N": [
+            [
+                [
+                    "0094563542"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "199999-X"
+                },
+                {
+                    "b": "KK001"
+                },
+                {
+                    "c": "RegBKZ"
+                },
+                {
+                    "d": "Test 2"
+                },
+                {
+                    "e": "ZDB-Test2"
+                },
+                {
+                    "f": "EZB-BibID"
+                },
+                {
+                    "g": "OCLC-1234"
+                },
+                {
+                    "h": "ZDB-X-115"
+                },
+                {
+                    "i": "OCLC-Symbol"
+                },
+                {
+                    "j": "DBIS-ID"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://homepage.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://opac.de"
+                },
+                {
+                    "z": "B"
+                }
+            ],
+            [
+                {
+                    "u": "http://Fernleihe.de"
+                },
+                {
+                    "z": "C"
+                }
+            ],
+            [
+                {
+                    "u": "http://Kontakt.de"
+                },
+                {
+                    "z": "D"
+                }
+            ],
+            [
+                {
+                    "u": "http://wifi.de"
+                },
+                {
+                    "z": "E"
+                }
+            ],
+            [
+                {
+                    "u": "http://info-test.de"
+                },
+                {
+                    "x": "Weitere Informationen"
+                },
+                {
+                    "z": "W"
+                }
+            ],
+            [
+                {
+                    "u": "http://info-test.de/openurl"
+                },
+                {
+                    "x": "OpenURL"
+                },
+                {
+                    "z": "W"
+                }
+            ],
+            [
+                {
+                    "u": "http://info-test.de/daia"
+                },
+                {
+                    "x": "DAIA"
+                },
+                {
+                    "z": "W"
+                }
+            ],
+            [
+                {
+                    "u": "http://info-test.de/paia"
+                },
+                {
+                    "x": "PAIA"
+                },
+                {
+                    "z": "W"
+                }
+            ],
+            [
+                {
+                    "u": "http://info-test.de/sru"
+                },
+                {
+                    "x": "SRU"
+                },
+                {
+                    "z": "W"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "K\u00f6nigliche Testbibliothek"
+                },
+                {
+                    "4": "a"
+                }
+            ],
+            [
+                {
+                    "a": "Preu\u00dfische Testbibliothek"
+                },
+                {
+                    "4": "a"
+                }
+            ],
+            [
+                {
+                    "a": "TB"
+                },
+                {
+                    "4": "b"
+                }
+            ],
+            [
+                {
+                    "a": "TB2"
+                },
+                {
+                    "4": "b"
+                }
+            ],
+            [
+                {
+                    "a": "Berlin TestB"
+                },
+                {
+                    "4": "c"
+                }
+            ],
+            [
+                {
+                    "a": "Berlin Test Library"
+                },
+                {
+                    "4": "d"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Testbibliothek | SRU NEU"
+                }
+            ]
+        ],
+        "029R": [
+            [
+                {
+                    "9": "009000046"
+                },
+                {
+                    "7": "Tw"
+                },
+                {
+                    "a": "Staatsbibliothek zu Berlin - Preu\u00dfischer Kulturbesitz, Haus Potsdamer Stra\u00dfe"
+                },
+                {
+                    "e": "DE-1a"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "222 E. 46th Street"
+                },
+                {
+                    "b": "New York"
+                },
+                {
+                    "d": "US"
+                },
+                {
+                    "e": "10017"
+                },
+                {
+                    "f": "NY, USA"
+                },
+                {
+                    "h": "Building A"
+                },
+                {
+                    "k": "13.47760"
+                },
+                {
+                    "l": "52.60272"
+                },
+                {
+                    "o": "teilweise barrierefrei"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "a": "Poststr. 7"
+                },
+                {
+                    "b": "PostOrt1"
+                },
+                {
+                    "d": "CH"
+                },
+                {
+                    "e": "10221"
+                },
+                {
+                    "f": "Landberlin"
+                },
+                {
+                    "g": "PF 47 11"
+                },
+                {
+                    "h": "linker Briefkasten1"
+                },
+                {
+                    "k": "8.38339"
+                },
+                {
+                    "l": "48.22349"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "z": "Das ist die Postanschrift1"
+                },
+                {
+                    "2": "P"
+                }
+            ],
+            [
+                {
+                    "a": "Teststr. 1"
+                },
+                {
+                    "b": "TestOrt1"
+                },
+                {
+                    "d": "CH"
+                },
+                {
+                    "e": "10221"
+                },
+                {
+                    "f": "Landberlin"
+                },
+                {
+                    "h": "linker Briefkasten1"
+                },
+                {
+                    "k": "8.38339"
+                },
+                {
+                    "l": "48.22349"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "z": "Das ist die Testanschrift"
+                },
+                {
+                    "2": "W"
+                },
+                {
+                    "3": "Testanschriftneu"
+                }
+            ],
+            [
+                {
+                    "a": "Teststr. 2"
+                },
+                {
+                    "b": "TestOrt2"
+                },
+                {
+                    "d": "CH"
+                },
+                {
+                    "e": "10222"
+                },
+                {
+                    "f": "Landberlin"
+                },
+                {
+                    "h": "linker Briefkasten1"
+                },
+                {
+                    "k": "8.38339"
+                },
+                {
+                    "l": "48.22349"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "z": "Das ist die 2. Testanschrift"
+                },
+                {
+                    "2": "W"
+                },
+                {
+                    "3": "Testanschrift2"
+                }
+            ],
+            [
+                {
+                    "a": "Geheimstr. 1"
+                },
+                {
+                    "b": "GeheimOrt1"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "10221"
+                },
+                {
+                    "f": "Landberlin"
+                },
+                {
+                    "h": "linker Briefkasten1"
+                },
+                {
+                    "k": "8.38339"
+                },
+                {
+                    "l": "48.22349"
+                },
+                {
+                    "p": "n"
+                },
+                {
+                    "z": "Diese Anschrift darf nicht angezeicht werden"
+                },
+                {
+                    "2": "W"
+                },
+                {
+                    "3": "Geheimanschriftneu"
+                }
+            ],
+            [
+                {
+                    "a": "Fernleihstra\u00dfe. 1"
+                },
+                {
+                    "b": "Fernleihhausen"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "10221"
+                },
+                {
+                    "f": "Landberlin"
+                },
+                {
+                    "h": "linker Briefkasten1"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "z": "Bitte zwei mal klingeln"
+                },
+                {
+                    "2": "W"
+                },
+                {
+                    "3": "Fernleihe"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "30"
+                },
+                {
+                    "f": "3 77-3301"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "30"
+                },
+                {
+                    "i": "3 77-2768"
+                },
+                {
+                    "j": "12345 tlx d"
+                },
+                {
+                    "k": "sigelstelle@sbb.spk-berlin.de"
+                },
+                {
+                    "l": "Nur mal eine Anmerkung zur Kommunkation0"
+                }
+            ],
+            [
+                {
+                    "a": "W"
+                },
+                {
+                    "b": "Fernleihe"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "30"
+                },
+                {
+                    "f": "3 77-3301"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "30"
+                },
+                {
+                    "i": "3 77-2761"
+                },
+                {
+                    "j": "12345 tlx d"
+                },
+                {
+                    "k": "sigelstell1@sbb.spk-berlin.de"
+                },
+                {
+                    "l": "FernleihKommTest"
+                }
+            ],
+            [
+                {
+                    "a": "W"
+                },
+                {
+                    "b": "NochnKontakt A"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "30"
+                },
+                {
+                    "f": "3 77-3301"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "30"
+                },
+                {
+                    "i": "3 77-2761"
+                },
+                {
+                    "j": "12345 tlx d"
+                },
+                {
+                    "k": "sigelstell1@sbb.spk-berlin.de"
+                },
+                {
+                    "l": "+4930266434402"
+                }
+            ],
+            [
+                {
+                    "a": "W"
+                },
+                {
+                    "b": "fernleihrelevanter Kontakt"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "30"
+                },
+                {
+                    "f": "3 77-3301"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "30"
+                },
+                {
+                    "i": "3 77-2761"
+                },
+                {
+                    "j": "12345 tlx d"
+                },
+                {
+                    "k": "fl@sbb.spk-berlin.de"
+                },
+                {
+                    "l": "Fernleihstelle"
+                }
+            ],
+            [
+                {
+                    "a": "W"
+                },
+                {
+                    "b": "Testanschrift2"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "30"
+                },
+                {
+                    "f": "3 77-3301"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "30"
+                },
+                {
+                    "i": "3 77-2761"
+                },
+                {
+                    "j": "12345 tlx d"
+                },
+                {
+                    "k": "fl@sbb.spk-berlin.de"
+                },
+                {
+                    "l": "Testanschrift2"
+                }
+            ]
+        ],
+        "035D": [
+            [
+                {
+                    "a": "Test 1"
+                },
+                {
+                    "b": "ZDB-Test1"
+                }
+            ],
+            [
+                {
+                    "a": "Test 2"
+                },
+                {
+                    "b": "ZDB-Test2"
+                }
+            ],
+            [
+                {
+                    "a": "Test 3"
+                },
+                {
+                    "b": "ZDB-Test3"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0323"
+                },
+                {
+                    "d": "GBV"
+                },
+                {
+                    "d": "SWB"
+                },
+                {
+                    "e": "\u00d6BV"
+                },
+                {
+                    "f": "21"
+                },
+                {
+                    "g": "09"
+                },
+                {
+                    "h": "10"
+                },
+                {
+                    "i": "P"
+                },
+                {
+                    "k": "Fr\u00fcheres Sigel"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Testfach1"
+                },
+                {
+                    "a": "Testfach2"
+                },
+                {
+                    "a": "Testfach3"
+                }
+            ]
+        ],
+        "035H": [
+            [
+                {
+                    "a": "FID-SONST-WAS-DE-2"
+                },
+                {
+                    "a": "SSG 9,99 / Test1"
+                },
+                {
+                    "a": "SSG 1,11 / Test2"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAW"
+                },
+                {
+                    "c": "GBV"
+                },
+                {
+                    "d": "GBV; AHB; KIVK"
+                },
+                {
+                    "e": "n"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035J": [
+            [
+                {
+                    "a": "\u00f6ffentliche Anmerkung Fernleihe"
+                }
+            ]
+        ],
+        "035K": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "b": "A"
+                },
+                {
+                    "c": "1800"
+                },
+                {
+                    "d": "http://www.alt.de"
+                },
+                {
+                    "e": "Protokoll FL-System"
+                },
+                {
+                    "f": "j"
+                },
+                {
+                    "g": "Bestandsl\u00fccken Verbund-DB"
+                },
+                {
+                    "h": "ABC"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "a"
+                },
+                {
+                    "d": "Verlaengerungen@fernleihe.de"
+                }
+            ],
+            [
+                {
+                    "a": "b"
+                },
+                {
+                    "d": "Vormerkungen@fernleihe.de"
+                }
+            ],
+            [
+                {
+                    "a": "c"
+                },
+                {
+                    "d": "IFLA@fernleihe.de"
+                }
+            ],
+            [
+                {
+                    "a": "d"
+                },
+                {
+                    "d": "Mahnfrist@fernleihe.de"
+                }
+            ],
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "passiveFL@fernleihe.de"
+                }
+            ],
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "passiveFL2@fernleihe.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "aktiveFL@fernleihe.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "aktiveFL2@fernleihe.de"
+                }
+            ]
+        ],
+        "035M": [
+            [
+                {
+                    "a": "4 Wochen"
+                },
+                {
+                    "b": "Postversand; B\u00fccherauto"
+                },
+                {
+                    "c": "0,15 \u20ac"
+                },
+                {
+                    "d": "DE-1w"
+                },
+                {
+                    "e": "DE-600"
+                },
+                {
+                    "f": "DE-109"
+                }
+            ]
+        ],
+        "035N": [
+            [
+                {
+                    "a": "m"
+                },
+                {
+                    "b": "https://opac.bibliothek.uni-augsburg.de/InfoGuideClient.ubasis/start.do?Language=De&Login=opacfl&Query=010%3D%22BV010745879%22"
+                }
+            ],
+            [
+                {
+                    "a": "m"
+                },
+                {
+                    "b": "https://opac.bibliothek.uni-augsburg.de/InfoGuideClient.ubasis/start.do?Language=De&Login=opacfl&Query=010%3D%22BV010745879%22"
+                }
+            ]
+        ],
+        "035O": [
+            [
+                {
+                    "a": "ISIL DE-18; FZL DE-621; AUTO DE-618"
+                },
+                {
+                    "b": "PARCEL"
+                },
+                {
+                    "c": "Fernleih-Umladezentrum Karlsruhe"
+                },
+                {
+                    "d": "Transport@sbb.spk-berlin.de"
+                }
+            ]
+        ],
+        "035Q": [
+            [
+                {
+                    "a": "j"
+                },
+                {
+                    "b": "n"
+                }
+            ]
+        ],
+        "047A": [
+            [
+                {
+                    "a": "Allgemeine Bemerkung"
+                }
+            ]
+        ]
+    },
+    "_id": "ZDB-Test2",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/ZDB-Test2",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/ZDB-Test2",
+    "identifier": "ZDB-Test2",
+    "name": "Testbibliothek | SRU NEU",
+    "location": "New York",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAW"
+}

@@ -1,0 +1,273 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Wim8.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:18-11-99"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:04-11-16"
+                ],
+                {
+                    "t": "17:22:50.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:27-05-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "009033483"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "EM524"
+                },
+                {
+                    "d": "Wim 8"
+                },
+                {
+                    "e": "DE-Wim8"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.hfm-weimar.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://opac.ub.uni-weimar.de/DB=3/"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Weimar HS Musik"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Hochschule f\u00fcr Musik Franz Liszt, Hochschulbibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Platz der Demokratie 2/3"
+                },
+                {
+                    "b": "Weimar"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "99423"
+                },
+                {
+                    "f": "Th\u00fcringen"
+                },
+                {
+                    "h": "F\u00fcrstenhaus"
+                },
+                {
+                    "i": "Mo 9.30-13.00, Di-Do 9.30-17.30, Fr 9.30-16.00"
+                },
+                {
+                    "j": "verk\u00fcrzte \u00d6ffnungszeiten w\u00e4hrend der Semesterferien"
+                },
+                {
+                    "k": "11.33145"
+                },
+                {
+                    "l": "50.97846"
+                },
+                {
+                    "n": "16055000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "a": "Carl-Alexanderplatz 1"
+                },
+                {
+                    "b": "Weimar"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "99423"
+                },
+                {
+                    "h": "Hochschulzentrum am Horn"
+                },
+                {
+                    "i": "Mo-Fr 9.00-20.00 und Sa 9.00-16.00"
+                },
+                {
+                    "j": "verk\u00fcrzte \u00d6ffnungszeiten w\u00e4hrend der Semesterferien"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "W"
+                },
+                {
+                    "3": "Teilbibliothek Musikwissenschaft"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "3643"
+                },
+                {
+                    "f": "5 55-125 und -124"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "3643"
+                },
+                {
+                    "i": "5 55-160"
+                },
+                {
+                    "k": "bibliothek@hfm-weimar.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "70"
+                },
+                {
+                    "g": "02"
+                },
+                {
+                    "h": "07"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Musik"
+                },
+                {
+                    "a": "Liszt, Franz"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "THU"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "GBV"
+                },
+                {
+                    "d": "Kalliope"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035O": [
+            [
+                {
+                    "a": "FZL DE-622"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Wim8",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Wim8",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Wim8",
+    "identifier": "DE-Wim8",
+    "name": "Hochschule f\u00fcr Musik Franz Liszt, Hochschulbibliothek",
+    "location": "Weimar",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "THU"
+}

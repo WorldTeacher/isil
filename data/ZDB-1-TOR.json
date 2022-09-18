@@ -1,0 +1,238 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/ZDB-1-TOR.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:08-02-18"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:12-03-19"
+                ],
+                {
+                    "t": "17:23:04.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:08-02-18"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1152038192"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "d": "ZDB-1-TOR"
+                },
+                {
+                    "e": "ZDB-1-TOR"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://digital.casalini.it"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://romanistik.fid-lizenzen.de/angebote/nlproduct.2015-06-23.0946644174"
+                },
+                {
+                    "x": "Produktinfo"
+                },
+                {
+                    "z": "W"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "FID-Lizenz Torrossa Romanistik"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Torrossa E-Journals : FID-Romanistik Collection [FID-Lizenz]"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Universit\u00e4ts- und Landesbibliothek Bonn, Adenauerallee 39-41"
+                },
+                {
+                    "b": "Bonn"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "53113"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "k": "7.10856"
+                },
+                {
+                    "l": "50.72136"
+                },
+                {
+                    "n": "05314000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "a": "Staats- und Universit\u00e4tsbibliothek Hamburg Carl von Ossietzky, Von-Melle-Park 3"
+                },
+                {
+                    "b": "Hamburg"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "20146"
+                },
+                {
+                    "f": "Hamburg"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "W"
+                },
+                {
+                    "3": "Weitere FID-Betreuung"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "k": "lizenzen@fid-romanistik.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "P"
+                },
+                {
+                    "f": "89"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "E-Journals"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "ANL"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ],
+        "035P": [
+            [
+                {
+                    "a": "E-Journals"
+                },
+                {
+                    "c": "neu 2016"
+                },
+                {
+                    "d": "j"
+                },
+                {
+                    "e": "21"
+                },
+                {
+                    "g": "Casalini Libri s.p.a."
+                },
+                {
+                    "i": "FID-Lizenz"
+                }
+            ]
+        ],
+        "047A": [
+            [
+                {
+                    "a": "Datenbank. - Der deutschlandweite Zugriff auf dieses Produkt wird im Rahmen des durch die Deutsche Forschungsgemeinschaft (DFG) gef\u00f6rderten Fachinformationsdienstes (FID) Romanistik durch die Universit\u00e4ts- und Landesbibliothek Bonn und die Staats- und Universit\u00e4tsbibliothek Hamburg Carl von Ossietzky erm\u00f6glicht und organisiert."
+                }
+            ]
+        ]
+    },
+    "_id": "ZDB-1-TOR",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/ZDB-1-TOR",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/ZDB-1-TOR",
+    "identifier": "ZDB-1-TOR",
+    "name": "Torrossa E-Journals : FID-Romanistik Collection [FID-Lizenz]",
+    "location": "Bonn",
+    "type": [
+        "Organization",
+        "Product"
+    ],
+    "addressRegion": "ANL"
+}

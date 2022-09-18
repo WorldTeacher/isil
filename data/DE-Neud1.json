@@ -1,0 +1,261 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Neud1.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:24-09-21"
+                ],
+                {
+                    "t": "09:53:36.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020597282"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "882000-4"
+                },
+                {
+                    "b": "DD222"
+                },
+                {
+                    "d": "Neud 1"
+                },
+                {
+                    "e": "DE-Neud1"
+                },
+                {
+                    "f": "AUGUS"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.augustana.de/bibliothek"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://ahs.dabis.cc"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Neuendettelsau HS"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Augustana-Hochschule, Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Waldstr. 15"
+                },
+                {
+                    "b": "Neuendettelsau"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "91564"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "i": "Mo-Do 8.00-17.00, Fr 8.00-16.00"
+                },
+                {
+                    "j": "F\u00fcr Angeh\u00f6rige der Augustana-Hochschule ist die Bibliothek rund um die Uhr zug\u00e4nglich"
+                },
+                {
+                    "k": "10.77764"
+                },
+                {
+                    "l": "49.28388"
+                },
+                {
+                    "n": "09571180"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "9874"
+                },
+                {
+                    "f": "5 09-0"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "9874"
+                },
+                {
+                    "i": "5 09-555"
+                },
+                {
+                    "k": "bibliothek@augustana.de"
+                }
+            ]
+        ],
+        "035D": [
+            [
+                {
+                    "b": "GyNeA (fr\u00fcherer MARC Code)"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0327"
+                },
+                {
+                    "f": "70"
+                },
+                {
+                    "g": "09"
+                },
+                {
+                    "h": "08"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Evangelische Theologie"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAY"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "d": "VThK"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "fernleihe@augustana.de"
+                }
+            ]
+        ],
+        "035Q": [
+            [
+                {
+                    "a": "j"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Neud1",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Neud1",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Neud1",
+    "identifier": "DE-Neud1",
+    "name": "Augustana-Hochschule, Bibliothek",
+    "location": "Neuendettelsau",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAY"
+}

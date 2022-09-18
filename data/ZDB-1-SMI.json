@@ -1,0 +1,209 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/ZDB-1-SMI.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:10-03-10"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:30-11-18"
+                ],
+                {
+                    "t": "13:33:49.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:10-03-10"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1000768694"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "d": "ZDB-1-SMI"
+                },
+                {
+                    "e": "ZDB-1-SMI"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.springerlink.com/medicine/?Content+Type=Books&Language=English&cb=2005&ce=2008"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://www.nationallizenzen.de/angebote/copy_of_nlproduct.2009-03-24.8474179936"
+                },
+                {
+                    "x": "Produktinfo"
+                },
+                {
+                    "z": "W"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Nationallizenz Springer Med."
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Springer ebook collection / Medicine 2005-2008 [Nationallizenz]"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Deutsche Zentralbibliothek f\u00fcr Medizin"
+                },
+                {
+                    "b": "K\u00f6ln"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "50931"
+                },
+                {
+                    "k": "6.91666"
+                },
+                {
+                    "l": "50.92466"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "k": "nationallizenzen@zbmed.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "P"
+                },
+                {
+                    "f": "89"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "E-Books"
+                },
+                {
+                    "a": "Kollektion von 1.275 \u00fcberwiegend englischsprachigen eBooks der Erscheinungsjahre 2005 bis 2008 des Springer-Verlags aus dem Bereich der Medizin"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "ANL"
+                },
+                {
+                    "e": "k"
+                }
+            ]
+        ],
+        "035P": [
+            [
+                {
+                    "a": "E-Books"
+                },
+                {
+                    "c": "neu 2010"
+                },
+                {
+                    "d": "n"
+                },
+                {
+                    "g": "Springer"
+                },
+                {
+                    "h": "http://www.nationallizenzen.de/angebote/copy_of_nlproduct.2009-03-24.8474179936"
+                },
+                {
+                    "i": "Nationallizenz"
+                }
+            ]
+        ],
+        "047A": [
+            [
+                {
+                    "a": "Datenbank. - Der deutschlandweite Zugriff auf dieses Produkt wird durch die F\u00f6rderung der Deutschen Forschungsgemeinschaft (DFG) erm\u00f6glicht und durch die Deutsche Zentralbibliothek f\u00fcr Medizin organisiert"
+                }
+            ]
+        ]
+    },
+    "_id": "ZDB-1-SMI",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/ZDB-1-SMI",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/ZDB-1-SMI",
+    "identifier": "ZDB-1-SMI",
+    "name": "Springer ebook collection / Medicine 2005-2008 [Nationallizenz]",
+    "location": "K\u00f6ln",
+    "type": [
+        "Organization",
+        "Product"
+    ],
+    "addressRegion": "ANL"
+}

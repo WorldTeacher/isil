@@ -1,0 +1,270 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Ma14.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:18-11-99"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:22-02-21"
+                ],
+                {
+                    "t": "15:46:57.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "009029435"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "935000-7"
+                },
+                {
+                    "d": "Ma 14"
+                },
+                {
+                    "e": "DE-Ma14"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.med.uni-magdeburg.de/mzb/"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://opac.uni-magdeburg.de/DB=2/LNG=DU/"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Magdeburg Med. ZB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Otto-von-Guericke-Universit\u00e4t, Universit\u00e4tsbibliothek, Medizinische Zentralbibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Leipziger Str. 44"
+                },
+                {
+                    "b": "Magdeburg"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "39120"
+                },
+                {
+                    "f": "Sachsen-Anhalt"
+                },
+                {
+                    "i": "Mo-Fr 8.00-21.00, Sa 10.00-18.00"
+                },
+                {
+                    "k": "11.61466"
+                },
+                {
+                    "l": "52.10108"
+                },
+                {
+                    "n": "15003000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "391"
+                },
+                {
+                    "f": "67-14308"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "391"
+                },
+                {
+                    "i": "67-14317"
+                },
+                {
+                    "k": "leihstelle@med.ovgu.de"
+                },
+                {
+                    "l": "Auskunft"
+                }
+            ],
+            [
+                {
+                    "a": "W"
+                },
+                {
+                    "b": "Fernleihe"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "391"
+                },
+                {
+                    "f": "67-14306"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0105"
+                },
+                {
+                    "e": "GBV"
+                },
+                {
+                    "f": "65"
+                },
+                {
+                    "g": "02"
+                },
+                {
+                    "h": "08"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Medizin"
+                },
+                {
+                    "a": "Neurowissenschaften"
+                },
+                {
+                    "a": "Immunologie"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "SAA"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "GBV"
+                },
+                {
+                    "d": "Kalliope"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035O": [
+            [
+                {
+                    "a": "FZL DE-622"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Ma14",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Ma14",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Ma14",
+    "identifier": "DE-Ma14",
+    "name": "Otto-von-Guericke-Universit\u00e4t, Universit\u00e4tsbibliothek, Medizinische Zentralbibliothek",
+    "location": "Magdeburg",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "SAA"
+}

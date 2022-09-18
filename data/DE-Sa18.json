@@ -1,0 +1,276 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Sa18.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:18-11-99"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:10-11-21"
+                ],
+                {
+                    "t": "14:25:31.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "009037624"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "668018-5"
+                },
+                {
+                    "b": "BE343"
+                },
+                {
+                    "d": "Sa 18"
+                },
+                {
+                    "e": "DE-Sa18"
+                },
+                {
+                    "f": "MPII"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.infomath-bib.de"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Saarbr\u00fccken MPI Informatik"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Max-Planck-Institut f\u00fcr Informatik, Campusbibliothek f\u00fcr Informatik und Mathematik"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Campus E2 3"
+                },
+                {
+                    "b": "Saarbr\u00fccken"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "66123"
+                },
+                {
+                    "f": "Saarland"
+                },
+                {
+                    "i": "Mo-Fr 8.00-20.00"
+                },
+                {
+                    "k": "7.04636"
+                },
+                {
+                    "l": "49.25649"
+                },
+                {
+                    "n": "10041100"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "681"
+                },
+                {
+                    "f": "93 25-5740"
+                },
+                {
+                    "k": "library@infomath-bib.de"
+                }
+            ]
+        ],
+        "035D": [
+            [
+                {
+                    "b": "DE-SaMPI (fr\u00fcherer MARC Code)"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0072"
+                },
+                {
+                    "d": "SWB"
+                },
+                {
+                    "d": "MPG"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "07"
+                },
+                {
+                    "h": "07"
+                },
+                {
+                    "i": "P"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Informatik"
+                },
+                {
+                    "a": "Mathematik"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "SWB"
+                },
+                {
+                    "e": "k"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "b"
+                },
+                {
+                    "d": "library@infomath-bib.de"
+                }
+            ],
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "library@infomath-bib.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "library@infomath-bib.de"
+                }
+            ]
+        ],
+        "035Q": [
+            [
+                {
+                    "a": "j"
+                }
+            ]
+        ],
+        "047A": [
+            [
+                {
+                    "a": "Ausleihe f\u00fcr Angeh\u00f6rige der Saarbr\u00fccker Max-Planck-Institute und der Universit\u00e4t des Saarlandes m\u00f6glich"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Sa18",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Sa18",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Sa18",
+    "identifier": "DE-Sa18",
+    "name": "Max-Planck-Institut f\u00fcr Informatik, Campusbibliothek f\u00fcr Informatik und Mathematik",
+    "location": "Saarbr\u00fccken",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAW"
+}

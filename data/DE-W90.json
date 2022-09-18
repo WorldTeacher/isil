@@ -1,0 +1,201 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-W90.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:28-02-05"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:28-01-16"
+                ],
+                {
+                    "t": "16:38:38.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:27-05-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "027155722"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "878090-0"
+                },
+                {
+                    "d": "W 90"
+                },
+                {
+                    "e": "DE-W90"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.justiz.bayern.de/gericht/lg/wue/"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "W\u00fcrzburg Landgericht"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Landgericht W\u00fcrzburg, Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Ottostr. 5"
+                },
+                {
+                    "b": "W\u00fcrzburg"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "97070"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "i": "Nicht \u00f6ffentlich zug\u00e4nglich"
+                },
+                {
+                    "k": "9.93704"
+                },
+                {
+                    "l": "49.78861"
+                },
+                {
+                    "n": "09663000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "931"
+                },
+                {
+                    "f": "3 81-710"
+                },
+                {
+                    "k": "poststelle@lg-wue.bayern.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0027"
+                },
+                {
+                    "d": "BVB"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "02"
+                },
+                {
+                    "h": "01"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAY"
+                },
+                {
+                    "c": "BVB"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-W90",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-W90",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-W90",
+    "identifier": "DE-W90",
+    "name": "Landgericht W\u00fcrzburg, Bibliothek",
+    "location": "W\u00fcrzburg",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAY"
+}

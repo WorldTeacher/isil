@@ -1,0 +1,248 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Mb74.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:17-02-16"
+                ],
+                {
+                    "t": "13:30:28.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020596596"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "DC436"
+                },
+                {
+                    "d": "Mb 74"
+                },
+                {
+                    "e": "DE-Mb74"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.blista.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://katalog.blista.de/allegro"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Marburg EKB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Deutsche Blinden-Bibliothek, Emil-Kr\u00fcckmann-B\u00fccherei(EKB)"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Am Schlag 8/10"
+                },
+                {
+                    "b": "Marburg/Lahn"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "35037"
+                },
+                {
+                    "f": "Hessen"
+                },
+                {
+                    "i": "Mo-Fr 9.00-14.00"
+                },
+                {
+                    "k": "8.76114"
+                },
+                {
+                    "l": "50.81559"
+                },
+                {
+                    "n": "06534014"
+                },
+                {
+                    "o": "barrierefrei"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Marburg/Lahn"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "35001"
+                },
+                {
+                    "f": "Hessen"
+                },
+                {
+                    "g": "11 60"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "6421"
+                },
+                {
+                    "f": "6 06-237"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "6421"
+                },
+                {
+                    "i": "6 06-269"
+                },
+                {
+                    "k": "ekb@blista.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "36"
+                },
+                {
+                    "g": "08"
+                },
+                {
+                    "h": "07"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Literatur in Braille-Schrift"
+                },
+                {
+                    "a": "Taktile Karten"
+                },
+                {
+                    "a": "Braille Notenwerke"
+                },
+                {
+                    "a": "Blindenschrift"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "HES"
+                },
+                {
+                    "e": "a"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Mb74",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Mb74",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Mb74",
+    "identifier": "DE-Mb74",
+    "name": "Deutsche Blinden-Bibliothek, Emil-Kr\u00fcckmann-B\u00fccherei(EKB)",
+    "location": "Marburg/Lahn",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "HES"
+}

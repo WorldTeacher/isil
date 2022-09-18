@@ -1,0 +1,234 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Star1.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:08-10-20"
+                ],
+                {
+                    "t": "13:45:32.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:27-05-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020598165"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "818101-9"
+                },
+                {
+                    "b": "DD143"
+                },
+                {
+                    "d": "Star 1"
+                },
+                {
+                    "e": "DE-Star1"
+                },
+                {
+                    "f": "MPFO"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.orn.mpg.de/library.html"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://vzopc4.gbv.de:8080/DB=31/"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "P\u00f6cking MPI Ornithologie"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Max-Planck-Institut f\u00fcr Ornithologie, Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Eberhard-Gwinner-Str."
+                },
+                {
+                    "b": "P\u00f6cking"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "82319"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "h": "Haus 4"
+                },
+                {
+                    "i": "nicht \u00f6ffentlich zug\u00e4nglich"
+                },
+                {
+                    "k": "11.23541"
+                },
+                {
+                    "l": "47.97257"
+                },
+                {
+                    "n": "09188137"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "z": "OT Seewiesen"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "8157"
+                },
+                {
+                    "f": "9 32-205"
+                },
+                {
+                    "k": "bibliothek@orn.mpg.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0148"
+                },
+                {
+                    "d": "MPG"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "01"
+                },
+                {
+                    "h": "07"
+                },
+                {
+                    "i": "P"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Ornithologie"
+                },
+                {
+                    "a": "Biologie"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAY"
+                },
+                {
+                    "c": "GBV"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Star1",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Star1",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Star1",
+    "identifier": "DE-Star1",
+    "name": "Max-Planck-Institut f\u00fcr Ornithologie, Bibliothek",
+    "location": "P\u00f6cking",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAY"
+}

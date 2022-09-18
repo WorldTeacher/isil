@@ -1,0 +1,224 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Sa2.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:04-11-16"
+                ],
+                {
+                    "t": "10:17:08.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020597878"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "CT035"
+                },
+                {
+                    "d": "Sa 2"
+                },
+                {
+                    "e": "DE-Sa2"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.saarland.de/landgericht_saarbruecken.htm"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Saarbr\u00fccken Landgericht"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Landgericht Saarbr\u00fccken, Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Franz-Josef-R\u00f6der-Str. 15"
+                },
+                {
+                    "b": "Saarbr\u00fccken"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "66119"
+                },
+                {
+                    "f": "Saarland"
+                },
+                {
+                    "i": "Mo-Fr 7.45-15.30"
+                },
+                {
+                    "k": "6.99824"
+                },
+                {
+                    "l": "49.22778"
+                },
+                {
+                    "n": "10041100"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Saarbr\u00fccken"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "66015"
+                },
+                {
+                    "f": "Saarland"
+                },
+                {
+                    "g": "10 15 52"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "681"
+                },
+                {
+                    "f": "5 01-5207 und -5202"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "681"
+                },
+                {
+                    "i": "5 01-5256"
+                },
+                {
+                    "k": "poststelle@lg.justiz.saarland.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "02"
+                },
+                {
+                    "h": "06"
+                },
+                {
+                    "i": "P"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAW"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Sa2",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Sa2",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Sa2",
+    "identifier": "DE-Sa2",
+    "name": "Landgericht Saarbr\u00fccken, Bibliothek",
+    "location": "Saarbr\u00fccken",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAW"
+}

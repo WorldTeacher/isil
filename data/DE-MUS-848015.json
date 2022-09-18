@@ -1,0 +1,131 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-MUS-848015.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-01-12"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:12-10-20"
+                ],
+                {
+                    "t": "08:09:01.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:11-01-12"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1018749721"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "e": "DE-MUS-848015"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.museen-in-deutschland.de/singleview.php?muges=848015"
+                },
+                {
+                    "x": "Weitere Informationen"
+                },
+                {
+                    "z": "W"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Heimatmuseum Falkenstein"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Schlo\u00dfplatz 1"
+                },
+                {
+                    "b": "Falkenstein/Vogtland"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "08223"
+                },
+                {
+                    "f": "Sachsen"
+                },
+                {
+                    "k": "12.36951"
+                },
+                {
+                    "l": "50.47678"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "m"
+                },
+                {
+                    "f": "86"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-MUS-848015",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-MUS-848015",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-MUS-848015",
+    "identifier": "DE-MUS-848015",
+    "name": "Heimatmuseum Falkenstein",
+    "location": "Falkenstein/Vogtland",
+    "type": [
+        "Organization",
+        "Museum"
+    ]
+}

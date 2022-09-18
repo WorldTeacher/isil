@@ -1,0 +1,223 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Vol1.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:19-02-16"
+                ],
+                {
+                    "t": "07:15:49.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020598688"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "508001-0"
+                },
+                {
+                    "b": "CY739"
+                },
+                {
+                    "d": "Vol 1"
+                },
+                {
+                    "e": "DE-Vol1"
+                },
+                {
+                    "f": "MPIZ"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.mpipz.mpg.de/"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "K\u00f6ln MPI PflanzZ\u00fcchtgForschung"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Max-Planck-Institut f\u00fcr Pflanzenz\u00fcchtungsforschung, Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Carl-von-Linn\u00e9-Weg 10"
+                },
+                {
+                    "b": "K\u00f6ln"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "50829"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "i": "nicht \u00f6ffentlich zug\u00e4nglich"
+                },
+                {
+                    "k": "6.86003"
+                },
+                {
+                    "l": "50.95764"
+                },
+                {
+                    "n": "05315000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "221"
+                },
+                {
+                    "f": "50 62-535"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "221"
+                },
+                {
+                    "i": "50 62-513"
+                },
+                {
+                    "k": "library@mpipz.mpg.de"
+                }
+            ]
+        ],
+        "035D": [
+            [
+                {
+                    "b": "DE-CoMPI (fr\u00fcherer MARC Code)"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0148"
+                },
+                {
+                    "d": "MPG"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "07"
+                },
+                {
+                    "h": "06"
+                },
+                {
+                    "i": "P"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Vol1",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Vol1",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Vol1",
+    "identifier": "DE-Vol1",
+    "name": "Max-Planck-Institut f\u00fcr Pflanzenz\u00fcchtungsforschung, Bibliothek",
+    "location": "K\u00f6ln",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NRW"
+}

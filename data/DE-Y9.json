@@ -1,0 +1,262 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Y9.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:30-03-11"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:10-02-22"
+                ],
+                {
+                    "t": "14:29:31.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:30-03-11"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1010798189"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "080809-X"
+                },
+                {
+                    "d": "Y 9"
+                },
+                {
+                    "e": "DE-Y9"
+                },
+                {
+                    "f": "OIB"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.orient-institut.org/Germany/index.aspx?pageid=659"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://vzlbs2.gbv.de/DB=49/"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "OIB"
+                },
+                {
+                    "4": "a"
+                }
+            ],
+            [
+                {
+                    "a": "Beirut Orient-Institut"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Orient-Institut Beirut"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Rue Hussein Beyhum"
+                },
+                {
+                    "b": "Beirut"
+                },
+                {
+                    "d": "LB"
+                },
+                {
+                    "e": "2988"
+                },
+                {
+                    "f": "Libanon"
+                },
+                {
+                    "i": "Mo-Do 9.00-16.00, Fr 9.00-14.00"
+                },
+                {
+                    "k": "35.49683"
+                },
+                {
+                    "l": "33.89339"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "a": "Zokak el-Blat, Rue Hussein Beyhum"
+                },
+                {
+                    "b": "Beirut"
+                },
+                {
+                    "d": "LB"
+                },
+                {
+                    "e": "P.O.B. 11-2988"
+                },
+                {
+                    "f": "Lebanon"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "961"
+                },
+                {
+                    "e": "1"
+                },
+                {
+                    "f": "35 92 35"
+                },
+                {
+                    "k": "oib-bib@orient-institut.org"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0012"
+                },
+                {
+                    "e": "GBV"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "07"
+                },
+                {
+                    "h": "08"
+                },
+                {
+                    "i": "P"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Islamwissenschaft"
+                },
+                {
+                    "a": "Arabistik"
+                },
+                {
+                    "a": "Semitistik"
+                },
+                {
+                    "a": "Christlicher Orient"
+                },
+                {
+                    "a": "Geschichte des Nahen und Mittleren Ostens"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "WEU"
+                },
+                {
+                    "c": "GBV"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Y9",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Y9",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Y9",
+    "identifier": "DE-Y9",
+    "name": "Orient-Institut Beirut",
+    "location": "Beirut",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "WEU"
+}

@@ -1,0 +1,198 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/ZDB-1-ART.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:23-02-09"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:11-12-18"
+                ],
+                {
+                    "t": "11:40:40.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:23-02-09"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "992836492"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "d": "ZDB-1-ART"
+                },
+                {
+                    "e": "ZDB-1-ART"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.artstor.org"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Nationalkonsortium ARTstor"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "ARTstor [Nationalkonsortium]"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Staatsbibliothek zu Berlin - Preu\u00dfischer Kulturbesitz"
+                },
+                {
+                    "b": "Berlin"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "10785"
+                },
+                {
+                    "k": "13.37063"
+                },
+                {
+                    "l": "52.50771"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "k": "ssg-nationallizenzen@sbb.spk-berlin.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "P"
+                },
+                {
+                    "f": "89"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "E-Books"
+                },
+                {
+                    "a": "E-Medien"
+                },
+                {
+                    "a": "Bilddatenbank"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "ANL"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ],
+        "035P": [
+            [
+                {
+                    "a": "E-Books E-Medien"
+                },
+                {
+                    "c": "neu 2009"
+                },
+                {
+                    "d": "n"
+                },
+                {
+                    "g": "Artstor"
+                },
+                {
+                    "i": "Nationalkonsortium DFG"
+                }
+            ]
+        ],
+        "047A": [
+            [
+                {
+                    "a": "Datenbank. - Der deutschlandweite Zugriff auf dieses Produkt wird im Rahmen eines Nationalkonsortiums mit finanzieller Unterst\u00fctzung der Deutschen Forschungsgemeinschaft (DFG) bereitgestellt und durch die Staatsbibliothek zu Berlin - Preu\u00dfischer Kulturbesitz organisiert"
+                }
+            ]
+        ]
+    },
+    "_id": "ZDB-1-ART",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/ZDB-1-ART",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/ZDB-1-ART",
+    "identifier": "ZDB-1-ART",
+    "name": "ARTstor [Nationalkonsortium]",
+    "location": "Berlin",
+    "type": [
+        "Organization",
+        "Product"
+    ],
+    "addressRegion": "ANL"
+}

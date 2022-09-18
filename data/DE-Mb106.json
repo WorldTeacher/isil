@@ -1,0 +1,279 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Mb106.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "0292:15-10-19"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:16-11-20"
+                ],
+                {
+                    "t": "11:09:37.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "0292:15-10-19"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1197084320"
+                ]
+            ]
+        ],
+        "007N": [
+            [
+                [
+                    "025525514"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "358106-8"
+                },
+                {
+                    "b": "AM350"
+                },
+                {
+                    "d": "Mb 106"
+                },
+                {
+                    "e": "DE-Mb106"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.archivschule.de/DE/bibliothek/"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://opac.ub.uni-marburg.de/DB=7/"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Marburg Archivschule"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Archivschule Marburg, Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Bismarckstr. 32"
+                },
+                {
+                    "b": "Marburg/Lahn"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "35037"
+                },
+                {
+                    "f": "Hessen"
+                },
+                {
+                    "i": "Mo-Do 8.00-16.30, Fr 8.00-13.00"
+                },
+                {
+                    "k": "8.76392"
+                },
+                {
+                    "l": "50.80348"
+                },
+                {
+                    "n": "06534014"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "6421"
+                },
+                {
+                    "f": "1 69 71-61"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "6421"
+                },
+                {
+                    "i": "1 69 71-10"
+                },
+                {
+                    "k": "bib.archivschule@staff.uni-marburg.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0013"
+                },
+                {
+                    "e": "HBV"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "02"
+                },
+                {
+                    "h": "07"
+                },
+                {
+                    "i": "P"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Archivwissenschaften"
+                },
+                {
+                    "a": "Historische Hilfswissenschaften"
+                },
+                {
+                    "a": "Geschichtswissenschaften"
+                },
+                {
+                    "a": "Verwaltungswissenschaften"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "HES"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "HeBIS"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "b"
+                },
+                {
+                    "d": "bib.archivschule@staff.uni-marburg.de"
+                }
+            ],
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "bib.archivschule@staff.uni-marburg.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "bib.archivschule@staff.uni-marburg.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Mb106",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Mb106",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Mb106",
+    "identifier": "DE-Mb106",
+    "name": "Archivschule Marburg, Bibliothek",
+    "location": "Marburg/Lahn",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "HES"
+}

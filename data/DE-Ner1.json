@@ -1,0 +1,223 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Ner1.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:18-11-99"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:21-01-20"
+                ],
+                {
+                    "t": "16:26:32.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "009026142"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "968010-X"
+                },
+                {
+                    "b": "EF649"
+                },
+                {
+                    "d": "Ner 1"
+                },
+                {
+                    "e": "DE-Ner1"
+                },
+                {
+                    "f": "PKHRU"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "https://vzlbs3.gbv.de/DB=6/LNG=DU/"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Neuruppin Kliniken"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Ruppiner Kliniken GmbH, Medizinische Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Fehrbelliner Str. 38"
+                },
+                {
+                    "b": "Neuruppin"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "16816"
+                },
+                {
+                    "f": "Brandenburg"
+                },
+                {
+                    "i": "Mo-Do 8.00-18.00 Fr 8.00-15.00"
+                },
+                {
+                    "k": "12.79771"
+                },
+                {
+                    "l": "52.90467"
+                },
+                {
+                    "n": "12068320"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "3391"
+                },
+                {
+                    "f": "39-4818"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "3391"
+                },
+                {
+                    "i": "39-4869"
+                },
+                {
+                    "k": "gf@ruppiner-kliniken.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0101"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "08"
+                },
+                {
+                    "h": "06"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Medizin"
+                },
+                {
+                    "a": "Psychologie"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BER"
+                },
+                {
+                    "c": "GBV"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Ner1",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Ner1",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Ner1",
+    "identifier": "DE-Ner1",
+    "name": "Ruppiner Kliniken GmbH, Medizinische Bibliothek",
+    "location": "Neuruppin",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BER"
+}

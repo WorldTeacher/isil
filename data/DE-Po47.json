@@ -1,0 +1,263 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Po47.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:18-11-99"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:17-11-16"
+                ],
+                {
+                    "t": "15:59:24.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "00902624X"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "968033-0"
+                },
+                {
+                    "b": "EF741"
+                },
+                {
+                    "d": "Po 47"
+                },
+                {
+                    "e": "DE-Po47"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.las-bb.de/las_links.htm"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Potsdam LAS"
+                },
+                {
+                    "4": "a"
+                }
+            ],
+            [
+                {
+                    "a": "Potsdam Landesamt AS"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "LAS - Landesamt f\u00fcr Arbeitsschutz, Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Horstweg 57"
+                },
+                {
+                    "b": "Potsdam"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "14478"
+                },
+                {
+                    "f": "Brandenburg"
+                },
+                {
+                    "i": "Mo-Do 8.00-16.00, Fr 8.00-14.00"
+                },
+                {
+                    "j": "Telefonische Voranmeldung empfohlen!"
+                },
+                {
+                    "k": "13.08726"
+                },
+                {
+                    "l": "52.38120"
+                },
+                {
+                    "n": "12054000"
+                },
+                {
+                    "o": "Nicht barrierefrei"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Potsdam"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "14438"
+                },
+                {
+                    "f": "Brandenburg"
+                },
+                {
+                    "g": "90 02 36"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "331"
+                },
+                {
+                    "f": "86 83-118"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "331"
+                },
+                {
+                    "i": "86 43 35"
+                },
+                {
+                    "k": "las.office@las.brandenburg.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0101"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "02"
+                },
+                {
+                    "h": "06"
+                },
+                {
+                    "i": "P"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Arbeitsschutz"
+                },
+                {
+                    "a": "Sicherheitstechnik"
+                },
+                {
+                    "a": "Arbeitsmedizin"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BER"
+                },
+                {
+                    "c": "KOBV"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Po47",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Po47",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Po47",
+    "identifier": "DE-Po47",
+    "name": "LAS - Landesamt f\u00fcr Arbeitsschutz, Bibliothek",
+    "location": "Potsdam",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BER"
+}

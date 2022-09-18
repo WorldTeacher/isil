@@ -1,0 +1,206 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/ZDB-172-SPF.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:23-05-17"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:01-10-19"
+                ],
+                {
+                    "t": "15:22:56.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:23-05-17"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1132662184"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "d": "ZDB-172-SPF"
+                },
+                {
+                    "e": "ZDB-172-SPF"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "https://content-select.com/de/"
+                },
+                {
+                    "x": "Vertrieb"
+                },
+                {
+                    "z": "W"
+                }
+            ],
+            [
+                {
+                    "u": "https://schluetersche.de/"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Schl\u00fctersche Pflegepraxis"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Schl\u00fctersche / Pflegepraxis"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Schl\u00fctersche Verlagsgesellschaft mbH & Co. KG, Hans-B\u00f6ckler-Allee 7"
+                },
+                {
+                    "b": "Hannover"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "30173"
+                },
+                {
+                    "f": "Niedersachsen"
+                },
+                {
+                    "k": "9.76529"
+                },
+                {
+                    "l": "52.37097"
+                },
+                {
+                    "n": "03241001"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "k": "info@schluetersche.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "P"
+                },
+                {
+                    "f": "89"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "E-Books"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "WWW"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ],
+        "035P": [
+            [
+                {
+                    "a": "E-Books"
+                },
+                {
+                    "d": "n"
+                },
+                {
+                    "g": "Schl\u00fctersche Verlagsgesellschaft mbH & Co. KG"
+                },
+                {
+                    "i": "Anbieter kostenpflichtig"
+                }
+            ]
+        ],
+        "047A": [
+            [
+                {
+                    "a": "Online-Ressource / Datenbank; Vertrieb \u00fcber Content-Select"
+                }
+            ]
+        ]
+    },
+    "_id": "ZDB-172-SPF",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/ZDB-172-SPF",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/ZDB-172-SPF",
+    "identifier": "ZDB-172-SPF",
+    "name": "Schl\u00fctersche / Pflegepraxis",
+    "location": "Hannover",
+    "type": [
+        "Organization",
+        "Product"
+    ],
+    "addressRegion": "WWW"
+}

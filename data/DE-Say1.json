@@ -1,0 +1,180 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Say1.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:06-04-10"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:11-05-22"
+                ],
+                {
+                    "t": "12:49:04.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:06-04-10"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1001333896"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "101056-6"
+                },
+                {
+                    "d": "Say 1"
+                },
+                {
+                    "e": "DE-Say1"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.sayda.eu/"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Sayda Stadtarchiv"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtarchiv Sayda"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Schulgasse 7"
+                },
+                {
+                    "b": "Sayda"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "09619"
+                },
+                {
+                    "f": "Sachsen"
+                },
+                {
+                    "k": "13.42150"
+                },
+                {
+                    "l": "50.71257"
+                },
+                {
+                    "n": "14522520"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "k": "sekretariat@sayda.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0367"
+                },
+                {
+                    "f": "52"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "01"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "SAX"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Say1",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Say1",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Say1",
+    "identifier": "DE-Say1",
+    "name": "Stadtarchiv Sayda",
+    "location": "Sayda",
+    "type": [
+        "Organization",
+        "Archive"
+    ],
+    "addressRegion": "SAX"
+}

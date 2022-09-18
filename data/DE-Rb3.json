@@ -1,0 +1,206 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Rb3.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:23-06-21"
+                ],
+                {
+                    "t": "09:24:57.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020597746"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "WD675"
+                },
+                {
+                    "d": "Rb 3"
+                },
+                {
+                    "e": "DE-Rb3"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.radeberg.de/inhalte/radeberg/_inhalt/freizeit_tourismus/bibliothek/bibliothek"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://sb-radeberg.lmscloud.net"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Radeberg StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtbibliothek Radeberg"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Hauptstr. 2"
+                },
+                {
+                    "b": "Radeberg"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "01454"
+                },
+                {
+                    "f": "Sachsen"
+                },
+                {
+                    "i": "Mo und Do 11.00-18.00, Di und Fr 10.00-18.00"
+                },
+                {
+                    "k": "13.92204"
+                },
+                {
+                    "l": "51.11807"
+                },
+                {
+                    "n": "14625480"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "3528"
+                },
+                {
+                    "f": "44 23 80"
+                },
+                {
+                    "k": "bibliothek@stadt-radeberg.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "07"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "SAX"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "d": "\u00d6VK"
+                },
+                {
+                    "e": "k"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Rb3",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Rb3",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Rb3",
+    "identifier": "DE-Rb3",
+    "name": "Stadtbibliothek Radeberg",
+    "location": "Radeberg",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "SAX"
+}

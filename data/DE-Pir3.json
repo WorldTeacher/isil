@@ -1,0 +1,269 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Pir3.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:18-11-99"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:23-02-18"
+                ],
+                {
+                    "t": "10:11:51.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "009031995"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "EQ392"
+                },
+                {
+                    "d": "Pir 3"
+                },
+                {
+                    "e": "DE-Pir3"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.smul.sachsen.de/sbs/index.html"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "SBS"
+                },
+                {
+                    "4": "a"
+                }
+            ],
+            [
+                {
+                    "a": "Pirna Sachsenforst"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Staatsbetrieb Sachsenforst, Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Bonnewitzer Str. 34"
+                },
+                {
+                    "b": "Pirna"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "01796"
+                },
+                {
+                    "f": "Sachsen"
+                },
+                {
+                    "i": "Mo-Do 9.00-11.00 und 12.30-14.00"
+                },
+                {
+                    "k": "13.92853"
+                },
+                {
+                    "l": "51.00307"
+                },
+                {
+                    "n": "14628270"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "z": "OT: Graupa"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "3501"
+                },
+                {
+                    "f": "5 42-256"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "3501"
+                },
+                {
+                    "i": "5 42-213"
+                },
+                {
+                    "k": "SBS.Bibliothek@smul.sachsen.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "02"
+                },
+                {
+                    "h": "07"
+                },
+                {
+                    "i": "P"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Forstwissenschaft"
+                },
+                {
+                    "a": "Forstwirtschaft"
+                },
+                {
+                    "a": "Biologie"
+                },
+                {
+                    "a": "Bodenkunde"
+                },
+                {
+                    "a": "Kartographie"
+                },
+                {
+                    "a": "Waldkartierung"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "SAX"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "SWB"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "b"
+                },
+                {
+                    "d": "SBS.Bibliothek@smul.sachsen.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "SBS.Bibliothek@smul.sachsen.de"
+                }
+            ],
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "SBS.Bibliothek@smul.sachsen.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Pir3",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Pir3",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Pir3",
+    "identifier": "DE-Pir3",
+    "name": "Staatsbetrieb Sachsenforst, Bibliothek",
+    "location": "Pirna",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "SAX"
+}

@@ -1,0 +1,204 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/ZDB-167-JBD.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:02-02-17"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:28-03-18"
+                ],
+                {
+                    "t": "14:23:16.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:02-02-17"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1124636080"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "d": "ZDB-167-JBD"
+                },
+                {
+                    "e": "ZDB-167-JBD"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://visualcollections.ub.uni-mainz.de/provenienzen/nav/classification/305106"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "J\u00fcdische Bibliothek UB Mainz"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "J\u00fcdische Bibliothek Digitalisate der Universit\u00e4tsbibliothek Mainz"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Jakob-Welder-Weg 6"
+                },
+                {
+                    "b": "Mainz"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "55128"
+                },
+                {
+                    "f": "Rheinland-Pfalz"
+                },
+                {
+                    "k": "8.24160"
+                },
+                {
+                    "l": "49.99513"
+                },
+                {
+                    "n": "07315000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "k": "e-medien@ub.uni-mainz.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "P"
+                },
+                {
+                    "f": "89"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "E-Books"
+                },
+                {
+                    "a": "E-Medien"
+                },
+                {
+                    "a": "Digitale Ausgaben j\u00fcdischer Handschriften und Drucke in Mainz"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "WWW"
+                },
+                {
+                    "c": "HeBIS"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ],
+        "035P": [
+            [
+                {
+                    "a": "E-Books E-Medien"
+                },
+                {
+                    "d": "j"
+                },
+                {
+                    "g": "Universit\u00e4tsbibliothek Mainz"
+                },
+                {
+                    "i": "kostenfrei"
+                }
+            ]
+        ],
+        "047A": [
+            [
+                {
+                    "a": "Online-Ressource / Datenbank"
+                }
+            ]
+        ]
+    },
+    "_id": "ZDB-167-JBD",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/ZDB-167-JBD",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/ZDB-167-JBD",
+    "identifier": "ZDB-167-JBD",
+    "name": "J\u00fcdische Bibliothek Digitalisate der Universit\u00e4tsbibliothek Mainz",
+    "location": "Mainz",
+    "type": [
+        "Organization",
+        "Product"
+    ],
+    "addressRegion": "WWW"
+}

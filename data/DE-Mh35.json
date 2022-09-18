@@ -1,0 +1,275 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Mh35.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:02-05-17"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:13-07-22"
+                ],
+                {
+                    "t": "17:19:56.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:02-05-17"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1131080068"
+                ]
+            ]
+        ],
+        "007N": [
+            [
+                [
+                    "009037748"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "685000-5"
+                },
+                {
+                    "b": "AY352"
+                },
+                {
+                    "d": "Mh 35"
+                },
+                {
+                    "e": "DE-Mh35"
+                },
+                {
+                    "f": "BAMA"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.bib.dhbw-mannheim.de/"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://bsz.ibs-bw.de/dhma"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Mannheim Duale HS"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Duale Hochschule Baden-W\u00fcrttemberg Mannheim, Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Coblitzallee 1-9"
+                },
+                {
+                    "b": "Mannheim"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "68163"
+                },
+                {
+                    "f": "Baden-W\u00fcrttemberg"
+                },
+                {
+                    "i": "Mo-Fr 10.00-22.00, Sa 12.00-20.00"
+                },
+                {
+                    "k": "8.53440"
+                },
+                {
+                    "l": "49.47388"
+                },
+                {
+                    "n": "08222000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Mannheim"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "68004"
+                },
+                {
+                    "f": "Baden-W\u00fcrttemberg"
+                },
+                {
+                    "g": "10 04 61"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "621"
+                },
+                {
+                    "f": "41 05-1118 (Ausleihe) und 1137 (Fernleihe)"
+                },
+                {
+                    "k": "bibliothek@dhbw-mannheim.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0326"
+                },
+                {
+                    "d": "SWB"
+                },
+                {
+                    "f": "70"
+                },
+                {
+                    "g": "02"
+                },
+                {
+                    "h": "07"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "SWB"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035O": [
+            [
+                {
+                    "a": "ISIL DE-180; FZL DE-621"
+                }
+            ],
+            [
+                {
+                    "a": "ISIL DE-180; FZL DE-622"
+                }
+            ],
+            [
+                {
+                    "a": "ISIL DE-180; FZL DE-623"
+                }
+            ]
+        ],
+        "035Q": [
+            [
+                {
+                    "a": "j"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Mh35",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Mh35",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Mh35",
+    "identifier": "DE-Mh35",
+    "name": "Duale Hochschule Baden-W\u00fcrttemberg Mannheim, Bibliothek",
+    "location": "Mannheim",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAW"
+}

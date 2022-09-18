@@ -1,0 +1,230 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Schb1.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:24-05-06"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:29-03-16"
+                ],
+                {
+                    "t": "08:37:45.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:24-05-06"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "979915589"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "858006-6"
+                },
+                {
+                    "d": "Schb 1"
+                },
+                {
+                    "e": "DE-Schb1"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.schwabach.de/archiv/"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Schwabach Stadtarchiv"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtarchiv Schwabach"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "K\u00f6nigspl. 29a"
+                },
+                {
+                    "b": "Schwabach"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "91126"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "i": "Do 13.00-16.00"
+                },
+                {
+                    "j": "und nach Vereinbarung"
+                },
+                {
+                    "k": "10.98330"
+                },
+                {
+                    "l": "49.30000"
+                },
+                {
+                    "n": "09565000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Schwabach"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "91124"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "g": "21 20"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "9122"
+                },
+                {
+                    "f": "8 60-280"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "9122"
+                },
+                {
+                    "i": "8 60-247"
+                },
+                {
+                    "k": "stadtarchiv@schwabach.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0167"
+                },
+                {
+                    "f": "52"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "01"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAY"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Schb1",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Schb1",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Schb1",
+    "identifier": "DE-Schb1",
+    "name": "Stadtarchiv Schwabach",
+    "location": "Schwabach",
+    "type": [
+        "Organization",
+        "Archive"
+    ],
+    "addressRegion": "BAY"
+}

@@ -1,0 +1,247 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Stg120.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:31-10-16"
+                ],
+                {
+                    "t": "12:15:48.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020598300"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "708120-0"
+                },
+                {
+                    "b": "CX449"
+                },
+                {
+                    "d": "Stg 120"
+                },
+                {
+                    "e": "DE-Stg120"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.staatsgalerie.de/bibliothek"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://allegro.wwwan.de/cgi-bin/acwww25/opac.pl?db=stagal"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Stuttgart Staatsgalerie"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Staatsgalerie Stuttgart, Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Urbanstr. 35"
+                },
+                {
+                    "b": "Stuttgart"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "70182"
+                },
+                {
+                    "f": "Baden-W\u00fcrttemberg"
+                },
+                {
+                    "i": "Eingeschr\u00e4nkt \u00f6ffentlich zug\u00e4nglich"
+                },
+                {
+                    "k": "9.18684"
+                },
+                {
+                    "l": "48.77990"
+                },
+                {
+                    "n": "08111000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Stuttgart"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "70038"
+                },
+                {
+                    "f": "Baden-W\u00fcrttemberg"
+                },
+                {
+                    "g": "10 43 42"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "711"
+                },
+                {
+                    "f": "4 70 40-252, -251 und -259"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "711"
+                },
+                {
+                    "i": "2 36 99 83"
+                },
+                {
+                    "k": "bibliothek@staatsgalerie.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0128"
+                },
+                {
+                    "d": "SWB"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "02"
+                },
+                {
+                    "h": "07"
+                },
+                {
+                    "i": "P"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAW"
+                },
+                {
+                    "c": "SWB"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Stg120",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Stg120",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Stg120",
+    "identifier": "DE-Stg120",
+    "name": "Staatsgalerie Stuttgart, Bibliothek",
+    "location": "Stuttgart",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAW"
+}

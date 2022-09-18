@@ -1,0 +1,131 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-MUS-890719.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-01-12"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:12-10-20"
+                ],
+                {
+                    "t": "08:15:21.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:11-01-12"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1018753117"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "e": "DE-MUS-890719"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.museen-in-deutschland.de/singleview.php?muges=890719"
+                },
+                {
+                    "x": "Weitere Informationen"
+                },
+                {
+                    "z": "W"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Heimatmuseum Erkner"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Heinrich-Heine-Stra\u00dfe 17/18"
+                },
+                {
+                    "b": "Erkner"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "15537"
+                },
+                {
+                    "f": "Brandenburg"
+                },
+                {
+                    "k": "13.95000"
+                },
+                {
+                    "l": "52.45000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "m"
+                },
+                {
+                    "f": "86"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-MUS-890719",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-MUS-890719",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-MUS-890719",
+    "identifier": "DE-MUS-890719",
+    "name": "Heimatmuseum Erkner",
+    "location": "Erkner",
+    "type": [
+        "Organization",
+        "Museum"
+    ]
+}

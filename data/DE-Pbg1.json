@@ -1,0 +1,201 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Pbg1.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:20-02-06"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:10-11-16"
+                ],
+                {
+                    "t": "10:47:30.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:20-02-06"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "978607260"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "818007-6"
+                },
+                {
+                    "d": "Pbg 1"
+                },
+                {
+                    "e": "DE-Pbg1"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.peissenberg.de/markt-peissenberg.html"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Pei\u00dfenberg Marktarchiv"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Marktarchiv Pei\u00dfenberg"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Hauptstr. 77"
+                },
+                {
+                    "b": "Pei\u00dfenberg"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "82380"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "k": "11.07150"
+                },
+                {
+                    "l": "47.80047"
+                },
+                {
+                    "n": "09190139"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "8803"
+                },
+                {
+                    "f": "6 90-0"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "8803"
+                },
+                {
+                    "i": "6 90-500"
+                },
+                {
+                    "k": "poststelle@peissenberg.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0167"
+                },
+                {
+                    "f": "52"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "01"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAY"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Pbg1",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Pbg1",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Pbg1",
+    "identifier": "DE-Pbg1",
+    "name": "Marktarchiv Pei\u00dfenberg",
+    "location": "Pei\u00dfenberg",
+    "type": [
+        "Organization",
+        "Archive"
+    ],
+    "addressRegion": "BAY"
+}

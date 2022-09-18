@@ -1,0 +1,203 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Wnh1.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:07-04-10"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:11-05-22"
+                ],
+                {
+                    "t": "12:47:59.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:07-04-10"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1001347595"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "101039-6"
+                },
+                {
+                    "d": "Wnh 1"
+                },
+                {
+                    "e": "DE-Wnh1"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.weinheim.de/,Lde/Startseite/Buergerservice/stadtarchiv.html"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Weinheim Stadtarchiv"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtarchiv Weinheim"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Weststra\u00dfe 12"
+                },
+                {
+                    "b": "Weinheim"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "69469"
+                },
+                {
+                    "f": "Baden-W\u00fcrttemberg"
+                },
+                {
+                    "k": "8.66173"
+                },
+                {
+                    "l": "49.55367"
+                },
+                {
+                    "n": "08226096"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Weinheim"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "69469"
+                },
+                {
+                    "f": "Baden-W\u00fcrttemberg"
+                },
+                {
+                    "g": "10 09 61"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "k": "stadtarchiv@weinheim.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0367"
+                },
+                {
+                    "f": "52"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "01"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAW"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Wnh1",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Wnh1",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Wnh1",
+    "identifier": "DE-Wnh1",
+    "name": "Stadtarchiv Weinheim",
+    "location": "Weinheim",
+    "type": [
+        "Organization",
+        "Archive"
+    ],
+    "addressRegion": "BAW"
+}

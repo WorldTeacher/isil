@@ -1,0 +1,252 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Stg91.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:12-05-22"
+                ],
+                {
+                    "t": "11:19:06.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020598254"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "101277-0"
+                },
+                {
+                    "b": "CT278"
+                },
+                {
+                    "d": "Stg 91"
+                },
+                {
+                    "e": "DE-Stg91"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.stuttgart.de/rathausbibliothek"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Stuttgart RathausB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Rathausbibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Marktpl. 1"
+                },
+                {
+                    "b": "Stuttgart"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "70173"
+                },
+                {
+                    "f": "Baden-W\u00fcrttemberg"
+                },
+                {
+                    "h": "Rathaus"
+                },
+                {
+                    "i": "Mo-Mi 8.00-12.30 und 13.30-15.30, Do 8.00-12.30 und 13.30-17.00, Fr 8.00-12.30"
+                },
+                {
+                    "k": "9.17749"
+                },
+                {
+                    "l": "48.77481"
+                },
+                {
+                    "n": "08111000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Stuttgart"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "70049"
+                },
+                {
+                    "f": "Baden-W\u00fcrttemberg"
+                },
+                {
+                    "g": "10 60 34"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "711"
+                },
+                {
+                    "f": "2 16-91212"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "711"
+                },
+                {
+                    "i": "2 16-91214"
+                },
+                {
+                    "k": "rathausbibliothek@stuttgart.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0367"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "07"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Recht"
+                },
+                {
+                    "a": "Staat"
+                },
+                {
+                    "a": "Verwaltung"
+                },
+                {
+                    "a": "Parlamentaria"
+                },
+                {
+                    "a": "Stuttgart"
+                },
+                {
+                    "a": "W\u00fcrttemberg"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAW"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Stg91",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Stg91",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Stg91",
+    "identifier": "DE-Stg91",
+    "name": "Rathausbibliothek",
+    "location": "Stuttgart",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAW"
+}

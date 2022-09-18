@@ -1,0 +1,217 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Vln1.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:28-01-16"
+                ],
+                {
+                    "t": "16:38:36.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "02059867X"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "DZ671"
+                },
+                {
+                    "d": "Vln 1"
+                },
+                {
+                    "e": "DE-Vln1"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.ulb.uni-muenster.de/hbw/bibliotheken/balve-wocklum/"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Bibliothek Landsberg-Velen"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Schlo\u00df Wocklum"
+                },
+                {
+                    "b": "Balve"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "58802"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "i": "nicht \u00f6ffentlich zug\u00e4nglich"
+                },
+                {
+                    "k": "7.88698"
+                },
+                {
+                    "l": "51.34143"
+                },
+                {
+                    "n": "05962008"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "a": "c/o Universit\u00e4ts- und Landesbibliothek, Historische Best\u00e4nde in Westfalen"
+                },
+                {
+                    "b": "M\u00fcnster"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "48043"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "g": "80 29"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "251"
+                },
+                {
+                    "f": "83-24047"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "251"
+                },
+                {
+                    "i": "83-28398"
+                },
+                {
+                    "k": "ulbhist@uni-muenster.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "08"
+                },
+                {
+                    "h": "01"
+                },
+                {
+                    "i": "P"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Vln1",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Vln1",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Vln1",
+    "identifier": "DE-Vln1",
+    "name": "Bibliothek Landsberg-Velen",
+    "location": "Balve",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NRW"
+}

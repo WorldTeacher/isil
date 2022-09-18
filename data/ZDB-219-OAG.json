@@ -1,0 +1,200 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/ZDB-219-OAG.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:18-09-19"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:01-10-19"
+                ],
+                {
+                    "t": "15:04:54.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:18-09-19"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1195088825"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "d": "ZDB-219-OAG"
+                },
+                {
+                    "e": "ZDB-219-OAG"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "https://content-select.com/de/"
+                },
+                {
+                    "x": "Vertrieb"
+                },
+                {
+                    "z": "W"
+                }
+            ],
+            [
+                {
+                    "u": "https://www.oreilly.de/"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "O'Reilly Agil"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "O'Reilly / Agil"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "dpunkt.verlag GmbH, Wieblinger Weg 17"
+                },
+                {
+                    "b": "Heidelberg"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "69123"
+                },
+                {
+                    "k": "8.65980"
+                },
+                {
+                    "l": "49.40885"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "k": "oreilly@dpunkt.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "P"
+                },
+                {
+                    "f": "89"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "E-Books"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "WWW"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ],
+        "035P": [
+            [
+                {
+                    "a": "E-Books"
+                },
+                {
+                    "d": "n"
+                },
+                {
+                    "g": "dpunkt.verlag GmbH"
+                },
+                {
+                    "i": "Anbieter kostenpflichtig"
+                }
+            ]
+        ],
+        "047A": [
+            [
+                {
+                    "a": "Online-Ressource / Datenbank; Vertrieb \u00fcber Content-Select"
+                }
+            ]
+        ]
+    },
+    "_id": "ZDB-219-OAG",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/ZDB-219-OAG",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/ZDB-219-OAG",
+    "identifier": "ZDB-219-OAG",
+    "name": "O'Reilly / Agil",
+    "location": "Heidelberg",
+    "type": [
+        "Organization",
+        "Product"
+    ],
+    "addressRegion": "WWW"
+}

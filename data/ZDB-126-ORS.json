@@ -1,0 +1,187 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/ZDB-126-ORS.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:03-07-14"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:01-10-19"
+                ],
+                {
+                    "t": "15:25:31.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:03-07-14"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1053095228"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "d": "ZDB-126-ORS"
+                },
+                {
+                    "e": "ZDB-126-ORS"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "https://content-select.com/de/"
+                },
+                {
+                    "x": "Vertrieb"
+                },
+                {
+                    "z": "W"
+                }
+            ],
+            [
+                {
+                    "u": "http://www.oekom.de"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "oekom Rohstoffe"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "oekom verlag / Rohstoffe"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "oekom verlag, Waltherstr. 29"
+                },
+                {
+                    "b": "M\u00fcnchen"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "80337"
+                },
+                {
+                    "k": "11.55934"
+                },
+                {
+                    "l": "48.12889"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "P"
+                },
+                {
+                    "f": "89"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "E-Books"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "WWW"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ],
+        "035P": [
+            [
+                {
+                    "a": "E-Books"
+                },
+                {
+                    "d": "n"
+                },
+                {
+                    "g": "oekom verlag M\u00fcnchen"
+                },
+                {
+                    "i": "Anbieter kostenpflichtig"
+                }
+            ]
+        ],
+        "047A": [
+            [
+                {
+                    "a": "Online-Ressource / Datenbank; Vertrieb \u00fcber Content-Select"
+                }
+            ]
+        ]
+    },
+    "_id": "ZDB-126-ORS",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/ZDB-126-ORS",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/ZDB-126-ORS",
+    "identifier": "ZDB-126-ORS",
+    "name": "oekom verlag / Rohstoffe",
+    "location": "M\u00fcnchen",
+    "type": [
+        "Organization",
+        "Product"
+    ],
+    "addressRegion": "WWW"
+}

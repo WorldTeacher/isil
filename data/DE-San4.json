@@ -1,0 +1,201 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-San4.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:23-02-17"
+                ],
+                {
+                    "t": "16:09:52.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020597916"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "WA947"
+                },
+                {
+                    "d": "San 4"
+                },
+                {
+                    "e": "DE-San4"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.mansfeldportal.de/index.php?id=154&L=pmmupvvxhp"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Sangerhausen StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtbibliothek Sangerhausen"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Kaltenborner Weg 10"
+                },
+                {
+                    "b": "Sangerhausen"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "06526"
+                },
+                {
+                    "f": "Sachsen-Anhalt"
+                },
+                {
+                    "i": "Mo und Fr 10.00-12.00, Di und Do 13.00-18.00"
+                },
+                {
+                    "k": "11.29702"
+                },
+                {
+                    "l": "51.47940"
+                },
+                {
+                    "n": "15087370"
+                },
+                {
+                    "o": "barrierefrei"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "3464"
+                },
+                {
+                    "f": "56 54 50"
+                },
+                {
+                    "k": "bibliothek@stadt.sangerhausen.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "07"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "SAA"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "GBV"
+                },
+                {
+                    "d": "\u00d6VK"
+                },
+                {
+                    "e": "l"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-San4",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-San4",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-San4",
+    "identifier": "DE-San4",
+    "name": "Stadtbibliothek Sangerhausen",
+    "location": "Sangerhausen",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "SAA"
+}

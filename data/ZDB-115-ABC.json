@@ -1,0 +1,192 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/ZDB-115-ABC.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:12-12-13"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:02-03-16"
+                ],
+                {
+                    "t": "14:18:01.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:12-12-13"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1045371491"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "d": "ZDB-115-ABC"
+                },
+                {
+                    "e": "ZDB-115-ABC"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.abc-clio.com/"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "ABC Clio"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "ABC-CLIO"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "ABC-CLIO, 130 Cremona Drive"
+                },
+                {
+                    "b": "Santa Barbara"
+                },
+                {
+                    "d": "US"
+                },
+                {
+                    "e": "93117"
+                },
+                {
+                    "f": "CA, USA"
+                },
+                {
+                    "k": "-119.85633"
+                },
+                {
+                    "l": "34.43151"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "k": "CustomerService@abc-clio.com"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "P"
+                },
+                {
+                    "f": "89"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "E-Books"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "WWW"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ],
+        "035P": [
+            [
+                {
+                    "a": "E-Books"
+                },
+                {
+                    "d": "n"
+                },
+                {
+                    "g": "ABC-CLIO"
+                },
+                {
+                    "i": "Anbieter kostenpflichtig"
+                }
+            ]
+        ],
+        "047A": [
+            [
+                {
+                    "a": "Online-Ressource / Datenbank"
+                }
+            ]
+        ]
+    },
+    "_id": "ZDB-115-ABC",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/ZDB-115-ABC",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/ZDB-115-ABC",
+    "identifier": "ZDB-115-ABC",
+    "name": "ABC-CLIO",
+    "location": "Santa Barbara",
+    "type": [
+        "Organization",
+        "Product"
+    ],
+    "addressRegion": "WWW"
+}

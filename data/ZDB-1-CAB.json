@@ -1,0 +1,209 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/ZDB-1-CAB.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:27-03-07"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:05-12-18"
+                ],
+                {
+                    "t": "14:21:44.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:27-03-07"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "983649073"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "d": "ZDB-1-CAB"
+                },
+                {
+                    "e": "ZDB-1-CAB"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://gateway.ovid.com/autologin.html"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://www.nationallizenzen.de/angebote/nlproduct.2006-12-29.5463108471"
+                },
+                {
+                    "x": "Produktinfo"
+                },
+                {
+                    "z": "W"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Nationallizenz CAB Abstracts"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "CAB Abstracts 1910-1989 [Nationallizenz]"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Universit\u00e4tsbibliothek Johann Christian Senckenberg Frankfurt/Main"
+                },
+                {
+                    "b": "Frankfurt/Main"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "60325"
+                },
+                {
+                    "k": "8.65292"
+                },
+                {
+                    "l": "50.12043"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "k": "nationallizenzen@ub.uni-frankfurt.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "P"
+                },
+                {
+                    "f": "89"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "E-Books"
+                },
+                {
+                    "a": "Die Referenzdatenbank ist ein Produkt der Non-Profit-Organisation CAB International. Sie enth\u00e4lt bibliographische Eintr\u00e4ge und Abstracts zu den Bereichen Veterin\u00e4rwissenschaften, Agrarwissenschaften, Forstwissenschaften, Ern\u00e4hrungswissenschaften, Umweltverschmutzung und Lebensmittelkunde. Das Archiv enth\u00e4lt mehr als 4 Mio Eintr\u00e4ge. Es rundet die bibliographischen Nachweise im BIOSIS-Archiv und dem Archiv der Zoological Records ab"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "ANL"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ],
+        "035P": [
+            [
+                {
+                    "a": "E-Books"
+                },
+                {
+                    "c": "neu 2007"
+                },
+                {
+                    "d": "n"
+                },
+                {
+                    "g": "CABI; OvidSP"
+                },
+                {
+                    "h": "http://www.nationallizenzen.de/angebote/nlproduct.2006-12-29.5463108471"
+                },
+                {
+                    "i": "Nationallizenz"
+                }
+            ]
+        ],
+        "047A": [
+            [
+                {
+                    "a": "Datenbank. - Der deutschlandweite Zugriff auf dieses Produkt wird durch die F\u00f6rderung der Deutschen Forschungsgemeinschaft (DFG) erm\u00f6glicht und durch die Universit\u00e4tsbibliothek Johann Christian Senckenberg Frankfurt/Main organisiert"
+                }
+            ]
+        ]
+    },
+    "_id": "ZDB-1-CAB",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/ZDB-1-CAB",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/ZDB-1-CAB",
+    "identifier": "ZDB-1-CAB",
+    "name": "CAB Abstracts 1910-1989 [Nationallizenz]",
+    "location": "Frankfurt/Main",
+    "type": [
+        "Organization",
+        "Product"
+    ],
+    "addressRegion": "ANL"
+}

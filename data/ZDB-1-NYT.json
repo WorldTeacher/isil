@@ -1,0 +1,238 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/ZDB-1-NYT.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:25-09-20"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:25-09-20"
+                ],
+                {
+                    "t": "16:38:09.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:25-09-20"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1218327995"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "d": "ZDB-1-NYT"
+                },
+                {
+                    "e": "ZDB-1-NYT"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://geschichtswissenschaft.proxy.fid-lizenzen.de/fid/wp/"
+                }
+            ],
+            [
+                {
+                    "u": "http://geschichtswissenschaft.proxy.fid-lizenzen.de/fid/nyt/"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "FID-Lizenz NYT Wash Post"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "The @New York Times with Index & The Washington Post [FID-Lizenz]"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Bayerische Staatsbibliothek, Ludwigstr. 16"
+                },
+                {
+                    "b": "M\u00fcnchen"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "80539"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "k": "11.58015"
+                },
+                {
+                    "l": "48.14751"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "a": "Deutsches Museum, Bibliothek, Museumsinsel 1"
+                },
+                {
+                    "b": "M\u00fcnchen"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "80538"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "k": "11.58352"
+                },
+                {
+                    "l": "48.13051"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "W"
+                },
+                {
+                    "3": "Weitere beteiligte Einrichtung"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "k": "lizenzen-fid-geschichte@bsb-muenchen.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "P"
+                },
+                {
+                    "f": "89"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "E-Journals"
+                },
+                {
+                    "a": "Das Angebot umfasst 2 Zeitungen: The New York Times (1851ff) und Washington Post (1877ff)"
+                },
+                {
+                    "a": "Berichtszeit: 1851ff, 1877ff"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "ANL"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ],
+        "035P": [
+            [
+                {
+                    "a": "E-Journals"
+                },
+                {
+                    "c": "neu 2020"
+                },
+                {
+                    "d": "j"
+                },
+                {
+                    "e": "4"
+                },
+                {
+                    "g": "ProQuest Information and Learning"
+                },
+                {
+                    "i": "FID-Lizenz"
+                }
+            ]
+        ],
+        "047A": [
+            [
+                {
+                    "a": "Datenbank. - Der deutschlandweite Zugriff auf dieses Produkt wird im Rahmen des durch die Deutsche  Forschungsgemeinschaft (DFG) gef\u00f6rderten Fachinformationsdienstes (FID) Geschichtswissenschaft durch die Bayerische  Staatsbibliothek und das Deutsche Museum (verantwortlich f\u00fcr Technikgeschichte) erm\u00f6glicht und organisiert."
+                }
+            ]
+        ]
+    },
+    "_id": "ZDB-1-NYT",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/ZDB-1-NYT",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/ZDB-1-NYT",
+    "identifier": "ZDB-1-NYT",
+    "name": "The @New York Times with Index & The Washington Post [FID-Lizenz]",
+    "location": "M\u00fcnchen",
+    "type": [
+        "Organization",
+        "Product"
+    ],
+    "addressRegion": "ANL"
+}

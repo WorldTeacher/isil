@@ -1,0 +1,266 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Vil3.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:27-01-03"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:21-03-18"
+                ],
+                {
+                    "t": "14:27:19.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "024245542"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "778103-9"
+                },
+                {
+                    "d": "Vil 3"
+                },
+                {
+                    "e": "DE-Vil3"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.villingen-schwenningen.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://swb.bsz-bw.de/DB=2.323"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Villingen-S. Stadtarchiv"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Wissenschaftliche Spezialbibliothek Stadtarchiv und Museen Villingen-Schwenningen"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Lantwattenstr. 4"
+                },
+                {
+                    "b": "Villingen-Schwenningen"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "78050"
+                },
+                {
+                    "f": "Baden-W\u00fcrttemberg"
+                },
+                {
+                    "i": "nach Vereinbarung"
+                },
+                {
+                    "k": "8.46525"
+                },
+                {
+                    "l": "48.05249"
+                },
+                {
+                    "n": "08326074"
+                },
+                {
+                    "o": "nicht barrierefrei"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Villingen-Schwenningen"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "78002"
+                },
+                {
+                    "f": "Baden-W\u00fcrttemberg"
+                },
+                {
+                    "g": "12 60"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "7721"
+                },
+                {
+                    "f": "82 18 12"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "7721"
+                },
+                {
+                    "i": "82 18 17"
+                },
+                {
+                    "k": "archivbibliothek@villingen-schwenningen.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0128"
+                },
+                {
+                    "d": "SWB"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "06"
+                },
+                {
+                    "i": "P"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Geisteswissenschaften"
+                },
+                {
+                    "a": "Museumskunde"
+                },
+                {
+                    "a": "Archivkunde"
+                },
+                {
+                    "a": "Geschichte"
+                },
+                {
+                    "a": "Kunstgeschichte"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAW"
+                },
+                {
+                    "c": "SWB"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Vil3",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Vil3",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Vil3",
+    "identifier": "DE-Vil3",
+    "name": "Wissenschaftliche Spezialbibliothek Stadtarchiv und Museen Villingen-Schwenningen",
+    "location": "Villingen-Schwenningen",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAW"
+}

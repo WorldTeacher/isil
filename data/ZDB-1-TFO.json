@@ -1,0 +1,244 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/ZDB-1-TFO.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:14-03-07"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:07-12-18"
+                ],
+                {
+                    "t": "14:38:18.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:14-03-07"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "98349360X"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "041079-2"
+                },
+                {
+                    "d": "ZDB-1-TFO"
+                },
+                {
+                    "e": "ZDB-1-TFO"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://journalsonline.tandf.co.uk"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://www.nationallizenzen.de/angebote/nlproduct.2007-02-27.2354605726"
+                },
+                {
+                    "x": "Produktinfo"
+                },
+                {
+                    "z": "W"
+                }
+            ],
+            [
+                {
+                    "u": "https://www.tib.eu/de/openurl/search?pid=collectionCode:ZDB-1-TFO"
+                },
+                {
+                    "x": "Zugang \u00fcber Portal TIB Hannover"
+                },
+                {
+                    "z": "W"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Nationallizenz Taylor&Francis"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Taylor & Francis Online Archive [Nationallizenz]"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Technische Informationsbibliothek (TIB)"
+                },
+                {
+                    "b": "Hannover"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "30167"
+                },
+                {
+                    "k": "9.72001"
+                },
+                {
+                    "l": "52.38163"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "k": "anmeldung.nationallizenzen@tib.eu"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "P"
+                },
+                {
+                    "c": "0168"
+                },
+                {
+                    "d": "BVB"
+                },
+                {
+                    "d": "SWB"
+                },
+                {
+                    "d": "HBV"
+                },
+                {
+                    "f": "89"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "E-Journals"
+                },
+                {
+                    "a": "Das Archiv umfasst 370 Zeitschriften der folgenden bis jetzt von Taylor & Francis verf\u00fcgbaren Archivpakete von Ausgabe 1 bis 2000 (ca. 4,5 Mio. Seiten): Chemistry & Materials Science Online Archive; Physics Online Archive; Education Online Archive; Business, Management & Economics Online Archive"
+                },
+                {
+                    "a": "Berichtszeitraum: Ausgabe 1 bis 2000"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "ANL"
+                },
+                {
+                    "e": "k"
+                }
+            ]
+        ],
+        "035P": [
+            [
+                {
+                    "a": "E-Journals"
+                },
+                {
+                    "c": "neu 2007"
+                },
+                {
+                    "d": "j"
+                },
+                {
+                    "e": "370"
+                },
+                {
+                    "f": "431"
+                },
+                {
+                    "g": "Taylor & Francis (T&F); Informaworld"
+                },
+                {
+                    "h": "http://www.nationallizenzen.de/angebote/nlproduct.2007-02-27.2354605726"
+                },
+                {
+                    "i": "Nationallizenz"
+                }
+            ]
+        ],
+        "047A": [
+            [
+                {
+                    "a": "Datenbank. - Der deutschlandweite Zugriff auf dieses Produkt wird durch die F\u00f6rderung der Deutschen Forschungsgemeinschaft (DFG) erm\u00f6glicht und durch die Technische Informationsbibliothek Hannover organisiert. Weitere Einzelheiten zu diesem Produkt finden Sie unter"
+                }
+            ]
+        ]
+    },
+    "_id": "ZDB-1-TFO",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/ZDB-1-TFO",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/ZDB-1-TFO",
+    "identifier": "ZDB-1-TFO",
+    "name": "Taylor & Francis Online Archive [Nationallizenz]",
+    "location": "Hannover",
+    "type": [
+        "Organization",
+        "Product"
+    ],
+    "addressRegion": "ANL"
+}

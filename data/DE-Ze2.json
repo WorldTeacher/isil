@@ -1,0 +1,241 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Ze2.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:03-06-21"
+                ],
+                {
+                    "t": "15:11:47.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "02059979X"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "MB300"
+                },
+                {
+                    "d": "Ze 2"
+                },
+                {
+                    "e": "DE-Ze2"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.stadtbibliothek-zerbst.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://www.stadtbibliothek-zerbst.de"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Zerbst StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtbibliothek Zerbst/Anhalt"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Dessauer Str. 23 a"
+                },
+                {
+                    "b": "Zerbst/Anhalt"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "39261"
+                },
+                {
+                    "f": "Sachsen-Anhalt"
+                },
+                {
+                    "i": "Mo 13.00-19.00, Di und Do 10.00-12.00 und 13.00-17.00, Fr 10.00-15.00"
+                },
+                {
+                    "k": "12.09399"
+                },
+                {
+                    "l": "51.95940"
+                },
+                {
+                    "n": "15082430"
+                },
+                {
+                    "o": "nicht barrierefrei"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Zerbst/Anhalt"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "39253"
+                },
+                {
+                    "f": "Sachsen-Anhalt"
+                },
+                {
+                    "g": "13 54"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "3923"
+                },
+                {
+                    "f": "24 53"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "3923"
+                },
+                {
+                    "i": "77 85 18"
+                },
+                {
+                    "k": "stabizerbst@t-online.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "06"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "SAA"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "GBV"
+                },
+                {
+                    "d": "biblio24; \u00d6VK"
+                },
+                {
+                    "e": "l"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Ze2",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Ze2",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Ze2",
+    "identifier": "DE-Ze2",
+    "name": "Stadtbibliothek Zerbst/Anhalt",
+    "location": "Zerbst/Anhalt",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "SAA"
+}

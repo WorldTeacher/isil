@@ -1,0 +1,228 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Y1.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:18-11-99"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:13-06-19"
+                ],
+                {
+                    "t": "08:18:06.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "009034331"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "080801-5"
+                },
+                {
+                    "d": "Y 1"
+                },
+                {
+                    "e": "DE-Y1"
+                },
+                {
+                    "f": "DAIRO"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.dainst.org/index.php?.id=3456"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://opac.dainst.org"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Rom Dt. Arch\u00e4ol. Inst."
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Deutsches Arch\u00e4ologisches Institut, Istituto Archeologico Germanico, Biblioteca"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Via Sicilia, 136"
+                },
+                {
+                    "b": "Roma"
+                },
+                {
+                    "d": "IT"
+                },
+                {
+                    "e": "I-00187"
+                },
+                {
+                    "f": "Italien"
+                },
+                {
+                    "i": "Mo-Fr 9.30-18.30"
+                },
+                {
+                    "k": "12.46932"
+                },
+                {
+                    "l": "41.90819"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "39"
+                },
+                {
+                    "e": "06"
+                },
+                {
+                    "f": "48 88 14-1"
+                },
+                {
+                    "g": "39"
+                },
+                {
+                    "h": "06"
+                },
+                {
+                    "i": "4 88 49 73"
+                },
+                {
+                    "k": "bibliothek.rom@dainst.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0113"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "01"
+                },
+                {
+                    "h": "08"
+                },
+                {
+                    "i": "P"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Altertumswissenschaften"
+                },
+                {
+                    "a": "Arch\u00e4ologie des Mittelmeerraumes"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "WEU"
+                },
+                {
+                    "d": "ZENON-DAI; Kalliope"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Y1",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Y1",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Y1",
+    "identifier": "DE-Y1",
+    "name": "Deutsches Arch\u00e4ologisches Institut, Istituto Archeologico Germanico, Biblioteca",
+    "location": "Roma",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "WEU"
+}

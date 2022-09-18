@@ -1,0 +1,145 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/US-NjRV.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:07-03-14"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:05-04-16"
+                ],
+                {
+                    "t": "14:32:50.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:07-03-14"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1048257576"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "c": "MARC NjRV"
+                },
+                {
+                    "e": "US-NjRV"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.libraries.rutgers.edu/rul/libs/scua/scua.shtml"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Rutgers University Libraries"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Rutgers University Libraries, Special Collections and University Archives"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "169 College Avenue"
+                },
+                {
+                    "b": "New Brunswick"
+                },
+                {
+                    "d": "US"
+                },
+                {
+                    "e": "08901-1163"
+                },
+                {
+                    "f": "NJ, USA"
+                },
+                {
+                    "k": "-74.45262"
+                },
+                {
+                    "l": "40.50514"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "f": "60"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "d": "Kalliope"
+                }
+            ]
+        ]
+    },
+    "_id": "US-NjRV",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/US-NjRV",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/US-NjRV",
+    "identifier": "US-NjRV",
+    "name": "Rutgers University Libraries, Special Collections and University Archives",
+    "location": "New Brunswick",
+    "type": [
+        "Organization",
+        "Library"
+    ]
+}

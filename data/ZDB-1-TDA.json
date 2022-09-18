@@ -1,0 +1,241 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/ZDB-1-TDA.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:16-05-06"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:08-02-22"
+                ],
+                {
+                    "t": "10:06:53.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:16-05-06"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "97977814X"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "041043-3"
+                },
+                {
+                    "d": "ZDB-1-TDA"
+                },
+                {
+                    "e": "ZDB-1-TDA"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "https://nl.sub.uni-goettingen.de/collection/nlh-tda1"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://www.nationallizenzen.de/angebote/nlproduct.2006-03-14.0960807045"
+                },
+                {
+                    "x": "Produktinfo"
+                },
+                {
+                    "z": "W"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "TDA"
+                },
+                {
+                    "4": "a"
+                }
+            ],
+            [
+                {
+                    "a": "Nationallizenz Times Dig.Arch."
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "The Times Digital Archive [Nationallizenz]"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Staatsbibliothek zu Berlin - Preu\u00dfischer Kulturbesitz und Nieders\u00e4chsische Staats- und Universit\u00e4tsbibliothek G\u00f6ttingen"
+                },
+                {
+                    "b": "Berlin / G\u00f6ttingen"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "10785"
+                },
+                {
+                    "k": "13.37063"
+                },
+                {
+                    "l": "52.50771"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "k": "nationallizenzen@sub.uni-goettingen.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "P"
+                },
+                {
+                    "c": "0168"
+                },
+                {
+                    "d": "BVB"
+                },
+                {
+                    "d": "SWB"
+                },
+                {
+                    "d": "HBV"
+                },
+                {
+                    "f": "89"
+                },
+                {
+                    "k": "WWW 49/TDA"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "E-Journals (Zeitung)"
+                },
+                {
+                    "a": "Digitales Zeitungsarchiv der Times. Die Nationallizenz umfasst den Zeitraum von 1785 - 1900. Aus technischen Gr\u00fcnden ist der Zugriff zurzeit bis 1985 m\u00f6glich."
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "ANL"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ],
+        "035P": [
+            [
+                {
+                    "a": "E-Journals (Zeitung)"
+                },
+                {
+                    "c": "neu 2006"
+                },
+                {
+                    "d": "j"
+                },
+                {
+                    "e": "n.n."
+                },
+                {
+                    "f": "1"
+                },
+                {
+                    "g": "Thomson Gale"
+                },
+                {
+                    "h": "http://www.nationallizenzen.de/angebote/nlproduct.2006-03-14.0960807045"
+                },
+                {
+                    "i": "Nationallizenz"
+                }
+            ]
+        ],
+        "047A": [
+            [
+                {
+                    "a": "Datenbank. - Der deutschlandweite Zugriff auf dieses Produkt wird durch die F\u00f6rderung der Deutschen Forschungsgemeinschaft (DFG) erm\u00f6glicht und durch die Staatsbibliothek zu Berlin - Preu\u00dfischer Kulturbesitz sowie die Nieders\u00e4chsische Staats- und Universit\u00e4tsbibliothek G\u00f6ttingen organisiert. Die Nationallizenz gilt f\u00fcr den Zeitraum von 1785 - 1985."
+                }
+            ]
+        ]
+    },
+    "_id": "ZDB-1-TDA",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/ZDB-1-TDA",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/ZDB-1-TDA",
+    "identifier": "ZDB-1-TDA",
+    "name": "The Times Digital Archive [Nationallizenz]",
+    "location": "Berlin / G\u00f6ttingen",
+    "type": [
+        "Organization",
+        "Product"
+    ],
+    "addressRegion": "ANL"
+}

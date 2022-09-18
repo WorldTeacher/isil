@@ -1,0 +1,265 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/ZDB-1-SAGR.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:10-01-14"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:30-04-21"
+                ],
+                {
+                    "t": "11:07:54.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:10-01-14"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1046247832"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "041264-8"
+                },
+                {
+                    "d": "ZDB-1-SAGR"
+                },
+                {
+                    "e": "ZDB-1-SAGR"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://journals.sagepub.com/"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://www.nationallizenzen.de/angebote/nlproduct.2008-03-08.1967121126"
+                },
+                {
+                    "x": "Produktinfo"
+                },
+                {
+                    "z": "W"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "NK Sage RSM PR"
+                },
+                {
+                    "4": "c"
+                }
+            ],
+            [
+                {
+                    "a": "Sage Royal Society of Medicine"
+                },
+                {
+                    "4": "a"
+                }
+            ],
+            [
+                {
+                    "a": "Sage Journals RSM"
+                },
+                {
+                    "4": "a"
+                }
+            ],
+            [
+                {
+                    "a": "Sage RSM [Allianz-Lizenz] (fr\u00fcherer Name)"
+                },
+                {
+                    "4": "a"
+                }
+            ],
+            [
+                {
+                    "a": "AllianzLizenz Sage/RSM (fr\u00fcherer Name)"
+                },
+                {
+                    "4": "a"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Sage RSM Publish & Read [Nationalkonsortium]"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Bayerische Staatsbibliothek M\u00fcnchen"
+                },
+                {
+                    "b": "M\u00fcnchen"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "80539"
+                },
+                {
+                    "k": "11.58015"
+                },
+                {
+                    "l": "48.14751"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "k": "nationallizenzen@bsb-muenchen.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "P"
+                },
+                {
+                    "c": "0168"
+                },
+                {
+                    "d": "BVB"
+                },
+                {
+                    "d": "SWB"
+                },
+                {
+                    "d": "HBV"
+                },
+                {
+                    "f": "89"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "E-Journals"
+                },
+                {
+                    "a": "Enth\u00e4lt 28 Zeitschriften"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "ANL"
+                },
+                {
+                    "e": "k"
+                },
+                {
+                    "f": "x"
+                }
+            ]
+        ],
+        "035P": [
+            [
+                {
+                    "a": "E-Journals"
+                },
+                {
+                    "c": "neu 2014"
+                },
+                {
+                    "d": "j"
+                },
+                {
+                    "e": "n.n."
+                },
+                {
+                    "f": "34"
+                },
+                {
+                    "g": "Sage"
+                },
+                {
+                    "h": "http://www.nationallizenzen.de/angebote/nlproduct.2008-03-08.1967121126"
+                },
+                {
+                    "i": "Nationalkonsortium"
+                }
+            ]
+        ],
+        "047A": [
+            [
+                {
+                    "a": "Datenbank. - Der Online-Zugriff auf dieses Produkt wird im Rahmen eines Publish & Read-Nationalkonsortiums bereitgestellt und durch die Bayerische Staatsbibliothek M\u00fcnchen organisiert"
+                }
+            ]
+        ]
+    },
+    "_id": "ZDB-1-SAGR",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/ZDB-1-SAGR",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/ZDB-1-SAGR",
+    "identifier": "ZDB-1-SAGR",
+    "name": "Sage RSM Publish & Read [Nationalkonsortium]",
+    "location": "M\u00fcnchen",
+    "type": [
+        "Organization",
+        "Product"
+    ],
+    "addressRegion": "ANL"
+}

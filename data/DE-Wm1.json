@@ -1,0 +1,251 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Wm1.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:03-06-21"
+                ],
+                {
+                    "t": "15:11:49.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020599587"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "MB294"
+                },
+                {
+                    "d": "Wm 1"
+                },
+                {
+                    "e": "DE-Wm1"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.bibliothek-wolmirstedt.de/"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://bibowms.dyndns.org/index.asp"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Wolmirstedt StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtbibliothek Wolmirstedt"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Schlo\u00dfdom\u00e4ne 1"
+                },
+                {
+                    "b": "Wolmirstedt"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "39326"
+                },
+                {
+                    "f": "Sachsen-Anhalt"
+                },
+                {
+                    "i": "Mo und Fr 13.00-16.00, Di und Do 9.00-12.00 und 13.00-18.00"
+                },
+                {
+                    "k": "11.62846"
+                },
+                {
+                    "l": "52.24588"
+                },
+                {
+                    "n": "15083565"
+                },
+                {
+                    "o": "Barrierefrei"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "a": "Augsust-Bebel-Str. 25"
+                },
+                {
+                    "b": "Wolmirstedt"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "39326"
+                },
+                {
+                    "f": "Sachsen-Anhalt"
+                },
+                {
+                    "h": "Stadt Wolmirstedt, Zentrale Buchhaltung"
+                },
+                {
+                    "2": "R"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "39201"
+                },
+                {
+                    "f": "2 13 35"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "39201"
+                },
+                {
+                    "i": "90 96 17"
+                },
+                {
+                    "k": "stadtbibliothek.wms@web.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "06"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Stadt Wolmirstedt <Regionalliteratur>"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "SAA"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "GBV"
+                },
+                {
+                    "d": "biblio24; \u00d6VK"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Wm1",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Wm1",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Wm1",
+    "identifier": "DE-Wm1",
+    "name": "Stadtbibliothek Wolmirstedt",
+    "location": "Wolmirstedt",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "SAA"
+}

@@ -1,0 +1,247 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/ZDB-1-SNP.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:26-03-21"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:26-03-21"
+                ],
+                {
+                    "t": "14:32:38.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:26-03-21"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1230170138"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "d": "ZDB-1-SNP"
+                },
+                {
+                    "e": "ZDB-1-SNP"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://geschichtswissenschaft.proxy.fid-lizenzen.de/fid/servicenewspapers/"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://www.amdigital.co.uk/primary-sources/service-newspapers-of-world-war-ii"
+                },
+                {
+                    "x": "Produktinfo"
+                },
+                {
+                    "z": "W"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "FID Servicenewspapers WW 2"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Servicenewspapers of World War 2 [FID-Lizenz]"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Bayerische Staatsbibliothek, Ludwigstr. 16"
+                },
+                {
+                    "b": "M\u00fcnchen"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "80539"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "k": "11.58015"
+                },
+                {
+                    "l": "48.14751"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "a": "Deutsches Museum, Bibliothek, Museumsinsel 1"
+                },
+                {
+                    "b": "M\u00fcnchen"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "80538"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "k": "11.58352"
+                },
+                {
+                    "l": "48.13051"
+                },
+                {
+                    "n": "09162000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "W"
+                },
+                {
+                    "3": "Weiterer Standort"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "k": "lizenzen-fid-geschichte@bsb-muenchen.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "P"
+                },
+                {
+                    "f": "89"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Volltextdatenbank"
+                },
+                {
+                    "a": "Die digitale Ressource zeigt die Geschichte des Zweiten Weltkriegs, wie sie sich in den Zeitungen darstellt, die Informationen, Unterhaltung und Kameradschaft f\u00fcr die Streitkr\u00e4fte im In- und Ausland boten. Aufgenommen sind \u00fcber 300 Titel aus Nationen auf der ganzen Welt, die an dem weltumspannenden Konflikt beteiligt waren"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "ANL"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ],
+        "035P": [
+            [
+                {
+                    "a": "Volltextdatenbank"
+                },
+                {
+                    "c": "neu 2019"
+                },
+                {
+                    "d": "j"
+                },
+                {
+                    "e": "69"
+                },
+                {
+                    "g": "Adam Matthew Digital"
+                },
+                {
+                    "i": "FID-Lizenz"
+                }
+            ]
+        ],
+        "047A": [
+            [
+                {
+                    "a": "Datenbank. - Der deutschlandweite Zugriff auf dieses Produkt wird im Rahmen des durch die Deutsche  Forschungsgemeinschaft (DFG) gef\u00f6rderten Fachinformationsdienstes (FID) Geschichtswissenschaft durch die Bayerische Staatsbibliothek und das Deutsche Museum (verantwortlich f\u00fcr Technikgeschichte) erm\u00f6glicht und organisiert."
+                }
+            ]
+        ]
+    },
+    "_id": "ZDB-1-SNP",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/ZDB-1-SNP",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/ZDB-1-SNP",
+    "identifier": "ZDB-1-SNP",
+    "name": "Servicenewspapers of World War 2 [FID-Lizenz]",
+    "location": "M\u00fcnchen",
+    "type": [
+        "Organization",
+        "Product"
+    ],
+    "addressRegion": "ANL"
+}

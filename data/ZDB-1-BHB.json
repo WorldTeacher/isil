@@ -1,0 +1,205 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/ZDB-1-BHB.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:17-05-06"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:26-07-17"
+                ],
+                {
+                    "t": "15:34:36.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:17-05-06"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "97980261X"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "d": "ZDB-1-BHB"
+                },
+                {
+                    "e": "ZDB-1-BHB"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://aleph.nli.org.il/F?func=find-b-0&local_base=mbi01"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://www.nationallizenzen.de/angebote/nlproduct.2006-03-20.8190405689"
+                },
+                {
+                    "x": "Produktinfo"
+                },
+                {
+                    "z": "W"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Nationallizenz Bibliogr.Hebrew"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "The Bibliography of the Hebrew Book [Open Access / Nationallizenz]"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "The National Library of Israel, Edmond J. Safra Campus, Givat Ram"
+                },
+                {
+                    "b": "Jerusalem"
+                },
+                {
+                    "d": "IS"
+                },
+                {
+                    "e": "POB 39105"
+                },
+                {
+                    "f": "Israel"
+                },
+                {
+                    "k": "35.19691"
+                },
+                {
+                    "l": "31.77788"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "P"
+                },
+                {
+                    "f": "89"
+                },
+                {
+                    "k": "WWW 49/BHB"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "E-Books"
+                },
+                {
+                    "a": "Bibliographie aller B\u00fccher in hebr\u00e4ischer Sprache, die zwischen 1473 und 1960 gedruckt wurden"
+                },
+                {
+                    "a": "Berichtszeitraum: 1473-1960"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "ANL"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ],
+        "035P": [
+            [
+                {
+                    "a": "E-Books"
+                },
+                {
+                    "c": "neu 2006"
+                },
+                {
+                    "d": "n"
+                },
+                {
+                    "g": "The National Library of Israel"
+                },
+                {
+                    "h": "http://www.nationallizenzen.de/angebote/nlproduct.2006-03-20.8190405689"
+                },
+                {
+                    "i": "Open Access / Nationallizenz"
+                }
+            ]
+        ],
+        "047A": [
+            [
+                {
+                    "a": "Datenbank. - Der deutschlandweite Zugriff auf dieses Produkt wurde durch die F\u00f6rderung der Deutschen Forschungsgemeinschaft (DFG) erm\u00f6glicht und durch die Bayerischen Staatsbibliothek M\u00fcnchen organisiert. Bis Ende 2011 als klassische Nationallizenz zug\u00e4nglich, ab 2012 frei verf\u00fcgbar bei der Israelischen Nationalbibliothek (Open Access)"
+                }
+            ]
+        ]
+    },
+    "_id": "ZDB-1-BHB",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/ZDB-1-BHB",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/ZDB-1-BHB",
+    "identifier": "ZDB-1-BHB",
+    "name": "The Bibliography of the Hebrew Book [Open Access / Nationallizenz]",
+    "location": "Jerusalem",
+    "type": [
+        "Organization",
+        "Product"
+    ],
+    "addressRegion": "ANL"
+}

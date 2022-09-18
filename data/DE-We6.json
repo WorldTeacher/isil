@@ -1,0 +1,220 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-We6.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:18-11-99"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9040:10-03-16"
+                ],
+                {
+                    "t": "18:21:10.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "009034226"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "MB282"
+                },
+                {
+                    "d": "We 6"
+                },
+                {
+                    "e": "DE-We6"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Blankenburg/Harz StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtbibliothek Blankenburg"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Harzstr. 2/3"
+                },
+                {
+                    "b": "Blankenburg/Harz"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "38889"
+                },
+                {
+                    "f": "Sachsen-Anhalt"
+                },
+                {
+                    "i": "Di 9.00-12.00 und 14.00-18.00, Do 13.00-16.00, Fr 9.00-12.00"
+                },
+                {
+                    "k": "10.95165"
+                },
+                {
+                    "l": "51.78831"
+                },
+                {
+                    "n": "15085055"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Blankenburg/Harz"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "38883"
+                },
+                {
+                    "f": "Sachsen-Anhalt"
+                },
+                {
+                    "g": "12 34"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "3944"
+                },
+                {
+                    "f": "9 43-413"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "3944"
+                },
+                {
+                    "i": "9 43-444"
+                },
+                {
+                    "k": "stadtbibliothek@blankenburg.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "06"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "SAA"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "GBV"
+                },
+                {
+                    "d": "BRISE; \u00d6VK"
+                },
+                {
+                    "e": "l"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-We6",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-We6",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-We6",
+    "identifier": "DE-We6",
+    "name": "Stadtbibliothek Blankenburg",
+    "location": "Blankenburg/Harz",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "SAA"
+}

@@ -1,0 +1,274 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Wb1.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:18-11-99"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:21-02-19"
+                ],
+                {
+                    "t": "08:59:29.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "009029915"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "EM378"
+                },
+                {
+                    "d": "Wb 1"
+                },
+                {
+                    "e": "DE-Wb1"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.rfb-wittenberg.de"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Bibliothek des Evangelischen Predigerseminars Wittenberg (fr\u00fcherer Name)"
+                }
+            ],
+            [
+                {
+                    "a": "Wittenberg Ref.gesch.ForschB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Reformationsgeschichtliche Forschungsbibliothek Wittenberg"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Schlossplatz 1"
+                },
+                {
+                    "b": "Lutherstadt Wittenberg"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "06886"
+                },
+                {
+                    "f": "Sachsen-Anhalt"
+                },
+                {
+                    "i": "Mo-Do 10.00-16.00, Fr 10.00-14.00"
+                },
+                {
+                    "k": "12.63767"
+                },
+                {
+                    "l": "51.86609"
+                },
+                {
+                    "n": "15091375"
+                },
+                {
+                    "o": "Aufzug vorhanden"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "3491"
+                },
+                {
+                    "f": "50 69-250 und -200"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "3491"
+                },
+                {
+                    "i": "50 69-280"
+                },
+                {
+                    "k": "info@rfb-wittenberg.de"
+                }
+            ]
+        ],
+        "035D": [
+            [
+                {
+                    "a": "Wb 2"
+                },
+                {
+                    "b": "DE-Wb2"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "07"
+                },
+                {
+                    "h": "08"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Reformation und Reformationssgeschichte"
+                },
+                {
+                    "a": "Lutherische Orthodoxie"
+                },
+                {
+                    "a": "Theologische Literatur"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "SAA"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "GBV"
+                },
+                {
+                    "d": "VThK; Kalliope"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "b"
+                },
+                {
+                    "d": "info@rfb-wittenberg.de"
+                }
+            ],
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "info@rfb-wittenberg.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "info@rfb-wittenberg.de"
+                }
+            ]
+        ],
+        "047A": [
+            [
+                {
+                    "a": "In der Reformationsgeschichtlichen Forschungsbibliothek sind die Best\u00e4nde der Bibliothek des Evangelischen Predigerseminars Wittenberg und der Bibliothek des Lutherhauses (Stiftung Luthergedenkst\u00e4tten in Sachsen-Anhalt) zusammengef\u00fchrt."
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Wb1",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Wb1",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Wb1",
+    "identifier": "DE-Wb1",
+    "name": "Reformationsgeschichtliche Forschungsbibliothek Wittenberg",
+    "location": "Lutherstadt Wittenberg",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "SAA"
+}

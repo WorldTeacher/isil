@@ -1,0 +1,241 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/ZDB-1-NCN.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:28-01-08"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:08-02-22"
+                ],
+                {
+                    "t": "10:17:04.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:28-01-08"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "98732764X"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "041104-8"
+                },
+                {
+                    "d": "ZDB-1-NCN"
+                },
+                {
+                    "e": "ZDB-1-NCN"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "https://nl.sub.uni-goettingen.de/collection/nlh-ncn"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://www.nationallizenzen.de/angebote/nlproduct.2008-01-16.4341813230"
+                },
+                {
+                    "x": "Produktinfo"
+                },
+                {
+                    "z": "W"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "NCNP"
+                },
+                {
+                    "4": "a"
+                }
+            ],
+            [
+                {
+                    "a": "Nationallizenz NCNP"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Nineteenth Century U.S. Newspapers [Nationallizenz]"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Nieders\u00e4chsische Staats- und Universit\u00e4tsbibliothek G\u00f6ttingen"
+                },
+                {
+                    "b": "G\u00f6ttingen"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "37073"
+                },
+                {
+                    "k": "9.93567"
+                },
+                {
+                    "l": "51.53978"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "k": "nationallizenzen@sub.uni-goettingen.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "P"
+                },
+                {
+                    "c": "0168"
+                },
+                {
+                    "d": "BVB"
+                },
+                {
+                    "d": "SWB"
+                },
+                {
+                    "d": "HBV"
+                },
+                {
+                    "f": "89"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "E-Journals"
+                },
+                {
+                    "a": "Ausschlie\u00dflich englischsprachige Volltexte von ca. 250 Zeitungen aus allen US-amerikanischen Bundesstaaten und Territorien des Erscheinungszeitraums zwischen 1800 und 1900 und umfasst ca. 1,5 Mio Seiten"
+                },
+                {
+                    "a": "Berichtszeitraum: 1800-1899"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "ANL"
+                },
+                {
+                    "e": "k"
+                }
+            ]
+        ],
+        "035P": [
+            [
+                {
+                    "a": "E-Journals"
+                },
+                {
+                    "c": "neu 2008"
+                },
+                {
+                    "d": "j"
+                },
+                {
+                    "e": "402"
+                },
+                {
+                    "f": "405"
+                },
+                {
+                    "g": "Gale Cengage Learning"
+                },
+                {
+                    "h": "http://www.nationallizenzen.de/angebote/nlproduct.2008-01-16.4341813230"
+                },
+                {
+                    "i": "Nationallizenz"
+                }
+            ]
+        ],
+        "047A": [
+            [
+                {
+                    "a": "Datenbank. - Der deutschlandweite Zugriff auf dieses Produkt wird durch die F\u00f6rderung der Deutschen Forschungsgemeinschaft (DFG) erm\u00f6glicht und durch die Nieders\u00e4chsische Staats- und Universit\u00e4tsbibliothek G\u00f6ttingen organisiert"
+                }
+            ]
+        ]
+    },
+    "_id": "ZDB-1-NCN",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/ZDB-1-NCN",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/ZDB-1-NCN",
+    "identifier": "ZDB-1-NCN",
+    "name": "Nineteenth Century U.S. Newspapers [Nationallizenz]",
+    "location": "G\u00f6ttingen",
+    "type": [
+        "Organization",
+        "Product"
+    ],
+    "addressRegion": "ANL"
+}

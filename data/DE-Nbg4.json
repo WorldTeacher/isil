@@ -1,0 +1,260 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Nbg4.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:18-11-99"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:11-11-16"
+                ],
+                {
+                    "t": "13:15:54.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "009027106"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "928804-1"
+                },
+                {
+                    "b": "EF194"
+                },
+                {
+                    "d": "Nbg 4"
+                },
+                {
+                    "e": "DE-Nbg4"
+                },
+                {
+                    "f": "DBKM"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.dbknb.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://vzopc4.gbv.de:8080/DB=32.1/LNG=DU/"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Neubrandenburg Klinikum"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Dietrich-Bonhoeffer-Klinikum, Medizinische Fachbibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Salvador-Allende-Str. 30"
+                },
+                {
+                    "b": "Neubrandenburg"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "17036"
+                },
+                {
+                    "f": "Mecklenburg-Vorpommern"
+                },
+                {
+                    "i": "Di-Do 10.00-12.00 und 12.30-16.30, Fr 10.00-12.00 und 12.30-15.00"
+                },
+                {
+                    "k": "13.29454"
+                },
+                {
+                    "l": "53.54534"
+                },
+                {
+                    "n": "13002000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Neubrandenburg"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "17022"
+                },
+                {
+                    "f": "Mecklenburg-Vorpommern"
+                },
+                {
+                    "g": "40 01 35"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "395"
+                },
+                {
+                    "f": "7 75-2150 und -2152"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "395"
+                },
+                {
+                    "i": "7 75-2133 (Poststelle)"
+                },
+                {
+                    "j": "33275"
+                },
+                {
+                    "k": "BIBO@dbknb.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0101"
+                },
+                {
+                    "d": "GBV"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "09"
+                },
+                {
+                    "h": "06"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Allgemeinmedizin"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "HAM"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "GBV"
+                },
+                {
+                    "e": "l"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Nbg4",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Nbg4",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Nbg4",
+    "identifier": "DE-Nbg4",
+    "name": "Dietrich-Bonhoeffer-Klinikum, Medizinische Fachbibliothek",
+    "location": "Neubrandenburg",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "HAM"
+}

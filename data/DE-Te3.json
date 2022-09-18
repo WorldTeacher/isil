@@ -1,0 +1,234 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Te3.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:17-02-16"
+                ],
+                {
+                    "t": "14:22:00.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020598491"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "WA492"
+                },
+                {
+                    "d": "Te 3"
+                },
+                {
+                    "e": "DE-Te3"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.templin.de/verzeichnis/visitenkarte.php?mandat=50003"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Templin StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtbibliothek Templin"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Prenzlauer Allee 7"
+                },
+                {
+                    "b": "Templin"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "17268"
+                },
+                {
+                    "f": "Brandenburg"
+                },
+                {
+                    "i": "Mo 14.00-17.00, Di 10.00-13.00 und 14.00-17.30, Do 10.00-13.00 und 14.00-17.00, Fr 10.00-13.00"
+                },
+                {
+                    "k": "13.50831"
+                },
+                {
+                    "l": "53.12175"
+                },
+                {
+                    "n": "12073572"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Templin"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "17262"
+                },
+                {
+                    "f": "Brandenburg"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "3987"
+                },
+                {
+                    "f": "27 98"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "3987"
+                },
+                {
+                    "i": "2 03 01 04"
+                },
+                {
+                    "k": "bibliothek@templin.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "07"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Uckermark"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BER"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "KOBV"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Te3",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Te3",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Te3",
+    "identifier": "DE-Te3",
+    "name": "Stadtbibliothek Templin",
+    "location": "Templin",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BER"
+}

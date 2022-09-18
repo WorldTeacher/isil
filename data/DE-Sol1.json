@@ -1,0 +1,237 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Sol1.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:20-11-01"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:12-10-18"
+                ],
+                {
+                    "t": "14:11:15.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "022833722"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "568101-7"
+                },
+                {
+                    "b": "CX462"
+                },
+                {
+                    "d": "Sol 1"
+                },
+                {
+                    "e": "DE-Sol1"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.stadtarchiv.solingen.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://okeanos-www.hbz-nrw.de/F?func=file&file_name=login&local_base=stasg"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Solingen Stadtarchiv"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtarchiv Solingen, Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Gasstr. 22b"
+                },
+                {
+                    "b": "Solingen"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "42657"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "i": "Di-Mi 9.00-16.00, Do 9.00-17.30"
+                },
+                {
+                    "k": "7.07931"
+                },
+                {
+                    "l": "51.16091"
+                },
+                {
+                    "n": "05122000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "212"
+                },
+                {
+                    "f": "2 90-3631"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "212"
+                },
+                {
+                    "i": "2 90-3648"
+                },
+                {
+                    "k": "stadtarchiv@solingen.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0149"
+                },
+                {
+                    "d": "HBZ"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "07"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Bergisches Land"
+                },
+                {
+                    "a": "Solingen <Geschichte>"
+                },
+                {
+                    "a": "Schneidwarenindustrie"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "c": "HBZ"
+                },
+                {
+                    "d": "Kalliope"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Sol1",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Sol1",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Sol1",
+    "identifier": "DE-Sol1",
+    "name": "Stadtarchiv Solingen, Bibliothek",
+    "location": "Solingen",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NRW"
+}

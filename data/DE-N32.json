@@ -1,0 +1,251 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-N32.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:18-11-99"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:22-02-21"
+                ],
+                {
+                    "t": "15:41:08.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "009065687"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "851028-3"
+                },
+                {
+                    "d": "N 32"
+                },
+                {
+                    "e": "DE-N32"
+                },
+                {
+                    "f": "UBEN"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.ub.uni-erlangen.de/ub/standorte/ezb/"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "N\u00fcrnberg UB Erlangen-N/Erzwiss"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Universit\u00e4tsbibliothek Erlangen-N\u00fcrnberg, Erziehungswissenschaftliche Zweigbibliothek N\u00fcrnberg"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Regensburger Str. 160"
+                },
+                {
+                    "b": "N\u00fcrnberg"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "90478"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "i": "Mo-Fr 9.00-20.00, Sa 9.00-14.00"
+                },
+                {
+                    "k": "11.11156"
+                },
+                {
+                    "l": "49.43834"
+                },
+                {
+                    "n": "09564000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "911"
+                },
+                {
+                    "f": "53 02-571"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "911"
+                },
+                {
+                    "i": "53 02-733"
+                },
+                {
+                    "k": "ub-ezb-info@fau.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0035"
+                },
+                {
+                    "d": "BVB"
+                },
+                {
+                    "f": "65"
+                },
+                {
+                    "g": "02"
+                },
+                {
+                    "h": "07"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Johannes-Guthmann-Schulbuchsammlung"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAY"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "BVB"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "ub-wszb-fernleihe@fau.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "ub-wszb-fernleihe@fau.de"
+                }
+            ]
+        ],
+        "047A": [
+            [
+                {
+                    "a": "Pr\u00e4senzbestand im Lesesaal und f\u00fcr historische Schulbuchsammlung"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-N32",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-N32",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-N32",
+    "identifier": "DE-N32",
+    "name": "Universit\u00e4tsbibliothek Erlangen-N\u00fcrnberg, Erziehungswissenschaftliche Zweigbibliothek N\u00fcrnberg",
+    "location": "N\u00fcrnberg",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAY"
+}

@@ -1,0 +1,148 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/US-MH-H.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:17-12-13"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:05-04-16"
+                ],
+                {
+                    "t": "14:33:12.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:17-12-13"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "104566037X"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "c": "MARC MH-H"
+                },
+                {
+                    "e": "US-MH-H"
+                },
+                {
+                    "h": "OCLC-HHG"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://hcl.harvard.edu/libraries/houghton/"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Cambridge Harvard/Houghton Lib"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Harvard University, Houghton Library"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Harvard Yard"
+                },
+                {
+                    "b": "Cambridge"
+                },
+                {
+                    "d": "US"
+                },
+                {
+                    "e": "02138"
+                },
+                {
+                    "f": "MA, USA"
+                },
+                {
+                    "k": "-71.11589"
+                },
+                {
+                    "l": "42.37333"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "f": "60"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "d": "Kalliope"
+                }
+            ]
+        ]
+    },
+    "_id": "US-MH-H",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/US-MH-H",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/US-MH-H",
+    "identifier": "US-MH-H",
+    "name": "Harvard University, Houghton Library",
+    "location": "Cambridge",
+    "type": [
+        "Organization",
+        "Library"
+    ]
+}

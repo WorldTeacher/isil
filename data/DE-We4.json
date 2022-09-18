@@ -1,0 +1,236 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-We4.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:14-09-18"
+                ],
+                {
+                    "t": "14:07:02.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020599382"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "MB221"
+                },
+                {
+                    "d": "We 4"
+                },
+                {
+                    "e": "DE-We4"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Wernigerode StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtbibliothek Wernigerode"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Klint 10"
+                },
+                {
+                    "b": "Wernigerode"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "38855"
+                },
+                {
+                    "f": "Sachsen-Anhalt"
+                },
+                {
+                    "i": "Mo-Di und Do 11.00-18.00, Fr 11.00-16.00, Sa 10.00-13.00"
+                },
+                {
+                    "j": "\u00d6ffnungszeiten der Harzb\u00fccherei: Di und Do 10.00-12.00 und 15.00-18.00; \u00d6ffnungszeiten der Kinderbibliothek Oberpfarrkirchhof 4: Mo und Do 13.00-17.00, Di 13.00-18.00, Fr 13.00-16.00"
+                },
+                {
+                    "k": "10.78352"
+                },
+                {
+                    "l": "51.83269"
+                },
+                {
+                    "n": "15085370"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "3943"
+                },
+                {
+                    "f": "6 54-420 bis -427"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "3943"
+                },
+                {
+                    "i": "6 54-497"
+                },
+                {
+                    "k": "stadtbibliothek@wernigerode.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "07"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Stadtbibliothek"
+                },
+                {
+                    "a": "Regionalliteratur Harz und Harzvorland (Harzb\u00fccherei)"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "SAA"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "GBV"
+                },
+                {
+                    "d": "\u00d6VK"
+                },
+                {
+                    "e": "l"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "heike.spannuth@wernigerode.de"
+                }
+            ],
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "heike.spannuth@wernigerode.de"
+                }
+            ],
+            [
+                {
+                    "a": "b"
+                },
+                {
+                    "d": "stadtbibliothek@wernigerode.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-We4",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-We4",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-We4",
+    "identifier": "DE-We4",
+    "name": "Stadtbibliothek Wernigerode",
+    "location": "Wernigerode",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "SAA"
+}

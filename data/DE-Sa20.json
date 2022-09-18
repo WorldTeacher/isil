@@ -1,0 +1,261 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Sa20.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:25-01-01"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:17-02-16"
+                ],
+                {
+                    "t": "13:38:16.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "021327173"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "CT047"
+                },
+                {
+                    "d": "Sa 20"
+                },
+                {
+                    "e": "DE-Sa20"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.landtag-saar.de"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Saarbr\u00fccken Landtag"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Landtag des Saarlandes, Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Franz-Josef-R\u00f6der-Str. 7"
+                },
+                {
+                    "b": "Saarbr\u00fccken"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "66119"
+                },
+                {
+                    "f": "Saarland"
+                },
+                {
+                    "i": "Mo-Mi 8.00-17.30, Do 8.00-17.00, Fr 8.00-12.00"
+                },
+                {
+                    "k": "6.99417"
+                },
+                {
+                    "l": "49.22952"
+                },
+                {
+                    "n": "10041100"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Saarbr\u00fccken"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "66018"
+                },
+                {
+                    "f": "Saarland"
+                },
+                {
+                    "g": "10 18 33"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "681"
+                },
+                {
+                    "f": "50 02-228"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "681"
+                },
+                {
+                    "i": "50 02-481"
+                },
+                {
+                    "k": "bibliothek@landtag-saar.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "02"
+                },
+                {
+                    "h": "06"
+                },
+                {
+                    "i": "P"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Gesetzessammlungen"
+                },
+                {
+                    "a": "Rechtskommentare"
+                },
+                {
+                    "a": "Entscheidungssammlungen"
+                },
+                {
+                    "a": "Parlamentsrecht"
+                },
+                {
+                    "a": "amtliche Druckschriften der EU, des Bundes und aller Bundesl\u00e4nder"
+                },
+                {
+                    "a": "Geschichte <Saarland>"
+                },
+                {
+                    "a": "Politik <Saarland>"
+                },
+                {
+                    "a": "Saarland <Allgemein>"
+                },
+                {
+                    "a": "Saar-Lor-Lux-Raum"
+                },
+                {
+                    "a": "Fachzeitschriften und Literatur aus den Bereichen Recht, Wirtschaft, Politik, Kommunales, P\u00e4dagogik und Medienrecht"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAW"
+                },
+                {
+                    "c": "SWB"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Sa20",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Sa20",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Sa20",
+    "identifier": "DE-Sa20",
+    "name": "Landtag des Saarlandes, Bibliothek",
+    "location": "Saarbr\u00fccken",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAW"
+}

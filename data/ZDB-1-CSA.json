@@ -1,0 +1,223 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/ZDB-1-CSA.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:16-05-06"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:30-11-18"
+                ],
+                {
+                    "t": "13:37:33.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:16-05-06"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "979777186"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "d": "ZDB-1-CSA"
+                },
+                {
+                    "e": "ZDB-1-CSA"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.gesis.org/sowiport/"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://www.nationallizenzen.de/angebote/nlproduct.2006-03-21.6220260034"
+                },
+                {
+                    "x": "Produktinfo"
+                },
+                {
+                    "z": "W"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Cambridge Scientific Abstracts (CSA)"
+                },
+                {
+                    "4": "a"
+                }
+            ],
+            [
+                {
+                    "a": "Nationallizenz CSA-Sozialwiss."
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "CSA Sozialwissenschaftliche Datenbanken 1996-2009 [Nationallizenz]"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Universit\u00e4ts- und Stadtbibliothek K\u00f6ln und Informationszentrum Sozialwissenschaften in Bonn"
+                },
+                {
+                    "b": "K\u00f6ln / Bonn"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "50931"
+                },
+                {
+                    "k": "6.92859"
+                },
+                {
+                    "l": "50.92592"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "k": "nationallizenzen@iz-soz.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "P"
+                },
+                {
+                    "f": "89"
+                },
+                {
+                    "k": "WWW 49/CSA"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "E-Books"
+                },
+                {
+                    "a": "Datenbankkollektion Sozialwissenschaften (CSA) (1999-2009): Sociological Abstracts; Social Services Abstracts; PAIS International; Worldwide Political Science Abstracts; Applied Social Sciences Index and Abstracts; Physical Education Index"
+                },
+                {
+                    "a": "Berichtszeitraum: 1999-2009"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "ANL"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ],
+        "035P": [
+            [
+                {
+                    "a": "E-Books"
+                },
+                {
+                    "c": "neu 2006"
+                },
+                {
+                    "d": "n"
+                },
+                {
+                    "g": "Cambridge Scientific Abstracts (CSA)"
+                },
+                {
+                    "h": "http //www.nationallizenzen.de/angebote/nlproduct.2006-03-21.6220260034"
+                },
+                {
+                    "i": "Nationallizenz"
+                }
+            ]
+        ],
+        "047A": [
+            [
+                {
+                    "a": "Datenbank. - Der deutschlandweite Zugriff auf dieses Produkt wird durch die F\u00f6rderung der Deutschen Forschungsgemeinschaft (DFG) erm\u00f6glicht und durch die Universit\u00e4ts- und Stadtbibliothek K\u00f6ln sowie das Informationszentrum Sozialwissenschaften in Bonn organisiert"
+                }
+            ]
+        ]
+    },
+    "_id": "ZDB-1-CSA",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/ZDB-1-CSA",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/ZDB-1-CSA",
+    "identifier": "ZDB-1-CSA",
+    "name": "CSA Sozialwissenschaftliche Datenbanken 1996-2009 [Nationallizenz]",
+    "location": "K\u00f6ln / Bonn",
+    "type": [
+        "Organization",
+        "Product"
+    ],
+    "addressRegion": "ANL"
+}

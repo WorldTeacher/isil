@@ -1,0 +1,174 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-MUS-805518.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-01-12"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:12-10-20"
+                ],
+                {
+                    "t": "08:06:01.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:11-01-12"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1018746528"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "e": "DE-MUS-805518"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.kunstmuseum-moritzburg.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://www.kulturstiftung-st.de"
+                },
+                {
+                    "x": "Kulturstiftung"
+                },
+                {
+                    "z": "W"
+                }
+            ],
+            [
+                {
+                    "u": "http://www.museen-in-deutschland.de/singleview.php?muges=805518"
+                },
+                {
+                    "x": "Weitere Informationen"
+                },
+                {
+                    "z": "W"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Kunstmuseum des Landes Sachsen-Anhalt"
+                },
+                {
+                    "4": "a"
+                }
+            ],
+            [
+                {
+                    "a": "Landesm\u00fcnzkabinett"
+                },
+                {
+                    "4": "a"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Kulturstiftung Sachsen-Anhalt, Kunstmuseum Moritzburg Halle (Saale)"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Friedemann-Bach-Platz 5"
+                },
+                {
+                    "b": "Halle/Saale"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "06108"
+                },
+                {
+                    "f": "Sachsen-Anhalt"
+                },
+                {
+                    "i": "Do-Di 10.00-18.00"
+                },
+                {
+                    "j": "Mi geschlossen"
+                },
+                {
+                    "k": "11.96329"
+                },
+                {
+                    "l": "51.48632"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "86"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-MUS-805518",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-MUS-805518",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-MUS-805518",
+    "identifier": "DE-MUS-805518",
+    "name": "Kulturstiftung Sachsen-Anhalt, Kunstmuseum Moritzburg Halle (Saale)",
+    "location": "Halle/Saale",
+    "type": [
+        "Organization",
+        "Museum"
+    ]
+}

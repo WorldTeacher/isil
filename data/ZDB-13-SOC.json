@@ -1,0 +1,205 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/ZDB-13-SOC.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:26-03-08"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:13-11-20"
+                ],
+                {
+                    "t": "13:36:24.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:26-03-08"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "988047365"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "043007-9"
+                },
+                {
+                    "d": "ZDB-13-SOC"
+                },
+                {
+                    "e": "ZDB-13-SOC"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "https://www.oecd-ilibrary.org/"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "SourceOECD (fr\u00fchere Bezeichnung)"
+                },
+                {
+                    "4": "a"
+                }
+            ],
+            [
+                {
+                    "a": "OECD iLibrary"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "OECD iLibrary"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "OECD Berlin Centre, Schumannstr. 10"
+                },
+                {
+                    "b": "Berlin"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "10117"
+                },
+                {
+                    "k": "13.38275"
+                },
+                {
+                    "l": "52.52415"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "P"
+                },
+                {
+                    "c": "0172"
+                },
+                {
+                    "d": "SWB"
+                },
+                {
+                    "d": "HBV"
+                },
+                {
+                    "f": "89"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "E-Books"
+                },
+                {
+                    "a": "E-Journals"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "WWW"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ],
+        "035P": [
+            [
+                {
+                    "a": "E-Books E-Journals"
+                },
+                {
+                    "d": "j"
+                },
+                {
+                    "e": "n.n."
+                },
+                {
+                    "f": "934"
+                },
+                {
+                    "g": "OECD Berlin Centre"
+                },
+                {
+                    "i": "Anbieter kostenpflichtig"
+                }
+            ]
+        ],
+        "047A": [
+            [
+                {
+                    "a": "Online-Ressource / Datenbank; OECD iLibrary ersetzt als Nachfolgeprodukt \"SourceOECD\" als Online-Bibliothek f\u00fcr B\u00fccher, Arbeitspapiere und Statistiken und ist das Portal zu Analysen und Daten von OECD. Sobald OECD iLibrary voll ausgestattet ist, wird sie \"SourceOECD\" (http://www.sourceoecd.org/) vollst\u00e4ndig ersetzen"
+                }
+            ]
+        ]
+    },
+    "_id": "ZDB-13-SOC",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/ZDB-13-SOC",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/ZDB-13-SOC",
+    "identifier": "ZDB-13-SOC",
+    "name": "OECD iLibrary",
+    "location": "Berlin",
+    "type": [
+        "Organization",
+        "Product"
+    ],
+    "addressRegion": "WWW"
+}

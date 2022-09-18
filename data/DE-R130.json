@@ -1,0 +1,207 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-R130.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:17-02-16"
+                ],
+                {
+                    "t": "13:44:44.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020597681"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "WA273"
+                },
+                {
+                    "d": "R 130"
+                },
+                {
+                    "e": "DE-R130"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.stadtbibliothek.wolgast.de"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Wolgast StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtbibliothek Wolgast"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Hufelandstr. 2"
+                },
+                {
+                    "b": "Wolgast"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "17438"
+                },
+                {
+                    "f": "Mecklenburg-Vorpommern"
+                },
+                {
+                    "i": "Mo-Fr  9.00-18.00"
+                },
+                {
+                    "k": "13.76223"
+                },
+                {
+                    "l": "54.05172"
+                },
+                {
+                    "n": "13059101"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "3836"
+                },
+                {
+                    "f": "20 25 80"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "3836"
+                },
+                {
+                    "i": "20 25 08"
+                },
+                {
+                    "k": "stadtbibliothek@wolgast.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "07"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "HAM"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "GBV"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-R130",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-R130",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-R130",
+    "identifier": "DE-R130",
+    "name": "Stadtbibliothek Wolgast",
+    "location": "Wolgast",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "HAM"
+}

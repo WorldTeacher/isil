@@ -1,0 +1,236 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/ZDB-1-IOP.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:28-03-06"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:07-12-18"
+                ],
+                {
+                    "t": "14:39:54.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:28-03-06"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "979129273"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "041051-2"
+                },
+                {
+                    "d": "ZDB-1-IOP"
+                },
+                {
+                    "e": "ZDB-1-IOP"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.iop.org/EJ/"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://www.nationallizenzen.de/angebote/nlproduct.2006-03-14.9340426588"
+                },
+                {
+                    "x": "Produktinfo"
+                },
+                {
+                    "z": "W"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Nationallizenz IOP/Archiv"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "IOP Historic Archive [Archiv] [Nationallizenz]"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Technische Informationsbibliothek (TIB)"
+                },
+                {
+                    "b": "Hannover"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "30167"
+                },
+                {
+                    "k": "9.72001"
+                },
+                {
+                    "l": "52.38163"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "k": "anmeldung.nationallizenzen@tib.eu"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "P"
+                },
+                {
+                    "c": "0168"
+                },
+                {
+                    "d": "BVB"
+                },
+                {
+                    "d": "SWB"
+                },
+                {
+                    "d": "HBV"
+                },
+                {
+                    "f": "89"
+                },
+                {
+                    "k": "WWW 49/IOP"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "E-Journals"
+                },
+                {
+                    "a": "Archivdaten des Institute of Physics, Volltexte von \u00fcber 80 Zeitschriften der Physik"
+                },
+                {
+                    "a": "Mittels einer Moving Wall wurde bisher das Archiv bis 2013 j\u00e4hrlich durch den anschlie\u00dfenden aktuellen Jahrgang erweitert"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "ANL"
+                },
+                {
+                    "e": "k"
+                }
+            ]
+        ],
+        "035P": [
+            [
+                {
+                    "a": "E-Journals"
+                },
+                {
+                    "c": "neu 2006"
+                },
+                {
+                    "d": "j"
+                },
+                {
+                    "e": "80"
+                },
+                {
+                    "f": "83"
+                },
+                {
+                    "g": "Institute of Physics (IOP)"
+                },
+                {
+                    "h": "http://www.nationallizenzen.de/angebote/nlproduct.2006-03-14.9340426588"
+                },
+                {
+                    "i": "Nationallizenz"
+                }
+            ]
+        ],
+        "047A": [
+            [
+                {
+                    "a": "Datenbank. - Der deutschlandweite Zugriff auf das 'IOP Historic Archive 1874-1996' wurde aus Erwerbungsmitteln der Technischen Informationsbibliothek Hannover (TIB) finanziert und durch die TIB bereitgestellt. Der deutschlandweite Zugriff auf die Jahrg\u00e4nge 1997-2013 des IOP Historic Archive wird durch die Komplettf\u00f6rderung der Deutschen Forschungsgemeinschaft (DFG) erm\u00f6glicht und durch die Technische Informationsbibliothek Hannover (TIB) organisiert. Die Archiverweiterung um den Jahrgang 2013, sowie das IOP Turpion Archive bis 2011, wurden aus Erwerbungsmitteln der Technischen Informationsbibliothek (TIB) finanziert und durch die TIB bereitgestellt"
+                }
+            ]
+        ]
+    },
+    "_id": "ZDB-1-IOP",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/ZDB-1-IOP",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/ZDB-1-IOP",
+    "identifier": "ZDB-1-IOP",
+    "name": "IOP Historic Archive [Archiv] [Nationallizenz]",
+    "location": "Hannover",
+    "type": [
+        "Organization",
+        "Product"
+    ],
+    "addressRegion": "ANL"
+}

@@ -1,0 +1,244 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/ZDB-1-ECC.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:16-05-06"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:11-12-18"
+                ],
+                {
+                    "t": "10:51:00.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:16-05-06"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "979778255"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "041001-9"
+                },
+                {
+                    "d": "ZDB-1-ECC"
+                },
+                {
+                    "e": "ZDB-1-ECC"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.gale.cengage.com/DigitalCollections/products/ecco/index.htm"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://infotrac.galegroup.com/itweb?db=ECCO"
+                },
+                {
+                    "z": "B"
+                }
+            ],
+            [
+                {
+                    "u": "http://www.nationallizenzen.de/angebote/nlproduct.2006-03-13.2196408528"
+                },
+                {
+                    "x": "Produktinfo"
+                },
+                {
+                    "z": "W"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Nationallizenz ECCO"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Eighteenth Century Collections Online / ECCO [Nationallizenz]"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Nieders\u00e4chsische Staats- und Universit\u00e4tsbibliothek G\u00f6ttingen"
+                },
+                {
+                    "b": "G\u00f6ttingen"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "37073"
+                },
+                {
+                    "k": "9.93567"
+                },
+                {
+                    "l": "51.53978"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "k": "nationallizenzen@sub.uni-goettingen.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "P"
+                },
+                {
+                    "c": "0168"
+                },
+                {
+                    "d": "BVB"
+                },
+                {
+                    "d": "SWB"
+                },
+                {
+                    "f": "89"
+                },
+                {
+                    "k": "WWW 49/ECC"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "E-Books"
+                },
+                {
+                    "a": "E-Journals"
+                },
+                {
+                    "a": "\u00dcber 150.000 gedruckte Werke mit 33 Millionen im Volltext recherchierbaren Seiten, die zwischen 1701 und 1800 im Vereinigten K\u00f6nigreich ver\u00f6ffentlicht wurden. ECCO II enth\u00e4lt ca. 46.000 neue Titel und mehr als 6,4 Millionen Seiten"
+                },
+                {
+                    "a": "Berichtszeitraum: 1701-1800"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "ANL"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ],
+        "035P": [
+            [
+                {
+                    "a": "E-Books E-Journals"
+                },
+                {
+                    "c": "neu 2006"
+                },
+                {
+                    "d": "j"
+                },
+                {
+                    "e": "144"
+                },
+                {
+                    "f": "169"
+                },
+                {
+                    "g": "Thomson Gale"
+                },
+                {
+                    "h": "http://www.nationallizenzen.de/angebote/nlproduct.2006-03-13.2196408528"
+                },
+                {
+                    "i": "Nationallizenz"
+                }
+            ]
+        ],
+        "047A": [
+            [
+                {
+                    "a": "Datenbank. - Der deutschlandweite Zugriff auf dieses Produkt wird durch die F\u00f6rderung der Deutschen Forschungsgemeinschaft (DFG) erm\u00f6glicht und durch die Nieders\u00e4chsische Staats- und Universit\u00e4tsbibliothek G\u00f6ttingen organisiert"
+                }
+            ]
+        ]
+    },
+    "_id": "ZDB-1-ECC",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/ZDB-1-ECC",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/ZDB-1-ECC",
+    "identifier": "ZDB-1-ECC",
+    "name": "Eighteenth Century Collections Online / ECCO [Nationallizenz]",
+    "location": "G\u00f6ttingen",
+    "type": [
+        "Organization",
+        "Product"
+    ],
+    "addressRegion": "ANL"
+}

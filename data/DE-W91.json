@@ -1,0 +1,251 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-W91.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:21-12-04"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:20-08-20"
+                ],
+                {
+                    "t": "10:03:37.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "026888254"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "878091-2"
+                },
+                {
+                    "b": "BK584"
+                },
+                {
+                    "d": "W 91"
+                },
+                {
+                    "e": "DE-W91"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.bibliothek.bistum-wuerzburg.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://www.dbw-katalog.bistum-wuerzburg.de"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "DBW"
+                },
+                {
+                    "4": "a"
+                }
+            ],
+            [
+                {
+                    "a": "W\u00fcrzburg Di\u00f6zesanB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Di\u00f6zesanbibliothek W\u00fcrzburg"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Domerschulstr. 17"
+                },
+                {
+                    "b": "W\u00fcrzburg"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "97070"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "i": "Mo-Di 9.00-16.00, Mi-Do 9.00-19.00"
+                },
+                {
+                    "k": "9.93444"
+                },
+                {
+                    "l": "49.79094"
+                },
+                {
+                    "n": "09663000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "931"
+                },
+                {
+                    "f": "3 86-67100"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "931"
+                },
+                {
+                    "i": "3 86-67101"
+                },
+                {
+                    "k": "bibliothek@bistum-wuerzburg.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0027"
+                },
+                {
+                    "d": "BVB"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "10"
+                },
+                {
+                    "h": "08"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Di\u00f6zesangeschichte"
+                },
+                {
+                    "a": "Fr\u00e4nkische Landeskunde und Kirchengeschichte"
+                },
+                {
+                    "a": "Gebets- und Andachtsliteratur w\u00fcrzburgischer Herkunft"
+                },
+                {
+                    "a": "Liturgische und katechetische B\u00fccher w\u00fcrzburgischer Herkunft"
+                },
+                {
+                    "a": "Alte Pfarr- und Dekanatsbibliotheken aus dem Di\u00f6zesangebiet"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAY"
+                },
+                {
+                    "c": "BVB"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "R"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-W91",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-W91",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-W91",
+    "identifier": "DE-W91",
+    "name": "Di\u00f6zesanbibliothek W\u00fcrzburg",
+    "location": "W\u00fcrzburg",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAY"
+}

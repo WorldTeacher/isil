@@ -1,0 +1,131 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-MUS-861112.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-01-12"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:12-10-20"
+                ],
+                {
+                    "t": "08:10:04.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:11-01-12"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1018750827"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "e": "DE-MUS-861112"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.museen-in-deutschland.de/singleview.php?muges=861112"
+                },
+                {
+                    "x": "Weitere Informationen"
+                },
+                {
+                    "z": "W"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Museum Schloss Rochsburg"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Schlossstra\u00dfe 1"
+                },
+                {
+                    "b": "Lunzenau"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "09328"
+                },
+                {
+                    "f": "Sachsen"
+                },
+                {
+                    "k": "12.75070"
+                },
+                {
+                    "l": "50.94593"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "m"
+                },
+                {
+                    "f": "86"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-MUS-861112",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-MUS-861112",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-MUS-861112",
+    "identifier": "DE-MUS-861112",
+    "name": "Museum Schloss Rochsburg",
+    "location": "Lunzenau",
+    "type": [
+        "Organization",
+        "Museum"
+    ]
+}

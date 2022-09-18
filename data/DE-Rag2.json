@@ -1,0 +1,183 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Rag2.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:31-03-10"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:11-05-22"
+                ],
+                {
+                    "t": "12:49:29.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:31-03-10"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1001256646"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "101063-3"
+                },
+                {
+                    "d": "Rag 2"
+                },
+                {
+                    "e": "DE-Rag2"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.stadt-ratingen.de/freizeit_kultur_sport_tourismus/stadtarchiv/"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Ratingen Stadtarchiv"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtarchiv Ratingen"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "M\u00fclheimer Str. 47"
+                },
+                {
+                    "b": "Ratingen"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "40878"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "k": "6.85438"
+                },
+                {
+                    "l": "51.30202"
+                },
+                {
+                    "n": "05158028"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "k": "stadtarchiv@ratingen.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0367"
+                },
+                {
+                    "f": "52"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "07"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "d": "Kalliope"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Rag2",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Rag2",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Rag2",
+    "identifier": "DE-Rag2",
+    "name": "Stadtarchiv Ratingen",
+    "location": "Ratingen",
+    "type": [
+        "Organization",
+        "Archive"
+    ],
+    "addressRegion": "NRW"
+}

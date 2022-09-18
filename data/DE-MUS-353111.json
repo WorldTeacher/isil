@@ -1,0 +1,131 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-MUS-353111.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:06-01-12"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:12-10-20"
+                ],
+                {
+                    "t": "08:55:01.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:06-01-12"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "101857686X"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "e": "DE-MUS-353111"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.museen-in-deutschland.de/singleview.php?muges=353111"
+                },
+                {
+                    "x": "Weitere Informationen"
+                },
+                {
+                    "z": "W"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Schumannhaus"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Sebastianstr. 182"
+                },
+                {
+                    "b": "Bonn"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "53115"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "k": "7.07742"
+                },
+                {
+                    "l": "50.72444"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "m"
+                },
+                {
+                    "f": "86"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-MUS-353111",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-MUS-353111",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-MUS-353111",
+    "identifier": "DE-MUS-353111",
+    "name": "Schumannhaus",
+    "location": "Bonn",
+    "type": [
+        "Organization",
+        "Museum"
+    ]
+}

@@ -1,0 +1,220 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Ml1.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:17-02-16"
+                ],
+                {
+                    "t": "14:03:56.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:27-05-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "02059674X"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "BR070"
+                },
+                {
+                    "d": "Ml 1"
+                },
+                {
+                    "e": "DE-Ml1"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.stmg.de"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "LSA-Bibliothek"
+                },
+                {
+                    "4": "a"
+                }
+            ],
+            [
+                {
+                    "a": "Bad M\u00fcnstereifel St.MichaelGym"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "St. Michael-Gymnasium, Sch\u00fcler-Lehrer-Bibliotheken"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Markt 11"
+                },
+                {
+                    "b": "Bad M\u00fcnstereifel"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "53902"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "k": "6.76424"
+                },
+                {
+                    "l": "50.55343"
+                },
+                {
+                    "n": "05366004"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "2253"
+                },
+                {
+                    "f": "92 13-0"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "2253"
+                },
+                {
+                    "i": "92 13-20"
+                },
+                {
+                    "k": "kontakt@stmg.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "05"
+                },
+                {
+                    "i": "P"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "ehemalige Jesuitenbibliothek (Handschriften, Wiegendrucke und B\u00fccher zwischen 1500 und 1800 weitgehend in lateinischer Sprache)"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ],
+        "047A": [
+            [
+                {
+                    "a": "4 Einzelbibliotheken unter einem Dach: Historische Jesuitenbibliothek, Magazin der alten Lehrerb\u00fccherei, Lehrer-Sch\u00fcler-Arbeitsbibliothek, Sch\u00fcler-Leihb\u00fccherei"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Ml1",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Ml1",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Ml1",
+    "identifier": "DE-Ml1",
+    "name": "St. Michael-Gymnasium, Sch\u00fcler-Lehrer-Bibliotheken",
+    "location": "Bad M\u00fcnstereifel",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NRW"
+}

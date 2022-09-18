@@ -1,0 +1,231 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/ZDB-1-RSCM.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:27-01-14"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:07-12-18"
+                ],
+                {
+                    "t": "14:32:33.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:27-01-14"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1046798138"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "d": "ZDB-1-RSCM"
+                },
+                {
+                    "e": "ZDB-1-RSCM"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "https://www.rsc.org/merck-index"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://www.nationallizenzen.de/angebote/nlproduct.2013-12-20.9878993264"
+                },
+                {
+                    "x": "Produktinfo"
+                },
+                {
+                    "z": "W"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "RSC Merck Index Online"
+                },
+                {
+                    "4": "a"
+                }
+            ],
+            [
+                {
+                    "a": "Royal Society of Chemistry"
+                },
+                {
+                    "4": "a"
+                }
+            ],
+            [
+                {
+                    "a": "AllianzLizenz/DFG Merck Index"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Merck Index Online 2014-2016 [DFG-gef\u00f6rderte Allianz-Lizenz]"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Technische Informationsbibliothek (TIB)"
+                },
+                {
+                    "b": "Hannover"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "30167"
+                },
+                {
+                    "k": "9.72001"
+                },
+                {
+                    "l": "52.38163"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "k": "anmeldung.nationallizenzen@tib.eu"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "P"
+                },
+                {
+                    "f": "89"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "E-Journal (Dynamische Datenbank)"
+                },
+                {
+                    "a": "15. Auflage 2013"
+                },
+                {
+                    "a": "Merck Index Online ist ein Nachweisinstrument f\u00fcr Stoffeigenschaften der wichtigsten Chemikalien, Arzneimittel und biologischen Substanzen und dient als hilfreiches Instrument f\u00fcr die Arbeit im Labor"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "ANL"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ],
+        "035P": [
+            [
+                {
+                    "a": "E-Journals"
+                },
+                {
+                    "c": "neu 2014"
+                },
+                {
+                    "d": "j"
+                },
+                {
+                    "e": "1"
+                },
+                {
+                    "g": "Royal Society of Chemistry (RSC)"
+                },
+                {
+                    "h": "http://www.nationallizenzen.de/angebote/nlproduct.2013-12-20.9878993264"
+                },
+                {
+                    "i": "DFG-gef\u00f6rderte Allianz-Lizenz"
+                }
+            ]
+        ],
+        "047A": [
+            [
+                {
+                    "a": "Datenbank. - Der deutschlandweite Zugriff auf dieses Produkt wird im Rahmen der Allianz-Initiative Digitale Information mit finanzieller Unterst\u00fctzung der Deutschen Forschungsgemeinschaft (DFG) bereitgestellt und durch die Technische Informationsbibliothek Hannover (TIB) organisiert"
+                }
+            ]
+        ]
+    },
+    "_id": "ZDB-1-RSCM",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/ZDB-1-RSCM",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/ZDB-1-RSCM",
+    "identifier": "ZDB-1-RSCM",
+    "name": "Merck Index Online 2014-2016 [DFG-gef\u00f6rderte Allianz-Lizenz]",
+    "location": "Hannover",
+    "type": [
+        "Organization",
+        "Product"
+    ],
+    "addressRegion": "ANL"
+}

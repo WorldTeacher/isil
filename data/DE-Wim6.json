@@ -1,0 +1,258 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Wim6.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:18-11-99"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:22-11-16"
+                ],
+                {
+                    "t": "12:15:58.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "009033467"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "948055-9"
+                },
+                {
+                    "b": "EM500"
+                },
+                {
+                    "d": "Wim 6"
+                },
+                {
+                    "e": "DE-Wim6"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.thueringen.de/staatsarchive"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Weimar Hauptstaatsarchiv Bib"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Hauptstaatsarchiv Weimar, Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Marstallstr. 2"
+                },
+                {
+                    "b": "Weimar"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "99423"
+                },
+                {
+                    "f": "Th\u00fcringen"
+                },
+                {
+                    "i": "Mo-Mi 8.00-16.00, Do 8.00-18.00"
+                },
+                {
+                    "k": "11.33173"
+                },
+                {
+                    "l": "50.98171"
+                },
+                {
+                    "n": "16055000"
+                },
+                {
+                    "o": "barrierefrei"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Weimar"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "99408"
+                },
+                {
+                    "f": "Th\u00fcringen"
+                },
+                {
+                    "g": "27 26"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "3643"
+                },
+                {
+                    "f": "8 70-0"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "3643"
+                },
+                {
+                    "i": "8 70-100"
+                },
+                {
+                    "k": "weimar@la.thueringen.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0101"
+                },
+                {
+                    "d": "GBV"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "02"
+                },
+                {
+                    "h": "07"
+                },
+                {
+                    "i": "P"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Archivkunde"
+                },
+                {
+                    "a": "Geschichte <Deutschland>"
+                },
+                {
+                    "a": "Geschichte <Th\u00fcringen>"
+                },
+                {
+                    "a": "Goethe"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "THU"
+                },
+                {
+                    "c": "GBV"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Wim6",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Wim6",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Wim6",
+    "identifier": "DE-Wim6",
+    "name": "Hauptstaatsarchiv Weimar, Bibliothek",
+    "location": "Weimar",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "THU"
+}

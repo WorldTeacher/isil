@@ -1,0 +1,236 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Z5.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:30-06-09"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:14-03-22"
+                ],
+                {
+                    "t": "13:57:46.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:30-06-09"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "995039607"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "938324-4"
+                },
+                {
+                    "d": "Z 5"
+                },
+                {
+                    "e": "DE-Z5"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "https://www.zeitz.de/stadtarchiv.html"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Zeitz Stadtarchiv"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtarchiv Zeitz"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Schlo\u00dfstr. 6"
+                },
+                {
+                    "b": "Zeitz"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "06712"
+                },
+                {
+                    "f": "Sachsen-Anhalt"
+                },
+                {
+                    "h": "Schlo\u00df Moritzburg"
+                },
+                {
+                    "i": "Mo 9.00-12.00, Di 9.00-12.00 und 14.00-18.00, Do 9.00-12.00 und 14.00-16.00"
+                },
+                {
+                    "k": "12.12811"
+                },
+                {
+                    "l": "51.05027"
+                },
+                {
+                    "n": "15084590"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "z": "Auf Grund Vorbereitung des Umzuges ab 1. Juni 2022 Zugang stark eingeschr\u00e4nkt!"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Zeitz"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "06694"
+                },
+                {
+                    "f": "Sachsen-Anhalt"
+                },
+                {
+                    "g": "14 20"
+                },
+                {
+                    "o": "nein"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "3441"
+                },
+                {
+                    "f": "21 20 54"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "3441"
+                },
+                {
+                    "i": "22 56 33"
+                },
+                {
+                    "k": "stadtarchiv@stadt-zeitz.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0165"
+                },
+                {
+                    "f": "52"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "04"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "SAA"
+                },
+                {
+                    "e": "l"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Z5",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Z5",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Z5",
+    "identifier": "DE-Z5",
+    "name": "Stadtarchiv Zeitz",
+    "location": "Zeitz",
+    "type": [
+        "Organization",
+        "Archive"
+    ],
+    "addressRegion": "SAA"
+}

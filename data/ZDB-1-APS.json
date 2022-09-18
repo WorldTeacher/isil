@@ -1,0 +1,244 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/ZDB-1-APS.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:28-03-08"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:07-12-18"
+                ],
+                {
+                    "t": "14:37:34.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:28-03-08"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "988082500"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "041113-9"
+                },
+                {
+                    "d": "ZDB-1-APS"
+                },
+                {
+                    "e": "ZDB-1-APS"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://prola.aps.org/"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://www.nationallizenzen.de/angebote/nlproduct.2008-02-04.7442370841"
+                },
+                {
+                    "x": "Produktinfo"
+                },
+                {
+                    "z": "W"
+                }
+            ],
+            [
+                {
+                    "u": "https://www.tib.eu/de/openurl/search?pid=collectionCode:ZDB-1-APS"
+                },
+                {
+                    "x": "Zugang \u00fcber Portal TIB Hannover"
+                },
+                {
+                    "z": "W"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Nationallizenz APS"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "APS Digital Backfile Archive [Nationallizenz]"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Technische Informationsbibliothek (TIB)"
+                },
+                {
+                    "b": "Hannover"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "30167"
+                },
+                {
+                    "k": "9.72001"
+                },
+                {
+                    "l": "52.38163"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "k": "anmeldung.nationallizenzen@tib.eu"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "P"
+                },
+                {
+                    "c": "0168"
+                },
+                {
+                    "d": "BVB"
+                },
+                {
+                    "d": "SWB"
+                },
+                {
+                    "d": "HBV"
+                },
+                {
+                    "f": "89"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "E-Journals"
+                },
+                {
+                    "a": "Die Ver\u00f6ffentlichungen der American Physical Society als zentrales Publikationsorgan der Physik repr\u00e4sentieren weltweit angesehene und viel gelesene Zeitschriften aus dem Fachgebiet Physik"
+                },
+                {
+                    "a": "Berichtszeitraum: 1893-2003"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "ANL"
+                },
+                {
+                    "e": "k"
+                }
+            ]
+        ],
+        "035P": [
+            [
+                {
+                    "a": "E-Journals"
+                },
+                {
+                    "c": "neu 2008"
+                },
+                {
+                    "d": "j"
+                },
+                {
+                    "e": "10"
+                },
+                {
+                    "f": "10"
+                },
+                {
+                    "g": "American Physical Society (APS)"
+                },
+                {
+                    "h": "http://www.nationallizenzen.de/angebote/nlproduct.2008-02-04.7442370841"
+                },
+                {
+                    "i": "Nationallizenz"
+                }
+            ]
+        ],
+        "047A": [
+            [
+                {
+                    "a": "Datenbank. - Der deutschlandweite Zugriff auf dieses Produkt wird durch die F\u00f6rderung der Deutschen Forschungsgemeinschaft (DFG) erm\u00f6glicht und durch die Technische Informationsbibliothek Hannover (TIB) organisiert"
+                }
+            ]
+        ]
+    },
+    "_id": "ZDB-1-APS",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/ZDB-1-APS",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/ZDB-1-APS",
+    "identifier": "ZDB-1-APS",
+    "name": "APS Digital Backfile Archive [Nationallizenz]",
+    "location": "Hannover",
+    "type": [
+        "Organization",
+        "Product"
+    ],
+    "addressRegion": "ANL"
+}

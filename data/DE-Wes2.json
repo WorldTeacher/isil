@@ -1,0 +1,180 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Wes2.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:12-04-10"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:11-05-22"
+                ],
+                {
+                    "t": "12:47:51.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:12-04-10"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1001455592"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "101036-0"
+                },
+                {
+                    "d": "Wes 2"
+                },
+                {
+                    "e": "DE-Wes2"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "https://www.kreis-wesel.de/de/themen/kreisarchiv/"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Wesel Kreisarchiv"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Kreisarchiv Wesel"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Reeser Landstr. 31"
+                },
+                {
+                    "b": "Wesel"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "46483"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "k": "6.60815"
+                },
+                {
+                    "l": "51.66499"
+                },
+                {
+                    "n": "05170048"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "k": "kreisarchiv@kreis-wesel.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0367"
+                },
+                {
+                    "f": "52"
+                },
+                {
+                    "g": "03"
+                },
+                {
+                    "h": "01"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Wes2",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Wes2",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Wes2",
+    "identifier": "DE-Wes2",
+    "name": "Kreisarchiv Wesel",
+    "location": "Wesel",
+    "type": [
+        "Organization",
+        "Archive"
+    ],
+    "addressRegion": "NRW"
+}

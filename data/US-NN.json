@@ -1,0 +1,148 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/US-NN.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:17-12-13"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:05-04-16"
+                ],
+                {
+                    "t": "14:33:01.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:17-12-13"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "104566068X"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "c": "MARC NN"
+                },
+                {
+                    "e": "US-NN"
+                },
+                {
+                    "h": "OCLC-UVR"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.nypl.org/"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "New York Public Library"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "New York Public Library, Mid-Manhattan Library"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "455 Fifth Avenue (at 40th Street)"
+                },
+                {
+                    "b": "New York"
+                },
+                {
+                    "d": "US"
+                },
+                {
+                    "e": "10016-0122"
+                },
+                {
+                    "f": "NY, USA"
+                },
+                {
+                    "k": "-73.98163"
+                },
+                {
+                    "l": "40.75196"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "f": "33"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "d": "Kalliope"
+                }
+            ]
+        ]
+    },
+    "_id": "US-NN",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/US-NN",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/US-NN",
+    "identifier": "US-NN",
+    "name": "New York Public Library, Mid-Manhattan Library",
+    "location": "New York",
+    "type": [
+        "Organization",
+        "Library"
+    ]
+}

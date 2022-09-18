@@ -1,0 +1,248 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Z2.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:29-03-16"
+                ],
+                {
+                    "t": "08:41:27.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020599765"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "EM639"
+                },
+                {
+                    "d": "Z 2"
+                },
+                {
+                    "e": "DE-Z2"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.vereinigtedomstifter.de"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "VDS SBAZ"
+                },
+                {
+                    "4": "a"
+                }
+            ],
+            [
+                {
+                    "a": "Zeitz StiftsB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Vereinigte Domstifter zu Merseburg und Naumburg und des Kollegiatstifts Zeitz, Stiftsbibliothek und Stiftsarchiv Zeitz"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Torhaus Schlo\u00dfstr. 6"
+                },
+                {
+                    "b": "Zeitz"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "06712"
+                },
+                {
+                    "f": "Sachsen-Anhalt"
+                },
+                {
+                    "i": "Di 9.00-12.00 und 13.00-18.00"
+                },
+                {
+                    "k": "12.16670"
+                },
+                {
+                    "l": "51.08330"
+                },
+                {
+                    "n": "15084590"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "3441"
+                },
+                {
+                    "f": "21 20 60 und 21 24 81"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "3441"
+                },
+                {
+                    "i": "22 78 72"
+                },
+                {
+                    "k": "stiftsbibliothekzeitz@vereinigtedomstifter.de"
+                },
+                {
+                    "l": "Stiftsbibliothek"
+                }
+            ],
+            [
+                {
+                    "a": "W"
+                },
+                {
+                    "b": "Stiftsarchiv"
+                },
+                {
+                    "k": "stiftsarchivzeitz@vereinigtedomstifter.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "07"
+                },
+                {
+                    "h": "07"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Historischer Bestand (Schwerpunkt 15.-17. Jahrhundert)"
+                },
+                {
+                    "a": "Reformation"
+                },
+                {
+                    "a": "Theologie <Mittelalter + Reformationszeitalter>"
+                },
+                {
+                    "a": "Inkunabeldrucke <Mittelalter>"
+                },
+                {
+                    "a": "Rechtswissenschaft <Mittelalter>"
+                },
+                {
+                    "a": "Handschriften <Mittelalter>"
+                },
+                {
+                    "a": "Julius Pflug"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "SAA"
+                },
+                {
+                    "c": "GBV"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Z2",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Z2",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Z2",
+    "identifier": "DE-Z2",
+    "name": "Vereinigte Domstifter zu Merseburg und Naumburg und des Kollegiatstifts Zeitz, Stiftsbibliothek und Stiftsarchiv Zeitz",
+    "location": "Zeitz",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "SAA"
+}

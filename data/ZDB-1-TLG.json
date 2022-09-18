@@ -1,0 +1,195 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/ZDB-1-TLG.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:05-01-18"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:05-01-18"
+                ],
+                {
+                    "t": "18:01:48.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:05-01-18"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1149979410"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "d": "ZDB-1-TLG"
+                },
+                {
+                    "e": "ZDB-1-TLG"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.tradelawguide.com"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "FID-Lizenz TradeLawGuide"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "TradeLawGuide [FID-Lizenz]"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Staatsbibliothek zu Berlin - Preu\u00dfischer Kulturbesitz"
+                },
+                {
+                    "b": "Berlin"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "10785"
+                },
+                {
+                    "k": "13.37063"
+                },
+                {
+                    "l": "52.50771"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "k": "kfl@sbb.spk-berlin.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "P"
+                },
+                {
+                    "f": "89"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "E-Books"
+                },
+                {
+                    "a": "Online-Datenbank zur umfassenden und detailierten Recherche von Dokumenten zu Regeln, Abkommen, Streitentscheidungen etc. der Welthandelsorganisation WTO."
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "ANL"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ],
+        "035P": [
+            [
+                {
+                    "a": "E-Books"
+                },
+                {
+                    "c": "neu 2018"
+                },
+                {
+                    "d": "n"
+                },
+                {
+                    "g": "TradeLawGuide"
+                },
+                {
+                    "i": "FID-Lizenz"
+                }
+            ]
+        ],
+        "047A": [
+            [
+                {
+                    "a": "Datenbank. - Der deutschlandweite Zugriff auf dieses Produkt wird durch die F\u00f6rderung der Deutschen Forschungsgemeinschaft (DFG) im Rahmen des Fachinformationsdienstes (FID) Internationale und interdisziplin\u00e4re Rechtsforschung erm\u00f6glicht und durch die Staatsbibliothek zu Berlin organisiert."
+                }
+            ]
+        ]
+    },
+    "_id": "ZDB-1-TLG",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/ZDB-1-TLG",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/ZDB-1-TLG",
+    "identifier": "ZDB-1-TLG",
+    "name": "TradeLawGuide [FID-Lizenz]",
+    "location": "Berlin",
+    "type": [
+        "Organization",
+        "Product"
+    ],
+    "addressRegion": "ANL"
+}

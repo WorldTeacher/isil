@@ -1,0 +1,256 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Re10.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:26-10-05"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:04-11-16"
+                ],
+                {
+                    "t": "14:01:22.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:26-10-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "976853302"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "848010-2"
+                },
+                {
+                    "b": "DE846"
+                },
+                {
+                    "d": "Re 10"
+                },
+                {
+                    "e": "DE-Re10"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.regensburg.de/kultur/museen-in-regensburg"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Regensburg Museen"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Museen der Stadt Regensburg, Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Dachaupl. 2-4"
+                },
+                {
+                    "b": "Regensburg"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "93047"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "k": "12.10165"
+                },
+                {
+                    "l": "49.01761"
+                },
+                {
+                    "n": "09362000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "a": "Amt 44 (Stadt Regensburg)"
+                },
+                {
+                    "b": "Regensburg"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "93047"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "941"
+                },
+                {
+                    "f": "5 07-1442 und -2441"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "941"
+                },
+                {
+                    "i": "5 07-4449"
+                },
+                {
+                    "k": "museen_der_stadt@regensburg.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0075"
+                },
+                {
+                    "d": "BVB"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "06"
+                },
+                {
+                    "i": "P"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Regensburg <Orts- und Kunstgeschichte>"
+                },
+                {
+                    "a": "Arch\u00e4ologie <Ostbayern>"
+                },
+                {
+                    "a": "Moderne Kunst <Ostbayern>"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAY"
+                },
+                {
+                    "c": "BVB"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ],
+        "047A": [
+            [
+                {
+                    "a": "\u00dcbernahme von Best\u00e4nden der Kreisbibliothek Regensburg"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Re10",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Re10",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Re10",
+    "identifier": "DE-Re10",
+    "name": "Museen der Stadt Regensburg, Bibliothek",
+    "location": "Regensburg",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAY"
+}

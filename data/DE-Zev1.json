@@ -1,0 +1,241 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Zev1.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:15-01-20"
+                ],
+                {
+                    "t": "09:35:37.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020599803"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "HD268"
+                },
+                {
+                    "d": "Zev 1"
+                },
+                {
+                    "e": "DE-Zev1"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "https://www.bibliothek-zeven.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://www.bibliothek-zeven.de/buch"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Zeven StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Bibliothek Zeven"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Am Markt 4 (Rathaus)"
+                },
+                {
+                    "b": "Zeven"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "27404"
+                },
+                {
+                    "f": "Niedersachsen"
+                },
+                {
+                    "i": "Mo 9.00-13.00 und 15.00-19.00, Di und Do 9.00-13.00 und 15.00-18.00, Mi und Fr 9.00-13.00"
+                },
+                {
+                    "k": "9.27974"
+                },
+                {
+                    "l": "53.29562"
+                },
+                {
+                    "n": "03357057"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Zeven"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "27394"
+                },
+                {
+                    "f": "Niedersachsen"
+                },
+                {
+                    "g": "14 60"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "4281"
+                },
+                {
+                    "f": "17 53"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "4281"
+                },
+                {
+                    "i": "95 50 80"
+                },
+                {
+                    "k": "info@bibliothek-zeven.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "05"
+                },
+                {
+                    "h": "06"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NIE"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "GBV"
+                },
+                {
+                    "d": "\u00d6VK"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Zev1",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Zev1",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Zev1",
+    "identifier": "DE-Zev1",
+    "name": "Bibliothek Zeven",
+    "location": "Zeven",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NIE"
+}

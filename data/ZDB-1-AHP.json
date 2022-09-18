@@ -1,0 +1,209 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/ZDB-1-AHP.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:27-03-07"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:05-12-18"
+                ],
+                {
+                    "t": "14:22:21.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:27-03-07"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "983648727"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "d": "ZDB-1-AHP"
+                },
+                {
+                    "e": "ZDB-1-AHP"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.cabi.org/ahpc/"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://www.nationallizenzen.de/angebote/nlproduct.2006-12-29.4286113277"
+                },
+                {
+                    "x": "Produktinfo"
+                },
+                {
+                    "z": "W"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Nationallizenz Animal Health"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Animal Health and Production Compendium [Nationallizenz]"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Universit\u00e4tsbibliothek Johann Christian Senckenberg Frankfurt/Main"
+                },
+                {
+                    "b": "Frankfurt/Main"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "60325"
+                },
+                {
+                    "k": "8.65292"
+                },
+                {
+                    "l": "50.12043"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "k": "nationallizenzen@ub.uni-frankfurt.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "P"
+                },
+                {
+                    "f": "89"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "E-Books"
+                },
+                {
+                    "a": "Zusammenstellung des weltweiten Wissens \u00fcber Tierproduktion und -gesundheit. Es werden alle Aspekte ber\u00fccksichtigt einschl. Krankheiten, Ern\u00e4hrung, Paarung und Z\u00fcchtung. Das Kompendium soll bei der Probleml\u00f6sung helfen und dient der praktischen Anwendung"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "ANL"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ],
+        "035P": [
+            [
+                {
+                    "a": "E-Books"
+                },
+                {
+                    "c": "neu 2007"
+                },
+                {
+                    "d": "n"
+                },
+                {
+                    "g": "CABI"
+                },
+                {
+                    "h": "http://www.nationallizenzen.de/angebote/nlproduct.2006-12-29.4286113277"
+                },
+                {
+                    "i": "Nationallizenz"
+                }
+            ]
+        ],
+        "047A": [
+            [
+                {
+                    "a": "Datenbank. - Der deutschlandweite Zugriff auf dieses Produkt wird durch die F\u00f6rderung der Deutschen Forschungsgemeinschaft (DFG) erm\u00f6glicht und durch die Universit\u00e4tsbibliothek Johann Christian Senckenberg Frankfurt/Main organisiert"
+                }
+            ]
+        ]
+    },
+    "_id": "ZDB-1-AHP",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/ZDB-1-AHP",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/ZDB-1-AHP",
+    "identifier": "ZDB-1-AHP",
+    "name": "Animal Health and Production Compendium [Nationallizenz]",
+    "location": "Frankfurt/Main",
+    "type": [
+        "Organization",
+        "Product"
+    ],
+    "addressRegion": "ANL"
+}

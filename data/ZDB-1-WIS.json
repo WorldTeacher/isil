@@ -1,0 +1,236 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/ZDB-1-WIS.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:22-02-06"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:05-12-18"
+                ],
+                {
+                    "t": "14:25:25.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:22-02-06"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "978661699"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "041049-4"
+                },
+                {
+                    "d": "ZDB-1-WIS"
+                },
+                {
+                    "e": "ZDB-1-WIS"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www3.interscience.wiley.com/cgi-bin/browsebycollection"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://www.nationallizenzen.de/angebote/nlproduct.2006-03-10.6662147566"
+                },
+                {
+                    "x": "Produktinfo"
+                },
+                {
+                    "z": "W"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Nationallizenz InterScience"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Wiley InterScience Backfile Collections 1832-2005 [Nationallizenz]"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Universit\u00e4tsbibliothek Johann Christian Senckenberg Frankfurt/Main"
+                },
+                {
+                    "b": "Frankfurt/Main"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "60325"
+                },
+                {
+                    "k": "8.65292"
+                },
+                {
+                    "l": "50.12043"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "k": "nationallizenzen@ub.uni-frankfurt.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "P"
+                },
+                {
+                    "c": "0168"
+                },
+                {
+                    "d": "BVB"
+                },
+                {
+                    "d": "SWB"
+                },
+                {
+                    "d": "HBV"
+                },
+                {
+                    "f": "89"
+                },
+                {
+                    "k": "WWW 49/WIS"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "E-Journals"
+                },
+                {
+                    "a": "Das Angebot besteht aus 250 Titeln in 21 Backfile-Collections zu Chemie und Pharmazie, Biologie, Mathematik, Medizin, Psychologie"
+                },
+                {
+                    "a": "Berichtszeitraum: 1832-2005"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "ANL"
+                },
+                {
+                    "e": "k"
+                }
+            ]
+        ],
+        "035P": [
+            [
+                {
+                    "a": "E-Journals"
+                },
+                {
+                    "c": "neu 2006"
+                },
+                {
+                    "d": "j"
+                },
+                {
+                    "e": "250"
+                },
+                {
+                    "f": "265"
+                },
+                {
+                    "g": "Wiley-Blackwell; Wiley InterScience"
+                },
+                {
+                    "h": "http //www.nationallizenzen.de/angebote/nlproduct.2006-03-10.6662147566"
+                },
+                {
+                    "i": "Nationallizenz"
+                }
+            ]
+        ],
+        "047A": [
+            [
+                {
+                    "a": "Datenbank. - Der deutschlandweite Zugriff auf dieses Produkt wird durch die F\u00f6rderung der Deutschen Forschungsgemeinschaft (DFG) erm\u00f6glicht und durch die Universit\u00e4tsbibliothek Johann Christian Senckenberg Frankfurt/Main organisiert"
+                }
+            ]
+        ]
+    },
+    "_id": "ZDB-1-WIS",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/ZDB-1-WIS",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/ZDB-1-WIS",
+    "identifier": "ZDB-1-WIS",
+    "name": "Wiley InterScience Backfile Collections 1832-2005 [Nationallizenz]",
+    "location": "Frankfurt/Main",
+    "type": [
+        "Organization",
+        "Product"
+    ],
+    "addressRegion": "ANL"
+}
