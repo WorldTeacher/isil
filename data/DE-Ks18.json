@@ -1,0 +1,253 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Ks18.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:14-06-10"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:02-12-15"
+                ],
+                {
+                    "t": "11:07:51.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:14-06-10"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1003479081"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "358018-0"
+                },
+                {
+                    "d": "Ks 18"
+                },
+                {
+                    "e": "DE-Ks18"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.sepulkralmuseum.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://my-bibliotheca.net/opac-k3954/App/Pages/webopac/index.aspx"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Kassel Inst.Sepulkralkult."
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Bibliothek des Zentralinstituts und Museums f\u00fcr Sepulkralkultur"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Weinbergstr. 25-27"
+                },
+                {
+                    "b": "Kassel"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "34117"
+                },
+                {
+                    "f": "Hessen"
+                },
+                {
+                    "i": "Di-Do 10.00-15.00, Fr 10.00-13.00"
+                },
+                {
+                    "j": "Di-Do nach Voranmeldung auch dar\u00fcber hinaus"
+                },
+                {
+                    "k": "9.48786"
+                },
+                {
+                    "l": "51.30908"
+                },
+                {
+                    "n": "06611000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "561"
+                },
+                {
+                    "f": "9 18 93-21"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "561"
+                },
+                {
+                    "i": "9 18 93-10"
+                },
+                {
+                    "k": "bibliothek@sepulkralmuseum.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0101"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "08"
+                },
+                {
+                    "h": "07"
+                },
+                {
+                    "i": "P"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Sterben"
+                },
+                {
+                    "a": "Tod"
+                },
+                {
+                    "a": "Friedhof"
+                },
+                {
+                    "a": "Grabmal"
+                },
+                {
+                    "a": "Bestattung"
+                },
+                {
+                    "a": "Gedenken"
+                },
+                {
+                    "a": "Denkmalschutz und -pflege"
+                },
+                {
+                    "a": "Tod in der Kunst"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "HES"
+                },
+                {
+                    "e": "k"
+                }
+            ]
+        ],
+        "047A": [
+            [
+                {
+                    "a": "Die Bibliothek ist eine reine Pr\u00e4senzbibliothek und nimmt daher nicht am Leihverkehr teil. Kopien von Aufs\u00e4tzen k\u00f6nnen auf Wunsch angefertigt werden."
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Ks18",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Ks18",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Ks18",
+    "identifier": "DE-Ks18",
+    "name": "Bibliothek des Zentralinstituts und Museums f\u00fcr Sepulkralkultur",
+    "location": "Kassel",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "HES"
+}

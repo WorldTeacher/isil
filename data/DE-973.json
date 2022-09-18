@@ -1,0 +1,258 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-973.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:22-11-16"
+                ],
+                {
+                    "t": "17:45:08.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020587333"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "HD724"
+                },
+                {
+                    "d": "973"
+                },
+                {
+                    "e": "DE-973"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.bibliothek.hammelburg.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://webopac.winbiap.de/hammelburg/index.aspx"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Hammelburg StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtbibliothek Hammelburg"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Kirchgasse 4"
+                },
+                {
+                    "b": "Hammelburg"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "97762"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "h": "Kellereischlo\u00df"
+                },
+                {
+                    "i": "Mo-Di und Fr 10.00-12.30 und 14.00-18.00, Do 11.00-18.00, jeden 1. Sa 10.00-12.30"
+                },
+                {
+                    "k": "9.89033"
+                },
+                {
+                    "l": "50.11438"
+                },
+                {
+                    "n": "09672127"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Hammelburg"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "97755"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "g": "12 20"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "9732"
+                },
+                {
+                    "f": "9 02-433"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "9732"
+                },
+                {
+                    "i": "9 02-5433"
+                },
+                {
+                    "k": "bibliothek@hammelburg.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "06"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Bier"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAY"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "BVB"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "bibliothek@hammelburg.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-973",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-973",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-973",
+    "identifier": "DE-973",
+    "name": "Stadtbibliothek Hammelburg",
+    "location": "Hammelburg",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAY"
+}

@@ -1,0 +1,183 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-1788.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:29-11-07"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:30-04-18"
+                ],
+                {
+                    "t": "17:05:49.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:29-11-07"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "986622435"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "PM707"
+                },
+                {
+                    "d": "1788"
+                },
+                {
+                    "e": "DE-1788"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Sailauf K\u00d6B"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Katholische \u00d6ffentliche B\u00fccherei Sailauf"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Steingasse 30"
+                },
+                {
+                    "b": "Sailauf"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "63877"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "k": "9.25198"
+                },
+                {
+                    "l": "50.01919"
+                },
+                {
+                    "n": "09671150"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "k": "fernleihe@st-michaelsbund.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "10"
+                },
+                {
+                    "h": "05"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAY"
+                },
+                {
+                    "c": "BVB"
+                },
+                {
+                    "e": "n"
+                },
+                {
+                    "g": "R"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "fernleihe@st-michaelsbund.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-1788",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-1788",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-1788",
+    "identifier": "DE-1788",
+    "name": "Katholische \u00d6ffentliche B\u00fccherei Sailauf",
+    "location": "Sailauf",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAY"
+}

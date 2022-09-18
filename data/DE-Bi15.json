@@ -1,0 +1,256 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Bi15.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:23-02-21"
+                ],
+                {
+                    "t": "09:36:37.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:27-05-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020589263"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "CU088"
+                },
+                {
+                    "d": "Bi 15"
+                },
+                {
+                    "e": "DE-Bi15"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.ekvw.de"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Bielefeld Landeskirchenamt"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Evangelische Kirche von Westfalen, Landeskirchenamt, Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Altst\u00e4dter Kirchpl. 5"
+                },
+                {
+                    "b": "Bielefeld"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "33602"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "i": "Mo, Mi und Fr 8.00-12.30, Di und Do 14.00-17.00"
+                },
+                {
+                    "k": "8.53283"
+                },
+                {
+                    "l": "52.02149"
+                },
+                {
+                    "n": "05711000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Bielefeld"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "33510"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "g": "10 10 51"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "521"
+                },
+                {
+                    "f": "5 94-281"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "521"
+                },
+                {
+                    "i": "5 94-129"
+                },
+                {
+                    "k": "Bibliothek@lka.ekvw.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "09"
+                },
+                {
+                    "h": "07"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "d": "Kalliope"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "b"
+                },
+                {
+                    "d": "bibliothek@ekvw.de"
+                }
+            ],
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "bibliothek@ekvw.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "bibliothek@ekvw.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Bi15",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Bi15",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Bi15",
+    "identifier": "DE-Bi15",
+    "name": "Evangelische Kirche von Westfalen, Landeskirchenamt, Bibliothek",
+    "location": "Bielefeld",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NRW"
+}

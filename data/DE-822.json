@@ -1,0 +1,212 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-822.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:28-01-16"
+                ],
+                {
+                    "t": "16:33:09.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020586167"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "GA456"
+                },
+                {
+                    "d": "822"
+                },
+                {
+                    "e": "DE-822"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.stadtkultur-bensheim.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://www.bensheim.org/LIBERO/WebOpac.cls"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Bensheim StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtbibliothek Bensheim"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Beauner Platz 3"
+                },
+                {
+                    "b": "Bensheim"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "64625"
+                },
+                {
+                    "f": "Hessen"
+                },
+                {
+                    "i": "Mo-Di und Do-Fr 11.00-18.00, Sa 10.00-13.00"
+                },
+                {
+                    "k": "8.62095"
+                },
+                {
+                    "l": "49.68023"
+                },
+                {
+                    "n": "06431002"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "6251"
+                },
+                {
+                    "f": "1 70 70"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "6251"
+                },
+                {
+                    "i": "17 07 29"
+                },
+                {
+                    "k": "bibliothek@bensheim.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "07"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "HES"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-822",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-822",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-822",
+    "identifier": "DE-822",
+    "name": "Stadtbibliothek Bensheim",
+    "location": "Bensheim",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "HES"
+}

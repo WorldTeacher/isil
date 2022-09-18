@@ -1,0 +1,236 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-2357.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:09-12-15"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:03-02-21"
+                ],
+                {
+                    "t": "15:43:09.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:09-12-15"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1079939091"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "694000-6"
+                },
+                {
+                    "d": "2357"
+                },
+                {
+                    "e": "DE-2357"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "https://www.hs-fresenius.de/standort/heidelberg/"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://webopac.winbiap.net/hs-fresenius-hd/"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Heidelberg HFH"
+                },
+                {
+                    "4": "c"
+                }
+            ],
+            [
+                {
+                    "a": "HSF HD"
+                },
+                {
+                    "4": "a"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Hochschule Fresenius Heidelberg, Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Sickingenstr. 63-65"
+                },
+                {
+                    "b": "Heidelberg"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "69126"
+                },
+                {
+                    "f": "Baden-W\u00fcrttemberg"
+                },
+                {
+                    "i": "Mo 12.30-16.00, Di/Mi/Fr 9.30-19.30, Do 12.30-19.30"
+                },
+                {
+                    "k": "8.68020"
+                },
+                {
+                    "l": "49.38400"
+                },
+                {
+                    "n": "08221000"
+                },
+                {
+                    "o": "barrierefrei"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "6221"
+                },
+                {
+                    "f": "64 42 10"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "6221"
+                },
+                {
+                    "i": "64 42 42"
+                },
+                {
+                    "k": "heidelberg@hs-fresenius.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0324"
+                },
+                {
+                    "d": "SWB"
+                },
+                {
+                    "f": "70"
+                },
+                {
+                    "g": "08"
+                },
+                {
+                    "h": "05"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Wirtschaftswissenschaften"
+                },
+                {
+                    "a": "Psychologie"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAW"
+                },
+                {
+                    "c": "SWB"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-2357",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-2357",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-2357",
+    "identifier": "DE-2357",
+    "name": "Hochschule Fresenius Heidelberg, Bibliothek",
+    "location": "Heidelberg",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAW"
+}

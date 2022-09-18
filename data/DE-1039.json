@@ -1,0 +1,288 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-1039.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:20-09-21"
+                ],
+                {
+                    "t": "13:19:00.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020587848"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "GA195"
+                },
+                {
+                    "d": "1039"
+                },
+                {
+                    "e": "DE-1039"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.stadtbibliothek.wunstorf.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://bibkataloge.de/wunstorf"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Wunstorf StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtbibliothek Wunstorf"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Wasserzucht 1"
+                },
+                {
+                    "b": "Wunstorf"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "31515"
+                },
+                {
+                    "f": "Niedersachsen"
+                },
+                {
+                    "h": "Stadtbibliothek Wunstorf"
+                },
+                {
+                    "i": "Mo 15.00-18.00, Di und Do 10.00-13.00 und 15.00-18.00, Fr 9.00-13.00"
+                },
+                {
+                    "k": "9.42829"
+                },
+                {
+                    "l": "52.42690"
+                },
+                {
+                    "n": "03241021"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "a": "S\u00fcdstra\u00dfe 1"
+                },
+                {
+                    "b": "Wunstorf"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "31515"
+                },
+                {
+                    "f": "Niedersachsen"
+                },
+                {
+                    "h": "Stadt Wunstorf, - Stadtbibliothek -"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "z": "alleinige Anschrift f\u00fcr Leihverkehrssendungen"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "5031"
+                },
+                {
+                    "f": "101-413"
+                },
+                {
+                    "k": "stadtbibliothek@wunstorf.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "06"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NIE"
+                },
+                {
+                    "c": "GBV"
+                },
+                {
+                    "d": "\u00d6VK"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "R"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "a"
+                },
+                {
+                    "d": "stadtbibliothek@wunstorf.de"
+                }
+            ],
+            [
+                {
+                    "a": "b"
+                },
+                {
+                    "d": "stadtbibliothek@wunstorf.de"
+                }
+            ],
+            [
+                {
+                    "a": "c"
+                },
+                {
+                    "d": "stadtbibliothek@wunstorf.de"
+                }
+            ],
+            [
+                {
+                    "a": "d"
+                },
+                {
+                    "d": "stadtbibliothek@wunstorf.de"
+                }
+            ],
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "stadtbibliothek@wunstorf.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "stadtbibliothek@wunstorf.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-1039",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-1039",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-1039",
+    "identifier": "DE-1039",
+    "name": "Stadtbibliothek Wunstorf",
+    "location": "Wunstorf",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NIE"
+}

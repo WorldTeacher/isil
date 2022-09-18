@@ -1,0 +1,209 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-2041.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:12-12-13"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:13-01-15"
+                ],
+                {
+                    "t": "17:03:34.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:12-12-13"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1045355666"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "GF521"
+                },
+                {
+                    "d": "2041"
+                },
+                {
+                    "e": "DE-2041"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.gemmingen.eu/de/bildung-soziales/buecherei.html"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://www.eopac.de/medien/start.php?SN=BGX430215&dclp=ce1c179c8c4e0b1d6b413d7f94c7418c"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Gemmingen StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "B\u00fccherei Gemmingen"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Bahnhofstr. 41"
+                },
+                {
+                    "b": "Gemmingen"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "75050"
+                },
+                {
+                    "f": "Baden-W\u00fcrttemberg"
+                },
+                {
+                    "i": "Di-Mi 15.00-18.00, Mi 10.00-12.00, Do 16.00-19.00, 2. So im  Monat 15.00-18.00"
+                },
+                {
+                    "k": "8.98115"
+                },
+                {
+                    "l": "49.15510"
+                },
+                {
+                    "n": "08125034"
+                },
+                {
+                    "o": "nicht barrierefrei"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "7267"
+                },
+                {
+                    "f": "91 14 59"
+                },
+                {
+                    "k": "buecherei-gemmingen@gmx.net"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "06"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "SWB"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-2041",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-2041",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-2041",
+    "identifier": "DE-2041",
+    "name": "B\u00fccherei Gemmingen",
+    "location": "Gemmingen",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAW"
+}

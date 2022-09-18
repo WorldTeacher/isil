@@ -1,0 +1,271 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-B1545.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:15-04-03"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:22-11-16"
+                ],
+                {
+                    "t": "18:16:23.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "024553271"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "d": "B 1545"
+                },
+                {
+                    "e": "DE-B1545"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.badv.bund.de"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "BADV"
+                },
+                {
+                    "4": "a"
+                }
+            ],
+            [
+                {
+                    "a": "Berlin BADV"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Bundesamt f\u00fcr zentrale Dienste und offene Verm\u00f6gensfragen, Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "DGZ-Ring 12"
+                },
+                {
+                    "b": "Berlin"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "13086"
+                },
+                {
+                    "f": "Berlin"
+                },
+                {
+                    "i": "Mo 9.00-14.30, Di-Do 9.00-15.00, Fr 9.00-13.00"
+                },
+                {
+                    "k": "13.44096"
+                },
+                {
+                    "l": "52.55899"
+                },
+                {
+                    "n": "11000000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "a": "BADV"
+                },
+                {
+                    "b": "Berlin"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "11055"
+                },
+                {
+                    "f": "Berlin"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "30"
+                },
+                {
+                    "f": "9 16 08-1636"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "30"
+                },
+                {
+                    "i": "9 16 08-1140"
+                },
+                {
+                    "k": "Bibliothek@badv.bund.de"
+                }
+            ],
+            [
+                {
+                    "a": "W"
+                },
+                {
+                    "b": "Weitere Telefonnummer"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "1888"
+                },
+                {
+                    "f": "7030-1636"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "1888"
+                },
+                {
+                    "i": "7030-1140"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "01"
+                },
+                {
+                    "h": "02"
+                },
+                {
+                    "i": "P"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Verm\u00f6gensrecht"
+                },
+                {
+                    "a": "Aktienrecht"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BER"
+                },
+                {
+                    "d": "BIV"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-B1545",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-B1545",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-B1545",
+    "identifier": "DE-B1545",
+    "name": "Bundesamt f\u00fcr zentrale Dienste und offene Verm\u00f6gensfragen, Bibliothek",
+    "location": "Berlin",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BER"
+}

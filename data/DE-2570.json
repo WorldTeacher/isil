@@ -1,0 +1,216 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-2570.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:18-01-18"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:16-08-22"
+                ],
+                {
+                    "t": "07:36:01.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:18-01-18"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1150857846"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "FU840"
+                },
+                {
+                    "d": "2570"
+                },
+                {
+                    "e": "DE-2570"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.buecherei-furth.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://furth.findus-internet-opac.de/cgi-bin/findus.fcgi.pl?customer=furth"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "B\u00fccherei Furth"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Klosterstr. 9"
+                },
+                {
+                    "b": "Furth/Niederbayern"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "84095"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "i": "Mo 16.00-18.00, Do 16.00-19.00"
+                },
+                {
+                    "j": "Sonder\u00f6ffnung am Di 8.00-12.00 (alle 3 Wochen)"
+                },
+                {
+                    "k": "12.02599"
+                },
+                {
+                    "l": "48.59205"
+                },
+                {
+                    "n": "09274132"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "8704"
+                },
+                {
+                    "f": "92 78 60"
+                },
+                {
+                    "k": "bibliothek@furth.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAY"
+                },
+                {
+                    "c": "BVB"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "b"
+                },
+                {
+                    "d": "bibliothek@furth.de"
+                }
+            ],
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "bibliothek@furth.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "bibliothek@furth.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-2570",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-2570",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-2570",
+    "identifier": "DE-2570",
+    "name": "B\u00fccherei Furth",
+    "location": "Furth/Niederbayern",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAY"
+}

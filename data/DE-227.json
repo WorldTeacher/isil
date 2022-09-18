@@ -1,0 +1,239 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-227.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:30-11-18"
+                ],
+                {
+                    "t": "15:37:16.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "02058329X"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "528227-5"
+                },
+                {
+                    "b": "AJ227"
+                },
+                {
+                    "d": "227"
+                },
+                {
+                    "e": "DE-227"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.gummersbach.de/buecherei.html"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Gummersbach KrsuStB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Kreis- und Stadtb\u00fccherei Gummersbach"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Moltkestr. 43"
+                },
+                {
+                    "b": "Gummersbach"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "51643"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "i": "Mo-Di und Do-Fr 10.00-13.30 und 14.30-18.00"
+                },
+                {
+                    "k": "7.56980"
+                },
+                {
+                    "l": "51.03026"
+                },
+                {
+                    "n": "05374012"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "2261"
+                },
+                {
+                    "f": "2 39 00"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "2261"
+                },
+                {
+                    "i": "6 43 84"
+                },
+                {
+                    "k": "buecherei@gummersbach.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0126"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "07"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "b"
+                },
+                {
+                    "d": "buecherei@gummersbach.de"
+                }
+            ],
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "buecherei@gummersbach.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "buecherei@gummersbach.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-227",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-227",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-227",
+    "identifier": "DE-227",
+    "name": "Kreis- und Stadtb\u00fccherei Gummersbach",
+    "location": "Gummersbach",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NRW"
+}

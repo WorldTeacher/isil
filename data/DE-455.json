@@ -1,0 +1,290 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-455.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:09-01-19"
+                ],
+                {
+                    "t": "14:06:05.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020584288"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "238455-3"
+                },
+                {
+                    "b": "XY298"
+                },
+                {
+                    "d": "455"
+                },
+                {
+                    "e": "DE-455"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.bz-sh.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://leb-flensburg.lmscloud.net/"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "LEB"
+                },
+                {
+                    "4": "a"
+                }
+            ],
+            [
+                {
+                    "a": "Flensburg LVuErgB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Leihverkehrs- und Erg\u00e4nzungsbibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Waitzstr. 5"
+                },
+                {
+                    "b": "Flensburg"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "24937"
+                },
+                {
+                    "f": "Schleswig-Holstein"
+                },
+                {
+                    "j": "Nutzung der historischen Best\u00e4nde nach Terminvereinbarung"
+                },
+                {
+                    "k": "9.44135"
+                },
+                {
+                    "l": "54.78056"
+                },
+                {
+                    "n": "01001000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Flensburg"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "24903"
+                },
+                {
+                    "f": "Schleswig-Holstein"
+                },
+                {
+                    "g": "13 61"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "461"
+                },
+                {
+                    "f": "86 06-200"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "461"
+                },
+                {
+                    "i": "86 06-220"
+                },
+                {
+                    "k": "leihverkehrsbibliothek@bz-sh.de"
+                },
+                {
+                    "l": "Telefonische Service-Zeiten: Mo-Do 8.00-17.00, Fr 8.00-15.00"
+                }
+            ]
+        ],
+        "035D": [
+            [
+                {
+                    "a": "Fl 2"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0214"
+                },
+                {
+                    "d": "GBV"
+                },
+                {
+                    "f": "36"
+                },
+                {
+                    "g": "06"
+                },
+                {
+                    "h": "08"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "HAM"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "GBV"
+                },
+                {
+                    "d": "BZSH"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035O": [
+            [
+                {
+                    "a": "FZL DE-622"
+                }
+            ]
+        ],
+        "047A": [
+            [
+                {
+                    "a": "Die Medienbest\u00e4nde der LEB sind nur im Leihverkehr verf\u00fcgbar!"
+                }
+            ],
+            [
+                {
+                    "a": "Die historischen Altbest\u00e4nde k\u00f6nnen nach Terminvereinbarung im Lesesaal eingesehen werden."
+                }
+            ]
+        ]
+    },
+    "_id": "DE-455",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-455",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-455",
+    "identifier": "DE-455",
+    "name": "Leihverkehrs- und Erg\u00e4nzungsbibliothek",
+    "location": "Flensburg",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "HAM"
+}

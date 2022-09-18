@@ -1,0 +1,274 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-945.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:18-11-99"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:01-09-22"
+                ],
+                {
+                    "t": "15:23:21.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "009062777"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "881045-X"
+                },
+                {
+                    "d": "945"
+                },
+                {
+                    "e": "DE-945"
+                },
+                {
+                    "f": "UBE"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.ku.de/Bibliothek/"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://opac.ku.de/"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Ingolstadt UB Eichst\u00e4tt/Wirt."
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Universit\u00e4tsbibliothek Eichst\u00e4tt-Ingolstadt, Wirtschaftswissenschaftliche Zweigbibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Auf der Schanz 49"
+                },
+                {
+                    "b": "Ingolstadt"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "85049"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "i": "siehe Homepage"
+                },
+                {
+                    "k": "11.41603"
+                },
+                {
+                    "l": "48.76565"
+                },
+                {
+                    "n": "09161000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "841"
+                },
+                {
+                    "f": "9 37-21809 und 93-21809"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "841"
+                },
+                {
+                    "i": "9 37-21950"
+                },
+                {
+                    "k": "ub-wfi@ku.de"
+                }
+            ],
+            [
+                {
+                    "a": "W"
+                },
+                {
+                    "b": "Fernleihe"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "k": "ub-wfi-fernleihe@ku.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0095"
+                },
+                {
+                    "d": "BVB"
+                },
+                {
+                    "f": "65"
+                },
+                {
+                    "g": "07"
+                },
+                {
+                    "h": "08"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAY"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "BVB"
+                },
+                {
+                    "d": "Kalliope"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "ub-wfi-fernleihe@ku-eichstaett.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "ub-wfi-fernleihe@ku-eichstaett.de"
+                }
+            ]
+        ],
+        "035O": [
+            [
+                {
+                    "a": "ISIL DE-824"
+                }
+            ],
+            [
+                {
+                    "a": "ISIL DE-824; FZL DE-619"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-945",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-945",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-945",
+    "identifier": "DE-945",
+    "name": "Universit\u00e4tsbibliothek Eichst\u00e4tt-Ingolstadt, Wirtschaftswissenschaftliche Zweigbibliothek",
+    "location": "Ingolstadt",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAY"
+}

@@ -1,0 +1,242 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-He203.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:18-11-99"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:22-02-21"
+                ],
+                {
+                    "t": "15:50:41.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "009017178"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "698203-7"
+                },
+                {
+                    "d": "He 203"
+                },
+                {
+                    "e": "DE-He203"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.deutsches-rechtswoerterbuch.de/"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Heidelberger Akademie der Wissenschaften"
+                },
+                {
+                    "4": "a"
+                }
+            ],
+            [
+                {
+                    "a": "DRW"
+                },
+                {
+                    "4": "b"
+                }
+            ],
+            [
+                {
+                    "a": "Heidelberg Dt Rechtsw\u00f6rterb"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Deutsches Rechtsw\u00f6rterbuch, Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Karlstr. 4"
+                },
+                {
+                    "b": "Heidelberg"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "69117"
+                },
+                {
+                    "f": "Baden-W\u00fcrttemberg"
+                },
+                {
+                    "k": "8.71295"
+                },
+                {
+                    "l": "49.41194"
+                },
+                {
+                    "n": "08221000"
+                },
+                {
+                    "o": "nicht barrierefrei"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "6221"
+                },
+                {
+                    "f": "54-3271"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "6221"
+                },
+                {
+                    "i": "54-3369"
+                },
+                {
+                    "k": "drw-bibliothek@hadw-bw.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0023"
+                },
+                {
+                    "d": "SWB"
+                },
+                {
+                    "f": "65"
+                },
+                {
+                    "g": "02"
+                },
+                {
+                    "h": "05"
+                },
+                {
+                    "i": "P"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Rechtsgeschichte"
+                },
+                {
+                    "a": "Sprachgeschichte <Germanistik>"
+                },
+                {
+                    "a": "Kulturgeschichte <Mittelalter, Fr\u00fche Neuzeit>"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAW"
+                },
+                {
+                    "c": "SWB"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-He203",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-He203",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-He203",
+    "identifier": "DE-He203",
+    "name": "Deutsches Rechtsw\u00f6rterbuch, Bibliothek",
+    "location": "Heidelberg",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAW"
+}

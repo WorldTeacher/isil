@@ -1,0 +1,239 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-1481.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:03-12-07"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:17-02-16"
+                ],
+                {
+                    "t": "13:29:26.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:03-12-07"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "986672858"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "JA947"
+                },
+                {
+                    "d": "1481"
+                },
+                {
+                    "e": "DE-1481"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.leutershausen.de/verzeichnis/visitenkarte.php?mandat=137873"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://webopac.winbiap.de/leutershausen/index.aspx%zB"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Leutershausen StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtbibliothek Leutershausen"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Am Ochsenhof 3"
+                },
+                {
+                    "b": "Leutershausen"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "91578"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "h": "Kulturhaus"
+                },
+                {
+                    "i": "Mo, Mi und Fr 15.00-17.00, Di 10.30-13.30, Do 15.00-20.00, Sa 9.00-12.00"
+                },
+                {
+                    "k": "10.41499"
+                },
+                {
+                    "l": "49.29930"
+                },
+                {
+                    "n": "09571174"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "a": "Am Markt 1/3"
+                },
+                {
+                    "b": "Leutershausen"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "91578"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "9823"
+                },
+                {
+                    "f": "9 51-0"
+                },
+                {
+                    "k": "stadtbibliothek@leutershausen.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "06"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAY"
+                },
+                {
+                    "c": "BVB"
+                },
+                {
+                    "d": "MILKAN"
+                },
+                {
+                    "e": "n"
+                },
+                {
+                    "g": "R"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "stadtbibliothek@leutershausen.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-1481",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-1481",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-1481",
+    "identifier": "DE-1481",
+    "name": "Stadtbibliothek Leutershausen",
+    "location": "Leutershausen",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAY"
+}

@@ -1,0 +1,269 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-H366.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:27-01-05"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:25-02-20"
+                ],
+                {
+                    "t": "16:27:58.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:27-05-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "027011011"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "208366-8"
+                },
+                {
+                    "d": "H 366"
+                },
+                {
+                    "e": "DE-H366"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.kz-gedenkstaette-neuengamme.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://kataloge.uni-hamburg.de/DB=3.9/LNG=DU/"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Hamburg KZ-Gedenkst.Neuengamme"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "KZ-Gedenkst\u00e4tte Neuengamme, Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Jean-Dolidier-Weg 75"
+                },
+                {
+                    "b": "Hamburg"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "21039"
+                },
+                {
+                    "f": "Hamburg"
+                },
+                {
+                    "i": "Mo-Do 10.00-15.00, Fr 10.00-13.00"
+                },
+                {
+                    "j": "und nach Vereinbarung"
+                },
+                {
+                    "k": "10.22759"
+                },
+                {
+                    "l": "53.42841"
+                },
+                {
+                    "n": "02000000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "40"
+                },
+                {
+                    "f": "42 81 31-500"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "40"
+                },
+                {
+                    "i": "42 81 31-501"
+                },
+                {
+                    "k": "neuengamme@gedenkstaetten.hamburg.de"
+                }
+            ],
+            [
+                {
+                    "a": "W"
+                },
+                {
+                    "b": "Bibliothek direkt"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "40"
+                },
+                {
+                    "f": "4 28 131 51 13"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0025"
+                },
+                {
+                    "e": "GBV"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "02"
+                },
+                {
+                    "h": "06"
+                },
+                {
+                    "i": "P"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "KZ Neuengamme und Au\u00dfenlager"
+                },
+                {
+                    "a": "Widerstand und nationalsozialistische Verfolgung in Norddeutschland"
+                },
+                {
+                    "a": "Nachkriegspolitik und Vergangenheitspolitik"
+                },
+                {
+                    "a": "System der Konzentrationslager, R\u00fcstung und Zwangsarbeit"
+                },
+                {
+                    "a": "Gedenkst\u00e4ttenp\u00e4dagogik"
+                },
+                {
+                    "a": "Geschichtsdidaktik"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "HAM"
+                },
+                {
+                    "c": "GBV"
+                },
+                {
+                    "d": "AGGB"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-H366",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-H366",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-H366",
+    "identifier": "DE-H366",
+    "name": "KZ-Gedenkst\u00e4tte Neuengamme, Bibliothek",
+    "location": "Hamburg",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "HAM"
+}

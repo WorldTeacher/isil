@@ -1,0 +1,188 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-568.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:18-06-21"
+                ],
+                {
+                    "t": "14:11:20.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020585152"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "WL013"
+                },
+                {
+                    "d": "568"
+                },
+                {
+                    "e": "DE-568"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Zahna-Elster StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtbibliothek Zahna"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Burgstra\u00dfe 8"
+                },
+                {
+                    "b": "Zahna-Elster"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "06895"
+                },
+                {
+                    "f": "Sachsen-Anhalt"
+                },
+                {
+                    "i": "Mo 9.00-14.00, Di und Do-Fr 12.30-17.30"
+                },
+                {
+                    "k": "12.79000"
+                },
+                {
+                    "l": "51.90877"
+                },
+                {
+                    "n": "15091391"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "34924"
+                },
+                {
+                    "f": "2 04 61"
+                },
+                {
+                    "k": "stadtbibliothek.zahna@t-online.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "06"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "SAA"
+                },
+                {
+                    "c": "GBV"
+                },
+                {
+                    "d": "\u00d6VK"
+                },
+                {
+                    "e": "n"
+                },
+                {
+                    "g": "R"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-568",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-568",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-568",
+    "identifier": "DE-568",
+    "name": "Stadtbibliothek Zahna",
+    "location": "Zahna-Elster",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "SAA"
+}

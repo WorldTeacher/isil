@@ -1,0 +1,231 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-B1593.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:06-05-11"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:17-03-14"
+                ],
+                {
+                    "t": "14:14:28.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:06-05-11"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1011577070"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "181593-3"
+                },
+                {
+                    "d": "B 1593"
+                },
+                {
+                    "e": "DE-B1593"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.quadriga.eu/bibliothek/"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://www.quadriga.eu/bibliothek/online_katalog"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Berlin Quadriga HS"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Quadriga Hochschule Berlin, Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Werderscher Markt 13"
+                },
+                {
+                    "b": "Berlin"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "10117"
+                },
+                {
+                    "f": "Berlin"
+                },
+                {
+                    "i": "Mo-Fr 9.00-18.00"
+                },
+                {
+                    "j": "nicht \u00f6ffentlich zug\u00e4nglich"
+                },
+                {
+                    "k": "13.39733"
+                },
+                {
+                    "l": "52.51511"
+                },
+                {
+                    "n": "11000000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "30"
+                },
+                {
+                    "f": "44 72 94 15"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "30"
+                },
+                {
+                    "i": "44 72 93 00"
+                },
+                {
+                    "k": "bibliothek@quadriga.eu"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0302"
+                },
+                {
+                    "f": "70"
+                },
+                {
+                    "g": "08"
+                },
+                {
+                    "h": "04"
+                },
+                {
+                    "i": "P"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Kommunikationswissenschaft"
+                },
+                {
+                    "a": "Wirtschaftswissenschaft"
+                },
+                {
+                    "a": "Politikwissenschaft"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BER"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-B1593",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-B1593",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-B1593",
+    "identifier": "DE-B1593",
+    "name": "Quadriga Hochschule Berlin, Bibliothek",
+    "location": "Berlin",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BER"
+}

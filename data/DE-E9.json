@@ -1,0 +1,275 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-E9.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:28-11-18"
+                ],
+                {
+                    "t": "16:37:30.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020590652"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "MB451"
+                },
+                {
+                    "d": "E 9"
+                },
+                {
+                    "e": "DE-E9"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "https://www.bistum-essen.de/info/schule-bildung/medienforum/"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Essen Medienforum"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Medienforum des Bistums Essen, Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Zw\u00f6lfling 14"
+                },
+                {
+                    "b": "Essen"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "45127"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "i": "Di-Do 10.00-18.30, Fr 10.00-15.00"
+                },
+                {
+                    "k": "7.01424"
+                },
+                {
+                    "l": "51.45652"
+                },
+                {
+                    "n": "05113000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "201"
+                },
+                {
+                    "f": "22 04-442"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "201"
+                },
+                {
+                    "i": "22 04-272"
+                },
+                {
+                    "k": "medienforum@bistum-essen.de"
+                }
+            ]
+        ],
+        "035D": [
+            [
+                {
+                    "a": "773"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "10"
+                },
+                {
+                    "h": "08"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Theologie"
+                },
+                {
+                    "a": "Religionswissenschaft"
+                },
+                {
+                    "a": "Religionsp\u00e4dagogik"
+                },
+                {
+                    "a": "Philosophie"
+                },
+                {
+                    "a": "Soziologie"
+                },
+                {
+                    "a": "P\u00e4dagogik"
+                },
+                {
+                    "a": "Geschichte"
+                },
+                {
+                    "a": "Literatur"
+                },
+                {
+                    "a": "Kunst"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "e": "k"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "b"
+                },
+                {
+                    "d": "mediothek@bistum-essen.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "mediothek@bistum-essen.de"
+                }
+            ],
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "mediothek@bistum-essen.de"
+                }
+            ]
+        ],
+        "047A": [
+            [
+                {
+                    "a": "Historische Buchbest\u00e4nde: Besitz der Bibliothek des ehem. Duisburger Minonitenklosters; Bibliothek der ehem. Benediktinerabtei Werden (Leihgabe); Bibliothek des Historischen Vereins f\u00fcr das Gebiet des ehem. Stiftes Werden (Leihgabe)"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-E9",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-E9",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-E9",
+    "identifier": "DE-E9",
+    "name": "Medienforum des Bistums Essen, Bibliothek",
+    "location": "Essen",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NRW"
+}

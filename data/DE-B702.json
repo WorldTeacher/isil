@@ -1,0 +1,260 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-B702.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:18-11-99"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:11-05-22"
+                ],
+                {
+                    "t": "14:27:19.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:27-05-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "009002294"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "101261-7"
+                },
+                {
+                    "b": "GE012"
+                },
+                {
+                    "d": "B 702"
+                },
+                {
+                    "e": "DE-B702"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.stadtbibliothek-steglitz-zehlendorf.de/"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://www.voebb.de"
+                },
+                {
+                    "z": "B"
+                }
+            ],
+            [
+                {
+                    "u": "http://www.stadtbibliothek-steglitz-zehlendorf.de/benutzungsbedingungen.html"
+                },
+                {
+                    "x": "Nutzung"
+                },
+                {
+                    "z": "W"
+                }
+            ],
+            [
+                {
+                    "u": "http://www.stadtbibliothek-steglitz-zehlendorf.de/entgelte.html"
+                },
+                {
+                    "x": "Geb\u00fchren"
+                },
+                {
+                    "z": "W"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Berlin-Steglitz-Zehlendorf StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtbibliothek Steglitz-Zehlendorf, Ingeborg-Drewitz-Bibliothek, Bezirkszentralbibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Grunewaldstr. 3"
+                },
+                {
+                    "b": "Berlin"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "12165"
+                },
+                {
+                    "f": "Berlin"
+                },
+                {
+                    "k": "13.32016"
+                },
+                {
+                    "l": "52.45742"
+                },
+                {
+                    "n": "11000000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "30"
+                },
+                {
+                    "f": "9 02 99-2410"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "30"
+                },
+                {
+                    "i": "9 02 99-2415"
+                },
+                {
+                    "k": "info@stadtbibliothek-steglitz-zehlendorf.de"
+                }
+            ]
+        ],
+        "035D": [
+            [
+                {
+                    "a": "B 705"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0367"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "02"
+                },
+                {
+                    "h": "08"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Steglitz"
+                },
+                {
+                    "a": "Zehlendorf"
+                },
+                {
+                    "a": "Ingeborg Drewitz"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BER"
+                },
+                {
+                    "c": "KOBV"
+                },
+                {
+                    "d": "V\u00d6BB; Kalliope"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-B702",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-B702",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-B702",
+    "identifier": "DE-B702",
+    "name": "Stadtbibliothek Steglitz-Zehlendorf, Ingeborg-Drewitz-Bibliothek, Bezirkszentralbibliothek",
+    "location": "Berlin",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BER"
+}

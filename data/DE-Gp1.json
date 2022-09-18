@@ -1,0 +1,220 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Gp1.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:17-01-05"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:17-02-16"
+                ],
+                {
+                    "t": "14:10:55.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "026959011"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "818003-9"
+                },
+                {
+                    "d": "Gp 1"
+                },
+                {
+                    "e": "DE-Gp1"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.richard-strauss-institut.de"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Garmisch-Partenk. StraussInst"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Richard-Strauss-Institut, Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Schnitzschulstr. 19"
+                },
+                {
+                    "b": "Garmisch-Partenkirchen"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "82467"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "i": "Mo-Fr 10.00-16.00"
+                },
+                {
+                    "k": "11.10760"
+                },
+                {
+                    "l": "47.49308"
+                },
+                {
+                    "n": "09180117"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "8821"
+                },
+                {
+                    "f": "9 10-5950"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "8821"
+                },
+                {
+                    "i": "9 10-5960"
+                },
+                {
+                    "k": "rsi@gapa.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0161"
+                },
+                {
+                    "d": "BVB"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "04"
+                },
+                {
+                    "i": "P"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Richard-Strauss-Schrifttum"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAY"
+                },
+                {
+                    "c": "BVB"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Gp1",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Gp1",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Gp1",
+    "identifier": "DE-Gp1",
+    "name": "Richard-Strauss-Institut, Bibliothek",
+    "location": "Garmisch-Partenkirchen",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAY"
+}

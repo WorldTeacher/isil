@@ -1,0 +1,197 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Gnb1.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:09-05-11"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:29-10-12"
+                ],
+                {
+                    "t": "17:44:08.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:09-05-11"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1011625431"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "d": "Gnb 1"
+                },
+                {
+                    "e": "DE-Gnb1"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Glatfelter Bibliothek Gernsbach"
+                },
+                {
+                    "4": "a"
+                }
+            ],
+            [
+                {
+                    "a": "Gernsbach Glatfelter Bibl."
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Glatfelter Gernsbach GmbH & Co. KG, Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Hoerdener Str. 5"
+                },
+                {
+                    "b": "Gernsbach"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "76593"
+                },
+                {
+                    "f": "Baden-W\u00fcrttemberg"
+                },
+                {
+                    "k": "8.33852"
+                },
+                {
+                    "l": "48.77169"
+                },
+                {
+                    "n": "08216017"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "7224"
+                },
+                {
+                    "f": "6 64 93"
+                },
+                {
+                    "k": "bibliothek.gernsbach@glatfelter.com"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "08"
+                },
+                {
+                    "h": "03"
+                },
+                {
+                    "i": "P"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Papier"
+                },
+                {
+                    "a": "Papierherstellung"
+                },
+                {
+                    "a": "Spezialpapiere"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAW"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Gnb1",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Gnb1",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Gnb1",
+    "identifier": "DE-Gnb1",
+    "name": "Glatfelter Gernsbach GmbH & Co. KG, Bibliothek",
+    "location": "Gernsbach",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAW"
+}

@@ -1,0 +1,228 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-1294.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:05-06-07"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:20-03-18"
+                ],
+                {
+                    "t": "11:16:19.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:05-06-07"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "984509720"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "JN137"
+                },
+                {
+                    "d": "1294"
+                },
+                {
+                    "e": "DE-1294"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.forchheim.de/stadtbuecherei"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://www.forchheim.de/buch"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Forchheim StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtb\u00fccherei Forchheim"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Spitalstr. 3"
+                },
+                {
+                    "b": "Forchheim/Oberfranken"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "91301"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "i": "Mo-Di 10.00-18.00, Do-Fr 10.00-18.00, Sa 10.00-12.30"
+                },
+                {
+                    "k": "11.05808"
+                },
+                {
+                    "l": "49.72171"
+                },
+                {
+                    "n": "09474126"
+                },
+                {
+                    "o": "barrierefrei"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "09191"
+                },
+                {
+                    "f": "7 14-323 (Auskunft) und -325 (Fernleihe)"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "09191"
+                },
+                {
+                    "i": "34051-21"
+                },
+                {
+                    "k": "stadtbuecherei@forchheim.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "07"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAY"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "BVB"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "Stadtbuecherei@forchheim.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-1294",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-1294",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-1294",
+    "identifier": "DE-1294",
+    "name": "Stadtb\u00fccherei Forchheim",
+    "location": "Forchheim/Oberfranken",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAY"
+}

@@ -1,0 +1,243 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-H49.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:01-11-16"
+                ],
+                {
+                    "t": "09:02:12.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "02059187X"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "DB158"
+                },
+                {
+                    "d": "H 49"
+                },
+                {
+                    "e": "DE-H49"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.bibliotheca-johannei.de/"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://141.91.210.12:8060/alipac"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Bibliotheca Johannei"
+                },
+                {
+                    "4": "a"
+                }
+            ],
+            [
+                {
+                    "a": "Hamburg Johanneum HauptB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Gelehrtenschule des Johanneums, Bibliotheca Johannei"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Maria-Louisen-Str. 114"
+                },
+                {
+                    "b": "Hamburg"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "22301"
+                },
+                {
+                    "f": "Hamburg"
+                },
+                {
+                    "i": "Mo-Fr 8.00-16.30"
+                },
+                {
+                    "j": "nur an Schultagen ge\u00f6ffnet"
+                },
+                {
+                    "k": "10.00693"
+                },
+                {
+                    "l": "53.58975"
+                },
+                {
+                    "n": "02000000"
+                },
+                {
+                    "o": "nicht barrierefrei, 2. OG, Zugang nur \u00fcber Treppe"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "40"
+                },
+                {
+                    "f": "42 88 27-218"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "40"
+                },
+                {
+                    "i": "42 88 27-210"
+                },
+                {
+                    "k": "hauptbibliothek@johanneum-hamburg.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "36"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "07"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Hamburger Schul- und Kulturgeschichte"
+                },
+                {
+                    "a": "Edition lateinischer u. griechischer Autoren"
+                },
+                {
+                    "a": "Literatur <18.-20.Jh.>"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "HAM"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ],
+        "047A": [
+            [
+                {
+                    "a": "Schulbibliothek"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-H49",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-H49",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-H49",
+    "identifier": "DE-H49",
+    "name": "Gelehrtenschule des Johanneums, Bibliotheca Johannei",
+    "location": "Hamburg",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "HAM"
+}

@@ -1,0 +1,276 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Her2.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:02-12-20"
+                ],
+                {
+                    "t": "14:28:06.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020592604"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "638004-9"
+                },
+                {
+                    "b": "DB651"
+                },
+                {
+                    "d": "Her 2"
+                },
+                {
+                    "e": "DE-Her2"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.theologisches-seminar-herborn.de/"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Herborn Ev.-theol. Seminar"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Theologisches Seminar der Evangelischen Kirche in Hessen und Nassau, Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Kirchberg 11"
+                },
+                {
+                    "b": "Herborn"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "35745"
+                },
+                {
+                    "f": "Hessen"
+                },
+                {
+                    "h": "Schlo\u00df"
+                },
+                {
+                    "i": "Mo und Do 9.30-12.30 und 14.00-15.30, Di-Mi 9.30-12.30"
+                },
+                {
+                    "j": "und nach telefonischer Absprache"
+                },
+                {
+                    "k": "8.30117"
+                },
+                {
+                    "l": "50.68191"
+                },
+                {
+                    "n": "06532012"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "a": "Nassaustr. 36"
+                },
+                {
+                    "b": "Herborn"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "35745"
+                },
+                {
+                    "f": "Hessen"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "2772"
+                },
+                {
+                    "f": "4717-103 und -102"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "2772"
+                },
+                {
+                    "i": "4717-109"
+                },
+                {
+                    "k": "bibliothek@theologisches-seminar-herborn.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0024"
+                },
+                {
+                    "e": "HBV"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "09"
+                },
+                {
+                    "h": "07"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Theologie"
+                },
+                {
+                    "a": "Religionsp\u00e4dagogik"
+                },
+                {
+                    "a": "Seelsorge"
+                },
+                {
+                    "a": "Kybernetik"
+                },
+                {
+                    "a": "Gesangb\u00fccher"
+                },
+                {
+                    "a": "Nassovica"
+                },
+                {
+                    "a": "Homiletik"
+                },
+                {
+                    "a": "Liturgik"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "HES"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "HeBIS"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Her2",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Her2",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Her2",
+    "identifier": "DE-Her2",
+    "name": "Theologisches Seminar der Evangelischen Kirche in Hessen und Nassau, Bibliothek",
+    "location": "Herborn",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "HES"
+}

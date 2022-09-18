@@ -1,0 +1,225 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-1938.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:12-04-13"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:20-08-20"
+                ],
+                {
+                    "t": "10:04:15.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:12-04-13"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1033473758"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "DS668"
+                },
+                {
+                    "d": "1938"
+                },
+                {
+                    "e": "DE-1938"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.landgericht-hannover.niedersachsen.de/portal/live.php?navigation_id=13965&article_id=58767&_psmand=58"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://opac.tib.uni-hannover.de/DB=9.3/LNG=DU/"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Hannover Landgericht"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Landgericht Hannover, Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Volgersweg 65"
+                },
+                {
+                    "b": "Hannover"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "30175"
+                },
+                {
+                    "f": "Niedersachsen"
+                },
+                {
+                    "i": "Mo-Do 8.30-15.00, Fr 8.30-12.00"
+                },
+                {
+                    "j": "vor gesetzlichen Feiertagen: 8.30-12.00"
+                },
+                {
+                    "k": "9.74592"
+                },
+                {
+                    "l": "52.37782"
+                },
+                {
+                    "n": "03241001"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "511"
+                },
+                {
+                    "f": "3 47-3150"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "511"
+                },
+                {
+                    "i": "3 74-0860"
+                },
+                {
+                    "k": "LGH-bibliothek@justiz.niedersachsen.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "02"
+                },
+                {
+                    "h": "06"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Recht"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NIE"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "GBV"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-1938",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-1938",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-1938",
+    "identifier": "DE-1938",
+    "name": "Landgericht Hannover, Bibliothek",
+    "location": "Hannover",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NIE"
+}

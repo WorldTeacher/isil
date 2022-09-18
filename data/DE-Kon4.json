@@ -1,0 +1,259 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Kon4.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:18-11-99"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:24-09-21"
+                ],
+                {
+                    "t": "09:54:01.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "009035486"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "775100-X"
+                },
+                {
+                    "b": "BY163"
+                },
+                {
+                    "d": "Kon 4"
+                },
+                {
+                    "e": "DE-Kon4"
+                },
+                {
+                    "f": "FHKN"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.bibliothek.htwg-konstanz.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://bsz.ibs-bw.de/opac14"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Hochschulbibliothek der HTWG Konstanz"
+                },
+                {
+                    "4": "a"
+                }
+            ],
+            [
+                {
+                    "a": "Konstanz HTWG"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "HTWG Hochschule Konstanz Technik, Wirtschaft und Gestaltung, Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Alfred-Wachtel-Str. 8"
+                },
+                {
+                    "b": "Konstanz"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "78462"
+                },
+                {
+                    "f": "Baden-W\u00fcrttemberg"
+                },
+                {
+                    "i": "Mo-Do 9.00-22.00, Fr 9.00-19.00, Sa-So 10.00-19.00"
+                },
+                {
+                    "k": "9.17269"
+                },
+                {
+                    "l": "47.66723"
+                },
+                {
+                    "n": "08335043"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "7531"
+                },
+                {
+                    "f": "2 06-580"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "7531"
+                },
+                {
+                    "i": "2 06-587"
+                },
+                {
+                    "k": "bib-service@htwg-konstanz.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0128"
+                },
+                {
+                    "d": "SWB"
+                },
+                {
+                    "f": "70"
+                },
+                {
+                    "g": "02"
+                },
+                {
+                    "h": "07"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "SWB"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035O": [
+            [
+                {
+                    "a": "FZL DE-623"
+                }
+            ]
+        ],
+        "035Q": [
+            [
+                {
+                    "a": "j"
+                }
+            ]
+        ],
+        "047A": [
+            [
+                {
+                    "a": "DIN-Normen-Auslegestelle"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Kon4",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Kon4",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Kon4",
+    "identifier": "DE-Kon4",
+    "name": "HTWG Hochschule Konstanz Technik, Wirtschaft und Gestaltung, Bibliothek",
+    "location": "Konstanz",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAW"
+}

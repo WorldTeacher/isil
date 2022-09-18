@@ -1,0 +1,184 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-MUS-202211.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:06-01-12"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:12-10-20"
+                ],
+                {
+                    "t": "08:52:50.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:06-01-12"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1018565051"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "e": "DE-MUS-202211"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.museum-ludwig.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://www.museen-in-deutschland.de/singleview.php?muges=202211"
+                },
+                {
+                    "x": "Weitere Informationen"
+                },
+                {
+                    "z": "W"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Museum Ludwig"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Heinrich-B\u00f6ll-Platz"
+                },
+                {
+                    "b": "K\u00f6ln"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "50667"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "i": "Di-So 10.00-18.00"
+                },
+                {
+                    "k": "6.96001"
+                },
+                {
+                    "l": "50.94091"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "221"
+                },
+                {
+                    "f": "22 12 61 65"
+                },
+                {
+                    "k": "info@museum-ludwig.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "86"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "i": "P"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Fotografie"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "d": "Kalliope"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-MUS-202211",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-MUS-202211",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-MUS-202211",
+    "identifier": "DE-MUS-202211",
+    "name": "Museum Ludwig",
+    "location": "K\u00f6ln",
+    "type": [
+        "Organization",
+        "Museum"
+    ]
+}

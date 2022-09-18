@@ -1,0 +1,221 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-F144.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:13-10-16"
+                ],
+                {
+                    "t": "16:01:48.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020591071"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "BS785"
+                },
+                {
+                    "d": "F 144"
+                },
+                {
+                    "e": "DE-F144"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "https://olg-frankfurt-justiz.hessen.de/irj/OLG_Frankfurt_am_Main_Internet"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Frankfurt/M Oberlandesgericht"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Oberlandesgericht, Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Zeil 42"
+                },
+                {
+                    "b": "Frankfurt/Main"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "60313"
+                },
+                {
+                    "f": "Hessen"
+                },
+                {
+                    "i": "Mo-Do 8.00-15.45, Fr 8.00-14.15"
+                },
+                {
+                    "k": "8.69033"
+                },
+                {
+                    "l": "50.11498"
+                },
+                {
+                    "n": "06412000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Frankfurt/Main"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "60256"
+                },
+                {
+                    "f": "Hessen"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "69"
+                },
+                {
+                    "f": "13 67-2512 und -2460"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "69"
+                },
+                {
+                    "i": "13 67-8971"
+                },
+                {
+                    "k": "bibliothek@olg-frankfurt.justiz.hessen.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "02"
+                },
+                {
+                    "h": "07"
+                },
+                {
+                    "i": "P"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "HES"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-F144",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-F144",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-F144",
+    "identifier": "DE-F144",
+    "name": "Oberlandesgericht, Bibliothek",
+    "location": "Frankfurt/Main",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "HES"
+}

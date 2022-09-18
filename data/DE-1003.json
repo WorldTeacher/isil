@@ -1,0 +1,215 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-1003.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:17-02-16"
+                ],
+                {
+                    "t": "14:13:54.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020587546"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "KR697"
+                },
+                {
+                    "d": "1003"
+                },
+                {
+                    "e": "DE-1003"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.mediathek-neckarsulm.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://www.neckarsulm.info/webopac/index.asp?DB=W_BIBLIO"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Neckarsulm Mediathek"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Mediathek Neckarsulm"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Urbanstr. 12"
+                },
+                {
+                    "b": "Neckarsulm"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "74172"
+                },
+                {
+                    "f": "Baden-W\u00fcrttemberg"
+                },
+                {
+                    "i": "Di und Do 10.00-18.00, Mi 14.00-19.00, Fr 14.00-18.00, Sa 10.00-13.00"
+                },
+                {
+                    "k": "9.22263"
+                },
+                {
+                    "l": "49.19127"
+                },
+                {
+                    "n": "08125065"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "7132"
+                },
+                {
+                    "f": "35-270"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "7132"
+                },
+                {
+                    "i": "35-159"
+                },
+                {
+                    "k": "mediathek@neckarsulm.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "34"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "07"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "SWB"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-1003",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-1003",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-1003",
+    "identifier": "DE-1003",
+    "name": "Mediathek Neckarsulm",
+    "location": "Neckarsulm",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAW"
+}

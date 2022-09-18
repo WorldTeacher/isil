@@ -1,0 +1,259 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-360.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:01-06-21"
+                ],
+                {
+                    "t": "14:37:58.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:27-05-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020583702"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "AK360"
+                },
+                {
+                    "d": "360"
+                },
+                {
+                    "e": "DE-360"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.korbach.de/Stadtbuecherei"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://cloudopac.winbiap.de/korbach/index.aspx"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Korbach StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtb\u00fccherei Korbach"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Professor-K\u00fcmmell-Str. 14"
+                },
+                {
+                    "b": "Korbach"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "34497"
+                },
+                {
+                    "f": "Hessen"
+                },
+                {
+                    "i": "Di-Fr 11.00-18.00"
+                },
+                {
+                    "j": "w\u00e4hrend der hessischen Schulferien zeitweise geschlossen"
+                },
+                {
+                    "k": "8.87018"
+                },
+                {
+                    "l": "51.27260"
+                },
+                {
+                    "n": "06635015"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Korbach"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "34486"
+                },
+                {
+                    "f": "Hessen"
+                },
+                {
+                    "g": "16 60"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "5631"
+                },
+                {
+                    "f": "53-246"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "5631"
+                },
+                {
+                    "i": "53-309"
+                },
+                {
+                    "k": "stadtbuecherei@korbach.de"
+                }
+            ],
+            [
+                {
+                    "a": "R"
+                },
+                {
+                    "k": "rechnungen@korbach.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "06"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Korbach"
+                },
+                {
+                    "a": "Waldeck-Frankenberg <Landkreis>"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "HES"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "HeBIS"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-360",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-360",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-360",
+    "identifier": "DE-360",
+    "name": "Stadtb\u00fccherei Korbach",
+    "location": "Korbach",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "HES"
+}

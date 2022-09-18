@@ -1,0 +1,245 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Hs7.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:18-11-99"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:17-02-16"
+                ],
+                {
+                    "t": "13:40:07.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "009029311"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "EF224"
+                },
+                {
+                    "d": "Hs 7"
+                },
+                {
+                    "e": "DE-Hs7"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.ameos.eu"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://www.briseinfo.de"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Halberstadt St. Salvator"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "AMEOS Klinikum St. Salvator Halberstadt, Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Gleimstr. 5"
+                },
+                {
+                    "b": "Halberstadt"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "38820"
+                },
+                {
+                    "f": "Sachsen-Anhalt"
+                },
+                {
+                    "i": "Mo-Do 8.00-12.00 und 13.00-15.00, Fr 8.00-12.00"
+                },
+                {
+                    "k": "11.05432"
+                },
+                {
+                    "l": "51.90131"
+                },
+                {
+                    "n": "15085135"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Halberstadt"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "38805"
+                },
+                {
+                    "f": "Sachsen-Anhalt"
+                },
+                {
+                    "g": "15 20"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "3941"
+                },
+                {
+                    "f": "64-2246"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "3941"
+                },
+                {
+                    "i": "64-2211"
+                },
+                {
+                    "k": "baes.verw@ameos.halberstadt.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "08"
+                },
+                {
+                    "h": "05"
+                },
+                {
+                    "i": "P"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Medizin"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "SAA"
+                },
+                {
+                    "c": "GBV"
+                },
+                {
+                    "d": "BRISE"
+                },
+                {
+                    "e": "l"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Hs7",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Hs7",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Hs7",
+    "identifier": "DE-Hs7",
+    "name": "AMEOS Klinikum St. Salvator Halberstadt, Bibliothek",
+    "location": "Halberstadt",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "SAA"
+}

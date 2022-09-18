@@ -1,0 +1,276 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-L242.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:18-11-99"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:07-10-21"
+                ],
+                {
+                    "t": "14:47:22.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "009031774"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "EH063"
+                },
+                {
+                    "d": "L 242"
+                },
+                {
+                    "e": "DE-L242"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "https://www.hgb-leipzig.de/einrichtungen/bibliothek"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://katalog.hgb-leipzig.de/"
+                },
+                {
+                    "z": "B"
+                }
+            ],
+            [
+                {
+                    "u": "https://hgb.libero-is.de/libero/WebOpac.cls"
+                },
+                {
+                    "x": "OPAC"
+                },
+                {
+                    "z": "W"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Leipzig HS Grafik"
+                },
+                {
+                    "4": "c"
+                }
+            ],
+            [
+                {
+                    "a": "Academy of Fine Arts"
+                },
+                {
+                    "4": "d"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Hochschule f\u00fcr Grafik und Buchkunst, Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "W\u00e4chterstr. 11"
+                },
+                {
+                    "b": "Leipzig"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "04107"
+                },
+                {
+                    "f": "Sachsen"
+                },
+                {
+                    "i": "Di-Do 11.00-18.30 Uhr, Fr 11.00-16.00"
+                },
+                {
+                    "j": "in der vorlesungsfreien Zeit: Di-Do 11.00-17.00, Fr 11.00-15.00"
+                },
+                {
+                    "k": "12.36785"
+                },
+                {
+                    "l": "51.33334"
+                },
+                {
+                    "n": "14713000"
+                },
+                {
+                    "o": "nur bedingt"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Leipzig"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "04008"
+                },
+                {
+                    "f": "Sachsen"
+                },
+                {
+                    "g": "10 08 05"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "341"
+                },
+                {
+                    "f": "21 35-156"
+                },
+                {
+                    "k": "bibliothek@hgb-leipzig.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "70"
+                },
+                {
+                    "g": "02"
+                },
+                {
+                    "h": "07"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Buchgestaltung"
+                },
+                {
+                    "a": "Graphik"
+                },
+                {
+                    "a": "Malerei"
+                },
+                {
+                    "a": "Fotografie"
+                },
+                {
+                    "a": "Typografie"
+                },
+                {
+                    "a": "Medienkunst"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "SAX"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "SWB"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "f": "x"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-L242",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-L242",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-L242",
+    "identifier": "DE-L242",
+    "name": "Hochschule f\u00fcr Grafik und Buchkunst, Bibliothek",
+    "location": "Leipzig",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "SAX"
+}

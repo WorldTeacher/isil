@@ -1,0 +1,233 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-F219.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:06-03-18"
+                ],
+                {
+                    "t": "14:59:45.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020591225"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "608219-1"
+                },
+                {
+                    "b": "DL241"
+                },
+                {
+                    "d": "F 219"
+                },
+                {
+                    "e": "DE-F219"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.museumsbibliotheken.frankfurt.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://www.museumsbibliotheken.frankfurt.de"
+                },
+                {
+                    "z": "B"
+                }
+            ],
+            [
+                {
+                    "u": "http://www.dam-online.de/"
+                },
+                {
+                    "x": "weitere URL"
+                },
+                {
+                    "z": "W"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Frankfurt/M Architekturmuseum"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Deutsches Architekturmuseum, Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Hedderichstr. 108-110"
+                },
+                {
+                    "b": "Frankfurt/Main"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "60596"
+                },
+                {
+                    "f": "Hessen"
+                },
+                {
+                    "i": "Di-Do 13.00-17.00"
+                },
+                {
+                    "k": "8.68161"
+                },
+                {
+                    "l": "50.09846"
+                },
+                {
+                    "n": "06412000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "69"
+                },
+                {
+                    "f": "212-30827"
+                },
+                {
+                    "j": "413064"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0321"
+                },
+                {
+                    "d": "SWB"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "07"
+                },
+                {
+                    "h": "07"
+                },
+                {
+                    "i": "P"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Architektur <1900->"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "HES"
+                },
+                {
+                    "c": "SWB"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-F219",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-F219",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-F219",
+    "identifier": "DE-F219",
+    "name": "Deutsches Architekturmuseum, Bibliothek",
+    "location": "Frankfurt/Main",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "HES"
+}

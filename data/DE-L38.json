@@ -1,0 +1,261 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-L38.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:18-11-99"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:18-10-16"
+                ],
+                {
+                    "t": "09:36:40.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "009031227"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "958451-1"
+                },
+                {
+                    "b": "EG800"
+                },
+                {
+                    "d": "L 38"
+                },
+                {
+                    "e": "DE-L38"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.grassimuseum.de"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Leipzig Mus. Angewandte Kunst"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "GRASSI Museum f\u00fcr Angewandte Kunst Leipzig, Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Johannispl. 5-11"
+                },
+                {
+                    "b": "Leipzig"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "04103"
+                },
+                {
+                    "f": "Sachsen"
+                },
+                {
+                    "i": "Mi-Do 10.00-20.00"
+                },
+                {
+                    "k": "12.38717"
+                },
+                {
+                    "l": "51.33737"
+                },
+                {
+                    "n": "14713000"
+                },
+                {
+                    "o": "barrierefrei"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "a": "Stadt Leipzig"
+                },
+                {
+                    "b": "Leipzig"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "04092"
+                },
+                {
+                    "f": "Sachsen"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "341"
+                },
+                {
+                    "f": "22 29-109 und -110"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "341"
+                },
+                {
+                    "i": "22 29-200"
+                },
+                {
+                    "k": "grassimuseum@leipzig.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0101"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "06"
+                },
+                {
+                    "h": "07"
+                },
+                {
+                    "i": "P"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Architektur"
+                },
+                {
+                    "a": "Gartenkunst"
+                },
+                {
+                    "a": "Kost\u00fcmkunde"
+                },
+                {
+                    "a": "Kunsthandwerk"
+                },
+                {
+                    "a": "Kultur <Geschichte>"
+                },
+                {
+                    "a": "Angewandte Kunst <allgemein>"
+                },
+                {
+                    "a": "Design"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "SAX"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-L38",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-L38",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-L38",
+    "identifier": "DE-L38",
+    "name": "GRASSI Museum f\u00fcr Angewandte Kunst Leipzig, Bibliothek",
+    "location": "Leipzig",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "SAX"
+}

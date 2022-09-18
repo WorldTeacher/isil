@@ -1,0 +1,274 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Bed1.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:09-07-03"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:02-05-18"
+                ],
+                {
+                    "t": "18:11:29.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "024871532"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "AK721"
+                },
+                {
+                    "d": "Bed 1"
+                },
+                {
+                    "e": "DE-Bed1"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.moyland.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://okeanos-www.hbz-nrw.de/F?func=file&file_name=login&local_base=moyla"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Bedburg-Hau MusB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Museumsbibliothek der Stiftung Museum Schloss Moyland, Sammlung van der Grinten, Joseph Beuys Archiv des Landes Nordrhein-Westfalen"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Am Schloss 4"
+                },
+                {
+                    "b": "Bedburg-Hau"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "47551"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "i": "Mo-Do 9.00-16.30, Fr 9.00-12.30"
+                },
+                {
+                    "k": "6.23970"
+                },
+                {
+                    "l": "51.75480"
+                },
+                {
+                    "n": "05154004"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Bedburg-Hau"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "47548"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "g": "12 59"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "2824"
+                },
+                {
+                    "f": "95 10-29"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "2824"
+                },
+                {
+                    "i": "95 10-98"
+                },
+                {
+                    "k": "Bibliothek@Moyland.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "02"
+                },
+                {
+                    "h": "07"
+                },
+                {
+                    "i": "P"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Kunstgeschichte"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "HBZ"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "b"
+                },
+                {
+                    "d": "Bibliothek@Moyland.de"
+                }
+            ],
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "Bibliothek@Moyland.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "Bibliothek@Moyland.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Bed1",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Bed1",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Bed1",
+    "identifier": "DE-Bed1",
+    "name": "Museumsbibliothek der Stiftung Museum Schloss Moyland, Sammlung van der Grinten, Joseph Beuys Archiv des Landes Nordrhein-Westfalen",
+    "location": "Bedburg-Hau",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NRW"
+}

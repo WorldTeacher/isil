@@ -1,0 +1,228 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-210A.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:18-02-10"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:31-08-17"
+                ],
+                {
+                    "t": "15:19:21.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:18-02-10"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "100032060X"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "d": "210 A"
+                },
+                {
+                    "e": "DE-210A"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.deutsches-museum.de/archiv/"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "M\u00fcnchen Dt. Museum Archiv"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Deutsches Museum, Archiv"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Museumsinsel 1"
+                },
+                {
+                    "b": "M\u00fcnchen"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "80538"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "i": "Mo-Fr 9.00-17.00"
+                },
+                {
+                    "j": "Feiertage geschlossen"
+                },
+                {
+                    "k": "11.58316"
+                },
+                {
+                    "l": "48.13032"
+                },
+                {
+                    "n": "09162000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "M\u00fcnchen"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "80306"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "89"
+                },
+                {
+                    "f": "21 79-220"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "89"
+                },
+                {
+                    "i": "21 79-465"
+                },
+                {
+                    "k": "archiv@deutsches-museum.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "58"
+                },
+                {
+                    "g": "07"
+                },
+                {
+                    "h": "10"
+                },
+                {
+                    "i": "P"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Wissenschafts- und Technikgeschichte"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAY"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-210A",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-210A",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-210A",
+    "identifier": "DE-210A",
+    "name": "Deutsches Museum, Archiv",
+    "location": "M\u00fcnchen",
+    "type": [
+        "Organization",
+        "Archive"
+    ],
+    "addressRegion": "BAY"
+}

@@ -1,0 +1,231 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-890.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:28-11-18"
+                ],
+                {
+                    "t": "16:38:02.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "02058668X"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "HL676"
+                },
+                {
+                    "d": "890"
+                },
+                {
+                    "e": "DE-890"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.stadtbibliothek-kierspe.de"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Kierspe StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtbibliothek Kierspe"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Otto-Ruhe-Str. 2/4"
+                },
+                {
+                    "b": "Kierspe"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "58566"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "i": "Di und Do 9.30-12.00 und 14.00-18.00, Mi und Fr 13.00-17.00, Sa 10.00-12.00"
+                },
+                {
+                    "k": "7.59481"
+                },
+                {
+                    "l": "51.12840"
+                },
+                {
+                    "n": "05962028"
+                },
+                {
+                    "o": "nicht barrierefrei"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "z": "Gesamtschule Kierspe"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "2359"
+                },
+                {
+                    "f": "6 61-251"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "2359"
+                },
+                {
+                    "i": "6 61-239"
+                },
+                {
+                    "k": "stadtbibliothek@kierspe.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "06"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "d": "HBZ-Digibib; Onleihe24"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "stadtbibliothek@kierspe.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "stadtbibliothek@kierspe.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-890",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-890",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-890",
+    "identifier": "DE-890",
+    "name": "Stadtbibliothek Kierspe",
+    "location": "Kierspe",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NRW"
+}

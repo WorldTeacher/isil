@@ -1,0 +1,206 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-106.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:18-11-99"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:12-04-21"
+                ],
+                {
+                    "t": "10:20:20.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "009030131"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "AE106"
+                },
+                {
+                    "d": "106"
+                },
+                {
+                    "e": "DE-106"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "https://www.bibo-dresden.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://katalog.bibo-dresden.de"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Dresden StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "St\u00e4dtische Bibliotheken Dresden"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Schlo\u00dfstr. 2 (Kulturpalast)"
+                },
+                {
+                    "b": "Dresden"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "01067"
+                },
+                {
+                    "f": "Sachsen"
+                },
+                {
+                    "i": "Mo-Sa 10.00-19.00"
+                },
+                {
+                    "k": "13.73830"
+                },
+                {
+                    "l": "51.05068"
+                },
+                {
+                    "n": "14612000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "351"
+                },
+                {
+                    "f": "86 48-101"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "351"
+                },
+                {
+                    "i": "86 48-102"
+                },
+                {
+                    "k": "mail@bibo-dresden.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "09"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "SAX"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-106",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-106",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-106",
+    "identifier": "DE-106",
+    "name": "St\u00e4dtische Bibliotheken Dresden",
+    "location": "Dresden",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "SAX"
+}

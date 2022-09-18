@@ -1,0 +1,249 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Goe170.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:23-01-06"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:14-03-16"
+                ],
+                {
+                    "t": "07:54:50.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:23-01-06"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "978201221"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "348170-0"
+                },
+                {
+                    "d": "G\u00f6 170"
+                },
+                {
+                    "e": "DE-Goe170"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.ifak-goettingen.de/index.php/bibliothek"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://www.archiv3.org"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "ifak"
+                },
+                {
+                    "4": "a"
+                }
+            ],
+            [
+                {
+                    "a": "G\u00f6ttingen ifak"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Institut f\u00fcr angewandte Kulturforschung e.V., Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Am Leinekanal 4"
+                },
+                {
+                    "b": "G\u00f6ttingen"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "37073"
+                },
+                {
+                    "f": "Niedersachsen"
+                },
+                {
+                    "i": "Mo-Fr 9.00-15.00"
+                },
+                {
+                    "k": "9.93219"
+                },
+                {
+                    "l": "51.53527"
+                },
+                {
+                    "n": "03152012"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "z": "im Entwicklungspolitischen Informationszentrum - epiz"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "551"
+                },
+                {
+                    "f": "48 71 41"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "551"
+                },
+                {
+                    "i": "48 71 43"
+                },
+                {
+                    "k": "ifak@comlink.org"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0164"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "08"
+                },
+                {
+                    "h": "03"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Umweltpolitik"
+                },
+                {
+                    "a": "Entwicklungspolitik"
+                },
+                {
+                    "a": "Bildung"
+                },
+                {
+                    "a": "Migration"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NIE"
+                },
+                {
+                    "d": "Archiv3"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ],
+        "047A": [
+            [
+                {
+                    "a": "Das ifak e.V. befindet sich im Entwicklungspolitischen Informationszentrum (epiz) und ist Tr\u00e4ger der Regionalen Bildungsstelle Nord von \"Bildung trifft Entwicklung\" (BTE). Bestellungen k\u00f6nnen sowohl online \u00fcber das Portal \"archiv3.org\" als auch vor Ort im Institut vorgenommen werden."
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Goe170",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Goe170",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Goe170",
+    "identifier": "DE-Goe170",
+    "name": "Institut f\u00fcr angewandte Kulturforschung e.V., Bibliothek",
+    "location": "G\u00f6ttingen",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NIE"
+}

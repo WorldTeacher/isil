@@ -1,0 +1,276 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-1105.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:20-08-20"
+                ],
+                {
+                    "t": "10:04:38.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020588429"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "548988-X"
+                },
+                {
+                    "b": "FE705"
+                },
+                {
+                    "d": "1105"
+                },
+                {
+                    "e": "DE-1105"
+                },
+                {
+                    "f": "HKRAC"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.hs-koblenz.de/rac/bibliothek/bibliothek-remagen/"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://bibopac2.rac.hs-koblenz.de/webOPACClient-Remagen/start.do"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Remagen RheinAhrCampus"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Hochschule Koblenz, RheinAhrCampus, Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Joseph-Rovan-Allee 2"
+                },
+                {
+                    "b": "Remagen"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "53424"
+                },
+                {
+                    "f": "Rheinland-Pfalz"
+                },
+                {
+                    "i": "Mo-Fr 8.00-18.00, Sa 9.00 - 13.00"
+                },
+                {
+                    "j": "Vorlesungsfreie Zeit: Mo-Do 9.00-16.00, Fr 9.00-13.00"
+                },
+                {
+                    "k": "7.25350"
+                },
+                {
+                    "l": "50.57240"
+                },
+                {
+                    "n": "07131070"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "2642"
+                },
+                {
+                    "f": "9 32-173 (Auskunft) und -433 (Fernleihe)"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "2642"
+                },
+                {
+                    "i": "9 32-171"
+                },
+                {
+                    "k": "fernleihe@rheinahrcampus.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0126"
+                },
+                {
+                    "d": "HBZ"
+                },
+                {
+                    "f": "70"
+                },
+                {
+                    "g": "02"
+                },
+                {
+                    "h": "07"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "HBZ"
+                },
+                {
+                    "e": "k"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035J": [
+            [
+                {
+                    "a": "B\u00fccher und andere Materialien au\u00dfer Zeitschriften werden auch r\u00fcckgabepflichtg in die Fernleihe gegeben"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "b"
+                },
+                {
+                    "d": "vormerkungen@rheinahrcampus.de"
+                }
+            ],
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "fernleihe@rheinahrcampus.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "fernleihe@rheinahrcampus.de"
+                }
+            ]
+        ],
+        "035O": [
+            [
+                {
+                    "a": "ISIL DE-929; FZL DE-621"
+                },
+                {
+                    "b": "CONTAINER"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-1105",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-1105",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-1105",
+    "identifier": "DE-1105",
+    "name": "Hochschule Koblenz, RheinAhrCampus, Bibliothek",
+    "location": "Remagen",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NRW"
+}

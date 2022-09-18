@@ -1,0 +1,247 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Hb4.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:18-12-06"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:21-02-18"
+                ],
+                {
+                    "t": "15:52:57.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:18-12-06"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "982422032"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "d": "Hb 4"
+                },
+                {
+                    "e": "DE-Hb4"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.kleist.org/"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://www.kleist-shop.de"
+                },
+                {
+                    "x": "weitere Service-URL"
+                },
+                {
+                    "z": "W"
+                }
+            ],
+            [
+                {
+                    "u": "http://www.das-k\u00e4thchen-von-heilbronn.de"
+                },
+                {
+                    "x": "weitere Service-URL"
+                },
+                {
+                    "z": "W"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Heilbronn Kleist-Arch.Sembdner"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Kleist-Archiv Sembdner"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Berliner Platz 12"
+                },
+                {
+                    "b": "Heilbronn"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "74072"
+                },
+                {
+                    "f": "Baden-W\u00fcrttemberg"
+                },
+                {
+                    "i": "Nach Vereinbarung"
+                },
+                {
+                    "k": "9.22100"
+                },
+                {
+                    "l": "49.14619"
+                },
+                {
+                    "n": "08121000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "7131"
+                },
+                {
+                    "f": "56-2668"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "7131"
+                },
+                {
+                    "i": "56-3699"
+                },
+                {
+                    "k": "kleist@kleist.org"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "59"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "07"
+                },
+                {
+                    "i": "P"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Heinrich von Kleist"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035K": [
+            [
+                {
+                    "b": "A"
+                }
+            ]
+        ],
+        "047A": [
+            [
+                {
+                    "a": "Teil-Bestandsnachweis siehe http://www.kleist.org/db/bestand.php. Achtung: Kein Bestandsnachweis f\u00fcr Monographien im KVK!!"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Hb4",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Hb4",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Hb4",
+    "identifier": "DE-Hb4",
+    "name": "Kleist-Archiv Sembdner",
+    "location": "Heilbronn",
+    "type": [
+        "Organization",
+        "Archive"
+    ],
+    "addressRegion": "BAW"
+}

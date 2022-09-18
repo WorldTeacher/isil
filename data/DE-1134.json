@@ -1,0 +1,253 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-1134.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:16-09-02"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:20-09-21"
+                ],
+                {
+                    "t": "12:52:56.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "023890169"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "KJ411"
+                },
+                {
+                    "d": "1134"
+                },
+                {
+                    "e": "DE-1134"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.buecherei-hesel.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://bibkataloge.de/hesel"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Hesel GB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Gemeindeb\u00fccherei Hesel"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Kirchstr. 28"
+                },
+                {
+                    "b": "Hesel"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "26835"
+                },
+                {
+                    "f": "Niedersachsen"
+                },
+                {
+                    "i": "Mo 15.00-17.00; Di 10.00-13.00 und 15.00-18.00, Do 10.00-13.00 und 15.00-19.00"
+                },
+                {
+                    "j": "w\u00e4hrend der nieders. Schulferien nur nachmittags ge\u00f6ffnet"
+                },
+                {
+                    "k": "7.58786"
+                },
+                {
+                    "l": "53.30663"
+                },
+                {
+                    "n": "03457010"
+                },
+                {
+                    "o": "barrierefrei"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "z": "in der Oberschule Kloster Barthe"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "4950"
+                },
+                {
+                    "f": "99 51 40"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "4950"
+                },
+                {
+                    "i": "99 51 41"
+                },
+                {
+                    "k": "buecherei@hesel.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "05"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NIE"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "GBV"
+                },
+                {
+                    "d": "\u00d6VK"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "b"
+                },
+                {
+                    "d": "buecherei@hesel.de"
+                }
+            ],
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "buecherei@hesel.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "buecherei@hesel.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-1134",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-1134",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-1134",
+    "identifier": "DE-1134",
+    "name": "Gemeindeb\u00fccherei Hesel",
+    "location": "Hesel",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NIE"
+}

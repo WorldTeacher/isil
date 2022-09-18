@@ -1,0 +1,201 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Bob1.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:03-03-06"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:29-03-16"
+                ],
+                {
+                    "t": "08:37:28.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:03-03-06"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "978795261"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "898012-3"
+                },
+                {
+                    "d": "Bob 1"
+                },
+                {
+                    "e": "DE-Bob1"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.stadt-bobingen.de/"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Bobingen Stadtarchiv"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtarchiv Bobingen"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Rathauspl. 1"
+                },
+                {
+                    "b": "Bobingen"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "86399"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "k": "10.84600"
+                },
+                {
+                    "l": "48.26780"
+                },
+                {
+                    "n": "09772125"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "8234"
+                },
+                {
+                    "f": "80 02-27"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "8234"
+                },
+                {
+                    "i": "80 02-9527"
+                },
+                {
+                    "k": "poststelle@bobingen.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0167"
+                },
+                {
+                    "f": "52"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "01"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAY"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Bob1",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Bob1",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Bob1",
+    "identifier": "DE-Bob1",
+    "name": "Stadtarchiv Bobingen",
+    "location": "Bobingen",
+    "type": [
+        "Organization",
+        "Archive"
+    ],
+    "addressRegion": "BAY"
+}

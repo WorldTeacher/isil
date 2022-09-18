@@ -1,0 +1,215 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Hil3-1.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:22-02-21"
+                ],
+                {
+                    "t": "15:40:06.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020592663"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "d": "Hil 3/1"
+                },
+                {
+                    "e": "DE-Hil3-1"
+                },
+                {
+                    "f": "HAWK"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.hawk-hhg.de/bibliothek/default.php"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://opac.lbs-hildesheim.gbv.de/DB=2.6/LNG=DU/"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "G\u00f6ttingen Bibliothek IG"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "HAWK Hochschule f\u00fcr angewandte Wissenschaft und Kunst Hildesheim/Holzminden/G\u00f6ttingen, Bibliothek Ingenieurwissenschaften und Gesundheit"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Von-Ossietzky-Str. 99"
+                },
+                {
+                    "b": "G\u00f6ttingen"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "37085"
+                },
+                {
+                    "f": "Niedersachsen"
+                },
+                {
+                    "i": "Mo-Mi 9.30-16.00, Do 9.30-17.00, Fr 9.30-13.00"
+                },
+                {
+                    "k": "9.96974"
+                },
+                {
+                    "l": "51.52173"
+                },
+                {
+                    "n": "03152012"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "551"
+                },
+                {
+                    "f": "37 05-156"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "551"
+                },
+                {
+                    "i": "37 05-157"
+                },
+                {
+                    "k": "Bibliothek-i.bib@hawk.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "73"
+                },
+                {
+                    "g": "02"
+                },
+                {
+                    "h": "06"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NIE"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "GBV"
+                },
+                {
+                    "e": "k"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Hil3-1",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Hil3-1",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Hil3-1",
+    "identifier": "DE-Hil3-1",
+    "name": "HAWK Hochschule f\u00fcr angewandte Wissenschaft und Kunst Hildesheim/Holzminden/G\u00f6ttingen, Bibliothek Ingenieurwissenschaften und Gesundheit",
+    "location": "G\u00f6ttingen",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NIE"
+}

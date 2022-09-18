@@ -1,0 +1,205 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-2908.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:18-09-20"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:22-09-20"
+                ],
+                {
+                    "t": "07:42:14.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:18-09-20"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1217866140"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "d": "2908"
+                },
+                {
+                    "e": "DE-2908"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "https://fitzlibutz.de"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Sammlung Fitzlibutz"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Unter dem Berg 11"
+                },
+                {
+                    "b": "Kaufbeuren"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "87600"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "i": "geschlossen"
+                },
+                {
+                    "j": "Einrichtungsphase; noch kein Publikumsverkehr"
+                },
+                {
+                    "k": "10.61780"
+                },
+                {
+                    "l": "47.88080"
+                },
+                {
+                    "n": "09762000"
+                },
+                {
+                    "o": "nicht barrierefrei"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "z": "Webergem\u00e4cher im Ensemble-, Aussen-  und Innenbereich gesch\u00fctzt unter Aktenzeichen Bayern D-7-62-000-216"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "k": "bibliothek@fitzlibutz.de"
+                },
+                {
+                    "l": "Alle Anfragen bitte per e-mail oder Post; telefonische Kontaktaufnahme kann nicht garantiert werden."
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "f": "59"
+                },
+                {
+                    "g": "12"
+                },
+                {
+                    "h": "01"
+                },
+                {
+                    "i": "P"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Geschichte der Weberei in Kaufbeuren"
+                },
+                {
+                    "a": "Geschichte der M\u00fchle Katzbrui in der Gemarkung Apfeltrach"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAY"
+                },
+                {
+                    "e": "n"
+                },
+                {
+                    "f": "x"
+                },
+                {
+                    "g": "R"
+                }
+            ]
+        ],
+        "047A": [
+            [
+                {
+                    "a": "Dokumente, B\u00fccher, Karten und Artefakte zu den Kaufbeurer Webergem\u00e4chern und der M\u00fchle Katzbrui"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-2908",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-2908",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-2908",
+    "identifier": "DE-2908",
+    "name": "Sammlung Fitzlibutz",
+    "location": "Kaufbeuren",
+    "type": [
+        "Organization",
+        "Archive"
+    ],
+    "addressRegion": "BAY"
+}

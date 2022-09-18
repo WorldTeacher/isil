@@ -1,0 +1,257 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Brg3-01.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:01-10-09"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:20-07-16"
+                ],
+                {
+                    "t": "10:59:11.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:01-10-09"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "997149620"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "938401-7"
+                },
+                {
+                    "d": "Brg 3/01"
+                },
+                {
+                    "e": "DE-Brg3-01"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.bibliothek.thh-friedensau.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://bibliothek.thh-friedensau.de/webopac/friedbib/kibib/"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "M\u00f6ckern FreikirchenB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Freikirchenbibliothek"
+                }
+            ]
+        ],
+        "029R": [
+            [
+                {
+                    "9": "009027971"
+                },
+                {
+                    "7": "Tw"
+                },
+                {
+                    "a": "Hochschulbibliothek Friedensau"
+                },
+                {
+                    "e": "DE-Brg3"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "c/o Hochschulbibliothek Friedensau, Ahornstr. 3"
+                },
+                {
+                    "b": "M\u00f6ckern"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "39291"
+                },
+                {
+                    "f": "Sachsen-Anhalt"
+                },
+                {
+                    "i": "Mo-Do 8.00-22.00, Fr, 8.00-13.00, So 9.00-22.00"
+                },
+                {
+                    "k": "11.98606"
+                },
+                {
+                    "l": "52.21165"
+                },
+                {
+                    "n": "15086140"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "z": "OT Friedensau"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "3921"
+                },
+                {
+                    "f": "9 16-135"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "3921"
+                },
+                {
+                    "i": "9 16-159 und -120"
+                },
+                {
+                    "k": "info.bib@thh-friedensau.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "c": "0111"
+                },
+                {
+                    "e": "GBV"
+                },
+                {
+                    "f": "73"
+                },
+                {
+                    "g": "07"
+                },
+                {
+                    "h": "04"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Theologie"
+                },
+                {
+                    "a": "Geschichte"
+                },
+                {
+                    "a": "Freikirchenforschung"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "SAA"
+                },
+                {
+                    "c": "GBV"
+                },
+                {
+                    "d": "VThK"
+                },
+                {
+                    "e": "k"
+                }
+            ]
+        ],
+        "047A": [
+            [
+                {
+                    "a": "Die Freikirchenbibliothek ist eine Einrichtung des Vereins f\u00fcr Freikirchenforschung und wurde im Jahr 2000 als Depositum an die Hochschulbibliothek Friedensau zur Verwaltung \u00fcbergeben (siehe http://bibliothek.thh-friedensau.de/Freikirchenbibliothek.23.0.html und http://www.freikirchenforschung.de)"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Brg3-01",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Brg3-01",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Brg3-01",
+    "identifier": "DE-Brg3-01",
+    "name": "Freikirchenbibliothek",
+    "location": "M\u00f6ckern",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "SAA"
+}

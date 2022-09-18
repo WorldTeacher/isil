@@ -1,0 +1,221 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-804.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:03-02-16"
+                ],
+                {
+                    "t": "14:09:28.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020585985"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "HQ001"
+                },
+                {
+                    "d": "804"
+                },
+                {
+                    "e": "DE-804"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.bibliothek-sundern.de/"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Sundern StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtbibliothek Sundern"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Settmeckestr. 3"
+                },
+                {
+                    "b": "Sundern"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "59846"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "i": "Mo-Mi 13.30-18.00; Do 9.00-11.00 und 13.30-18.00"
+                },
+                {
+                    "k": "8.00267"
+                },
+                {
+                    "l": "51.32584"
+                },
+                {
+                    "n": "05958044"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "2933"
+                },
+                {
+                    "f": "63 69"
+                },
+                {
+                    "k": "buecherei@stadt-sundern.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "06"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "b"
+                },
+                {
+                    "d": "buecherei@stadt-sundern.de"
+                }
+            ],
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "buecherei@stadt-sundern.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "buecherei@stadt-sundern.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-804",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-804",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-804",
+    "identifier": "DE-804",
+    "name": "Stadtbibliothek Sundern",
+    "location": "Sundern",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NRW"
+}

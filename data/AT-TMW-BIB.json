@@ -1,0 +1,200 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/AT-TMW-BIB.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:29-11-04"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:20-07-15"
+                ],
+                {
+                    "t": "15:00:43.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "026770873"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "030031-7"
+                },
+                {
+                    "c": "15.409.1200-0"
+                },
+                {
+                    "d": "AT-TMW-BIB"
+                },
+                {
+                    "e": "AT-TMW-BIB"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.tmw.at"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://webopac.technischesmuseum.at/index.asp?DB=OPAC"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Wien Techn. Mus."
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Technisches Museum Wien, Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Mariahilferstr. 212"
+                },
+                {
+                    "b": "Wien"
+                },
+                {
+                    "d": "AT"
+                },
+                {
+                    "e": "A-1140"
+                },
+                {
+                    "f": "\u00d6sterreich"
+                },
+                {
+                    "k": "16.31746"
+                },
+                {
+                    "l": "48.19090"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "43"
+                },
+                {
+                    "e": "1"
+                },
+                {
+                    "f": "8 99 98-2110"
+                },
+                {
+                    "g": "43"
+                },
+                {
+                    "h": "1"
+                },
+                {
+                    "i": "8 99 98-2111"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "c": "0157"
+                },
+                {
+                    "e": "\u00d6BV"
+                },
+                {
+                    "f": "81"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "WEU"
+                },
+                {
+                    "c": "\u00d6BV"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "AT-TMW-BIB",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/AT-TMW-BIB",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/AT-TMW-BIB",
+    "identifier": "AT-TMW-BIB",
+    "name": "Technisches Museum Wien, Bibliothek",
+    "location": "Wien",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "WEU"
+}

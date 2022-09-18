@@ -1,0 +1,180 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Gev1.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:22-02-10"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:12-05-22"
+                ],
+                {
+                    "t": "11:17:59.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:22-02-10"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1000365107"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "101264-2"
+                },
+                {
+                    "d": "Gev 1"
+                },
+                {
+                    "e": "DE-Gev1"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://gevelsberg.de/"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Gevelsberg Stadtarchiv"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtarchiv Gevelsberg"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Am Schultenhof 1"
+                },
+                {
+                    "b": "Gevelsberg"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "58265"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "k": "7.38088"
+                },
+                {
+                    "l": "51.33662"
+                },
+                {
+                    "n": "05954012"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "k": "stadtarchiv@stadtgevelsberg.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0367"
+                },
+                {
+                    "f": "52"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "01"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Gev1",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Gev1",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Gev1",
+    "identifier": "DE-Gev1",
+    "name": "Stadtarchiv Gevelsberg",
+    "location": "Gevelsberg",
+    "type": [
+        "Organization",
+        "Archive"
+    ],
+    "addressRegion": "NRW"
+}

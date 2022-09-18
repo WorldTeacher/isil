@@ -1,0 +1,207 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Hbk1.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:08-05-06"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:11-11-16"
+                ],
+                {
+                    "t": "13:42:20.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:08-05-06"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "979634989"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "858002-9"
+                },
+                {
+                    "d": "Hbk 1"
+                },
+                {
+                    "e": "DE-Hbk1"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.hersbruck.de/stadtinfo/stadtarchiv.php"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Hersbruck Stadtarchiv"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtarchiv Hersbruck"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Unterer Markt 1"
+                },
+                {
+                    "b": "Hersbruck"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "91217"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "i": "Do 8.30-12.30"
+                },
+                {
+                    "j": "und nach Vereinbarung"
+                },
+                {
+                    "k": "11.42938"
+                },
+                {
+                    "l": "49.50807"
+                },
+                {
+                    "n": "09574132"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "9151"
+                },
+                {
+                    "f": "7 35-171"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "9151"
+                },
+                {
+                    "i": "7 35-9171"
+                },
+                {
+                    "k": "archiv@hersbruck.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0167"
+                },
+                {
+                    "f": "52"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "01"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAY"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Hbk1",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Hbk1",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Hbk1",
+    "identifier": "DE-Hbk1",
+    "name": "Stadtarchiv Hersbruck",
+    "location": "Hersbruck",
+    "type": [
+        "Organization",
+        "Archive"
+    ],
+    "addressRegion": "BAY"
+}

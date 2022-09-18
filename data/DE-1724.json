@@ -1,0 +1,206 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-1724.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-01-08"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:02-05-18"
+                ],
+                {
+                    "t": "13:28:23.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:11-01-08"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "987118455"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "QJ153"
+                },
+                {
+                    "d": "1724"
+                },
+                {
+                    "e": "DE-1724"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Engelsberg Kath. Volksb\u00fccherei"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Katholische Volksb\u00fccherei Engelsberg"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Raiffeisenpl. 3"
+                },
+                {
+                    "b": "Engelsberg"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "84549"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "k": "12.54286"
+                },
+                {
+                    "l": "48.11628"
+                },
+                {
+                    "n": "09189115"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "a": "Bruck 5"
+                },
+                {
+                    "b": "Garching/Alz"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "84518"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "k": "fernleihe@st-michaelsbund.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "10"
+                },
+                {
+                    "h": "05"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAY"
+                },
+                {
+                    "c": "BVB"
+                },
+                {
+                    "e": "n"
+                },
+                {
+                    "g": "R"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "fernleihe@st-michaelsbund.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-1724",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-1724",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-1724",
+    "identifier": "DE-1724",
+    "name": "Katholische Volksb\u00fccherei Engelsberg",
+    "location": "Engelsberg",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAY"
+}

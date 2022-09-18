@@ -1,0 +1,253 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Due60.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:17-02-16"
+                ],
+                {
+                    "t": "14:17:27.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020590504"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "CT461"
+                },
+                {
+                    "d": "D\u00fc 60"
+                },
+                {
+                    "e": "DE-Due60"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "https://www.it.nrw.de/"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://bvlb.nrw.de/webopac/"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "IT.NRW, Bibliothek"
+                },
+                {
+                    "4": "a"
+                }
+            ],
+            [
+                {
+                    "a": "D\u00fcsseldorf IT.NRW"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Information und Technik Nordrhein-Westfalen, Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Mauerstr. 51"
+                },
+                {
+                    "b": "D\u00fcsseldorf"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "40476"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "i": "Mo-Fr 8.30-12.00 und 13.00-15.00"
+                },
+                {
+                    "k": "6.77816"
+                },
+                {
+                    "l": "51.24461"
+                },
+                {
+                    "n": "05111000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "D\u00fcsseldorf"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "40002"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "g": "10 11 05"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "211"
+                },
+                {
+                    "f": "94 49-2324"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "211"
+                },
+                {
+                    "i": "94 49-8019"
+                },
+                {
+                    "k": "bibliothek@it.nrw.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "02"
+                },
+                {
+                    "h": "08"
+                },
+                {
+                    "i": "P"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Statistik"
+                },
+                {
+                    "a": "Informationstechnik"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "d": "BVLBNRW"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Due60",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Due60",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Due60",
+    "identifier": "DE-Due60",
+    "name": "Information und Technik Nordrhein-Westfalen, Bibliothek",
+    "location": "D\u00fcsseldorf",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NRW"
+}

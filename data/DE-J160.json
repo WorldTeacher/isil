@@ -1,0 +1,189 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-J160.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:15-03-10"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:11-05-22"
+                ],
+                {
+                    "t": "12:53:37.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:15-03-10"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1000850161"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "101116-9"
+                },
+                {
+                    "d": "J 160"
+                },
+                {
+                    "e": "DE-J160"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.jena.de/de/267510"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Jena Stadtarchiv"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtarchiv Jena"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Am Anger 26"
+                },
+                {
+                    "b": "Jena"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "07743"
+                },
+                {
+                    "f": "Th\u00fcringen"
+                },
+                {
+                    "k": "11.59241"
+                },
+                {
+                    "l": "50.93118"
+                },
+                {
+                    "n": "16053000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "3641"
+                },
+                {
+                    "f": "49-2255"
+                },
+                {
+                    "k": "stadtarchiv@jena.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0367"
+                },
+                {
+                    "f": "52"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "01"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "THU"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-J160",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-J160",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-J160",
+    "identifier": "DE-J160",
+    "name": "Stadtarchiv Jena",
+    "location": "Jena",
+    "type": [
+        "Organization",
+        "Archive"
+    ],
+    "addressRegion": "THU"
+}

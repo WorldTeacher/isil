@@ -1,0 +1,228 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-B524.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:27-06-18"
+                ],
+                {
+                    "t": "11:44:28.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020588836"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "EC867"
+                },
+                {
+                    "d": "B 524"
+                },
+                {
+                    "e": "DE-B524"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www-zeuthen.desy.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://pubdb.desy.de/collection/ZELIB"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Zeuthen DESY-IfH"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "DESY Zeuthen, Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Platanenallee 6"
+                },
+                {
+                    "b": "Zeuthen"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "15738"
+                },
+                {
+                    "f": "Brandenburg"
+                },
+                {
+                    "i": "Mo-Do 8.00-16.00, Fr 8.00-14.00"
+                },
+                {
+                    "j": "f\u00fcr Mitarbeiter: 24 Std."
+                },
+                {
+                    "k": "13.63313"
+                },
+                {
+                    "l": "52.34538"
+                },
+                {
+                    "n": "12061572"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "33762"
+                },
+                {
+                    "f": "77-253"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "33762"
+                },
+                {
+                    "i": "77-330"
+                },
+                {
+                    "k": "library.zeuthen@desy.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "06"
+                },
+                {
+                    "h": "06"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Hochenergiephysik"
+                },
+                {
+                    "a": "Elementarteilchenphysik"
+                },
+                {
+                    "a": "Elektronik"
+                },
+                {
+                    "a": "Astrophysik"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BER"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-B524",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-B524",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-B524",
+    "identifier": "DE-B524",
+    "name": "DESY Zeuthen, Bibliothek",
+    "location": "Zeuthen",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BER"
+}

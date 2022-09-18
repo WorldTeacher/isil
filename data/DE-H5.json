@@ -1,0 +1,219 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-H5.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:28-01-16"
+                ],
+                {
+                    "t": "16:36:45.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:27-05-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020591802"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "CY260"
+                },
+                {
+                    "d": "H 5"
+                },
+                {
+                    "e": "DE-H5"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.statistik-nord.de"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Bibliothek"
+                },
+                {
+                    "4": "a"
+                }
+            ],
+            [
+                {
+                    "a": "Hamburg StaLA"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Statistisches Amt f\u00fcr Hamburg und Schleswig-Holstein, Standort Hamburg, Informationszentrum"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Steckelh\u00f6rn 12"
+                },
+                {
+                    "b": "Hamburg"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "20457"
+                },
+                {
+                    "f": "Hamburg"
+                },
+                {
+                    "i": "Mo-Do 9.00-15.30, Fr 9.00-14.00"
+                },
+                {
+                    "j": "und nach Vereinbarung"
+                },
+                {
+                    "k": "9.99294"
+                },
+                {
+                    "l": "53.54562"
+                },
+                {
+                    "n": "02000000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "40"
+                },
+                {
+                    "f": "4 28 31-1639"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "40"
+                },
+                {
+                    "i": "4 28 31-1333"
+                },
+                {
+                    "k": "bibliothek@statistik-nord.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "02"
+                },
+                {
+                    "h": "07"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Amtliche Statistik <Bundesl\u00e4nder, Deutschland, EU, St\u00e4dte>"
+                },
+                {
+                    "a": "Bev\u00f6lkerungswissenschaft"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "HAM"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-H5",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-H5",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-H5",
+    "identifier": "DE-H5",
+    "name": "Statistisches Amt f\u00fcr Hamburg und Schleswig-Holstein, Standort Hamburg, Informationszentrum",
+    "location": "Hamburg",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "HAM"
+}

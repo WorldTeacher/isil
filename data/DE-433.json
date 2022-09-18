@@ -1,0 +1,264 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-433.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:17-02-16"
+                ],
+                {
+                    "t": "14:02:15.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020584113"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "AF433"
+                },
+                {
+                    "d": "433"
+                },
+                {
+                    "e": "DE-433"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.haltern-am-see.de/Inhalte/Startseite/Sport_Kultur_Freizeit/Kultur/Stadtbuecherei/index.asp?seite=oe&id=361"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://www.Bibliotheken-im-KreisRe.de"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Haltern StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtb\u00fccherei Haltern am See"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Lavesumer Str. 1 g"
+                },
+                {
+                    "b": "Haltern am See"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "45721"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "i": "Di-Fr 9.00-12.30 und 14.30-18.00"
+                },
+                {
+                    "j": "jeden 1. Sa. im Monat 9.00-12.30"
+                },
+                {
+                    "k": "7.18169"
+                },
+                {
+                    "l": "51.74479"
+                },
+                {
+                    "n": "05562016"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Haltern am See"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "45712"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "g": "10 01 62"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "2364"
+                },
+                {
+                    "f": "9 33-176"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "2364"
+                },
+                {
+                    "i": "9 33-213"
+                },
+                {
+                    "k": "Fernleihe.Buecherei@haltern.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "07"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "b"
+                },
+                {
+                    "d": "fernleihe.buecherei@haltern.de"
+                }
+            ],
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "fernleihe.buecherei@haltern.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "fernleihe.buecherei@haltern.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-433",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-433",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-433",
+    "identifier": "DE-433",
+    "name": "Stadtb\u00fccherei Haltern am See",
+    "location": "Haltern am See",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NRW"
+}

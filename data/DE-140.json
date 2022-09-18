@@ -1,0 +1,285 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-140.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:18-11-99"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:18-06-20"
+                ],
+                {
+                    "t": "10:13:42.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "00903224X"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "945500-0"
+                },
+                {
+                    "b": "AG140"
+                },
+                {
+                    "d": "140"
+                },
+                {
+                    "e": "DE-140"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.biblio-gera.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://okat.gera.de/opax/de/qsim.html."
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Gera StuRegB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadt- und Regionalbibliothek Gera"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Puschkinpl. 7 a"
+                },
+                {
+                    "b": "Gera"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "07545"
+                },
+                {
+                    "f": "Th\u00fcringen"
+                },
+                {
+                    "i": "Mo 14.00-19.00, Di-Fr 10.00-19.00, Sa 10.00-13.00"
+                },
+                {
+                    "k": "12.07881"
+                },
+                {
+                    "l": "50.87871"
+                },
+                {
+                    "n": "16052000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Gera"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "07505"
+                },
+                {
+                    "f": "Th\u00fcringen"
+                },
+                {
+                    "g": "1552"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "365"
+                },
+                {
+                    "f": "8 38-3351"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "365"
+                },
+                {
+                    "i": "8 38-3355"
+                },
+                {
+                    "k": "bibliothek@gera.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0101"
+                },
+                {
+                    "d": "GBV"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "09"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Geschichte <Th\u00fcringen>"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "THU"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "GBV"
+                },
+                {
+                    "d": "\u00d6VK"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "fernleihe@biblio-gera.de"
+                }
+            ],
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "fernleihe@biblio-gera.de"
+                }
+            ]
+        ],
+        "035O": [
+            [
+                {
+                    "a": "FZL DE-622"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-140",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-140",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-140",
+    "identifier": "DE-140",
+    "name": "Stadt- und Regionalbibliothek Gera",
+    "location": "Gera",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "THU"
+}

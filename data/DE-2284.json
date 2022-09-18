@@ -1,0 +1,201 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-2284.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:24-02-15"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:19-02-18"
+                ],
+                {
+                    "t": "10:22:32.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:24-02-15"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1067474641"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "d": "2284"
+                },
+                {
+                    "e": "DE-2284"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "https://www.regensburger-katalog.de/InfoGuideClient.ubrsis/start.do?Login=igrfl"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Nabburg SchmellerGymnasium"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Johann-Andreas-Schmeller Gymnasium Nabburg, Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Eichenweg 3"
+                },
+                {
+                    "b": "Nabburg"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "92507"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "i": "Mo-Fr 8.00-11.30"
+                },
+                {
+                    "k": "12.17813"
+                },
+                {
+                    "l": "49.45027"
+                },
+                {
+                    "n": "09376144"
+                },
+                {
+                    "o": "barrierefrei"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "9433"
+                },
+                {
+                    "f": "20 48-0"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "9433"
+                },
+                {
+                    "i": "20 48-10"
+                },
+                {
+                    "k": "Bibliothek@gymnasium-nabburg.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "02"
+                },
+                {
+                    "h": "06"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAY"
+                },
+                {
+                    "e": "n"
+                },
+                {
+                    "g": "R"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-2284",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-2284",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-2284",
+    "identifier": "DE-2284",
+    "name": "Johann-Andreas-Schmeller Gymnasium Nabburg, Bibliothek",
+    "location": "Nabburg",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAY"
+}

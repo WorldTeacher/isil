@@ -1,0 +1,253 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-420.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:20-11-20"
+                ],
+                {
+                    "t": "15:54:22.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020584024"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "AC420"
+                },
+                {
+                    "d": "420"
+                },
+                {
+                    "e": "DE-420"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.buecherei-Lengerich.de"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Lengerich StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtb\u00fccherei Lengerich"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Rathausplatz 1"
+                },
+                {
+                    "b": "Lengerich/Westfalen"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "49525"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "i": "Di-Do 9.30-13.00 und 13.30-17.00, Fr 9.30-13.00, Sa 10.00-12.00"
+                },
+                {
+                    "k": "7.85174"
+                },
+                {
+                    "l": "52.18870"
+                },
+                {
+                    "n": "05566040"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Lengerich/Westfalen"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "49515"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "g": "15 40"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "5481"
+                },
+                {
+                    "f": "339120"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "5481"
+                },
+                {
+                    "i": "339119"
+                },
+                {
+                    "k": "buecherei@lengerich.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "06"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "b"
+                },
+                {
+                    "d": "buecherei@lengerich.de"
+                }
+            ],
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "buecherei@lengerich.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "buecherei@lengerich.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-420",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-420",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-420",
+    "identifier": "DE-420",
+    "name": "Stadtb\u00fccherei Lengerich",
+    "location": "Lengerich/Westfalen",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NRW"
+}

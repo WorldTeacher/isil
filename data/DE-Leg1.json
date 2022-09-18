@@ -1,0 +1,189 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Leg1.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:24-02-10"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:11-05-22"
+                ],
+                {
+                    "t": "13:03:31.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:24-02-10"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1000433781"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "101195-9"
+                },
+                {
+                    "d": "Leg 1"
+                },
+                {
+                    "e": "DE-Leg1"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "https://lengerich.bibliotheca-open.de/%C3%9Cberuns/Archiv.aspx"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Lengerich Stadtarchiv"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtarchiv Lengerich"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Rathausplatz 1"
+                },
+                {
+                    "b": "Lengerich/Westfalen"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "49525"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "h": "Kulturtreff im Alten Rathaus"
+                },
+                {
+                    "k": "7.85174"
+                },
+                {
+                    "l": "52.18871"
+                },
+                {
+                    "n": "05566040"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "5481"
+                },
+                {
+                    "f": "33 91 15"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0367"
+                },
+                {
+                    "f": "52"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "01"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Leg1",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Leg1",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Leg1",
+    "identifier": "DE-Leg1",
+    "name": "Stadtarchiv Lengerich",
+    "location": "Lengerich/Westfalen",
+    "type": [
+        "Organization",
+        "Archive"
+    ],
+    "addressRegion": "NRW"
+}

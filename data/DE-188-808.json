@@ -1,0 +1,282 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-188-808.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:18-11-99"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:22-02-21"
+                ],
+                {
+                    "t": "15:58:17.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "00900162X"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "120808-1"
+                },
+                {
+                    "d": "188/808"
+                },
+                {
+                    "e": "DE-188-808"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.jura.fu-berlin.de/bibliothek/"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://primo.fu-berlin.de/"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Berlin UBFU FB Rechtswiss."
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Freie Universit\u00e4t Berlin, Bibliothek des Fachbereichs Rechtswissenschaft"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Van't-Hoff-Str. 8"
+                },
+                {
+                    "b": "Berlin"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "14195"
+                },
+                {
+                    "f": "Berlin"
+                },
+                {
+                    "i": "Mo-Fr 8.00-22.00, Sa 9.00-20.00, So 12.00-20.00"
+                },
+                {
+                    "j": "an gesetzlichen Feiertagen geschlossen; Sonder\u00f6ffnungs- oder Schlie\u00dfzeiten s. Homepage"
+                },
+                {
+                    "k": "13.28329"
+                },
+                {
+                    "l": "52.44699"
+                },
+                {
+                    "n": "11000000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "30"
+                },
+                {
+                    "f": "8 38-52161"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "30"
+                },
+                {
+                    "i": "8 38-452161"
+                },
+                {
+                    "k": "auskunft.bibliothek@rewiss.fu-berlin.de"
+                },
+                {
+                    "l": "weitere E-Mailadresse: bibliothek@rewiss.fu-berlin.de"
+                }
+            ]
+        ],
+        "035D": [
+            [
+                {
+                    "a": "188/851"
+                }
+            ],
+            [
+                {
+                    "a": "188/808DR"
+                },
+                {
+                    "b": "DE-188-808DR"
+                }
+            ],
+            [
+                {
+                    "a": "188/808ER"
+                },
+                {
+                    "b": "DE-188-808ER"
+                }
+            ],
+            [
+                {
+                    "a": "188/808RR"
+                },
+                {
+                    "b": "DE-188-808RR"
+                }
+            ],
+            [
+                {
+                    "a": "188/889"
+                },
+                {
+                    "b": "DE-188-889"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "c": "0065"
+                },
+                {
+                    "d": "BVB"
+                },
+                {
+                    "f": "65"
+                },
+                {
+                    "g": "02"
+                },
+                {
+                    "h": "09"
+                },
+                {
+                    "k": "B 808"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Verwaltungsrecht"
+                },
+                {
+                    "a": "Staatswissenschaft"
+                },
+                {
+                    "a": "Strafrecht"
+                },
+                {
+                    "a": "\u00d6ffentliches Recht"
+                },
+                {
+                    "a": "B\u00fcrgerliches Recht"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BER"
+                },
+                {
+                    "c": "KOBV"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-188-808",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-188-808",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-188-808",
+    "identifier": "DE-188-808",
+    "name": "Freie Universit\u00e4t Berlin, Bibliothek des Fachbereichs Rechtswissenschaft",
+    "location": "Berlin",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BER"
+}

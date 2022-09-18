@@ -1,0 +1,235 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-1084.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:05-05-20"
+                ],
+                {
+                    "t": "09:51:30.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020588216"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "BE203"
+                },
+                {
+                    "d": "1084"
+                },
+                {
+                    "e": "DE-1084"
+                },
+                {
+                    "f": "FHKL"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "https://www.hs-kl.de/hochschule/servicestellen/bibliothek/"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://143.93.12.31/webopac/index.asp?DB=webhome"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Kaiserslautern HS"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Hochschule Kaiserslautern, Hochschulbibliothek, Standortbibliothek Kaiserslautern"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Morlauterer Str. 31"
+                },
+                {
+                    "b": "Kaiserslautern"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "67657"
+                },
+                {
+                    "f": "Rheinland-Pfalz"
+                },
+                {
+                    "i": "Mo-Do 8.30-18.00, Fr 8.30-15.00"
+                },
+                {
+                    "j": "w\u00e4hrend der Semesterferien: Mo-Do 8.30-12.00 und 13.00-15.00, Fr 8.30-13.00"
+                },
+                {
+                    "k": "7.76418"
+                },
+                {
+                    "l": "49.45109"
+                },
+                {
+                    "n": "07312000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "631"
+                },
+                {
+                    "f": "37 24-2131 und -2255 (Fernleihe)"
+                },
+                {
+                    "k": "bibliothek-kl@hs-kl.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "70"
+                },
+                {
+                    "g": "02"
+                },
+                {
+                    "h": "07"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "b"
+                },
+                {
+                    "d": "bibliothek-kl@hs-kl.de"
+                }
+            ],
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "bibliothek-kl@hs-kl.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "bibliothek-kl@hs-kl.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-1084",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-1084",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-1084",
+    "identifier": "DE-1084",
+    "name": "Hochschule Kaiserslautern, Hochschulbibliothek, Standortbibliothek Kaiserslautern",
+    "location": "Kaiserslautern",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NRW"
+}

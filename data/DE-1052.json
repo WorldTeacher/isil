@@ -1,0 +1,253 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-1052.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:09-02-01"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:31-08-22"
+                ],
+                {
+                    "t": "13:06:44.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "02138536X"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "858153-8"
+                },
+                {
+                    "b": "BL023"
+                },
+                {
+                    "d": "1052"
+                },
+                {
+                    "e": "DE-1052"
+                },
+                {
+                    "f": "EHS"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.evhn.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://opac.evhn.de/"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "N\u00fcrnberg Evang. HS"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Evangelische Hochschule N\u00fcrnberg, Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "B\u00e4renschanzstr. 4"
+                },
+                {
+                    "b": "N\u00fcrnberg"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "90429"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "j": "siehe Homepage"
+                },
+                {
+                    "k": "11.06026"
+                },
+                {
+                    "l": "49.45098"
+                },
+                {
+                    "n": "09564000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "911"
+                },
+                {
+                    "f": "2 72 53-750 (Infotheke) und -755 (Fernleihe)"
+                },
+                {
+                    "k": "bibliothek@evhn.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0035"
+                },
+                {
+                    "d": "BVB"
+                },
+                {
+                    "f": "70"
+                },
+                {
+                    "g": "09"
+                },
+                {
+                    "h": "08"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAY"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "BVB"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "pfl@evhn.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "afl@evhn.de"
+                }
+            ]
+        ],
+        "035O": [
+            [
+                {
+                    "a": "FZL DE-617"
+                }
+            ]
+        ],
+        "035Q": [
+            [
+                {
+                    "a": "j"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-1052",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-1052",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-1052",
+    "identifier": "DE-1052",
+    "name": "Evangelische Hochschule N\u00fcrnberg, Bibliothek",
+    "location": "N\u00fcrnberg",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAY"
+}

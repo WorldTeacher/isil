@@ -1,0 +1,191 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-509.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:05-05-22"
+                ],
+                {
+                    "t": "10:16:50.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020584628"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "AL509"
+                },
+                {
+                    "d": "509"
+                },
+                {
+                    "e": "DE-509"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Bad Belzig StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtbibliothek Bad Belzig"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Wittenberger Str. 14"
+                },
+                {
+                    "b": "Bad Belzig"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "14806"
+                },
+                {
+                    "f": "Brandenburg"
+                },
+                {
+                    "i": "Mi-Fr 13.00-17.00, Sa-So und Feiertags 10.00-17.00"
+                },
+                {
+                    "k": "12.58446"
+                },
+                {
+                    "l": "52.13722"
+                },
+                {
+                    "n": "12069020"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "33841"
+                },
+                {
+                    "f": "4 24 61"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "33841"
+                },
+                {
+                    "i": "4 50 03"
+                },
+                {
+                    "k": "info@bad-belzig.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "06"
+                },
+                {
+                    "h": "06"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BER"
+                },
+                {
+                    "c": "KOBV"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-509",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-509",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-509",
+    "identifier": "DE-509",
+    "name": "Stadtbibliothek Bad Belzig",
+    "location": "Bad Belzig",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BER"
+}

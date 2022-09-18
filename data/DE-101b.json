@@ -1,0 +1,280 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-101b.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:18-11-99"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:03-01-22"
+                ],
+                {
+                    "t": "14:28:49.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "009013849"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "600100-2"
+                },
+                {
+                    "b": "AG292"
+                },
+                {
+                    "d": "101b"
+                },
+                {
+                    "e": "DE-101b"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "https://www.dnb.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://portal.dnb.de"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Frankfurt/M DNB"
+                },
+                {
+                    "4": "a"
+                }
+            ],
+            [
+                {
+                    "a": "Frankfurt/M DNB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Deutsche Nationalbibliothek Frankfurt am Main"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Adickesallee 1"
+                },
+                {
+                    "b": "Frankfurt/Main"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "60322"
+                },
+                {
+                    "f": "Hessen"
+                },
+                {
+                    "i": "Mo-Fr 9.00-22.00, Sa 10.00-18.00"
+                },
+                {
+                    "k": "8.68314"
+                },
+                {
+                    "l": "50.13129"
+                },
+                {
+                    "n": "06412000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "69"
+                },
+                {
+                    "f": "15 25-2500"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "69"
+                },
+                {
+                    "i": "15 25-1010"
+                },
+                {
+                    "k": "info-f@dnb.de"
+                }
+            ],
+            [
+                {
+                    "a": "W"
+                },
+                {
+                    "b": "Fernleihe"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "341"
+                },
+                {
+                    "f": "22 71-567"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "341"
+                },
+                {
+                    "i": "22 71-444"
+                },
+                {
+                    "k": "fernleihe@dnb.de"
+                }
+            ]
+        ],
+        "035D": [
+            [
+                {
+                    "a": "292"
+                }
+            ],
+            [
+                {
+                    "b": "GyFmDB (fr\u00fcherer MARC Code)"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0002"
+                },
+                {
+                    "f": "11"
+                },
+                {
+                    "g": "01"
+                },
+                {
+                    "h": "10"
+                },
+                {
+                    "i": "P"
+                },
+                {
+                    "k": "292"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "HES"
+                },
+                {
+                    "e": "k"
+                }
+            ]
+        ],
+        "047A": [
+            [
+                {
+                    "a": "Zentrale Archivbibliothek der seit 1945 in Deutschland erschienenen k\u00f6rperlichen und unk\u00f6rperlichen Medienwerke; Sondersammlung: Deutsches Exilarchiv 1933-1945, Historisches Archiv und Bibliothek des B\u00f6rsenvereins; Gem\u00e4\u00df Leihverkehrsordnung letztrangige Ber\u00fccksichtigung"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-101b",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-101b",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-101b",
+    "identifier": "DE-101b",
+    "name": "Deutsche Nationalbibliothek Frankfurt am Main",
+    "location": "Frankfurt/Main",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "HES"
+}

@@ -1,0 +1,289 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-142.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:18-11-99"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9042:24-01-20"
+                ],
+                {
+                    "t": "16:11:39.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "009013814"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "587000-8"
+                },
+                {
+                    "b": "AB142"
+                },
+                {
+                    "d": "142"
+                },
+                {
+                    "e": "DE-142"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.hagen-medien.de"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Hagen StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtb\u00fccherei Hagen"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Springe 1"
+                },
+                {
+                    "b": "Hagen"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "58095"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "i": "Mo-Di und Fr 10.00-18.00, Do 10.00-19.00, Sa 10.00-14.00"
+                },
+                {
+                    "k": "7.47992"
+                },
+                {
+                    "l": "51.35472"
+                },
+                {
+                    "n": "05914000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Hagen"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "58042"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "g": "42 49"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "2331"
+                },
+                {
+                    "f": "2 07-3579 (Leitung) und -3582 (Fernleihe)"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "2331"
+                },
+                {
+                    "i": "2 07-2442 und 3582"
+                },
+                {
+                    "j": "823629 skha d"
+                },
+                {
+                    "k": "stadtbuecherei@stadt-hagen.de"
+                }
+            ]
+        ],
+        "035D": [
+            [
+                {
+                    "a": "366"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0126"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "08"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "b"
+                },
+                {
+                    "d": "fernleihe@stadt-hagen.de"
+                }
+            ],
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "fernleihe@stadt-hagen.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "fernleihe@stadt-hagen.de"
+                }
+            ]
+        ],
+        "035O": [
+            [
+                {
+                    "a": "ISIL DE-708; FZL DE-621"
+                },
+                {
+                    "b": "CONTAINER"
+                }
+            ]
+        ],
+        "047A": [
+            [
+                {
+                    "a": "Schwerpunkt im Rahmen des NRW-Sondersammelgebiets: Kinderliteratur"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-142",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-142",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-142",
+    "identifier": "DE-142",
+    "name": "Stadtb\u00fccherei Hagen",
+    "location": "Hagen",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NRW"
+}

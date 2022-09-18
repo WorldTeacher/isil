@@ -1,0 +1,230 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-6-M.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:18-11-99"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:22-02-21"
+                ],
+                {
+                    "t": "15:45:37.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "009035737"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "441505-X"
+                },
+                {
+                    "d": "6/M"
+                },
+                {
+                    "e": "DE-6-M"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.uni-muenster.de/ZBMed/"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "M\u00fcnster ZwB Medizin"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Universit\u00e4ts- und Landesbibliothek, Zweigbibliothek Medizin"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Albert-Schweitzer-Campus 1"
+                },
+                {
+                    "b": "M\u00fcnster"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "48149"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "h": "Geb\u00e4ude A11"
+                },
+                {
+                    "i": "Mo-Fr 8.00-24.00, Sa-So 10.00-24.00"
+                },
+                {
+                    "k": "7.59902"
+                },
+                {
+                    "l": "51.96079"
+                },
+                {
+                    "n": "05515000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "M\u00fcnster"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "48043"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "g": "80 29"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "251"
+                },
+                {
+                    "f": "83-58560"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "251"
+                },
+                {
+                    "i": "83-58565"
+                },
+                {
+                    "k": "auskunft.zbmed@uni-muenster.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "c": "0015"
+                },
+                {
+                    "d": "HBZ"
+                },
+                {
+                    "f": "65"
+                },
+                {
+                    "g": "02"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "c": "HBZ"
+                },
+                {
+                    "e": "l"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-6-M",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-6-M",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-6-M",
+    "identifier": "DE-6-M",
+    "name": "Universit\u00e4ts- und Landesbibliothek, Zweigbibliothek Medizin",
+    "location": "M\u00fcnster",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NRW"
+}

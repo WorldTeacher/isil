@@ -1,0 +1,180 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-1771.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:04-01-08"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:16-11-20"
+                ],
+                {
+                    "t": "13:16:43.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:04-01-08"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "987018965"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "d": "1771"
+                },
+                {
+                    "e": "DE-1771"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Haibach K\u00d6B"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Katholische \u00d6ffentliche B\u00fccherei D\u00f6rrmorsbach"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Hohe Warte Weg 15"
+                },
+                {
+                    "b": "Haibach"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "63808"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "k": "9.23306"
+                },
+                {
+                    "l": "49.94280"
+                },
+                {
+                    "n": "09671124"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "k": "fernleihe@st-michaelsbund.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "10"
+                },
+                {
+                    "h": "03"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAY"
+                },
+                {
+                    "c": "BVB"
+                },
+                {
+                    "e": "n"
+                },
+                {
+                    "g": "R"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "fernleihe@st-michaelsbund.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-1771",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-1771",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-1771",
+    "identifier": "DE-1771",
+    "name": "Katholische \u00d6ffentliche B\u00fccherei D\u00f6rrmorsbach",
+    "location": "Haibach",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAY"
+}

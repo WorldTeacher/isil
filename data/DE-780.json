@@ -1,0 +1,255 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-780.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:31-01-19"
+                ],
+                {
+                    "t": "11:21:09.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020585764"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "KH315"
+                },
+                {
+                    "d": "780"
+                },
+                {
+                    "e": "DE-780"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://stadtbuecherei.herzogenrath.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://webopac.herzogenrath.de"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Herzogenrath StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtb\u00fccherei Herzogenrath"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Erkensstr. 2 b"
+                },
+                {
+                    "b": "Herzogenrath"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "52134"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "i": "Di und Do-Fr 10.00-13.00 und 15.00-18.00, Mi 15.00-18.00, Sa 10.00-13.00"
+                },
+                {
+                    "k": "6.09722"
+                },
+                {
+                    "l": "50.86668"
+                },
+                {
+                    "n": "05354016"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Herzogenrath"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "52112"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "g": "12 80"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "2406"
+                },
+                {
+                    "f": "83 63 05"
+                },
+                {
+                    "k": "stadtbuecherei@herzogenrath.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "07"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "d": "VBAachen"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "b"
+                },
+                {
+                    "d": "stadtbuecherei@herzogenrath.de"
+                }
+            ],
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "stadtbuecherei@herzogenrath.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "stadtbuecherei@herzogenrath.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-780",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-780",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-780",
+    "identifier": "DE-780",
+    "name": "Stadtb\u00fccherei Herzogenrath",
+    "location": "Herzogenrath",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NRW"
+}

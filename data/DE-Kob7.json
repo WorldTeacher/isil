@@ -1,0 +1,283 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Kob7.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:30-01-13"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:04-05-20"
+                ],
+                {
+                    "t": "12:09:23.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:30-01-13"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1030328234"
+                ]
+            ]
+        ],
+        "007N": [
+            [
+                [
+                    "024248487"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "652002-9"
+                },
+                {
+                    "b": "BD764"
+                },
+                {
+                    "d": "Kob 7"
+                },
+                {
+                    "e": "DE-Kob7"
+                },
+                {
+                    "f": "BIBKO"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "https://www.uni-koblenz-landau.de/de/bibliothek/lernorte/lernort-koblenz"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://aleph1.uni-koblenz.de/F"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Koblenz UB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Universit\u00e4tsbibliothek Koblenz"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Universit\u00e4tsstr. 1"
+                },
+                {
+                    "b": "Koblenz"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "56070"
+                },
+                {
+                    "f": "Rheinland-Pfalz"
+                },
+                {
+                    "i": "s. Homepage"
+                },
+                {
+                    "k": "7.55882"
+                },
+                {
+                    "l": "50.36354"
+                },
+                {
+                    "n": "07111000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "z": "Geb\u00e4ude C"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "261"
+                },
+                {
+                    "f": "2 87-1422(Fernleihe) und -1440 (Ausleihe)"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "261"
+                },
+                {
+                    "i": "2 87-1402"
+                },
+                {
+                    "k": "fernleihe@uni-koblenz.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0314"
+                },
+                {
+                    "d": "HBZ"
+                },
+                {
+                    "f": "60"
+                },
+                {
+                    "g": "02"
+                },
+                {
+                    "h": "08"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "HBZ"
+                },
+                {
+                    "e": "k"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035K": [
+            [
+                {
+                    "b": "A"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "b"
+                },
+                {
+                    "d": "fernleihe@uni-koblenz.de"
+                }
+            ],
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "fernleihe@uni-koblenz.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "fernleihe@uni-koblenz.de"
+                }
+            ]
+        ],
+        "035O": [
+            [
+                {
+                    "a": "ISIL DE-929; FZL DE-621"
+                },
+                {
+                    "b": "CONTAINER"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Kob7",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Kob7",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Kob7",
+    "identifier": "DE-Kob7",
+    "name": "Universit\u00e4tsbibliothek Koblenz",
+    "location": "Koblenz",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NRW"
+}

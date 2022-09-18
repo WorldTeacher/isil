@@ -1,0 +1,268 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Hrs1.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:07-04-11"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:16-11-20"
+                ],
+                {
+                    "t": "11:42:32.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:07-04-11"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1010939858"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "808499-3"
+                },
+                {
+                    "b": "HS822"
+                },
+                {
+                    "d": "Hrs 1"
+                },
+                {
+                    "e": "DE-Hrs1"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "https://agrarhistorische-bibliothek.de/"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://www.gateway-bayern.de"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Herrsching Agrarhist. Bibl."
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Agrarhistorische Bibliothek im Haus der bayerischen Landwirtschaft Herrsching"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Rieder Str. 70"
+                },
+                {
+                    "b": "Herrsching"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "82211"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "i": "auf Anfrage"
+                },
+                {
+                    "j": "nicht \u00f6ffentlich zug\u00e4nglich"
+                },
+                {
+                    "k": "11.15238"
+                },
+                {
+                    "l": "48.00384"
+                },
+                {
+                    "n": "09188124"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "8152"
+                },
+                {
+                    "f": "93 82 90"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "8152"
+                },
+                {
+                    "i": "93 82 22"
+                },
+                {
+                    "k": "info@HdbL-Herrsching.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0161"
+                },
+                {
+                    "d": "BVB"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "07"
+                },
+                {
+                    "h": "06"
+                },
+                {
+                    "i": "P"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Archiv des Landwirtschaftlichen Vereins in Bayern"
+                },
+                {
+                    "a": "Landwirtschaft"
+                },
+                {
+                    "a": "Forstwirtschaft"
+                },
+                {
+                    "a": "Agrargeschichte"
+                },
+                {
+                    "a": "Bauerntum"
+                },
+                {
+                    "a": "Hauswirtschaft"
+                },
+                {
+                    "a": "Naturwissenschaft"
+                },
+                {
+                    "a": "Weinbau"
+                },
+                {
+                    "a": "Bienenzucht"
+                },
+                {
+                    "a": "Kulturgeschichte"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAY"
+                },
+                {
+                    "c": "BVB"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ],
+        "047A": [
+            [
+                {
+                    "a": "Der Bayerische Bauernverband ist Tr\u00e4ger und Eigent\u00fcmer der Einrichtung"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Hrs1",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Hrs1",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Hrs1",
+    "identifier": "DE-Hrs1",
+    "name": "Agrarhistorische Bibliothek im Haus der bayerischen Landwirtschaft Herrsching",
+    "location": "Herrsching",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAY"
+}

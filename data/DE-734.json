@@ -1,0 +1,253 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-734.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:28-11-18"
+                ],
+                {
+                    "t": "16:38:39.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020585438"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "GD469"
+                },
+                {
+                    "d": "734"
+                },
+                {
+                    "e": "DE-734"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.stadtbuecherei-lemgo.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://webopac.lemgo.de"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Lemgo StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtb\u00fccherei Lemgo"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Papenstr. 40"
+                },
+                {
+                    "b": "Lemgo"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "32657"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "i": "Di-Do 10.00-13.00 und 14.30-18.00, Fr 10.00-13.00, Sa 10.00-12.00"
+                },
+                {
+                    "k": "8.90493"
+                },
+                {
+                    "l": "52.02716"
+                },
+                {
+                    "n": "05766044"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Lemgo"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "32655"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "g": "7 40"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "5261"
+                },
+                {
+                    "f": "2 13-274"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "5261"
+                },
+                {
+                    "i": "2 13-284"
+                },
+                {
+                    "k": "Stadtbuecherei@lemgo.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "07"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "fernleihe@lemgo.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "fernleihe@lemgo.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-734",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-734",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-734",
+    "identifier": "DE-734",
+    "name": "Stadtb\u00fccherei Lemgo",
+    "location": "Lemgo",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NRW"
+}

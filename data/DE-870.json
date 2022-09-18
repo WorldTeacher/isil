@@ -1,0 +1,217 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-870.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:28-01-16"
+                ],
+                {
+                    "t": "16:33:27.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020586485"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "HP033"
+                },
+                {
+                    "d": "870"
+                },
+                {
+                    "e": "DE-870"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.kitzingen.info/stadtbuecherei.0.html"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Kitzingen StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtb\u00fccherei im Luitpoldbau"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Hindenburgring S\u00fcd 3"
+                },
+                {
+                    "b": "Kitzingen"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "97318"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "i": "Mo 12.00-17.00, Di und Fr 10.00-12.00 und 14.00-18.00, Do 12.00-19.00, Sa 10.00-12.00"
+                },
+                {
+                    "k": "10.16195"
+                },
+                {
+                    "l": "49.73528"
+                },
+                {
+                    "n": "09675141"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "9321"
+                },
+                {
+                    "f": "92 06 83 und 92 06 84"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "9321"
+                },
+                {
+                    "i": "57 01"
+                },
+                {
+                    "k": "buecherei@stadt-kitzingen.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "06"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAY"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "BVB"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "buecherei@stadt-kitzingen.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-870",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-870",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-870",
+    "identifier": "DE-870",
+    "name": "Stadtb\u00fccherei im Luitpoldbau",
+    "location": "Kitzingen",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAY"
+}

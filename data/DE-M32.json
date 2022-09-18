@@ -1,0 +1,209 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-M32.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:28-11-16"
+                ],
+                {
+                    "t": "11:41:59.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020595344"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "BT534"
+                },
+                {
+                    "d": "M 32"
+                },
+                {
+                    "e": "DE-M32"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.fzhm.de/"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Ehemalige Bayerische Landesschule f\u00fcr Geh\u00f6rlose"
+                },
+                {
+                    "4": "a"
+                }
+            ],
+            [
+                {
+                    "a": "M\u00fcnchen F\u00f6rderzentrum H\u00f6ren"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "F\u00f6rderzentrum F\u00f6rderschwerpunkt H\u00f6ren, Lehrerbibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Musenbergstr. 32"
+                },
+                {
+                    "b": "M\u00fcnchen"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "81929"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "i": "nicht \u00f6ffentlich zug\u00e4nglich"
+                },
+                {
+                    "k": "11.64613"
+                },
+                {
+                    "l": "48.17073"
+                },
+                {
+                    "n": "09162000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "89"
+                },
+                {
+                    "f": "9 57 28-3002"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "89"
+                },
+                {
+                    "i": "9 57 28-3000"
+                },
+                {
+                    "k": "sekretariat@fzhm.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "02"
+                },
+                {
+                    "h": "03"
+                },
+                {
+                    "i": "P"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAY"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-M32",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-M32",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-M32",
+    "identifier": "DE-M32",
+    "name": "F\u00f6rderzentrum F\u00f6rderschwerpunkt H\u00f6ren, Lehrerbibliothek",
+    "location": "M\u00fcnchen",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAY"
+}

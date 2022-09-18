@@ -1,0 +1,275 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-552.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:22-02-21"
+                ],
+                {
+                    "t": "15:40:10.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020584997"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "934002-6"
+                },
+                {
+                    "d": "552"
+                },
+                {
+                    "e": "DE-552"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "https://www.hs-magdeburg.de/hochschule/einrichtungen/hochschulbibliothek.html"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://opac.uni-magdeburg.de/DB=5/LNG=DU/"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Stendal FHB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Hochschule Magdeburg-Stendal, Standort Stendal, Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Osterburgerstr. 25"
+                },
+                {
+                    "b": "Stendal"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "39576"
+                },
+                {
+                    "f": "Sachsen-Anhalt"
+                },
+                {
+                    "i": "Mo-Do 9.00 -19.00, Fr 9.00 -17.00"
+                },
+                {
+                    "j": "gesonderte \u00d6ffnungszeiten in der vorlesungsfreien Zeit im Internet"
+                },
+                {
+                    "k": "11.84789"
+                },
+                {
+                    "l": "52.61593"
+                },
+                {
+                    "n": "15090535"
+                },
+                {
+                    "o": "barrierefrei"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "3931"
+                },
+                {
+                    "f": "21 87-4880"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "3931"
+                },
+                {
+                    "i": "21 87-4871"
+                },
+                {
+                    "k": "bibliothek-stendal@h2.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0105"
+                },
+                {
+                    "e": "GBV"
+                },
+                {
+                    "f": "70"
+                },
+                {
+                    "g": "02"
+                },
+                {
+                    "h": "07"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "SAA"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "GBV"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "f": "x"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "a"
+                },
+                {
+                    "d": "fernleihe-stendal@h2.de"
+                }
+            ],
+            [
+                {
+                    "a": "b"
+                },
+                {
+                    "d": "fernleihe-stendal@h2.de"
+                }
+            ],
+            [
+                {
+                    "a": "d"
+                },
+                {
+                    "d": "fernleihe-stendal@h2.de"
+                }
+            ],
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "fernleihe-stendal@h2.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "fernleihe-stendal@h2.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-552",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-552",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-552",
+    "identifier": "DE-552",
+    "name": "Hochschule Magdeburg-Stendal, Standort Stendal, Bibliothek",
+    "location": "Stendal",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "SAA"
+}

@@ -1,0 +1,256 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-2125.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:24-04-14"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:25-05-20"
+                ],
+                {
+                    "t": "14:49:20.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:24-04-14"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1050255593"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "808212-1"
+                },
+                {
+                    "d": "2125"
+                },
+                {
+                    "e": "DE-2125"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.ifz-muenchen.de/das-archiv/"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://opac.ifz-muenchen.de/webOPACClient.ifzsis/start.do?Login=woifz"
+                },
+                {
+                    "z": "B"
+                }
+            ],
+            [
+                {
+                    "u": "http://archiv.ifz-muenchen.de/"
+                },
+                {
+                    "x": "Archiv-Online"
+                },
+                {
+                    "z": "W"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "IfZArch"
+                },
+                {
+                    "4": "b"
+                }
+            ],
+            [
+                {
+                    "a": "M\u00fcnchen IfZArch"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Institut f\u00fcr Zeitgeschichte M\u00fcnchen - Berlin, Archiv"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Leonrodstr. 46b"
+                },
+                {
+                    "b": "M\u00fcnchen"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "80636"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "i": "Mo-Fr 9.00-19.00"
+                },
+                {
+                    "j": "Lesesaal; Anmeldung und Beratung nur Mo, Mi, Fr 9.00-12.30"
+                },
+                {
+                    "k": "11.54352"
+                },
+                {
+                    "l": "48.15676"
+                },
+                {
+                    "n": "09162000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "89"
+                },
+                {
+                    "f": "1 26 88-113"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "89"
+                },
+                {
+                    "i": "1 26 88-191"
+                },
+                {
+                    "k": "archiv@ifz-muenchen.de"
+                },
+                {
+                    "l": "telefonische Ausk\u00fcnfte nur Mo, Mi, Fr 9.00-12.30"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0026"
+                },
+                {
+                    "d": "BVB"
+                },
+                {
+                    "f": "58"
+                },
+                {
+                    "g": "08"
+                },
+                {
+                    "h": "07"
+                },
+                {
+                    "i": "P"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Nichtstaatliche Quellen zur deutschen Zeitgeschichte ab ca. 1917"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAY"
+                },
+                {
+                    "c": "BVB"
+                },
+                {
+                    "d": "Kalliope"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-2125",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-2125",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-2125",
+    "identifier": "DE-2125",
+    "name": "Institut f\u00fcr Zeitgeschichte M\u00fcnchen - Berlin, Archiv",
+    "location": "M\u00fcnchen",
+    "type": [
+        "Organization",
+        "Archive"
+    ],
+    "addressRegion": "BAY"
+}

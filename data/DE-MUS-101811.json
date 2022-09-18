@@ -1,0 +1,131 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-MUS-101811.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:04-01-12"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:12-10-20"
+                ],
+                {
+                    "t": "09:25:05.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:04-01-12"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1018497986"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "e": "DE-MUS-101811"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.museen-in-deutschland.de/singleview.php?muges=101811"
+                },
+                {
+                    "x": "Weitere Informationen"
+                },
+                {
+                    "z": "W"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Burg Hornberg"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Burg Hornberg 1"
+                },
+                {
+                    "b": "Neckarzimmern"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "74865"
+                },
+                {
+                    "f": "Baden-W\u00fcrttemberg"
+                },
+                {
+                    "k": "9.13280"
+                },
+                {
+                    "l": "49.31920"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "m"
+                },
+                {
+                    "f": "86"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-MUS-101811",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-MUS-101811",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-MUS-101811",
+    "identifier": "DE-MUS-101811",
+    "name": "Burg Hornberg",
+    "location": "Neckarzimmern",
+    "type": [
+        "Organization",
+        "Museum"
+    ]
+}

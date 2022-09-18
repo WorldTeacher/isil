@@ -1,0 +1,225 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-912.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:22-03-18"
+                ],
+                {
+                    "t": "08:18:31.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020586868"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "GQ482"
+                },
+                {
+                    "d": "912"
+                },
+                {
+                    "e": "DE-912"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.dachau.de/stadtbuecherei"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://open.dachau.de/"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Dachau K\u00d6B/StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtb\u00fccherei Dachau"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Max-Mannheimer-Platz 3"
+                },
+                {
+                    "b": "Dachau"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "85221"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "i": "Di-Mi und Fr 9.30-17.00, Do 9.30-19.00, Sa 10.00-14.00"
+                },
+                {
+                    "k": "11.43678"
+                },
+                {
+                    "l": "48.25551"
+                },
+                {
+                    "n": "09174115"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "8131"
+                },
+                {
+                    "f": "75-4840"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "8131"
+                },
+                {
+                    "i": "75-44989"
+                },
+                {
+                    "k": "stadtbuecherei@dachau.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "07"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAY"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "BVB"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "stadtbuecherei@dachau.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-912",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-912",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-912",
+    "identifier": "DE-912",
+    "name": "Stadtb\u00fccherei Dachau",
+    "location": "Dachau",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAY"
+}

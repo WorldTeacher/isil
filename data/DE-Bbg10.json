@@ -1,0 +1,230 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Bbg10.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:08-11-16"
+                ],
+                {
+                    "t": "16:23:47.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020589182"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "WA807"
+                },
+                {
+                    "d": "Bbg 10"
+                },
+                {
+                    "e": "DE-Bbg10"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.bibliothek-bernburg.de/html/start.htm"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Bernburg StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtbibliothek Bernburg"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Lindenpl. 5"
+                },
+                {
+                    "b": "Bernburg/Saale"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "06406"
+                },
+                {
+                    "f": "Sachsen-Anhalt"
+                },
+                {
+                    "i": "Mo 14.00-18.00, Di und Do-Fr 10.00-18.00, Mi und Sa 10.00-12.00"
+                },
+                {
+                    "k": "11.74198"
+                },
+                {
+                    "l": "51.79376"
+                },
+                {
+                    "n": "15089030"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Bernburg"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "06393"
+                },
+                {
+                    "f": "Sachsen-Anhalt"
+                },
+                {
+                    "g": "13 63"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "3471"
+                },
+                {
+                    "f": "62 30 01"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "3471"
+                },
+                {
+                    "i": "62 30 02"
+                },
+                {
+                    "k": "ausleihe@bibliothek-bernburg.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "07"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "SAA"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "GBV"
+                },
+                {
+                    "d": "\u00d6VK"
+                },
+                {
+                    "e": "l"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Bbg10",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Bbg10",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Bbg10",
+    "identifier": "DE-Bbg10",
+    "name": "Stadtbibliothek Bernburg",
+    "location": "Bernburg/Saale",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "SAA"
+}

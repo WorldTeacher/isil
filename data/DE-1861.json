@@ -1,0 +1,237 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-1861.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:08-07-11"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:15-11-21"
+                ],
+                {
+                    "t": "13:34:50.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:08-07-11"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1013406168"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "d": "1861"
+                },
+                {
+                    "e": "DE-1861"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "https://www.ebz-business-school.de/ueber-uns/ausstattung/bibliothek.html"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://onlinekatalog.e-b-z.de/webopac/index.asp?DB=biblio3"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Bochum EBZ Bibliothek"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "EBZ Business School, Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Springorumallee 20"
+                },
+                {
+                    "b": "Bochum"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "44795"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "i": "Mo-Fr 10.00-12.00 und 13.00-19.00, Sa 9.00-16.00"
+                },
+                {
+                    "k": "7.21084"
+                },
+                {
+                    "l": "51.45246"
+                },
+                {
+                    "n": "05911000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "234"
+                },
+                {
+                    "f": "94 47-715"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "234"
+                },
+                {
+                    "i": "94 47-777"
+                },
+                {
+                    "k": "bibliothek@e-b-z.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "70"
+                },
+                {
+                    "g": "08"
+                },
+                {
+                    "h": "06"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Wohnungswirtschaft"
+                },
+                {
+                    "a": "Immobilienwirtschaft"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "e": "k"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "b"
+                },
+                {
+                    "d": "bibliothek@e-b-z.de"
+                }
+            ],
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "bibliothek@e-b-z.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-1861",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-1861",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-1861",
+    "identifier": "DE-1861",
+    "name": "EBZ Business School, Bibliothek",
+    "location": "Bochum",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NRW"
+}

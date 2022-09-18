@@ -1,0 +1,215 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-M499.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:31-01-05"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:06-03-18"
+                ],
+                {
+                    "t": "15:10:38.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "027024237"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "d": "M 499"
+                },
+                {
+                    "e": "DE-M499"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.kbl.badw.de"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "M\u00fcnchen Kom.bayer.Landesgesch."
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Kommission f\u00fcr bayerische Landesgeschichte bei der Bayerischen Akademie der Wissenschaften, Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Alfons-Goppel-Str. 11"
+                },
+                {
+                    "b": "M\u00fcnchen"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "80539"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "i": "Nach Vereinbarung"
+                },
+                {
+                    "k": "11.58032"
+                },
+                {
+                    "l": "48.14117"
+                },
+                {
+                    "n": "09612000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "89"
+                },
+                {
+                    "f": "2 30 31-1172"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "89"
+                },
+                {
+                    "i": "2 30 31-1333"
+                },
+                {
+                    "k": "Bibliothek@kbl.badw.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "07"
+                },
+                {
+                    "h": "05"
+                },
+                {
+                    "i": "P"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Landesgeschichte <Bayern>"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAY"
+                },
+                {
+                    "c": "BVB"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ],
+        "035J": [
+            [
+                {
+                    "a": "Leihverkehr nicht m\u00f6glich"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-M499",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-M499",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-M499",
+    "identifier": "DE-M499",
+    "name": "Kommission f\u00fcr bayerische Landesgeschichte bei der Bayerischen Akademie der Wissenschaften, Bibliothek",
+    "location": "M\u00fcnchen",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAY"
+}

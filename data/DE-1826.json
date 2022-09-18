@@ -1,0 +1,249 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-1826.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:01-04-10"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:28-08-15"
+                ],
+                {
+                    "t": "17:05:48.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:01-04-10"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1001279700"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "181826-0"
+                },
+                {
+                    "d": "1826"
+                },
+                {
+                    "e": "DE-1826"
+                },
+                {
+                    "f": "IPU"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.bibliothek.ipu-berlin.de"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Bibliothek der IPU"
+                },
+                {
+                    "4": "a"
+                }
+            ],
+            [
+                {
+                    "a": "Berlin Bibliothek der IPU"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Bibliothek der International Psychoanalytic University Berlin (IPU)"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Stromstr. 2"
+                },
+                {
+                    "b": "Berlin"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "10555"
+                },
+                {
+                    "f": "Berlin"
+                },
+                {
+                    "i": "nach Vereinbarung"
+                },
+                {
+                    "j": "nicht \u00f6ffentlich zug\u00e4nglich"
+                },
+                {
+                    "k": "13.34254"
+                },
+                {
+                    "l": "52.52349"
+                },
+                {
+                    "n": "11000000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "30"
+                },
+                {
+                    "f": "30 01 17-560"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "30"
+                },
+                {
+                    "i": "30 01 17-569"
+                },
+                {
+                    "k": "bibliothek@ipu-berlin.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0111"
+                },
+                {
+                    "e": "GBV"
+                },
+                {
+                    "f": "60"
+                },
+                {
+                    "g": "08"
+                },
+                {
+                    "h": "06"
+                },
+                {
+                    "i": "P"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Psychologie <klinische Psychologie>"
+                },
+                {
+                    "a": "Psychoanalyse <klinische und nicht-klinische Anwendungsbereiche>"
+                },
+                {
+                    "a": "Psychologische Pr\u00e4vention und Intervention"
+                },
+                {
+                    "a": "Psychotherapieforschung"
+                },
+                {
+                    "a": "Neurowissenschaften"
+                },
+                {
+                    "a": "Erziehungswissenschaft mit dem Schwerpunkt Psychosoziale Intervention: Delinquenzpr\u00e4vention, Fr\u00fche Hilfen/Fr\u00fchf\u00f6rderung und Psychodynamische Beratung"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BER"
+                },
+                {
+                    "c": "GBV"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-1826",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-1826",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-1826",
+    "identifier": "DE-1826",
+    "name": "Bibliothek der International Psychoanalytic University Berlin (IPU)",
+    "location": "Berlin",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BER"
+}

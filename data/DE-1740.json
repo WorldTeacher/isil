@@ -1,0 +1,202 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-1740.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-01-08"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:05-04-22"
+                ],
+                {
+                    "t": "09:47:28.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:11-01-08"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "987117947"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "SE122"
+                },
+                {
+                    "d": "1740"
+                },
+                {
+                    "e": "DE-1740"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.stadtbuecherei-neumarkt.de/"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Neumarkt-Sankt Veit StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtb\u00fccherei Neumarkt-Sankt Veit"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Benno-Hubensteiner-Platz 1"
+                },
+                {
+                    "b": "Neumarkt-Sankt Veit"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "84494"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "k": "12.50795"
+                },
+                {
+                    "l": "48.35975"
+                },
+                {
+                    "n": "09183129"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "8639"
+                },
+                {
+                    "f": "83 58"
+                },
+                {
+                    "k": "info@stadtbuecherei-neumarkt.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "06"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAY"
+                },
+                {
+                    "c": "BVB"
+                },
+                {
+                    "e": "n"
+                },
+                {
+                    "g": "R"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "info@stadtbuecherei-neumarkt.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-1740",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-1740",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-1740",
+    "identifier": "DE-1740",
+    "name": "Stadtb\u00fccherei Neumarkt-Sankt Veit",
+    "location": "Neumarkt-Sankt Veit",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAY"
+}

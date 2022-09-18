@@ -1,0 +1,248 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-1383.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:08-07-09"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:04-05-20"
+                ],
+                {
+                    "t": "14:03:23.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:08-07-09"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "995211620"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "412000-0"
+                },
+                {
+                    "d": "1383"
+                },
+                {
+                    "e": "DE-1383"
+                },
+                {
+                    "f": "HRW"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.hochschule-rhein-waal.de/hochschulbibliothek.html"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://www.digibib.net/Digibib?LOCATION=1383"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Kleve HS Rhein-Waal"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Hochschule Rhein-Waal, Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Marie-Curie-Str. 1"
+                },
+                {
+                    "b": "Kleve"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "47533"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "k": "6.14351"
+                },
+                {
+                    "l": "51.79514"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "2821"
+                },
+                {
+                    "f": "8 06 73-178"
+                },
+                {
+                    "k": "Fernleihe@hochschule-rhein-waal.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0126"
+                },
+                {
+                    "d": "HBZ"
+                },
+                {
+                    "f": "70"
+                },
+                {
+                    "g": "02"
+                },
+                {
+                    "h": "07"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "HBZ"
+                },
+                {
+                    "e": "n"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "b"
+                },
+                {
+                    "d": "Fernleihe@hochschule-rhein-waal.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "Fernleihe@hochschule-rhein-waal.de"
+                }
+            ],
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "Fernleihe@hochschule-rhein-waal.de"
+                }
+            ]
+        ],
+        "035O": [
+            [
+                {
+                    "a": "FZL DE-621"
+                },
+                {
+                    "b": "CONTAINER"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-1383",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-1383",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-1383",
+    "identifier": "DE-1383",
+    "name": "Hochschule Rhein-Waal, Bibliothek",
+    "location": "Kleve",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NRW"
+}

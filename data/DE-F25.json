@@ -1,0 +1,260 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-F25.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:17-03-22"
+                ],
+                {
+                    "t": "10:53:08.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020590938"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "608025-X"
+                },
+                {
+                    "b": "DA506"
+                },
+                {
+                    "d": "F 25"
+                },
+                {
+                    "e": "DE-F25"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "www.freies-deutsches-hochstift.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://www.museumsbibliotheken.frankfurt.de/verbund/index.asp?DB=ALL"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "FDH/FGM"
+                },
+                {
+                    "4": "b"
+                }
+            ],
+            [
+                {
+                    "a": "Frankfurt/M FDH/FGM"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Freies Deutsches Hochstift / Frankfurter Goethe-Museum, Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Gro\u00dfer Hirschgraben 23-25"
+                },
+                {
+                    "b": "Frankfurt/Main"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "60311"
+                },
+                {
+                    "f": "Hessen"
+                },
+                {
+                    "i": "Mo-Fr 10.00-12.00 und 13.00-16.00"
+                },
+                {
+                    "j": "auf Anfrage auch l\u00e4nger"
+                },
+                {
+                    "k": "8.67756"
+                },
+                {
+                    "l": "50.11127"
+                },
+                {
+                    "n": "06412000"
+                },
+                {
+                    "o": "barrierefrei"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "69"
+                },
+                {
+                    "f": "1 38 80-262 und -242"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "69"
+                },
+                {
+                    "i": "1 38 80-222"
+                },
+                {
+                    "k": "info@freies-deutsches-hochstift.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0321"
+                },
+                {
+                    "d": "SWB"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "08"
+                },
+                {
+                    "h": "08"
+                },
+                {
+                    "i": "P"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Deutsche Literatur 1750-1850"
+                },
+                {
+                    "a": "Faust-Sammlung"
+                },
+                {
+                    "a": "Almanache"
+                },
+                {
+                    "a": "Rekonstruktion der Bibliothek Johann Caspar Goethes"
+                },
+                {
+                    "a": "Bibliothek Hugo von Hofmannsthals"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "HES"
+                },
+                {
+                    "c": "SWB"
+                },
+                {
+                    "d": "VFMB; Kalliope"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-F25",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-F25",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-F25",
+    "identifier": "DE-F25",
+    "name": "Freies Deutsches Hochstift / Frankfurter Goethe-Museum, Bibliothek",
+    "location": "Frankfurt/Main",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "HES"
+}

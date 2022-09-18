@@ -1,0 +1,266 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-715.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:18-11-99"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:14-11-16"
+                ],
+                {
+                    "t": "17:27:28.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "009003290"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "291000-7"
+                },
+                {
+                    "b": "AH715"
+                },
+                {
+                    "d": "715"
+                },
+                {
+                    "e": "DE-715"
+                },
+                {
+                    "f": "BISOL"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.bis.uni-oldenburg.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://katalog.bis.uni-oldenburg.de"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Oldenburg BIS"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Bibliotheks-und Informationssystem der Carl von Ossietzky Universit\u00e4t Oldenburg (BIS)"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Uhlhornsweg 49/55"
+                },
+                {
+                    "b": "Oldenburg"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "26129"
+                },
+                {
+                    "f": "Niedersachsen"
+                },
+                {
+                    "i": "Mo-Fr 8.00-24.00, Sa-So 10.00-18.00"
+                },
+                {
+                    "k": "8.17993"
+                },
+                {
+                    "l": "53.14753"
+                },
+                {
+                    "n": "03403000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Oldenburg"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "26015"
+                },
+                {
+                    "f": "Niedersachsen"
+                },
+                {
+                    "g": "25 41"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "441"
+                },
+                {
+                    "f": "7 98-0, 4021 und -4030 (Fernleihe)"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "441"
+                },
+                {
+                    "i": "7 98-4040 (Gesch\u00e4ftsstelle) und -4511 (Poststelle)"
+                },
+                {
+                    "j": "25655 unol d"
+                },
+                {
+                    "k": "bis-fernleihe@uni-oldenburg.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0093"
+                },
+                {
+                    "d": "GBV"
+                },
+                {
+                    "f": "60"
+                },
+                {
+                    "g": "02"
+                },
+                {
+                    "h": "10"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NIE"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "GBV"
+                },
+                {
+                    "d": "Kalliope"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035O": [
+            [
+                {
+                    "a": "FZL DE-622"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-715",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-715",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-715",
+    "identifier": "DE-715",
+    "name": "Bibliotheks-und Informationssystem der Carl von Ossietzky Universit\u00e4t Oldenburg (BIS)",
+    "location": "Oldenburg",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NIE"
+}

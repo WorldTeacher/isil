@@ -1,0 +1,288 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-168.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:18-11-99"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:30-11-18"
+                ],
+                {
+                    "t": "15:37:40.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:27-05-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "00900601X"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "437010-7"
+                },
+                {
+                    "b": "AH168"
+                },
+                {
+                    "d": "168"
+                },
+                {
+                    "e": "DE-168"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.stadtbibliothek-muelheim-ruhr.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://www.stadt-mh.de/opax/de/index.html.S"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "M\u00fclheim/R StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtbibliothek im MedienHaus"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Synagogenpl. 3"
+                },
+                {
+                    "b": "M\u00fclheim/Ruhr"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "45468"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "i": "Mo-Fr 10.00-18.30, Sa 10.00-14.00"
+                },
+                {
+                    "k": "6.88233"
+                },
+                {
+                    "l": "51.42906"
+                },
+                {
+                    "n": "05117000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "M\u00fclheim/Ruhr"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "45466"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "g": "10 19 53"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "208"
+                },
+                {
+                    "f": "4 55-4141 und -4140"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "208"
+                },
+                {
+                    "i": "4 55-4125"
+                },
+                {
+                    "k": "stadtbibliothek@muelheim-ruhr.de"
+                }
+            ],
+            [
+                {
+                    "a": "W"
+                },
+                {
+                    "b": "Fernleihe"
+                },
+                {
+                    "k": "Fernleihe@muelheim-ruhr.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0126"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "08"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Theaterdokumentation"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "b"
+                },
+                {
+                    "d": "fernleihe@muelheim-ruhr.de"
+                }
+            ],
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "fernleihe@muelheim-ruhr.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "fernleihe@muelheim-ruhr.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-168",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-168",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-168",
+    "identifier": "DE-168",
+    "name": "Stadtbibliothek im MedienHaus",
+    "location": "M\u00fclheim/Ruhr",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NRW"
+}

@@ -1,0 +1,254 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-946-1.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:12-10-06"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:27-02-19"
+                ],
+                {
+                    "t": "10:37:42.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:12-10-06"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "981528503"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "602001-X"
+                },
+                {
+                    "d": "946/1"
+                },
+                {
+                    "e": "DE-946-1"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "https://www.frankfurt-university.de/bibliothek"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://www.frankfurt-university.de/historische-sondersammlung.html"
+                },
+                {
+                    "x": "Histor.Sondersammlg."
+                },
+                {
+                    "z": "W"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Frankfurt/M UAS HistorSonders"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Historische Sondersammlung Soziale Arbeit und Pflege der Bibliothek der Frankfurt University of Applied Sciences"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Kleiststr. 31"
+                },
+                {
+                    "b": "Frankfurt/Main"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "60318"
+                },
+                {
+                    "f": "Hessen"
+                },
+                {
+                    "h": "Geb.3"
+                },
+                {
+                    "k": "8.69218"
+                },
+                {
+                    "l": "50.13122"
+                },
+                {
+                    "n": "06412000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "a": "Nibelungenpl. 1"
+                },
+                {
+                    "b": "Frankfurt/Main"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "60318"
+                },
+                {
+                    "f": "Hessen"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "69"
+                },
+                {
+                    "f": "15 33-2847"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "69"
+                },
+                {
+                    "i": "15 33-2465"
+                },
+                {
+                    "k": "histo@bibl.fra-uas.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0036"
+                },
+                {
+                    "e": "HBV"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "02"
+                },
+                {
+                    "h": "06"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "HES"
+                },
+                {
+                    "c": "HeBIS"
+                },
+                {
+                    "e": "k"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "047A": [
+            [
+                {
+                    "a": "Der Bestand unterliegt besonderen Nutzungsbedingungen und kann nicht ausgeliehen werden"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-946-1",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-946-1",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-946-1",
+    "identifier": "DE-946-1",
+    "name": "Historische Sondersammlung Soziale Arbeit und Pflege der Bibliothek der Frankfurt University of Applied Sciences",
+    "location": "Frankfurt/Main",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "HES"
+}

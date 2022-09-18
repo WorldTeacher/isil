@@ -1,0 +1,238 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-505.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:02-11-16"
+                ],
+                {
+                    "t": "10:12:07.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "02058458X"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "AK505"
+                },
+                {
+                    "d": "505"
+                },
+                {
+                    "e": "DE-505"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "https://www.jueterbog.eu/seite/180125/stadtbibliothek.html"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Bibliothek im Kulturquartier M\u00f6nchenkloster"
+                },
+                {
+                    "4": "a"
+                }
+            ],
+            [
+                {
+                    "a": "J\u00fcterbog StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtbibliothek J\u00fcterbog"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "M\u00f6nchenkirchpl. 4"
+                },
+                {
+                    "b": "J\u00fcterbog"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "14913"
+                },
+                {
+                    "f": "Brandenburg"
+                },
+                {
+                    "i": "Di 10.00-17.00, Mi  13.00-17.00, Do 13.00-18.00, Fr und Sa 10.00-13.00"
+                },
+                {
+                    "k": "13.07778"
+                },
+                {
+                    "l": "51.99189"
+                },
+                {
+                    "n": "12072169"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "J\u00fcterbog"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "14901"
+                },
+                {
+                    "f": "Brandenburg"
+                },
+                {
+                    "g": "12 44"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "3372"
+                },
+                {
+                    "f": "46 31 40"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "3372"
+                },
+                {
+                    "i": "46 34 50"
+                },
+                {
+                    "k": "stadtbibliothek@jueterbog.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "06"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BER"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "KOBV"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-505",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-505",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-505",
+    "identifier": "DE-505",
+    "name": "Stadtbibliothek J\u00fcterbog",
+    "location": "J\u00fcterbog",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BER"
+}

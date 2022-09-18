@@ -1,0 +1,225 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-923.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:17-08-21"
+                ],
+                {
+                    "t": "09:08:44.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020586957"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "JS830"
+                },
+                {
+                    "d": "923"
+                },
+                {
+                    "e": "DE-923"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.stadtbuecherei.neu-ulm.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://webopac.winbiap.de/neu-ulm/index.aspx"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Neu-Ulm StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtb\u00fccherei Neu-Ulm"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Steubenstra\u00dfe 19"
+                },
+                {
+                    "b": "Neu-Ulm"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "89231"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "i": "Di-Fr 10.00-18.00, Sa 10.00-13.00"
+                },
+                {
+                    "k": "10.00759"
+                },
+                {
+                    "l": "48.38957"
+                },
+                {
+                    "n": "09775135"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "731"
+                },
+                {
+                    "f": "70 50-2350"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "731"
+                },
+                {
+                    "i": "70 50-2399"
+                },
+                {
+                    "k": "stadtbuecherei@neu-ulm.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "07"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAY"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "BVB"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "stadtbuecherei@neu-ulm.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-923",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-923",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-923",
+    "identifier": "DE-923",
+    "name": "Stadtb\u00fccherei Neu-Ulm",
+    "location": "Neu-Ulm",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAY"
+}

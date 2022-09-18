@@ -1,0 +1,230 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-426.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:28-11-18"
+                ],
+                {
+                    "t": "16:38:53.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020584067"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "AK426"
+                },
+                {
+                    "d": "426"
+                },
+                {
+                    "e": "DE-426"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.stadt-wetter.de/112.html"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://wetter-opac.customer.findus-internet-opac.de/cgi-bin/findus.fcgi.pl?customer=wetter"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Wetter StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtb\u00fccherei Wetter"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Bahnhofstr.17/19"
+                },
+                {
+                    "b": "Wetter/Ruhr"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "58300"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "i": "Di und Do-Fr 14.00-19.00, Mi 10.00-15.00, Sa 10.00-14.00"
+                },
+                {
+                    "k": "7.38623"
+                },
+                {
+                    "l": "51.38648"
+                },
+                {
+                    "n": "05954032"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "2335"
+                },
+                {
+                    "f": "8 40-286 (Fernleihe) und -284 (Ausleihe)"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "2335"
+                },
+                {
+                    "i": "8 40-289"
+                },
+                {
+                    "k": "fl-stadtbuecherei@stadt-wetter.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "06"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "fl-stadtbuecherei@stadt-wetter.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "fl-stadtbuecherei@stadt-wetter.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-426",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-426",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-426",
+    "identifier": "DE-426",
+    "name": "Stadtb\u00fccherei Wetter",
+    "location": "Wetter/Ruhr",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NRW"
+}

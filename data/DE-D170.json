@@ -1,0 +1,255 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-D170.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:18-11-99"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:15-10-21"
+                ],
+                {
+                    "t": "09:28:23.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "009030522"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "EL179"
+                },
+                {
+                    "d": "D 170"
+                },
+                {
+                    "e": "DE-D170"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.smul.sachsen.de/lfulg/"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://www.smul.sachsen.de/lfulg/7074.htm"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Dresden LfULG/Bibl.Klotzsche"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "S\u00e4chsisches Landesamt f\u00fcr Umwelt, Landwirtschaft und Geologie, Bibliothek Klotzsche"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Zur Wetterwarte 11"
+                },
+                {
+                    "b": "Dresden"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "01109"
+                },
+                {
+                    "f": "Sachsen"
+                },
+                {
+                    "j": "Nutzung der Bibliothek au\u00dferhalb der \u00d6ffnungszeiten nach telefon. Absprache m\u00f6glich"
+                },
+                {
+                    "k": "13.78797"
+                },
+                {
+                    "l": "51.13040"
+                },
+                {
+                    "n": "14612000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "a": "Pillnitzer Pl. 3"
+                },
+                {
+                    "b": "Dresden"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "01326"
+                },
+                {
+                    "f": "Sachsen"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "z": "bei Postsendungen unbedingt \"Bibliothek Klotzsche\" angeben"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "351"
+                },
+                {
+                    "f": "89 28-4414 und 26 12-1128 und -1129"
+                },
+                {
+                    "k": "BibliothekKlotzsche.LfULG@smul.sachsen.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "d": "SWB"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "02"
+                },
+                {
+                    "h": "05"
+                },
+                {
+                    "i": "P"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Wasser"
+                },
+                {
+                    "a": "Abfall"
+                },
+                {
+                    "a": "Altlasten"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "SAX"
+                },
+                {
+                    "c": "SWB"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ],
+        "047A": [
+            [
+                {
+                    "a": "Die Bibliothek am Standort Klotzsche ist z.Zt. nicht besetzt. Anfragen bitte an DE-D227 Standort Pillnitz"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-D170",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-D170",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-D170",
+    "identifier": "DE-D170",
+    "name": "S\u00e4chsisches Landesamt f\u00fcr Umwelt, Landwirtschaft und Geologie, Bibliothek Klotzsche",
+    "location": "Dresden",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "SAX"
+}

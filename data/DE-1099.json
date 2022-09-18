@@ -1,0 +1,215 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-1099.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:17-02-16"
+                ],
+                {
+                    "t": "13:42:34.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020588364"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "HB661"
+                },
+                {
+                    "d": "1099"
+                },
+                {
+                    "e": "DE-1099"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://stadtbibliothek.bruchkoebel.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://bruchkoebel.bibliotheca-open.de/"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Bruchk\u00f6bel StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtbibliothek Bruchk\u00f6bel"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Hauptstr. 53"
+                },
+                {
+                    "b": "Bruchk\u00f6bel"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "63486"
+                },
+                {
+                    "f": "Hessen"
+                },
+                {
+                    "i": "Di 15.00-19.00, Mi und Fr 10.00-12.00 und 15.00-18.00, Do 10.00-12.00 und 15.00-19.00, Sa 10.00-13.00"
+                },
+                {
+                    "k": "8.92046"
+                },
+                {
+                    "l": "50.17868"
+                },
+                {
+                    "n": "06435006"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "6181"
+                },
+                {
+                    "f": "7 83 37"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "6181"
+                },
+                {
+                    "i": "7 81 37"
+                },
+                {
+                    "k": "info@stadtbibliothek-bruchkoebel.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "06"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "HES"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "HeBIS"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-1099",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-1099",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-1099",
+    "identifier": "DE-1099",
+    "name": "Stadtbibliothek Bruchk\u00f6bel",
+    "location": "Bruchk\u00f6bel",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "HES"
+}

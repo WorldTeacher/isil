@@ -1,0 +1,197 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-1915.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:07-11-12"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:17-04-13"
+                ],
+                {
+                    "t": "14:59:44.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:07-11-12"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1027559271"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "WC865"
+                },
+                {
+                    "d": "1915"
+                },
+                {
+                    "e": "DE-1915"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.barleben.de/index.phtml?NavID=936.36&La=1"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://my-bibliotheca.net/opac-129636/App/Pages/webopac/index.aspx"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Barleben GB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Gemeindeb\u00fccherei Barleben"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Ernst-Th\u00e4lmann-Str. 3"
+                },
+                {
+                    "b": "Barleben"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "39179"
+                },
+                {
+                    "f": "Sachsen-Anhalt"
+                },
+                {
+                    "i": "Mo 13.00-18.00, Di 10.00-18.00, Do 10.00-17.00, Fr 10.00-15.00"
+                },
+                {
+                    "k": "11.62200"
+                },
+                {
+                    "l": "52.20159"
+                },
+                {
+                    "n": "15083040"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "39203"
+                },
+                {
+                    "f": "5 65 24 10"
+                },
+                {
+                    "k": "bibliothek@barleben.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "06"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "SAA"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-1915",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-1915",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-1915",
+    "identifier": "DE-1915",
+    "name": "Gemeindeb\u00fccherei Barleben",
+    "location": "Barleben",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "SAA"
+}

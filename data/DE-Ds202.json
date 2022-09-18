@@ -1,0 +1,243 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Ds202.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:17-10-01"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:22-02-21"
+                ],
+                {
+                    "t": "14:37:03.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "022671307"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "d": "Ds 202"
+                },
+                {
+                    "e": "DE-Ds202"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.eumetsat.int/"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Darmstadt EUMETSAT"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "EUMETSAT Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Am Kavalleriesand 31"
+                },
+                {
+                    "b": "Darmstadt"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "64295"
+                },
+                {
+                    "f": "Hessen"
+                },
+                {
+                    "i": "Mo-Do 8.30-17.15, Fr 8.30-16.00"
+                },
+                {
+                    "j": "nicht \u00f6ffentlich zug\u00e4nglich"
+                },
+                {
+                    "k": "8.62935"
+                },
+                {
+                    "l": "49.86842"
+                },
+                {
+                    "n": "06411000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Darmstadt"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "64205"
+                },
+                {
+                    "f": "Hessen"
+                },
+                {
+                    "g": "10 05 55"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "6151"
+                },
+                {
+                    "f": "80 76 14"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "6151"
+                },
+                {
+                    "i": "80 73 97"
+                },
+                {
+                    "k": "library@eumetsat.int"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "08"
+                },
+                {
+                    "h": "05"
+                },
+                {
+                    "i": "P"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Physik"
+                },
+                {
+                    "a": "Astronomie"
+                },
+                {
+                    "a": "Ingenieurwissenschaften"
+                },
+                {
+                    "a": "Weltraumforschung"
+                },
+                {
+                    "a": "Meteorologie"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "HES"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Ds202",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Ds202",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Ds202",
+    "identifier": "DE-Ds202",
+    "name": "EUMETSAT Bibliothek",
+    "location": "Darmstadt",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "HES"
+}

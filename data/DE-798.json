@@ -1,0 +1,225 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-798.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:28-11-18"
+                ],
+                {
+                    "t": "16:38:19.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020585926"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "HM085"
+                },
+                {
+                    "d": "798"
+                },
+                {
+                    "e": "DE-798"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.rheinberg.de/"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Rheinberg StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtbibliothek Rheinberg"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "L\u00fctzenhofstr. 9"
+                },
+                {
+                    "b": "Rheinberg"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "47495"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "i": "Di-Mi 9.30-10.00 und 11.00-13.00 und 15.00-18.30, Do-Fr 9.30-10.00 und 11.00-17.00, Sa 10.00-12.00"
+                },
+                {
+                    "k": "6.59525"
+                },
+                {
+                    "l": "51.54908"
+                },
+                {
+                    "n": "05170032"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "2843"
+                },
+                {
+                    "f": "51 22"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "2843"
+                },
+                {
+                    "i": "99 06 04"
+                },
+                {
+                    "k": "Stadtbibliothek@Rheinberg.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "07"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "d": "Kalliope"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "fernleihe@rheinberg.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "fernleihe@rheinberg.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-798",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-798",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-798",
+    "identifier": "DE-798",
+    "name": "Stadtbibliothek Rheinberg",
+    "location": "Rheinberg",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NRW"
+}

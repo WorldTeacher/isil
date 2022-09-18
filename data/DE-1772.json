@@ -1,0 +1,180 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-1772.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:04-01-08"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:16-11-20"
+                ],
+                {
+                    "t": "13:16:51.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:04-01-08"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "987018949"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "d": "1772"
+                },
+                {
+                    "e": "DE-1772"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Donnersdorf K\u00d6B"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Katholische \u00d6ffentliche B\u00fccherei Donnersdorf"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Hauptstra\u00dfe 38"
+                },
+                {
+                    "b": "Donnersdorf"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "97499"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "k": "10.41683"
+                },
+                {
+                    "l": "49.97404"
+                },
+                {
+                    "n": "09678124"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "k": "fernleihe@st-michaelsbund.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "10"
+                },
+                {
+                    "h": "02"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAY"
+                },
+                {
+                    "c": "BVB"
+                },
+                {
+                    "e": "n"
+                },
+                {
+                    "g": "R"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "fernleihe@st-michaelsbund.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-1772",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-1772",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-1772",
+    "identifier": "DE-1772",
+    "name": "Katholische \u00d6ffentliche B\u00fccherei Donnersdorf",
+    "location": "Donnersdorf",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAY"
+}

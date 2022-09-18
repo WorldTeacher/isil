@@ -1,0 +1,235 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-H13.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:18-11-99"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:26-05-16"
+                ],
+                {
+                    "t": "12:49:38.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "009002979"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "208013-8"
+                },
+                {
+                    "b": "DB134"
+                },
+                {
+                    "d": "H 13"
+                },
+                {
+                    "e": "DE-H13"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.hamburger-kunsthalle.de"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Hamburg Kunsthalle"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Hamburger Kunsthalle, Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Glockengie\u00dferwall"
+                },
+                {
+                    "b": "Hamburg"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "20095"
+                },
+                {
+                    "f": "Hamburg"
+                },
+                {
+                    "i": "Di-Mi und Fr 11.00-17.00, Do 11.00-20.00"
+                },
+                {
+                    "k": "10.00368"
+                },
+                {
+                    "l": "53.55477"
+                },
+                {
+                    "n": "02000000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "40"
+                },
+                {
+                    "f": "42 81 31-244 und 245"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "40"
+                },
+                {
+                    "i": "42 81 31-883"
+                },
+                {
+                    "k": "bibliothek@hamburger-kunsthalle.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0025"
+                },
+                {
+                    "e": "GBV"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "02"
+                },
+                {
+                    "h": "08"
+                },
+                {
+                    "i": "P"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "K\u00fcnstlermonographien <Werkverzeichnisse>"
+                },
+                {
+                    "a": "Kunst-Ausstellungs- und Sammlungskataloge"
+                },
+                {
+                    "a": "Auktions- und Lagerkataloge"
+                },
+                {
+                    "a": "illustrierte B\u00fccher und K\u00fcnstlerb\u00fccher"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "HAM"
+                },
+                {
+                    "c": "GBV"
+                },
+                {
+                    "d": "Kalliope"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-H13",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-H13",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-H13",
+    "identifier": "DE-H13",
+    "name": "Hamburger Kunsthalle, Bibliothek",
+    "location": "Hamburg",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "HAM"
+}

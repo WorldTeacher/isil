@@ -1,0 +1,277 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-2548.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:14-11-17"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9044:26-06-20"
+                ],
+                {
+                    "t": "09:08:03.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:14-11-17"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1144311411"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "d": "2548"
+                },
+                {
+                    "e": "DE-2548"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.bibkat.de/VvPH"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Rottenm\u00fcnster"
+                },
+                {
+                    "4": "a"
+                }
+            ],
+            [
+                {
+                    "a": "Rottweil Hospital Med.Bibl."
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Vinzenz von Paul Hospital gGmbH, Medizinische Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Schwenninger Str. 55"
+                },
+                {
+                    "b": "Rottweil"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "78628"
+                },
+                {
+                    "f": "Baden-W\u00fcrttemberg"
+                },
+                {
+                    "i": "Mo, Mi, Fr 8.30-11.30"
+                },
+                {
+                    "k": "8.63467"
+                },
+                {
+                    "l": "48.15128"
+                },
+                {
+                    "n": "08325049"
+                },
+                {
+                    "o": "barrierefrei"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Rottweil"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "78614"
+                },
+                {
+                    "f": "Baden-W\u00fcrttemberg"
+                },
+                {
+                    "g": "14 65"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "741"
+                },
+                {
+                    "f": "2 41-2229"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "741"
+                },
+                {
+                    "i": "2 41-99-2229"
+                },
+                {
+                    "k": "R.Fetzer-Weber@VvPH.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "10"
+                },
+                {
+                    "h": "05"
+                },
+                {
+                    "i": "P"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Psychiatrie"
+                },
+                {
+                    "a": "Neurologie"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "SWB"
+                },
+                {
+                    "e": "k"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "b"
+                },
+                {
+                    "d": "R.Fetzer-Weber@VvPH.de"
+                }
+            ],
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "R.Fetzer-Weber@VvPH.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "R.Fetzer-Weber@VvPH.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-2548",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-2548",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-2548",
+    "identifier": "DE-2548",
+    "name": "Vinzenz von Paul Hospital gGmbH, Medizinische Bibliothek",
+    "location": "Rottweil",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAW"
+}

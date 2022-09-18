@@ -1,0 +1,244 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-2677.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:27-09-18"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:25-10-18"
+                ],
+                {
+                    "t": "13:40:30.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:27-09-18"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1167943570"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "HJ941"
+                },
+                {
+                    "d": "2677"
+                },
+                {
+                    "e": "DE-2677"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.nittendorf.de/rathaus/?Buecherei&view=org&orgid=bfb04f7e-2325-49ea-bf11-cd229f088834"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://webopac.winbiap.de/nittendorf/index.aspx"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Nittendorf StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Marktbibliothek Nittendorf"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Am Marktplatz 3"
+                },
+                {
+                    "b": "Nittendorf"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "93152"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "i": "Mo 9.00-12.00, Mi 15.00-17.00, Do 15.00-18.00"
+                },
+                {
+                    "k": "11.95467"
+                },
+                {
+                    "l": "49.02410"
+                },
+                {
+                    "n": "09375175"
+                },
+                {
+                    "o": "nicht barrierefrei"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "9404"
+                },
+                {
+                    "f": "6 42-103"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "9404"
+                },
+                {
+                    "i": "6 42-222"
+                },
+                {
+                    "k": "bibliothek@nittendorf.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "06"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAY"
+                },
+                {
+                    "c": "BVB"
+                },
+                {
+                    "e": "n"
+                },
+                {
+                    "g": "R"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "b"
+                },
+                {
+                    "d": "bibliothek@nittendorf.de"
+                }
+            ],
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "bibliothek@nittendorf.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "bibliothek@nittendorf.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-2677",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-2677",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-2677",
+    "identifier": "DE-2677",
+    "name": "Marktbibliothek Nittendorf",
+    "location": "Nittendorf",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAY"
+}

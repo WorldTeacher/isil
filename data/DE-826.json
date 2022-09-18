@@ -1,0 +1,201 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-826.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:29-01-16"
+                ],
+                {
+                    "t": "10:48:49.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020586183"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "GA444"
+                },
+                {
+                    "d": "826"
+                },
+                {
+                    "e": "DE-826"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.wiesbaden.de/bibliotheken"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Wiesbaden StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtbibliotheken der Landeshauptstadt Wiesbaden"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Neugasse 15/18"
+                },
+                {
+                    "b": "Wiesbaden"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "65183"
+                },
+                {
+                    "f": "Hessen"
+                },
+                {
+                    "i": "Di-Fr 10.00-18.00, Sa 10.00-14.00"
+                },
+                {
+                    "k": "8.23989"
+                },
+                {
+                    "l": "50.08200"
+                },
+                {
+                    "n": "06414000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "611"
+                },
+                {
+                    "f": "31-2381"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "611"
+                },
+                {
+                    "i": "31-3968"
+                },
+                {
+                    "k": "stadtbibliothek@wiesbaden.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "09"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "HES"
+                },
+                {
+                    "d": "HBZ-DigiBib"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-826",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-826",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-826",
+    "identifier": "DE-826",
+    "name": "Stadtbibliotheken der Landeshauptstadt Wiesbaden",
+    "location": "Wiesbaden",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "HES"
+}

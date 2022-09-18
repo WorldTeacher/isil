@@ -1,0 +1,240 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-D15.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:18-11-99"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:16-11-20"
+                ],
+                {
+                    "t": "11:42:28.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "009030301"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "958077-3"
+                },
+                {
+                    "b": "MH169"
+                },
+                {
+                    "d": "D 15"
+                },
+                {
+                    "e": "DE-D15"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.dhmd.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://www.dhmd.de/webopac"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Dresden Hygiene-Mus."
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stiftung Deutsches Hygiene-Museum, Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Lingnerplatz 1"
+                },
+                {
+                    "b": "Dresden"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "01069"
+                },
+                {
+                    "f": "Sachsen"
+                },
+                {
+                    "i": "Nutzung nach vorheriger Anmeldung und Terminvereinbarung"
+                },
+                {
+                    "k": "13.74755"
+                },
+                {
+                    "l": "51.04447"
+                },
+                {
+                    "n": "14612000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "351"
+                },
+                {
+                    "f": "48 46-360"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "351"
+                },
+                {
+                    "i": "48 46-362"
+                },
+                {
+                    "k": "bibliothek@dhmd.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0101"
+                },
+                {
+                    "d": "SWB"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "08"
+                },
+                {
+                    "h": "06"
+                },
+                {
+                    "i": "P"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Deutsches Hygiene-Museum <Geschichte, Ausstellungsthemen>"
+                },
+                {
+                    "a": "Gesundheitsaufkl\u00e4rung"
+                },
+                {
+                    "a": "Hygiene <Geschichte>"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "SAX"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "SWB"
+                },
+                {
+                    "e": "l"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-D15",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-D15",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-D15",
+    "identifier": "DE-D15",
+    "name": "Stiftung Deutsches Hygiene-Museum, Bibliothek",
+    "location": "Dresden",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "SAX"
+}

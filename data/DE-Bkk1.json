@@ -1,0 +1,214 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Bkk1.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:17-09-12"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:28-11-18"
+                ],
+                {
+                    "t": "16:29:46.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:17-09-12"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1026034566"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "d": "Bkk 1"
+                },
+                {
+                    "e": "DE-Bkk1"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.cusanus.de"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Bernkastel-Kues Cusanus-Bibl."
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "St. Nikolaus-Hospital/Cusanusstift, Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Cusanusstr. 2"
+                },
+                {
+                    "b": "Bernkastel-Kues"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "54470"
+                },
+                {
+                    "f": "Rheinland-Pfalz"
+                },
+                {
+                    "i": "nach Vereinbarung"
+                },
+                {
+                    "k": "7.07149"
+                },
+                {
+                    "l": "49.91593"
+                },
+                {
+                    "n": "07231008"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "6531"
+                },
+                {
+                    "f": "22 60"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "6531"
+                },
+                {
+                    "i": "9 40 87"
+                },
+                {
+                    "k": "info@cusanus.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "07"
+                },
+                {
+                    "h": "05"
+                },
+                {
+                    "i": "P"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Mittelalterliche Handschriften"
+                },
+                {
+                    "a": "Inkunabeln"
+                },
+                {
+                    "a": "Fr\u00fchdrucke"
+                },
+                {
+                    "a": "Altbestand vor 1900 aus dem Bereich Theologie, Philosophie und Geschichte"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Bkk1",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Bkk1",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Bkk1",
+    "identifier": "DE-Bkk1",
+    "name": "St. Nikolaus-Hospital/Cusanusstift, Bibliothek",
+    "location": "Bernkastel-Kues",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NRW"
+}

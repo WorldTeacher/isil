@@ -1,0 +1,242 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-1013.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9042:06-01-22"
+                ],
+                {
+                    "t": "12:44:49.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020587635"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "GJ583"
+                },
+                {
+                    "d": "1013"
+                },
+                {
+                    "e": "DE-1013"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.emsdetten.de/stadtbibliothek"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Emsdetten StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtbibliothek Emsdetten"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Kirchstr. 40"
+                },
+                {
+                    "b": "Emsdetten"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "48282"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "i": "Mo, Mi 14.00-18.00, Di, Do, Fr 10.00-18.00, Sa 10.00-13.00"
+                },
+                {
+                    "k": "7.52489"
+                },
+                {
+                    "l": "52.17297"
+                },
+                {
+                    "n": "05566008"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "2572"
+                },
+                {
+                    "f": "9 22-900"
+                },
+                {
+                    "k": "stadtbibliothek@emsdetten.de"
+                }
+            ],
+            [
+                {
+                    "a": "W"
+                },
+                {
+                    "b": "Fernleihe"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "k": "stadtbibliothek@emsdetten.de"
+                }
+            ]
+        ],
+        "035D": [
+            [
+                {
+                    "a": "771"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "07"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "b"
+                },
+                {
+                    "d": "stadtbibliothek@emsdetten.de"
+                }
+            ],
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "stadtbibliothek@emsdetten.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "stadtbibliothek@emsdetten.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-1013",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-1013",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-1013",
+    "identifier": "DE-1013",
+    "name": "Stadtbibliothek Emsdetten",
+    "location": "Emsdetten",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NRW"
+}

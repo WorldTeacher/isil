@@ -1,0 +1,276 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-296.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:07-09-15"
+                ],
+                {
+                    "t": "17:14:27.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020583621"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "778296-2"
+                },
+                {
+                    "b": "AH296"
+                },
+                {
+                    "d": "296"
+                },
+                {
+                    "e": "DE-296"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.singen-kulturpur.de/Hegaubibliothek.619.html"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Singen Hegau-B"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Hegau-Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Schwarzwaldstr. 7"
+                },
+                {
+                    "b": "Singen/Hohentwiel"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "78224"
+                },
+                {
+                    "f": "Baden-W\u00fcrttemberg"
+                },
+                {
+                    "i": "Di-Fr 10.00-18.00, Sa 10.00-14.00"
+                },
+                {
+                    "k": "8.84354"
+                },
+                {
+                    "l": "47.76262"
+                },
+                {
+                    "n": "08335075"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "a": "Hohgarten 2"
+                },
+                {
+                    "b": "Singen/Hohentwiel"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "78224"
+                },
+                {
+                    "f": "Baden-W\u00fcrttemberg"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "7731"
+                },
+                {
+                    "f": "85-295"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "7731"
+                },
+                {
+                    "i": "85-283"
+                },
+                {
+                    "j": "793726"
+                },
+                {
+                    "k": "hegau-bibliothek@singen.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0310"
+                },
+                {
+                    "d": "SWB"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "07"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Schweiz <Landeskunde>"
+                },
+                {
+                    "a": "Nationalsozialismus"
+                },
+                {
+                    "a": "S\u00fcdwestdeutschland"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "SWB"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "fernleihe@singen.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "fernleihe@singen.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-296",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-296",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-296",
+    "identifier": "DE-296",
+    "name": "Hegau-Bibliothek",
+    "location": "Singen/Hohentwiel",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAW"
+}

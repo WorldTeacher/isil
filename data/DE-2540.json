@@ -1,0 +1,270 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-2540.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:12-10-17"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:18-05-18"
+                ],
+                {
+                    "t": "13:54:54.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:12-10-17"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1141301768"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "JG445"
+                },
+                {
+                    "d": "2540"
+                },
+                {
+                    "e": "DE-2540"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.rosstal.de/Buecherei.n57.html"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://webopac.winbiap.de/rosstal"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Ro\u00dftal StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "B\u00fccherei Markt Ro\u00dftal"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Schulstr. 36"
+                },
+                {
+                    "b": "Ro\u00dftal"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "90574"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "h": "B\u00fccherei"
+                },
+                {
+                    "i": "Mo 14.00-18.00, Di und Mi 14.00-16.30, Do 14.00-19.00, Fr 10.00-12.00"
+                },
+                {
+                    "k": "10.88511"
+                },
+                {
+                    "l": "49.39542"
+                },
+                {
+                    "n": "09573125"
+                },
+                {
+                    "o": "barrierefrei"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "a": "Marktplatz 1"
+                },
+                {
+                    "b": "Ro\u00dftal"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "90574"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "h": "Rathaus"
+                },
+                {
+                    "k": "10.88518"
+                },
+                {
+                    "l": "49.39540"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "9127"
+                },
+                {
+                    "f": "9 04 71 57"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "9127"
+                },
+                {
+                    "i": "90 10 20"
+                },
+                {
+                    "k": "buecherei@markt-rosstal.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAY"
+                },
+                {
+                    "c": "BVB"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "b"
+                },
+                {
+                    "d": "buecherei@markt-rosstal.de"
+                }
+            ],
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "buecherei@markt-rosstal.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "buecherei@markt-rosstal.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-2540",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-2540",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-2540",
+    "identifier": "DE-2540",
+    "name": "B\u00fccherei Markt Ro\u00dftal",
+    "location": "Ro\u00dftal",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAY"
+}

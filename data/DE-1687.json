@@ -1,0 +1,202 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-1687.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:17-01-08"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:17-02-16"
+                ],
+                {
+                    "t": "13:33:09.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:17-01-08"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "987186612"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "PH064"
+                },
+                {
+                    "d": "1687"
+                },
+                {
+                    "e": "DE-1687"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.wolfertschwenden.de/buecherei/index.html"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Wolfertschwenden K\u00d6B"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Gemeindeb\u00fccherei St. Vitus"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Birkenstra\u00dfe 4"
+                },
+                {
+                    "b": "Wolfertschwenden"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "87787"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "k": "10.26593"
+                },
+                {
+                    "l": "47.89555"
+                },
+                {
+                    "n": "09778218"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "8334"
+                },
+                {
+                    "f": "17 68"
+                },
+                {
+                    "k": "buecherei@wolfertschwenden.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "10"
+                },
+                {
+                    "h": "05"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAY"
+                },
+                {
+                    "c": "BVB"
+                },
+                {
+                    "e": "n"
+                },
+                {
+                    "g": "R"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "buecherei@wolfertschwenden.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-1687",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-1687",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-1687",
+    "identifier": "DE-1687",
+    "name": "Gemeindeb\u00fccherei St. Vitus",
+    "location": "Wolfertschwenden",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAY"
+}

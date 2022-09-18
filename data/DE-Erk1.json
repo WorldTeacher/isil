@@ -1,0 +1,198 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Erk1.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:09-03-10"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:15-09-22"
+                ],
+                {
+                    "t": "15:05:53.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:09-03-10"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1000724026"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "101142-X"
+                },
+                {
+                    "d": "Erk 1"
+                },
+                {
+                    "e": "DE-Erk1"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.erkelenz.de/de/verwaltung/stadtarchiv/"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Erkelenz Stadtarchiv"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtarchiv Erkelenz"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Johannismarkt 17"
+                },
+                {
+                    "b": "Erkelenz"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "41812"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "i": "Mo, Mi-Do 8.30-14.00, Di 8.30-16.30, Fr 8.30-12.00"
+                },
+                {
+                    "j": "um Voranmeldung wird gebeten"
+                },
+                {
+                    "k": "6.31413"
+                },
+                {
+                    "l": "51.07971"
+                },
+                {
+                    "n": "05370004"
+                },
+                {
+                    "o": "Barrierefrei"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "2431"
+                },
+                {
+                    "f": "85 211"
+                },
+                {
+                    "k": "stadtarchiv@erkelenz.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0367"
+                },
+                {
+                    "f": "52"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "02"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Erk1",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Erk1",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Erk1",
+    "identifier": "DE-Erk1",
+    "name": "Stadtarchiv Erkelenz",
+    "location": "Erkelenz",
+    "type": [
+        "Organization",
+        "Archive"
+    ],
+    "addressRegion": "NRW"
+}

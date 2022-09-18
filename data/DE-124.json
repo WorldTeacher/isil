@@ -1,0 +1,289 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-124.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:11-05-22"
+                ],
+                {
+                    "t": "11:21:23.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020582897"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "101015-3"
+                },
+                {
+                    "b": "AJ124"
+                },
+                {
+                    "d": "124"
+                },
+                {
+                    "e": "DE-124"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.cwbz.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://ausleihe.cwbz.de/"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Stadt- und Kreisbibliothek + historischer Altbestand"
+                },
+                {
+                    "4": "a"
+                }
+            ],
+            [
+                {
+                    "a": "Zittau StuKrsB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Christian-Weise-Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Neustadt 47"
+                },
+                {
+                    "b": "Zittau"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "02763"
+                },
+                {
+                    "f": "Sachsen"
+                },
+                {
+                    "i": "Mo-Mi und Fr 11.00-18.00, Sa 9.00-12.00"
+                },
+                {
+                    "k": "14.81033"
+                },
+                {
+                    "l": "50.89577"
+                },
+                {
+                    "n": "14626610"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "3583"
+                },
+                {
+                    "f": "51890"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "3583"
+                },
+                {
+                    "i": "518922"
+                },
+                {
+                    "k": "info@cwbz.de"
+                },
+                {
+                    "l": "Auskunft"
+                }
+            ],
+            [
+                {
+                    "a": "W"
+                },
+                {
+                    "b": "Fernleihe"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "3583"
+                },
+                {
+                    "f": "51 89 11"
+                },
+                {
+                    "k": "fernleihe@cwbz.de"
+                }
+            ],
+            [
+                {
+                    "a": "W"
+                },
+                {
+                    "b": "Altbestand"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "k": "altbestand@cwbz.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0367"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "03"
+                },
+                {
+                    "h": "08"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Leichenpredigten"
+                },
+                {
+                    "a": "Christian Weise Sammlung"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "SAX"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "SWB"
+                },
+                {
+                    "d": "SAX-OPC; Kalliope; \u00d6VK"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035K": [
+            [
+                {
+                    "b": "A"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-124",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-124",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-124",
+    "identifier": "DE-124",
+    "name": "Christian-Weise-Bibliothek",
+    "location": "Zittau",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "SAX"
+}

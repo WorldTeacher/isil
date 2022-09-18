@@ -1,0 +1,299 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-1156.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:23-01-04"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:20-08-20"
+                ],
+                {
+                    "t": "10:04:34.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "025538470"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "433000-6"
+                },
+                {
+                    "b": "ES452"
+                },
+                {
+                    "d": "1156"
+                },
+                {
+                    "e": "DE-1156"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.folkwang-uni.de/bibliothek"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://mhe.zbsport.de/"
+                },
+                {
+                    "z": "B"
+                }
+            ],
+            [
+                {
+                    "u": "https://katalog.folkwang-uni.de/"
+                },
+                {
+                    "x": "Bibliothekskatalog"
+                },
+                {
+                    "z": "W"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Essen Folkwang Uni"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Folkwang Universit\u00e4t der K\u00fcnste, Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Klemensborn 39"
+                },
+                {
+                    "b": "Essen"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "45239"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "i": "Mo-Fr 9.00-22.00, Sa 10.00-15.00"
+                },
+                {
+                    "k": "7.00381"
+                },
+                {
+                    "l": "51.38717"
+                },
+                {
+                    "n": "05113000"
+                },
+                {
+                    "o": "Barrierefrei"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "201"
+                },
+                {
+                    "f": "49 03-241"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "201"
+                },
+                {
+                    "i": "49 03-244"
+                },
+                {
+                    "k": "bibliothek@folkwang-uni.de"
+                }
+            ],
+            [
+                {
+                    "a": "W"
+                },
+                {
+                    "b": "Fernleihe"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "k": "bibliothek@folkwang-uni.de"
+                }
+            ]
+        ],
+        "035D": [
+            [
+                {
+                    "a": "294/31"
+                },
+                {
+                    "b": "DE-294-31"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0126"
+                },
+                {
+                    "d": "HBZ"
+                },
+                {
+                    "f": "70"
+                },
+                {
+                    "g": "02"
+                },
+                {
+                    "h": "08"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Musik"
+                },
+                {
+                    "a": "Theater"
+                },
+                {
+                    "a": "Tanz"
+                },
+                {
+                    "a": "Musikwissenschaft"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "HBZ"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "fernleihe@folkwang-uni.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "fernleihe@folkwang-uni.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-1156",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-1156",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-1156",
+    "identifier": "DE-1156",
+    "name": "Folkwang Universit\u00e4t der K\u00fcnste, Bibliothek",
+    "location": "Essen",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NRW"
+}

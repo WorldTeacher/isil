@@ -1,0 +1,212 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-1835.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:16-08-10"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:15-11-16"
+                ],
+                {
+                    "t": "18:14:11.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:16-08-10"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1005816239"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "JP269"
+                },
+                {
+                    "d": "1835"
+                },
+                {
+                    "e": "DE-1835"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.kelkheim.de/buch"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://www.kelkheim.de/buch"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Kelkheim StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtbibliothek Kelkheim"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Am Marktplatz 1"
+                },
+                {
+                    "b": "Kelkheim"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "65779"
+                },
+                {
+                    "f": "Hessen"
+                },
+                {
+                    "i": "Di und Do-Fr 10.00-13.00 und 15.00-19.00, Mi und Sa 10.00-13.00"
+                },
+                {
+                    "k": "8.45311"
+                },
+                {
+                    "l": "50.13436"
+                },
+                {
+                    "n": "06436008"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "6195"
+                },
+                {
+                    "f": "85 39"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "6195"
+                },
+                {
+                    "i": "9 02-778"
+                },
+                {
+                    "k": "stadtbibliothek@kelkheim.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "06"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "HES"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-1835",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-1835",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-1835",
+    "identifier": "DE-1835",
+    "name": "Stadtbibliothek Kelkheim",
+    "location": "Kelkheim",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "HES"
+}

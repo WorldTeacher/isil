@@ -1,0 +1,231 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Gen2.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:14-09-22"
+                ],
+                {
+                    "t": "12:57:47.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020591527"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "938250-1"
+                },
+                {
+                    "b": "MB348"
+                },
+                {
+                    "d": "Gen 2"
+                },
+                {
+                    "e": "DE-Gen2"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.bibliotheken-jl.de/verzeichnis/visitenkarte.php?mandat=66596"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://bibkataloge.de/genthin"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Genthin StuKrsB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadt- und Kreisbibliothek \"Edlef K\u00f6ppen\""
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Dattelner Str. 1"
+                },
+                {
+                    "b": "Genthin"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "39307"
+                },
+                {
+                    "f": "Sachsen-Anhalt"
+                },
+                {
+                    "i": "Mo-Di und Do 10.00-18.00, Fr 10.00-16.00"
+                },
+                {
+                    "k": "12.15832"
+                },
+                {
+                    "l": "52.40438"
+                },
+                {
+                    "n": "15086040"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "3933"
+                },
+                {
+                    "f": "80 56 27"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "3933"
+                },
+                {
+                    "i": "9 13 02"
+                },
+                {
+                    "k": "info@bibliothek-genthin.com"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0165"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "07"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Stadtbibliothek"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "SAA"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "GBV"
+                },
+                {
+                    "d": "BRISE; \u00d6VK"
+                },
+                {
+                    "e": "l"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Gen2",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Gen2",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Gen2",
+    "identifier": "DE-Gen2",
+    "name": "Stadt- und Kreisbibliothek \"Edlef K\u00f6ppen\"",
+    "location": "Genthin",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "SAA"
+}

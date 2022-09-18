@@ -1,0 +1,285 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-231.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:18-11-99"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:30-11-18"
+                ],
+                {
+                    "t": "15:37:36.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "009008632"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "467020-6"
+                },
+                {
+                    "b": "AG231"
+                },
+                {
+                    "d": "231"
+                },
+                {
+                    "e": "DE-231"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.stadtbibliothek.herne.de"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Herne StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtbibliothek Herne"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Willi-Pohlmann-Pl. 1"
+                },
+                {
+                    "b": "Herne"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "44623"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "i": "Mo-Di und Do-Fr 10.00-19.00, Sa 10.00-13.00"
+                },
+                {
+                    "k": "7.22223"
+                },
+                {
+                    "l": "51.53575"
+                },
+                {
+                    "n": "05916000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Herne"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "44621"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "g": "10 18 20"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "2323"
+                },
+                {
+                    "f": "16-2800 (ALV)"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "2323"
+                },
+                {
+                    "i": "16-2813"
+                },
+                {
+                    "k": "stadtbibliothek@herne.de"
+                }
+            ]
+        ],
+        "035D": [
+            [
+                {
+                    "a": "245"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0126"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "08"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Geographie"
+                },
+                {
+                    "a": "Heimat- und L\u00e4nderkunde"
+                },
+                {
+                    "a": "Reisen"
+                },
+                {
+                    "a": "V\u00f6lkerkunde"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "b"
+                },
+                {
+                    "d": "stadtbibliothek.alv@herne.de"
+                }
+            ],
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "stadtbibliothek.alv@herne.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "stadtbibliothek.alv@herne.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-231",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-231",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-231",
+    "identifier": "DE-231",
+    "name": "Stadtbibliothek Herne",
+    "location": "Herne",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NRW"
+}

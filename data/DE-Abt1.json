@@ -1,0 +1,192 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Abt1.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:06-06-06"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:29-03-16"
+                ],
+                {
+                    "t": "08:36:30.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:06-06-06"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "980030064"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "878001-8"
+                },
+                {
+                    "d": "Abt 1"
+                },
+                {
+                    "e": "DE-Abt1"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.abtswind.de/"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Abtswind Marktarchiv"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Marktarchiv Abtswind"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Balthasar-Neumann-Str. 14"
+                },
+                {
+                    "b": "Abtswind"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "97353"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "k": "10.34100"
+                },
+                {
+                    "l": "49.78590"
+                },
+                {
+                    "n": "09675111"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "9383"
+                },
+                {
+                    "f": "97 35-29"
+                },
+                {
+                    "k": "rathaus@abtswind.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0167"
+                },
+                {
+                    "f": "52"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "01"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAY"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Abt1",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Abt1",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Abt1",
+    "identifier": "DE-Abt1",
+    "name": "Marktarchiv Abtswind",
+    "location": "Abtswind",
+    "type": [
+        "Organization",
+        "Archive"
+    ],
+    "addressRegion": "BAY"
+}

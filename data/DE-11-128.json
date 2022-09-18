@@ -1,0 +1,275 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-11-128.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:18-11-99"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:22-02-21"
+                ],
+                {
+                    "t": "15:47:08.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:27-05-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "009024794"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "130128-7"
+                },
+                {
+                    "d": "11/128"
+                },
+                {
+                    "e": "DE-11-128"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.ub.hu-berlin.de/standorte/am-kupfergraben"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://opac.hu-berlin.de"
+                },
+                {
+                    "z": "B"
+                }
+            ],
+            [
+                {
+                    "u": "http://www.ub.hu-berlin.de/bibliothek-benutzen/unsere-regeln"
+                },
+                {
+                    "x": "Nutzung"
+                },
+                {
+                    "z": "W"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Musikwissenschaft"
+                },
+                {
+                    "4": "a"
+                }
+            ],
+            [
+                {
+                    "a": "Musikwiss."
+                },
+                {
+                    "4": "a"
+                }
+            ],
+            [
+                {
+                    "a": "Berlin UBHU ZwB Musikwiss."
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Humboldt-Universit\u00e4t zu Berlin, Universit\u00e4tsbibliothek, Zweigbibliothek Musikwissenschaft"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Am Kupfergraben 5"
+                },
+                {
+                    "b": "Berlin"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "10117"
+                },
+                {
+                    "f": "Berlin"
+                },
+                {
+                    "i": "Mo-Do 10.00-18.00, Fr 10.00-16.00"
+                },
+                {
+                    "k": "13.39506"
+                },
+                {
+                    "l": "52.52034"
+                },
+                {
+                    "n": "11000000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Berlin"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "10099"
+                },
+                {
+                    "f": "Berlin"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "30"
+                },
+                {
+                    "f": "20 93-2788"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "30"
+                },
+                {
+                    "i": "20 93-2787"
+                },
+                {
+                    "k": "musikwissenschaften@ub.hu-berlin.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "c": "0019"
+                },
+                {
+                    "d": "BVB"
+                },
+                {
+                    "f": "65"
+                },
+                {
+                    "g": "06"
+                },
+                {
+                    "h": "07"
+                },
+                {
+                    "k": "B 128"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "K\u00fcnste"
+                },
+                {
+                    "a": "Musik"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BER"
+                },
+                {
+                    "c": "KOBV"
+                },
+                {
+                    "e": "k"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-11-128",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-11-128",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-11-128",
+    "identifier": "DE-11-128",
+    "name": "Humboldt-Universit\u00e4t zu Berlin, Universit\u00e4tsbibliothek, Zweigbibliothek Musikwissenschaft",
+    "location": "Berlin",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BER"
+}

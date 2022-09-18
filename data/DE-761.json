@@ -1,0 +1,238 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-761.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9042:28-01-20"
+                ],
+                {
+                    "t": "08:54:00.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020585594"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "KN970"
+                },
+                {
+                    "d": "761"
+                },
+                {
+                    "e": "DE-761"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.badoeynhausen.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://webopac.badoeynhausen.de"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Bad Oeynhausen StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtb\u00fccherei Bad Oeynhausen"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Herforder Str. 47-51"
+                },
+                {
+                    "b": "Bad Oeynhausen"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "32545"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "i": "Mo-Di und Do-Fr 10.00-18.00, Sa 10.00-13.00"
+                },
+                {
+                    "k": "8.79658"
+                },
+                {
+                    "l": "52.20384"
+                },
+                {
+                    "n": "05770004"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "5731"
+                },
+                {
+                    "f": "14 34 50"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "5731"
+                },
+                {
+                    "i": "14 19 12"
+                },
+                {
+                    "k": "stadtbuecherei@badoeynhausen.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "07"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "b"
+                },
+                {
+                    "d": "stadtbuecherei@badoeynhausen.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "stadtbuecherei@badoeynhausen.de"
+                }
+            ],
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "stadtbuecherei@badoeynhausen.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-761",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-761",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-761",
+    "identifier": "DE-761",
+    "name": "Stadtb\u00fccherei Bad Oeynhausen",
+    "location": "Bad Oeynhausen",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NRW"
+}

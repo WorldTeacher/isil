@@ -1,0 +1,231 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-1432.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:15-11-07"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:01-10-19"
+                ],
+                {
+                    "t": "12:28:15.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:15-11-07"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "98641249X"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "HQ116"
+                },
+                {
+                    "d": "1432"
+                },
+                {
+                    "e": "DE-1432"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.peissenberg.de/buecherei"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://www.datronic.de/cgi-bin/findus.fcgi.pl?customer=peissenberg"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Pei\u00dfenberg StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "B\u00fccherei Pei\u00dfenberg"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Schongauer Stra\u00dfe 2"
+                },
+                {
+                    "b": "Pei\u00dfenberg"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "82380"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "i": "Di und Do 10.00-19.00, Mi 10.00-13.00, Fr 13.00-18.00"
+                },
+                {
+                    "j": "1.Sa. im Monat 10.00-12.00"
+                },
+                {
+                    "k": "11.06174"
+                },
+                {
+                    "l": "47.79743"
+                },
+                {
+                    "n": "09190139"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "8803"
+                },
+                {
+                    "f": "57 30"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "8803"
+                },
+                {
+                    "i": "49 85 51"
+                },
+                {
+                    "k": "buecherei@peissenberg.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "06"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAY"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "BVB"
+                },
+                {
+                    "d": "BiblioPLUS"
+                },
+                {
+                    "e": "n"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "buecherei@peissenberg.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-1432",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-1432",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-1432",
+    "identifier": "DE-1432",
+    "name": "B\u00fccherei Pei\u00dfenberg",
+    "location": "Pei\u00dfenberg",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAY"
+}

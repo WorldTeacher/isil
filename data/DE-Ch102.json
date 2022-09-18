@@ -1,0 +1,218 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Ch102.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:26-06-20"
+                ],
+                {
+                    "t": "15:02:01.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020590008"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "WB745"
+                },
+                {
+                    "d": "Ch 102"
+                },
+                {
+                    "e": "DE-Ch102"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://rochlitz.bbopac.de/"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Rochlitz StuKrsB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Bibliothek Rochlitz \"Alte Lateinschule\""
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Schulgasse 8"
+                },
+                {
+                    "b": "Rochlitz"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "09306"
+                },
+                {
+                    "f": "Sachsen"
+                },
+                {
+                    "i": "Mo-Di 9.00-17.00, Do 9.00-18.00, Fr 9.00-16.00"
+                },
+                {
+                    "k": "12.80295"
+                },
+                {
+                    "l": "51.04622"
+                },
+                {
+                    "n": "14522490"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Rochlitz"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "09306"
+                },
+                {
+                    "f": "Sachsen"
+                },
+                {
+                    "g": "6"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "3737"
+                },
+                {
+                    "f": "4 29 77"
+                },
+                {
+                    "k": "bibliothek@rochlitz.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "06"
+                },
+                {
+                    "h": "06"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "SAX"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Ch102",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Ch102",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Ch102",
+    "identifier": "DE-Ch102",
+    "name": "Bibliothek Rochlitz \"Alte Lateinschule\"",
+    "location": "Rochlitz",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "SAX"
+}

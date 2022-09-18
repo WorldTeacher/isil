@@ -1,0 +1,227 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Bre2.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:02-03-16"
+                ],
+                {
+                    "t": "11:36:29.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020589700"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "288002-7"
+                },
+                {
+                    "b": "CW974"
+                },
+                {
+                    "d": "Bre 2"
+                },
+                {
+                    "e": "DE-Bre2"
+                },
+                {
+                    "f": "ISL"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.isl.org/de/informationszentrum"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://www.seabase.isl.org"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Bremen Seeverkehrswirtschaft"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Institut f\u00fcr Seeverkehrswirtschaft und Logistik, ISL InfoCenter/Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Universit\u00e4tsallee 11-13"
+                },
+                {
+                    "b": "Bremen"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "28359"
+                },
+                {
+                    "f": "Bremen"
+                },
+                {
+                    "i": "Di-Do 9.00-16.30"
+                },
+                {
+                    "k": "8.84490"
+                },
+                {
+                    "l": "53.10592"
+                },
+                {
+                    "n": "04011000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "421"
+                },
+                {
+                    "f": "2 20 96 44"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "421"
+                },
+                {
+                    "i": "2 20 96 55"
+                },
+                {
+                    "k": "library@isl.org"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0111"
+                },
+                {
+                    "e": "GBV"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "02"
+                },
+                {
+                    "h": "08"
+                },
+                {
+                    "i": "P"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "HAM"
+                },
+                {
+                    "c": "GBV"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Bre2",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Bre2",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Bre2",
+    "identifier": "DE-Bre2",
+    "name": "Institut f\u00fcr Seeverkehrswirtschaft und Logistik, ISL InfoCenter/Bibliothek",
+    "location": "Bremen",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "HAM"
+}

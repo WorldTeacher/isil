@@ -1,0 +1,206 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-1945.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:30-05-13"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:30-05-13"
+                ],
+                {
+                    "t": "15:50:30.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:30-05-13"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1035297094"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "LC797"
+                },
+                {
+                    "d": "1945"
+                },
+                {
+                    "e": "DE-1945"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://buecherei.ehingen.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://buecherei.ehingen.de/website/recherche.html"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Ehingen StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtb\u00fccherei Ehingen"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Hauptstr. 32"
+                },
+                {
+                    "b": "Ehingen/Donau"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "89584"
+                },
+                {
+                    "f": "Baden-W\u00fcrttemberg"
+                },
+                {
+                    "i": "Di 9.00-18.00, Mi und Fr 14.30-18.00, Do 14.30-19.00"
+                },
+                {
+                    "k": "9.72915"
+                },
+                {
+                    "l": "48.28492"
+                },
+                {
+                    "n": "08425033"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "7391"
+                },
+                {
+                    "f": "5 03-560"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "7391"
+                },
+                {
+                    "i": "5 03-566"
+                },
+                {
+                    "k": "stadtbuecherei@ehingen.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "06"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAW"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-1945",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-1945",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-1945",
+    "identifier": "DE-1945",
+    "name": "Stadtb\u00fccherei Ehingen",
+    "location": "Ehingen/Donau",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAW"
+}

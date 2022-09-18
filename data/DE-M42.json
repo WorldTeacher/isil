@@ -1,0 +1,181 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-M42.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:14-03-16"
+                ],
+                {
+                    "t": "08:00:05.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020595360"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "DC709"
+                },
+                {
+                    "d": "M 42"
+                },
+                {
+                    "e": "DE-M42"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Bibliotheca Collegii Georgiani Monacensis"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Professor-Huber-Pl. 1"
+                },
+                {
+                    "b": "M\u00fcnchen"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "80539"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "i": "nicht \u00f6ffentlich zug\u00e4nglich"
+                },
+                {
+                    "k": "11.58195"
+                },
+                {
+                    "l": "48.15012"
+                },
+                {
+                    "n": "09162000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "89"
+                },
+                {
+                    "f": "2 86 20-228"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "89"
+                },
+                {
+                    "i": "2 86 20-210"
+                },
+                {
+                    "k": "info@herzogliches-georgianum.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "07"
+                },
+                {
+                    "h": "07"
+                },
+                {
+                    "i": "P"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAY"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-M42",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-M42",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-M42",
+    "identifier": "DE-M42",
+    "name": "Bibliotheca Collegii Georgiani Monacensis",
+    "location": "M\u00fcnchen",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAY"
+}

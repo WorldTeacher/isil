@@ -1,0 +1,200 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-2966.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9001:02-03-21"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:20-09-21"
+                ],
+                {
+                    "t": "13:08:12.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9001:02-03-21"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1228384673"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "JZ443"
+                },
+                {
+                    "d": "2966"
+                },
+                {
+                    "e": "DE-2966"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.varel.de/bibliothek"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://bibkataloge.de/varel"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Varel Stadtbibliothek"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtbibliothek Varel"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Nebbsallee 5"
+                },
+                {
+                    "b": "Varel"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "26316"
+                },
+                {
+                    "f": "Niedersachsen"
+                },
+                {
+                    "i": "Di. 14.00-18.00, Mi. 10.00-13.00, Do.-Fr. 14.00-18.00, Sa. 10.00-13.00"
+                },
+                {
+                    "k": "8.13975"
+                },
+                {
+                    "l": "53.39639"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "4451"
+                },
+                {
+                    "f": "861608"
+                },
+                {
+                    "k": "buecherei@varel.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "06"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NIE"
+                },
+                {
+                    "c": "GBV"
+                },
+                {
+                    "d": "\u00d6VK"
+                },
+                {
+                    "e": "n"
+                },
+                {
+                    "g": "R"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-2966",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-2966",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-2966",
+    "identifier": "DE-2966",
+    "name": "Stadtbibliothek Varel",
+    "location": "Varel",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NIE"
+}

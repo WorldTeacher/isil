@@ -1,0 +1,235 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-894.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:17-02-16"
+                ],
+                {
+                    "t": "13:33:11.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020586728"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "GB643"
+                },
+                {
+                    "d": "894"
+                },
+                {
+                    "e": "DE-894"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://buecherei.voelklingen.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://www.voelklingen.de/index.php?id=bibsearch"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "V\u00f6lklingen StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtbibliothek V\u00f6lklingen"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Bismarckstr. 1"
+                },
+                {
+                    "b": "V\u00f6lklingen"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "66333"
+                },
+                {
+                    "f": "Saarland"
+                },
+                {
+                    "i": "Di und Do 10.00-17.00, Mi 10.00-18.00, Fr 10.00-14.00"
+                },
+                {
+                    "k": "6.85514"
+                },
+                {
+                    "l": "49.24949"
+                },
+                {
+                    "n": "10041519"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "V\u00f6lklingen"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "66310"
+                },
+                {
+                    "f": "Saarland"
+                },
+                {
+                    "g": "10 20 40"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "6898"
+                },
+                {
+                    "f": "13-2433"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "6898"
+                },
+                {
+                    "i": "13-2588"
+                },
+                {
+                    "k": "buecherei@vhs-voelklingen.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "07"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-894",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-894",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-894",
+    "identifier": "DE-894",
+    "name": "Stadtbibliothek V\u00f6lklingen",
+    "location": "V\u00f6lklingen",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAW"
+}

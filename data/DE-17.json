@@ -1,0 +1,276 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-17.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:18-11-99"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:02-12-20"
+                ],
+                {
+                    "t": "14:01:37.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "009013997"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "611000-9"
+                },
+                {
+                    "b": "AL017"
+                },
+                {
+                    "d": "17"
+                },
+                {
+                    "e": "DE-17"
+                },
+                {
+                    "f": "TUDA"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.ulb.tu-darmstadt.de/17_000"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "ULB"
+                },
+                {
+                    "4": "a"
+                }
+            ],
+            [
+                {
+                    "a": "Darmstadt ULB-Stadtmitte"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "TU Darmstadt, Universit\u00e4ts- und Landesbibliothek - Stadtmitte"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Magdalenenstr. 8"
+                },
+                {
+                    "b": "Darmstadt"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "64289"
+                },
+                {
+                    "f": "Hessen"
+                },
+                {
+                    "j": "siehe Webseite"
+                },
+                {
+                    "k": "8.65798"
+                },
+                {
+                    "l": "49.87674"
+                },
+                {
+                    "n": "06411000"
+                },
+                {
+                    "o": "Rollstuhlgerechte Zug\u00e4nge, alle Geschosse per Aufzug erreichbar, Brandwarnsystem f\u00fcr H\u00f6rgesch\u00e4digte ausleihbar, Greifhilfe ausleihbar"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "k": "service-info@ulb.tu-darmstadt.de"
+                },
+                {
+                    "l": "Service und Information"
+                }
+            ],
+            [
+                {
+                    "a": "W"
+                },
+                {
+                    "b": "Fernleihe"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "k": "fernleihe@ulb.tu-darmstadt.de"
+                }
+            ]
+        ],
+        "035D": [
+            [
+                {
+                    "b": "GyDaH (fr\u00fcherer MARC Code)"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0024"
+                },
+                {
+                    "e": "HBV"
+                },
+                {
+                    "f": "60"
+                },
+                {
+                    "g": "02"
+                },
+                {
+                    "h": "10"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Ingenieurwissenschaften"
+                },
+                {
+                    "a": "Naturwissenschaften"
+                },
+                {
+                    "a": "Hessen-Darmstadt"
+                },
+                {
+                    "a": "Patentwesen"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "HES"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "HeBIS"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035J": [
+            [
+                {
+                    "a": "Regionale Leitbibliothek f\u00fcr \u00f6ffentliche Bibliotheken der Region"
+                }
+            ]
+        ],
+        "035K": [
+            [
+                {
+                    "b": "A"
+                }
+            ]
+        ],
+        "035O": [
+            [
+                {
+                    "a": "FZL DE-620"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-17",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-17",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-17",
+    "identifier": "DE-17",
+    "name": "TU Darmstadt, Universit\u00e4ts- und Landesbibliothek - Stadtmitte",
+    "location": "Darmstadt",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "HES"
+}

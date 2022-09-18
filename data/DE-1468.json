@@ -1,0 +1,233 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-1468.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:30-11-07"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:28-11-16"
+                ],
+                {
+                    "t": "11:46:41.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:30-11-07"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "986643610"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "GG665"
+                },
+                {
+                    "d": "1468"
+                },
+                {
+                    "e": "DE-1468"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.gangkofen.de/index.php?id=0,53"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://www.datronic.de/cgi-bin/findus.fcgi.pl?customer=gangkofen"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Gemeindeb\u00fccherei Gangkofen"
+                },
+                {
+                    "4": "a"
+                }
+            ],
+            [
+                {
+                    "a": "Gangkofen StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "\u00d6ffentliche B\u00fccherei der Gemeinde Gangkofen"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Waisenhausstr. 25"
+                },
+                {
+                    "b": "Gangkofen"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "84140"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "i": "Di und Fr 9.30-13.00 und 15.30-18.00, Mi 9.30-13.00"
+                },
+                {
+                    "k": "12.57072"
+                },
+                {
+                    "l": "48.43710"
+                },
+                {
+                    "n": "09277121"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "8722"
+                },
+                {
+                    "f": "94 45 15"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "8722"
+                },
+                {
+                    "i": "94 94 20"
+                },
+                {
+                    "k": "Buecherei.Gangkofen@t-online.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "06"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAY"
+                },
+                {
+                    "c": "BVB"
+                },
+                {
+                    "e": "n"
+                },
+                {
+                    "g": "R"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "Buecherei.Gangkofen@t-online.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-1468",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-1468",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-1468",
+    "identifier": "DE-1468",
+    "name": "\u00d6ffentliche B\u00fccherei der Gemeinde Gangkofen",
+    "location": "Gangkofen",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAY"
+}

@@ -1,0 +1,258 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Bo109.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:28-11-16"
+                ],
+                {
+                    "t": "11:25:04.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020589417"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "CZ203"
+                },
+                {
+                    "d": "Bo 109"
+                },
+                {
+                    "e": "DE-Bo109"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.bmi.bund.de/DE/Home/startseite_node.html"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Bonn BMI"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Bundesministerium des Innern, Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Graurheindorfer Str. 198"
+                },
+                {
+                    "b": "Bonn"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "53117"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "i": "nicht \u00f6ffentlich zug\u00e4nglich"
+                },
+                {
+                    "k": "7.09161"
+                },
+                {
+                    "l": "50.75136"
+                },
+                {
+                    "n": "05314000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Bonn"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "53108"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "g": "17 02 90"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "228"
+                },
+                {
+                    "f": "9 96 81-3999"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "228"
+                },
+                {
+                    "i": "9 96 81-3879"
+                },
+                {
+                    "k": "bibliothek@bmi.bund.de"
+                }
+            ]
+        ],
+        "035D": [
+            [
+                {
+                    "a": "Bo 103"
+                }
+            ],
+            [
+                {
+                    "a": "Bo 178"
+                }
+            ],
+            [
+                {
+                    "a": "B 1553"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "01"
+                },
+                {
+                    "h": "08"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Recht"
+                },
+                {
+                    "a": "Politik"
+                },
+                {
+                    "a": "Sport"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ],
+        "047A": [
+            [
+                {
+                    "a": "Die Bibliothek des BMI ist eine Bibliothek an zwei Standorten: Bonn und Berlin. (Anschrift des Berliner Dienstsitzes: Bibliothek des BMI, Alt Moabit 140, 10557 Berlin). Die Bibliothek des BMI ist in Verwaltungsgemeinschaft auch t\u00e4tig f\u00fcr den BKM, das BISp und das StBA (Zweigstelle Bonn)"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Bo109",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Bo109",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Bo109",
+    "identifier": "DE-Bo109",
+    "name": "Bundesministerium des Innern, Bibliothek",
+    "location": "Bonn",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NRW"
+}

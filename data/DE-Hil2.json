@@ -1,0 +1,312 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Hil2.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:18-11-99"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:02-07-19"
+                ],
+                {
+                    "t": "16:16:36.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "00900341X"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "321000-5"
+                },
+                {
+                    "b": "AN087"
+                },
+                {
+                    "d": "Hil 2"
+                },
+                {
+                    "e": "DE-Hil2"
+                },
+                {
+                    "f": "UBHI"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.uni-hildesheim.de/bibliothek/"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://hilkat.uni-hildesheim.de/vufind/"
+                },
+                {
+                    "z": "B"
+                }
+            ],
+            [
+                {
+                    "u": "http://sru.gbv.de/opac-de-hil2"
+                },
+                {
+                    "x": "SRU"
+                },
+                {
+                    "z": "W"
+                }
+            ],
+            [
+                {
+                    "u": "https://paia.gbv.de/DE-Hil2/"
+                },
+                {
+                    "x": "PAIA"
+                },
+                {
+                    "z": "W"
+                }
+            ],
+            [
+                {
+                    "u": "https://paia.gbv.de/DE-Hil2/daia"
+                },
+                {
+                    "x": "DAIA"
+                },
+                {
+                    "z": "W"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Hildesheim UB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Universit\u00e4tsbibliothek Hildesheim"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Universit\u00e4tspl. 1"
+                },
+                {
+                    "b": "Hildesheim"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "31141"
+                },
+                {
+                    "f": "Niedersachsen"
+                },
+                {
+                    "i": "Mo-Fr 9.00-21.00, Sa 10.00-18.00"
+                },
+                {
+                    "k": "9.97450"
+                },
+                {
+                    "l": "52.13426"
+                },
+                {
+                    "n": "03254021"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "5121"
+                },
+                {
+                    "f": "8 83-93010"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "5121"
+                },
+                {
+                    "i": "8 83-93011"
+                },
+                {
+                    "k": "auskunft@uni-hildesheim.de"
+                },
+                {
+                    "l": "Auskunft"
+                }
+            ],
+            [
+                {
+                    "a": "W"
+                },
+                {
+                    "b": "Fernleihe"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "5121"
+                },
+                {
+                    "f": "8 83-93050"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "5121"
+                },
+                {
+                    "i": "8 83-93051"
+                },
+                {
+                    "k": "fernleihe@uni-hildesheim.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0104"
+                },
+                {
+                    "e": "GBV"
+                },
+                {
+                    "f": "60"
+                },
+                {
+                    "g": "02"
+                },
+                {
+                    "h": "09"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NIE"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "GBV"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035K": [
+            [
+                {
+                    "b": "A"
+                }
+            ]
+        ],
+        "035O": [
+            [
+                {
+                    "a": "FZL DE-622"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Hil2",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Hil2",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Hil2",
+    "identifier": "DE-Hil2",
+    "name": "Universit\u00e4tsbibliothek Hildesheim",
+    "location": "Hildesheim",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NIE"
+}

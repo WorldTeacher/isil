@@ -1,0 +1,210 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/AT-UBS-HB.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:29-11-04"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:12-07-21"
+                ],
+                {
+                    "t": "13:44:47.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "026770652"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "030009-3"
+                },
+                {
+                    "c": "15.215.0000-9"
+                },
+                {
+                    "d": "AT-UBS-HB"
+                },
+                {
+                    "e": "AT-UBS-HB"
+                },
+                {
+                    "f": "UBSBG"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "https://www.plus.ac.at/universitaetsbibliothek/"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://ubsearch.sbg.ac.at/primo_library/libweb/action/search.do?vid=USB"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Salzburg Univ. HB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Universit\u00e4t Salzburg, Hauptbibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Hofstallgasse 2-4"
+                },
+                {
+                    "b": "Salzburg"
+                },
+                {
+                    "d": "AT"
+                },
+                {
+                    "e": "A-5020"
+                },
+                {
+                    "f": "\u00d6sterreich"
+                },
+                {
+                    "k": "13.04139"
+                },
+                {
+                    "l": "47.79912"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "43"
+                },
+                {
+                    "e": "662"
+                },
+                {
+                    "f": "80 44-77550"
+                },
+                {
+                    "g": "43"
+                },
+                {
+                    "h": "662"
+                },
+                {
+                    "i": "80 44-103"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "c": "0157"
+                },
+                {
+                    "e": "\u00d6BV"
+                },
+                {
+                    "f": "60"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "WEU"
+                },
+                {
+                    "c": "\u00d6BV"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ],
+        "047A": [
+            [
+                {
+                    "a": "Allgemein (\u00f6ffentlich) zug\u00e4nglich"
+                }
+            ]
+        ]
+    },
+    "_id": "AT-UBS-HB",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/AT-UBS-HB",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/AT-UBS-HB",
+    "identifier": "AT-UBS-HB",
+    "name": "Universit\u00e4t Salzburg, Hauptbibliothek",
+    "location": "Salzburg",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "WEU"
+}

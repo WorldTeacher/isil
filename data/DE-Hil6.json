@@ -1,0 +1,261 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Hil6.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:13-05-09"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:28-01-16"
+                ],
+                {
+                    "t": "16:36:57.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:13-05-09"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "994251327"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "DB663"
+                },
+                {
+                    "d": "Hil 6"
+                },
+                {
+                    "e": "DE-Hil6"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.dombibliothek-hildesheim.de/"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://vzlbs2.gbv.de/DB=53/SET=1/TTL=1/"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Hildesheim Dombibl."
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Dombibliothek Hildesheim"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Domhof 30"
+                },
+                {
+                    "b": "Hildesheim"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "31134"
+                },
+                {
+                    "f": "Niedersachsen"
+                },
+                {
+                    "i": "Di-Fr 9.00-16.30"
+                },
+                {
+                    "k": "9.94745"
+                },
+                {
+                    "l": "52.14997"
+                },
+                {
+                    "n": "03254021"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Hildesheim"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "31102"
+                },
+                {
+                    "f": "Niedersachsen"
+                },
+                {
+                    "g": "10 02 63"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "5121"
+                },
+                {
+                    "f": "1 38 30"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "5121"
+                },
+                {
+                    "i": "13 83 13"
+                },
+                {
+                    "k": "dombibliothek@bistum-hildesheim.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "10"
+                },
+                {
+                    "h": "08"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Bistum Hildesheim <Regionalgeschichte>"
+                },
+                {
+                    "a": "Buchwesen"
+                },
+                {
+                    "a": "Theologie"
+                },
+                {
+                    "a": "Geschichte"
+                },
+                {
+                    "a": "Kirchengeschichte"
+                },
+                {
+                    "a": "Kunstgeschichte"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NIE"
+                },
+                {
+                    "c": "GBV"
+                },
+                {
+                    "e": "k"
+                }
+            ]
+        ],
+        "047A": [
+            [
+                {
+                    "a": "Altbestandsbibliothek"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Hil6",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Hil6",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Hil6",
+    "identifier": "DE-Hil6",
+    "name": "Dombibliothek Hildesheim",
+    "location": "Hildesheim",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NIE"
+}

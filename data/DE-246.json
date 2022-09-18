@@ -1,0 +1,276 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-246.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:18-11-99"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:01-09-15"
+                ],
+                {
+                    "t": "13:35:45.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:27-05-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "009024255"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "878246-5"
+                },
+                {
+                    "b": "AE246"
+                },
+                {
+                    "d": "246"
+                },
+                {
+                    "e": "DE-246"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.schweinfurt.de/kultur-tourismus/stadtarchiv-bibliothek/504.Stadtarchiv_und_Stadtbibliothek_Schweinfurt.html"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Schweinfurt StBi"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtarchiv und Stadtbibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Martin-Luther-Pl. 20"
+                },
+                {
+                    "b": "Schweinfurt"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "97421"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "i": "Di und Mi 9.00-12.00 und 13.00-16.00, Do 9.00-12.00 und 13.00-17.00"
+                },
+                {
+                    "k": "10.23177"
+                },
+                {
+                    "l": "50.04607"
+                },
+                {
+                    "n": "09662000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Schweinfurt"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "97420"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "9721"
+                },
+                {
+                    "f": "51-383"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "9721"
+                },
+                {
+                    "i": "51-728"
+                },
+                {
+                    "k": "stadtarchiv@schweinfurt.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0167"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "07"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Schweinfurt"
+                },
+                {
+                    "a": "Franken"
+                },
+                {
+                    "a": "Bayern"
+                },
+                {
+                    "a": "Historische Literatur"
+                },
+                {
+                    "a": "R\u00fcckert, Friedrich"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAY"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "BVB"
+                },
+                {
+                    "d": "Kalliope"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "lesesaal@schweinfurt.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "lesesaal@schweinfurt.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-246",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-246",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-246",
+    "identifier": "DE-246",
+    "name": "Stadtarchiv und Stadtbibliothek",
+    "location": "Schweinfurt",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAY"
+}

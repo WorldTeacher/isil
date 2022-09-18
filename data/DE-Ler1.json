@@ -1,0 +1,180 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Ler1.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:22-03-10"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:11-05-22"
+                ],
+                {
+                    "t": "12:52:53.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:22-03-10"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1001027310"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "101108-X"
+                },
+                {
+                    "d": "Ler 1"
+                },
+                {
+                    "e": "DE-Ler1"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.leer.de/index.phtml?such=stadtarchiv"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Leer Stadtarchiv"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtarchiv Leer"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Rathausstr. 1"
+                },
+                {
+                    "b": "Leer/Ostfriesland"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "26770"
+                },
+                {
+                    "f": "Niedersachsen"
+                },
+                {
+                    "k": "7.45064"
+                },
+                {
+                    "l": "53.22744"
+                },
+                {
+                    "n": "03457013"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "k": "archiv@leer.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0367"
+                },
+                {
+                    "f": "52"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "01"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NIE"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Ler1",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Ler1",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Ler1",
+    "identifier": "DE-Ler1",
+    "name": "Stadtarchiv Leer",
+    "location": "Leer/Ostfriesland",
+    "type": [
+        "Organization",
+        "Archive"
+    ],
+    "addressRegion": "NIE"
+}

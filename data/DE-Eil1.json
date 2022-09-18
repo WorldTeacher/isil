@@ -1,0 +1,209 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Eil1.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:01-02-22"
+                ],
+                {
+                    "t": "12:53:03.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020590784"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "WB496"
+                },
+                {
+                    "d": "Eil 1"
+                },
+                {
+                    "e": "DE-Eil1"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "https://www.kulturunternehmung.de/bibliothek.php"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://sb-eilenburg.lmscloud.net/"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Eilenburg StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtbibliothek Eilenburg"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Torgauer Str. 40"
+                },
+                {
+                    "b": "Eilenburg"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "04838"
+                },
+                {
+                    "f": "Sachsen"
+                },
+                {
+                    "k": "12.63480"
+                },
+                {
+                    "l": "51.46052"
+                },
+                {
+                    "n": "14730110"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "3423"
+                },
+                {
+                    "f": "65 22 20"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "3423"
+                },
+                {
+                    "i": "65 22 25"
+                },
+                {
+                    "k": "bibliothek@eilenburg.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "06"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "SAX"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Eil1",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Eil1",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Eil1",
+    "identifier": "DE-Eil1",
+    "name": "Stadtbibliothek Eilenburg",
+    "location": "Eilenburg",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "SAX"
+}

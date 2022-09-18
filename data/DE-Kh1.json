@@ -1,0 +1,239 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Kh1.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:18-11-99"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:30-10-19"
+                ],
+                {
+                    "t": "10:30:12.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "00902204X"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "765000-0"
+                },
+                {
+                    "b": "DK388"
+                },
+                {
+                    "d": "Kh 1"
+                },
+                {
+                    "e": "DE-Kh1"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.hs-kehl.de/hochschule/zentrale-einrichtungen/iz-bibliothek/"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Kehl HS"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Hochschule Kehl, Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Kinzigallee 1"
+                },
+                {
+                    "b": "Kehl"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "77694"
+                },
+                {
+                    "f": "Baden-W\u00fcrttemberg"
+                },
+                {
+                    "k": "7.81767"
+                },
+                {
+                    "l": "48.57503"
+                },
+                {
+                    "n": "08317057"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Kehl"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "77675"
+                },
+                {
+                    "f": "Baden-W\u00fcrttemberg"
+                },
+                {
+                    "g": "15 49"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "7851"
+                },
+                {
+                    "f": "8 94-148"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "7851"
+                },
+                {
+                    "i": "8 94-5148"
+                },
+                {
+                    "k": "fernleihe@hs-kehl.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0031"
+                },
+                {
+                    "d": "SWB"
+                },
+                {
+                    "f": "70"
+                },
+                {
+                    "g": "02"
+                },
+                {
+                    "h": "07"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "SWB"
+                },
+                {
+                    "e": "k"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Kh1",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Kh1",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Kh1",
+    "identifier": "DE-Kh1",
+    "name": "Hochschule Kehl, Bibliothek",
+    "location": "Kehl",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAW"
+}

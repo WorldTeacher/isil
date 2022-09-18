@@ -1,0 +1,241 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-968.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:20-09-21"
+                ],
+                {
+                    "t": "13:13:04.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020587309"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "GM791"
+                },
+                {
+                    "d": "968"
+                },
+                {
+                    "e": "DE-968"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "https://www.wedemark.de/"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://bibkataloge.de/wedemark"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Wedemark GB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Gemeindebibliothek Wedemark, Ausleihstelle Bissendorf"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Gottfried-August-B\u00fcrger-Str. 3"
+                },
+                {
+                    "b": "Wedemark"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "30900"
+                },
+                {
+                    "f": "Niedersachsen"
+                },
+                {
+                    "i": "Di 9.00-13.00 und 15.00-17.00, Mi 9.00-13.00, Do 15.00-17.00, Fr 9.00-13.00 und 15.00-17.00"
+                },
+                {
+                    "k": "9.75659"
+                },
+                {
+                    "l": "52.52324"
+                },
+                {
+                    "n": "03241019"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Wedemark"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "30891"
+                },
+                {
+                    "f": "Niedersachsen"
+                },
+                {
+                    "g": "10 01 65"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "5130"
+                },
+                {
+                    "f": "71 68"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "5130"
+                },
+                {
+                    "i": "95 96 53 50"
+                },
+                {
+                    "k": "Gemeindebibliothek@Wedemark.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "07"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NIE"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "GBV"
+                },
+                {
+                    "d": "\u00d6VK"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-968",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-968",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-968",
+    "identifier": "DE-968",
+    "name": "Gemeindebibliothek Wedemark, Ausleihstelle Bissendorf",
+    "location": "Wedemark",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NIE"
+}

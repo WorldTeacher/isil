@@ -1,0 +1,250 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Bo56.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:18-11-99"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:16-11-20"
+                ],
+                {
+                    "t": "11:09:16.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "009036725"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "538056-X"
+                },
+                {
+                    "b": "BZ192"
+                },
+                {
+                    "d": "Bo 56"
+                },
+                {
+                    "e": "DE-Bo56"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.klinik-bonn.lvr.de/"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Bonn LVR Klinik"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "LVR-Klinik, Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Kaiser-Karl-Ring 20"
+                },
+                {
+                    "b": "Bonn"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "53111"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "i": "nicht \u00f6ffentlich zug\u00e4nglich"
+                },
+                {
+                    "k": "7.08872"
+                },
+                {
+                    "l": "50.74531"
+                },
+                {
+                    "n": "05314000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Bonn"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "53108"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "228"
+                },
+                {
+                    "f": "5 51-2157"
+                },
+                {
+                    "k": "RKBN.Bibliothek@lvr.de"
+                }
+            ]
+        ],
+        "035D": [
+            [
+                {
+                    "a": "Bo 57"
+                },
+                {
+                    "b": "DE-Bo57"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0014"
+                },
+                {
+                    "d": "HBZ"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "06"
+                },
+                {
+                    "h": "06"
+                },
+                {
+                    "i": "P"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Psychiatrie"
+                },
+                {
+                    "a": "Psychologie"
+                },
+                {
+                    "a": "Neurologie"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "c": "GBV"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Bo56",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Bo56",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Bo56",
+    "identifier": "DE-Bo56",
+    "name": "LVR-Klinik, Bibliothek",
+    "location": "Bonn",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NRW"
+}

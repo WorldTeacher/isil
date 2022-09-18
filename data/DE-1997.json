@@ -1,0 +1,210 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-1997.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:15-11-13"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:28-01-16"
+                ],
+                {
+                    "t": "16:25:18.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:15-11-13"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1044188898"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "JC452"
+                },
+                {
+                    "d": "1997"
+                },
+                {
+                    "e": "DE-1997"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.burgthann.de/leben-wohnen/buecherei.html"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://burgthann-findus.opac.datronic.de/cgi-bin/findus.fcgi.pl?customer=burgthann"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Burgthann StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Gemeindeb\u00fccherei Burgthann"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Mimberger Str. 28"
+                },
+                {
+                    "b": "Burgthann"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "90559"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "i": "Mo-Di 10.30-14.00, Do-Fr 13.00-18.00"
+                },
+                {
+                    "k": "11.31096"
+                },
+                {
+                    "l": "49.35169"
+                },
+                {
+                    "n": "09574117"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "9183"
+                },
+                {
+                    "f": "95 09 32"
+                },
+                {
+                    "k": "info@buecherei-burgthann.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "06"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAY"
+                },
+                {
+                    "e": "n"
+                },
+                {
+                    "g": "R"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "info@buecherei-burgthann.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-1997",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-1997",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-1997",
+    "identifier": "DE-1997",
+    "name": "Gemeindeb\u00fccherei Burgthann",
+    "location": "Burgthann",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAY"
+}

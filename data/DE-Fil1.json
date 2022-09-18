@@ -1,0 +1,189 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Fil1.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:22-02-10"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:11-05-22"
+                ],
+                {
+                    "t": "14:22:57.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:22-02-10"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1000363376"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "101214-9"
+                },
+                {
+                    "d": "Fil 1"
+                },
+                {
+                    "e": "DE-Fil1"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.filderstadt.de/,Lde/start/service/Stadtarchiv.html"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Filderstadt Stadtarchiv"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtarchiv Filderstadt"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Lange Str. 83"
+                },
+                {
+                    "b": "Filderstadt"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "70794"
+                },
+                {
+                    "f": "Baden-W\u00fcrttemberg"
+                },
+                {
+                    "k": "9.23576"
+                },
+                {
+                    "l": "48.66705"
+                },
+                {
+                    "n": "08116077"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "7158"
+                },
+                {
+                    "f": "82 19"
+                },
+                {
+                    "k": "archiv@filderstadt.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0367"
+                },
+                {
+                    "f": "52"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "01"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAW"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Fil1",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Fil1",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Fil1",
+    "identifier": "DE-Fil1",
+    "name": "Stadtarchiv Filderstadt",
+    "location": "Filderstadt",
+    "type": [
+        "Organization",
+        "Archive"
+    ],
+    "addressRegion": "BAW"
+}

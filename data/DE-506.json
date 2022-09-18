@@ -1,0 +1,268 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-506.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:08-11-16"
+                ],
+                {
+                    "t": "16:24:13.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020584598"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "AB506"
+                },
+                {
+                    "d": "506"
+                },
+                {
+                    "e": "DE-506"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://medienzentrum.teltow-flaeming.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://medienzentrum.teltow-flaeming.de/webopac/"
+                },
+                {
+                    "z": "B"
+                }
+            ],
+            [
+                {
+                    "u": "http://medienzentrum.teltow-flaeming.de/fahrbibliothek/tourenplan.html"
+                },
+                {
+                    "x": "\u00d6ffnungszeiten"
+                },
+                {
+                    "z": "W"
+                }
+            ],
+            [
+                {
+                    "u": "http://medienzentrum.teltow-flaeming.de/service/satzungen.html"
+                },
+                {
+                    "x": "Nutzung"
+                },
+                {
+                    "z": "W"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Kreismedienzentrum in Luckenwalde"
+                },
+                {
+                    "4": "a"
+                }
+            ],
+            [
+                {
+                    "a": "Luckenwalde KMZ"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Kreismedienzentrum Teltow-Fl\u00e4ming"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Puschkinstr. 11"
+                },
+                {
+                    "b": "Luckenwalde"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "14943"
+                },
+                {
+                    "f": "Brandenburg"
+                },
+                {
+                    "i": "Di 7.30-11.30 und 13.00-15.30, Do 7.30-11.30 und 13.00-17.30"
+                },
+                {
+                    "j": "\u00d6ffnungszeiten gelten nur f\u00fcr die Kreisbildstelle! \u00d6ffnungszeiten der Fahrbibliothek lt. Fahrplan!"
+                },
+                {
+                    "k": "13.16053"
+                },
+                {
+                    "l": "52.09027"
+                },
+                {
+                    "n": "12072232"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "a": "Landkreis Teltow-Fl\u00e4ming, Kreisverwaltung, Amt f\u00fcr Bildung und Kultur, Kreismedienzentrum, Am Nutheflie\u00df 2"
+                },
+                {
+                    "b": "Luckenwalde"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "14943"
+                },
+                {
+                    "f": "Brandenburg"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "3371"
+                },
+                {
+                    "f": "62 73-12 (Leiterin) und -13 (Kreisbildstelle)"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "3371"
+                },
+                {
+                    "i": "62 73-19"
+                },
+                {
+                    "k": "kreisbibliothek@teltow-flaeming.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "03"
+                },
+                {
+                    "h": "07"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BER"
+                },
+                {
+                    "c": "KOBV"
+                },
+                {
+                    "d": "VOEB"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-506",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-506",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-506",
+    "identifier": "DE-506",
+    "name": "Kreismedienzentrum Teltow-Fl\u00e4ming",
+    "location": "Luckenwalde",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BER"
+}

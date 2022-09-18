@@ -1,0 +1,203 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-1885.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:15-03-12"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:07-04-17"
+                ],
+                {
+                    "t": "09:31:41.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:15-03-12"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1020713941"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "GG288"
+                },
+                {
+                    "d": "1885"
+                },
+                {
+                    "e": "DE-1885"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.kultur-bad-vilbel.de/stadtbibliothek/"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://webopac.winbiap.de/badvilbel/index.aspx"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Bad Vilbel StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtbibliothek Bad Vilbel"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Niddapl. 2"
+                },
+                {
+                    "b": "Bad Vilbel"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "61118"
+                },
+                {
+                    "f": "Hessen"
+                },
+                {
+                    "k": "8.73976"
+                },
+                {
+                    "l": "50.18114"
+                },
+                {
+                    "n": "06440003"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "6101"
+                },
+                {
+                    "f": "40 73 21"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "6101"
+                },
+                {
+                    "i": "40 73 22 22"
+                },
+                {
+                    "k": "stadtbibliothek@bad-vilbel.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "06"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "HES"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-1885",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-1885",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-1885",
+    "identifier": "DE-1885",
+    "name": "Stadtbibliothek Bad Vilbel",
+    "location": "Bad Vilbel",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "HES"
+}

@@ -1,0 +1,261 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-L152.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "0292:29-10-20"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:03-12-21"
+                ],
+                {
+                    "t": "11:36:38.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "0292:29-10-20"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1220453102"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "958459-6"
+                },
+                {
+                    "b": "EH129"
+                },
+                {
+                    "d": "L 152"
+                },
+                {
+                    "e": "DE-L152"
+                },
+                {
+                    "f": "HMTL"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "https://www.hmt-leipzig.de/bibliothek"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://katalog.hmt-leipzig.de"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Leipzig HMT"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Hochschule f\u00fcr Musik und Theater 'Felix Mendelssohn Bartholdy' Leipzig, Bibliothek und Archiv"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Grassistr. 8"
+                },
+                {
+                    "b": "Leipzig"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "04107"
+                },
+                {
+                    "f": "Sachsen"
+                },
+                {
+                    "i": "Mo-Do 11.00-19.00, Fr 11.00-14.00"
+                },
+                {
+                    "k": "12.36645"
+                },
+                {
+                    "l": "51.33285"
+                },
+                {
+                    "n": "14713000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Leipzig"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "04008"
+                },
+                {
+                    "f": "Sachsen"
+                },
+                {
+                    "g": "8 09"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "341"
+                },
+                {
+                    "f": "21 44-630 (Leitung) und -633 (Ausleihe/Auskunft)"
+                },
+                {
+                    "k": "bibliothek@hmt-leipzig.de"
+                }
+            ]
+        ],
+        "035D": [
+            [
+                {
+                    "a": "Wim 3"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0342"
+                },
+                {
+                    "d": "SWB"
+                },
+                {
+                    "f": "70"
+                },
+                {
+                    "g": "02"
+                },
+                {
+                    "h": "08"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Musikalien"
+                },
+                {
+                    "a": "Musikwissenschaft"
+                },
+                {
+                    "a": "Theater"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "SAX"
+                },
+                {
+                    "c": "SWB"
+                },
+                {
+                    "d": "Kalliope"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-L152",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-L152",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-L152",
+    "identifier": "DE-L152",
+    "name": "Hochschule f\u00fcr Musik und Theater 'Felix Mendelssohn Bartholdy' Leipzig, Bibliothek und Archiv",
+    "location": "Leipzig",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "SAX"
+}

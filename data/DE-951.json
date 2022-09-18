@@ -1,0 +1,260 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-951.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:22-10-19"
+                ],
+                {
+                    "t": "10:06:32.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020587139"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "753100-X"
+                },
+                {
+                    "b": "DD386"
+                },
+                {
+                    "d": "951"
+                },
+                {
+                    "e": "DE-951"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.hs-pforzheim.de/De-de/Hochschule/Einrichtungen/Bibliothek/Seiten/Inhaltseite.aspx"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://bsz.ibs-bw.de/hspf"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Pforzheim HS Gestalt"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Hochschulbibliothek Pforzheim, Bereichsbibliothek Technik und Wirtschaft"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Tiefenbronner Str. 65"
+                },
+                {
+                    "b": "Pforzheim"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "75175"
+                },
+                {
+                    "f": "Baden-W\u00fcrttemberg"
+                },
+                {
+                    "i": "Mo-Fr 8.00-21.00, Sa 14.00-19.00"
+                },
+                {
+                    "j": "w\u00e4hrend der vorlesungs- und pr\u00fcfungsfreien Zeit: Mo-Fr 8.00-18.00"
+                },
+                {
+                    "k": "8.71706"
+                },
+                {
+                    "l": "48.87890"
+                },
+                {
+                    "n": "08231000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "7231"
+                },
+                {
+                    "f": "28-6234 (Auskunft) und -6232 (Fernleihe)"
+                },
+                {
+                    "k": "bibliothek@hs-pforzheim.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0154"
+                },
+                {
+                    "d": "SWB"
+                },
+                {
+                    "f": "70"
+                },
+                {
+                    "g": "02"
+                },
+                {
+                    "h": "08"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Wirtschaftswissenschaften"
+                },
+                {
+                    "a": "Technik"
+                },
+                {
+                    "a": "Wirtschaftsrecht"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "SWB"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "b"
+                },
+                {
+                    "d": "bibliothek@hs-pforzheim.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "bibliothek@hs-pforzheim.de"
+                }
+            ],
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "bibliothek@hs-pforzheim.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-951",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-951",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-951",
+    "identifier": "DE-951",
+    "name": "Hochschulbibliothek Pforzheim, Bereichsbibliothek Technik und Wirtschaft",
+    "location": "Pforzheim",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAW"
+}

@@ -1,0 +1,163 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/AT-OBV.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:24-02-15"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:11-03-16"
+                ],
+                {
+                    "t": "17:03:46.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:24-02-15"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1067481141"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "e": "AT-OBV"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.obvsg.at"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://opac.obvsg.at/acc01"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Wien OBV"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "\u00d6sterreichischer Bibliothekenverbund"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "c/o Die \u00d6sterreichische Bibliothekenverbund und Service GmbH, Raimundgasse 1/3"
+                },
+                {
+                    "b": "Wien"
+                },
+                {
+                    "d": "AT"
+                },
+                {
+                    "e": "A-1020"
+                },
+                {
+                    "f": "\u00d6sterreich"
+                },
+                {
+                    "k": "16.37519"
+                },
+                {
+                    "l": "48.21986"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "k": "office@obvsg.at"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "f": "96"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "c": "\u00d6BV"
+                }
+            ]
+        ]
+    },
+    "_id": "AT-OBV",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/AT-OBV",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/AT-OBV",
+    "identifier": "AT-OBV",
+    "name": "\u00d6sterreichischer Bibliothekenverbund",
+    "location": "Wien",
+    "type": [
+        "Organization",
+        "Organization"
+    ]
+}

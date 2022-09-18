@@ -1,0 +1,192 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/AT-LAT.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:29-11-04"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:17-07-15"
+                ],
+                {
+                    "t": "11:03:47.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "026770989"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "030042-1"
+                },
+                {
+                    "c": "37.017.0000-X"
+                },
+                {
+                    "d": "AT-LAT"
+                },
+                {
+                    "e": "AT-LAT"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Innsbruck Tiroler Landesarchiv"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Tiroler Landesarchiv"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Michael-Gaismair-Str. 1"
+                },
+                {
+                    "b": "Innsbruck"
+                },
+                {
+                    "d": "AT"
+                },
+                {
+                    "e": "A-6010"
+                },
+                {
+                    "f": "\u00d6sterreich"
+                },
+                {
+                    "k": "11.39461"
+                },
+                {
+                    "l": "47.25993"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "43"
+                },
+                {
+                    "e": "512"
+                },
+                {
+                    "f": "5 08-3500"
+                },
+                {
+                    "g": "43"
+                },
+                {
+                    "h": "512"
+                },
+                {
+                    "i": "5 08-3505"
+                },
+                {
+                    "k": "landesarchiv@tirol.gv.at"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "c": "0157"
+                },
+                {
+                    "e": "\u00d6BV"
+                },
+                {
+                    "f": "51"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "WEU"
+                },
+                {
+                    "c": "\u00d6BV"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ],
+        "047A": [
+            [
+                {
+                    "a": "Allgemein (\u00f6ffentlich) zug\u00e4nglich"
+                }
+            ]
+        ]
+    },
+    "_id": "AT-LAT",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/AT-LAT",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/AT-LAT",
+    "identifier": "AT-LAT",
+    "name": "Tiroler Landesarchiv",
+    "location": "Innsbruck",
+    "type": [
+        "Organization",
+        "Archive"
+    ],
+    "addressRegion": "WEU"
+}

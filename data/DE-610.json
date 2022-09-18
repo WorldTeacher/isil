@@ -1,0 +1,236 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-610.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:13-07-07"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:16-12-17"
+                ],
+                {
+                    "t": "14:38:57.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:13-07-07"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "98498884X"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "d": "610"
+                },
+                {
+                    "e": "DE-610"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.eromm.org"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://www.eromm.org/database.htm"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "European Register of Microform and Digital Masters"
+                },
+                {
+                    "4": "a"
+                }
+            ],
+            [
+                {
+                    "a": "G\u00f6ttingen EROMM"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "EROMM"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "c/o Nieders\u00e4chsische Staats- und Universit\u00e4tsbibliothek,  Platz der G\u00f6ttinger Sieben 1"
+                },
+                {
+                    "b": "G\u00f6ttingen"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "37073"
+                },
+                {
+                    "f": "Niedersachsen"
+                },
+                {
+                    "k": "9.93567"
+                },
+                {
+                    "l": "51.53978"
+                },
+                {
+                    "n": "03152012"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "a": "c/o Nieders\u00e4chsische Staats- und Universit\u00e4tsbibliothek"
+                },
+                {
+                    "b": "G\u00f6ttingen"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "37070"
+                },
+                {
+                    "f": "Niedersachsen"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "551"
+                },
+                {
+                    "f": "39-9525"
+                },
+                {
+                    "k": "info@eromm.org"
+                }
+            ]
+        ],
+        "035D": [
+            [
+                {
+                    "b": "GyGoERM (fr\u00fcherer MARC Code)"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "96"
+                },
+                {
+                    "g": "02"
+                },
+                {
+                    "h": "11"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "WWW"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ],
+        "047A": [
+            [
+                {
+                    "a": "Verzeichnis von Druckwerken aller Art, die in Mikroform oder in digitaler Form dauerhaft gesichert wurden. Die Daten stammen aus 12 europ\u00e4ischen L\u00e4ndern, sowie aus Nord- und Lateinamerika. Ziel sind die Koordinierung von Konversionsma\u00dfnahmen sowie der Zugang zu Sekund\u00e4rformen f\u00fcr den Nutzer"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-610",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-610",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-610",
+    "identifier": "DE-610",
+    "name": "EROMM",
+    "location": "G\u00f6ttingen",
+    "type": [
+        "Organization",
+        "Organization"
+    ],
+    "addressRegion": "WWW"
+}

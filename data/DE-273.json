@@ -1,0 +1,258 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-273.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:15-08-22"
+                ],
+                {
+                    "t": "11:05:47.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020583508"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "AL273"
+                },
+                {
+                    "d": "273"
+                },
+                {
+                    "e": "DE-273"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.Stadtbibliothek-siegburg.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://opac.stadtbibliothek-siegburg.de/Mediensuche/EinfacheSuche.aspx"
+                },
+                {
+                    "z": "B"
+                }
+            ],
+            [
+                {
+                    "u": "http://www.rhein-sieg-bib.de/"
+                },
+                {
+                    "z": "C"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Siegburg StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtbibliothek Siegburg"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Griesgasse 11"
+                },
+                {
+                    "b": "Siegburg"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "53721"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "i": "Di-So 10.00-17.00"
+                },
+                {
+                    "k": "7.20679"
+                },
+                {
+                    "l": "50.79569"
+                },
+                {
+                    "n": "05382060"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Siegburg"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "53721"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "2241"
+                },
+                {
+                    "f": "1 02 75-11"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "2241"
+                },
+                {
+                    "i": "1 02 75-20"
+                },
+                {
+                    "k": "stadtbibliothek@siegburg.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "07"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "Fernleihe@Siegburg.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "Fernleihe@Siegburg.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-273",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-273",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-273",
+    "identifier": "DE-273",
+    "name": "Stadtbibliothek Siegburg",
+    "location": "Siegburg",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NRW"
+}

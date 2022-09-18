@@ -1,0 +1,224 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-563.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:14-04-16"
+                ],
+                {
+                    "t": "09:28:20.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020585101"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "928563-5"
+                },
+                {
+                    "b": "EZ251"
+                },
+                {
+                    "d": "563"
+                },
+                {
+                    "e": "DE-563"
+                },
+                {
+                    "f": "HMTRO"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.hmt-rostock.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://opac.lbs-rostock.gbv.de/DB=1/LNG=DU/"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Rostock HS Musik"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Hochschule f\u00fcr Musik und Theater Rostock, Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Beim St.-Katharinenstift 8"
+                },
+                {
+                    "b": "Rostock"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "18055"
+                },
+                {
+                    "f": "Mecklenburg-Vorpommern"
+                },
+                {
+                    "i": "Mo-Do 10.00-13.00 und 14.00-16.30, Fr 10.00-13.00"
+                },
+                {
+                    "k": "12.14441"
+                },
+                {
+                    "l": "54.09159"
+                },
+                {
+                    "n": "13003000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "381"
+                },
+                {
+                    "f": "51 08-250"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "381"
+                },
+                {
+                    "i": "51 08-101"
+                },
+                {
+                    "k": "bibliothek@hmt-rostock.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0034"
+                },
+                {
+                    "e": "GBV"
+                },
+                {
+                    "f": "70"
+                },
+                {
+                    "g": "02"
+                },
+                {
+                    "h": "07"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "HAM"
+                },
+                {
+                    "c": "GBV"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-563",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-563",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-563",
+    "identifier": "DE-563",
+    "name": "Hochschule f\u00fcr Musik und Theater Rostock, Bibliothek",
+    "location": "Rostock",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "HAM"
+}

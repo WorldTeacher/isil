@@ -1,0 +1,203 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-1006.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:18-05-16"
+                ],
+                {
+                    "t": "10:53:36.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020587570"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "HC574"
+                },
+                {
+                    "d": "1006"
+                },
+                {
+                    "e": "DE-1006"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.stadtbibliothek-achim.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://www.stadtbibliothek-achim.de/wwwopac/"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Achim StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtbibliothek Achim"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Obernstr. 38"
+                },
+                {
+                    "b": "Achim"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "28832"
+                },
+                {
+                    "f": "Niedersachsen"
+                },
+                {
+                    "i": "Di-Do 9.00-18.00, Fr-Sa 9.00-13.30"
+                },
+                {
+                    "k": "9.03696"
+                },
+                {
+                    "l": "53.01200"
+                },
+                {
+                    "n": "03361001"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "4202"
+                },
+                {
+                    "f": "9 16 05 33"
+                },
+                {
+                    "k": "stadtbibliothek@stadt.achim.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "07"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NIE"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "GBV"
+                },
+                {
+                    "e": "l"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-1006",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-1006",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-1006",
+    "identifier": "DE-1006",
+    "name": "Stadtbibliothek Achim",
+    "location": "Achim",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NIE"
+}

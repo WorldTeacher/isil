@@ -1,0 +1,259 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-424.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:28-09-20"
+                ],
+                {
+                    "t": "09:23:44.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020584040"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "AD424"
+                },
+                {
+                    "d": "424"
+                },
+                {
+                    "e": "DE-424"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.werl.de/kultur/stadtbuecherei/"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Werl StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtb\u00fccherei Werl"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Steinerstr. 30"
+                },
+                {
+                    "b": "Werl"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "59457"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "i": "Mo und Do 14.00-18.00, Di und Fr-Sa 10.00-13.00"
+                },
+                {
+                    "k": "7.91459"
+                },
+                {
+                    "l": "51.55104"
+                },
+                {
+                    "n": "05974052"
+                },
+                {
+                    "o": "barrierefrei"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "a": "Postfach"
+                },
+                {
+                    "b": "Werl"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "59445"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "2922"
+                },
+                {
+                    "f": "97 41-0"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "2922"
+                },
+                {
+                    "i": "97 41-15"
+                },
+                {
+                    "k": "stadtbuecherei@werl.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "07"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "HBZ"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "b"
+                },
+                {
+                    "d": "fernleihe@werl.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "fernleihe@werl.de"
+                }
+            ],
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "fernleihe@werl.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-424",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-424",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-424",
+    "identifier": "DE-424",
+    "name": "Stadtb\u00fccherei Werl",
+    "location": "Werl",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NRW"
+}

@@ -1,0 +1,235 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/AT-OeNB.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:29-11-04"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:18-09-17"
+                ],
+                {
+                    "t": "16:51:30.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:27-05-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "026770628"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "030001-9"
+                },
+                {
+                    "b": "AT101"
+                },
+                {
+                    "c": "15.119.0000-3"
+                },
+                {
+                    "d": "AT-\u00d6NB"
+                },
+                {
+                    "e": "AT-OeNB"
+                },
+                {
+                    "f": "ONB"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.onb.ac.at/"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://www.onb.ac.at/kataloge/index.htm"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Wien \u00d6ster. NB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "\u00d6sterreichische Nationalbibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Josefsplatz 1"
+                },
+                {
+                    "b": "Wien"
+                },
+                {
+                    "d": "AT"
+                },
+                {
+                    "e": "A-1015"
+                },
+                {
+                    "f": "\u00d6sterreich"
+                },
+                {
+                    "k": "16.36544"
+                },
+                {
+                    "l": "48.20548"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Wien"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "A-1015"
+                },
+                {
+                    "f": "\u00d6sterreich"
+                },
+                {
+                    "g": "308"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "43"
+                },
+                {
+                    "e": "1"
+                },
+                {
+                    "f": "5 34 10"
+                },
+                {
+                    "g": "43"
+                },
+                {
+                    "h": "1"
+                },
+                {
+                    "i": "5 34 10-280"
+                },
+                {
+                    "k": "onb@onb.ac.at"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "c": "0158"
+                },
+                {
+                    "e": "\u00d6BV"
+                },
+                {
+                    "f": "11"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "WEU"
+                },
+                {
+                    "c": "\u00d6BV"
+                },
+                {
+                    "d": "Kalliope"
+                },
+                {
+                    "e": "l"
+                }
+            ]
+        ]
+    },
+    "_id": "AT-OeNB",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/AT-OeNB",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/AT-OeNB",
+    "identifier": "AT-OeNB",
+    "name": "\u00d6sterreichische Nationalbibliothek",
+    "location": "Wien",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "WEU"
+}

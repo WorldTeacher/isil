@@ -1,0 +1,241 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-2617.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:25-07-18"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:16-11-20"
+                ],
+                {
+                    "t": "11:08:58.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:25-07-18"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1163362867"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "KP822"
+                },
+                {
+                    "d": "2617"
+                },
+                {
+                    "e": "DE-2617"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "https://www.erdmannhausen.de/buerger-kultur/ortsbuecherei/"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://erdmann.findus-internet-opac.de/cgi-bin/findus.fcgi.pl?customer=erdmann"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Erdmannhausen StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Ortsb\u00fccherei Erdmannhausen"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Pflasterstr. 15"
+                },
+                {
+                    "b": "Erdmannhausen"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "71729"
+                },
+                {
+                    "f": "Baden-W\u00fcrttemberg"
+                },
+                {
+                    "i": "Mo 15.30-19.30, Di 11.00-18.00, Mi-Do 15.00-18.30, Fr 9.30-12.00"
+                },
+                {
+                    "k": "9.29601"
+                },
+                {
+                    "l": "48.94049"
+                },
+                {
+                    "n": "08118014"
+                },
+                {
+                    "o": "barrierefrei"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "7144"
+                },
+                {
+                    "f": "3 08-400"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "7144"
+                },
+                {
+                    "i": "3 08-401"
+                },
+                {
+                    "k": "ortsbuecherei@erdmannhausen.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "06"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "SWB"
+                },
+                {
+                    "e": "l"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "b"
+                },
+                {
+                    "d": "ortsbuecherei@erdmannhausen.de"
+                }
+            ],
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "ortsbuecherei@erdmannhausen.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "ortsbuecherei@erdmannhausen.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-2617",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-2617",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-2617",
+    "identifier": "DE-2617",
+    "name": "Ortsb\u00fccherei Erdmannhausen",
+    "location": "Erdmannhausen",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAW"
+}

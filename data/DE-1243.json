@@ -1,0 +1,210 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-1243.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:18-11-04"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:03-06-21"
+                ],
+                {
+                    "t": "15:11:37.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "02672555X"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "LC803"
+                },
+                {
+                    "d": "1243"
+                },
+                {
+                    "e": "DE-1243"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.stadtbibliothek-einbeck.de"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Einbeck StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtbibliothek Einbeck"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Dr.-Friedrich-Uhde-Str. 5"
+                },
+                {
+                    "b": "Einbeck"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "37574"
+                },
+                {
+                    "f": "Niedersachsen"
+                },
+                {
+                    "i": "Di und Do-Fr 10.00-13.00 und 15.00-18.00, Mi und Sa 10.00-13.00"
+                },
+                {
+                    "k": "9.87239"
+                },
+                {
+                    "l": "51.81851"
+                },
+                {
+                    "n": "03155004"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "5561"
+                },
+                {
+                    "f": "9 16-777"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "5561"
+                },
+                {
+                    "i": "97 17 02"
+                },
+                {
+                    "k": "stadtbibliothek@einbeck.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "07"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NIE"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "GBV"
+                },
+                {
+                    "d": "\u00d6VK"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-1243",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-1243",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-1243",
+    "identifier": "DE-1243",
+    "name": "Stadtbibliothek Einbeck",
+    "location": "Einbeck",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NIE"
+}

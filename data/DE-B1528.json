@@ -1,0 +1,252 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-B1528.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:19-10-16"
+                ],
+                {
+                    "t": "14:58:20.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020588976"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "181528-3"
+                },
+                {
+                    "b": "DY393"
+                },
+                {
+                    "d": "B 1528"
+                },
+                {
+                    "e": "DE-B1528"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "https://www.deutsche-kinemathek.de/bibliothek/allgemeines"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://www.deutsche-kinemathek.de/bibliothek/bibliothekskatalog"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Stiftung Deutsche Kinemathek (SDK)"
+                },
+                {
+                    "4": "a"
+                }
+            ],
+            [
+                {
+                    "a": "Berlin Deutsche Kinemathek"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Deutsche Kinemathek - Museum f\u00fcr Film und Fernsehen, Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Potsdamer Str. 2"
+                },
+                {
+                    "b": "Berlin"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "10785"
+                },
+                {
+                    "f": "Berlin"
+                },
+                {
+                    "i": "Di 12.00-18.00, Mi und Fr 10.00-18.00, Do 12.00-20.00"
+                },
+                {
+                    "k": "13.37342"
+                },
+                {
+                    "l": "52.50954"
+                },
+                {
+                    "n": "11000000"
+                },
+                {
+                    "o": "Zugang barrierefrei mit Fahrstuhl"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "30"
+                },
+                {
+                    "f": "30 09 03-72 und -78"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "30"
+                },
+                {
+                    "i": "30 09 03-13"
+                },
+                {
+                    "k": "bibliothek@deutsche-kinemathek.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0149"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "08"
+                },
+                {
+                    "h": "07"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Film"
+                },
+                {
+                    "a": "Fernsehen"
+                },
+                {
+                    "a": "Neue Medien: Monografien, Zeitschriften, Filmtheaterprogramme, Presseartikel, Festivalkataloge"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BER"
+                },
+                {
+                    "c": "KOBV"
+                },
+                {
+                    "d": "Kalliope"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ],
+        "047A": [
+            [
+                {
+                    "a": "Die Bibliothek nimmt nicht am automatisierten Fernleihverkehr der Bibliotheken teil, gibt aber in Einzelf\u00e4llen Medien in die Fernleihe. Ca. 1/3 des Zeitschriftenbestandes ist in der ZDB erfasst. Titellisten sind \u00fcber die Internetseiten der Bibliothek abrufbar."
+                }
+            ]
+        ]
+    },
+    "_id": "DE-B1528",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-B1528",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-B1528",
+    "identifier": "DE-B1528",
+    "name": "Deutsche Kinemathek - Museum f\u00fcr Film und Fernsehen, Bibliothek",
+    "location": "Berlin",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BER"
+}

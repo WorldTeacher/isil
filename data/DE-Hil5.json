@@ -1,0 +1,266 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Hil5.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:25-10-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:09-05-22"
+                ],
+                {
+                    "t": "14:07:07.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020934513"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "DS826"
+                },
+                {
+                    "d": "Hil 5"
+                },
+                {
+                    "e": "DE-Hil5"
+                },
+                {
+                    "f": "LRHN"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.ahb.niedersachsen.de/mitgl/bibl/28.htm"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://opac.tib.uni-hannover.de/DB=9.13/LNG=DU/"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Hildesheim Landesrechnungshof"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Nieders\u00e4chsischer Landesrechnungshof, Bibliothek und Informationsdienste"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Justus-Jonas-Str. 4"
+                },
+                {
+                    "b": "Hildesheim"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "31137"
+                },
+                {
+                    "f": "Niedersachsen"
+                },
+                {
+                    "i": "Mo-Do 9.00-12.00 und 14.00-15.30, Fr 9.00-12.00"
+                },
+                {
+                    "k": "9.95236"
+                },
+                {
+                    "l": "52.16441"
+                },
+                {
+                    "n": "03254021"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Hildesheim"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "31110"
+                },
+                {
+                    "f": "Niedersachsen"
+                },
+                {
+                    "g": "10 10 52"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "5121"
+                },
+                {
+                    "f": "9 38-702 und -900"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "5121"
+                },
+                {
+                    "i": "9 38-600"
+                },
+                {
+                    "k": "Bibliothek@lrh.niedersachsen.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "02"
+                },
+                {
+                    "h": "06"
+                },
+                {
+                    "i": "P"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Finanzwesen"
+                },
+                {
+                    "a": "Haushaltswesen"
+                },
+                {
+                    "a": "Staatsrecht"
+                },
+                {
+                    "a": "Verfassungsrecht"
+                },
+                {
+                    "a": "Verwaltungsrecht"
+                },
+                {
+                    "a": "Steuerrecht"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NIE"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "GBV"
+                },
+                {
+                    "d": "ANB"
+                },
+                {
+                    "e": "l"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Hil5",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Hil5",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Hil5",
+    "identifier": "DE-Hil5",
+    "name": "Nieders\u00e4chsischer Landesrechnungshof, Bibliothek und Informationsdienste",
+    "location": "Hildesheim",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NIE"
+}

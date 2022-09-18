@@ -1,0 +1,267 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Ilm1.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:18-11-99"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9047:17-03-16"
+                ],
+                {
+                    "t": "16:10:07.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "009032568"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "946000-7"
+                },
+                {
+                    "b": "EL039"
+                },
+                {
+                    "d": "Ilm 1"
+                },
+                {
+                    "e": "DE-Ilm1"
+                },
+                {
+                    "f": "UBIL"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.tu-ilmenau.de/ub/"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://opac.lbs-ilmenau.gbv.de/DB=1/LNG=DU/"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Ilmenau UB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Universit\u00e4tsbibliothek Ilmenau"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Langewiesener Str. 37"
+                },
+                {
+                    "b": "Ilmenau"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "98693"
+                },
+                {
+                    "f": "Th\u00fcringen"
+                },
+                {
+                    "i": "Mo-Fr 8.00-20.00, Sa 9.00-17.00"
+                },
+                {
+                    "k": "10.93450"
+                },
+                {
+                    "l": "50.67961"
+                },
+                {
+                    "n": "16070029"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Ilmenau"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "98684"
+                },
+                {
+                    "f": "Th\u00fcringen"
+                },
+                {
+                    "g": "10 05 65"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "3677"
+                },
+                {
+                    "f": "69 47 01"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "3677"
+                },
+                {
+                    "i": "69 47 00"
+                },
+                {
+                    "k": "direktion.ub@tu-ilmenau.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0109"
+                },
+                {
+                    "e": "GBV"
+                },
+                {
+                    "f": "60"
+                },
+                {
+                    "g": "02"
+                },
+                {
+                    "h": "09"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "THU"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "GBV"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035K": [
+            [
+                {
+                    "b": "A"
+                }
+            ]
+        ],
+        "035O": [
+            [
+                {
+                    "a": "FZL DE-622"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Ilm1",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Ilm1",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Ilm1",
+    "identifier": "DE-Ilm1",
+    "name": "Universit\u00e4tsbibliothek Ilmenau",
+    "location": "Ilmenau",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "THU"
+}

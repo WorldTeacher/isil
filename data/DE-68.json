@@ -1,0 +1,265 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-68.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:18-11-99"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:08-11-18"
+                ],
+                {
+                    "t": "13:44:45.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "009003118"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "230100-3"
+                },
+                {
+                    "b": "AF068"
+                },
+                {
+                    "d": "68"
+                },
+                {
+                    "e": "DE-68"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.shlb.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://katalog.ub.uni-kiel.de/DB=3/LNG=DU/"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Kiel LB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Schleswig-Holsteinische Landesbibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Wall 47-51"
+                },
+                {
+                    "b": "Kiel"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "24103"
+                },
+                {
+                    "f": "Schleswig-Holstein"
+                },
+                {
+                    "i": "Mo, Mi und Fr 9.00-17.00, Di und Do 9.00-19.00"
+                },
+                {
+                    "k": "10.14268"
+                },
+                {
+                    "l": "54.32171"
+                },
+                {
+                    "n": "01002000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "431"
+                },
+                {
+                    "f": "6 96 77-33"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "431"
+                },
+                {
+                    "i": "6 96 77-11"
+                },
+                {
+                    "k": "landesbibliothek@shlb.landsh.de"
+                }
+            ],
+            [
+                {
+                    "a": "W"
+                },
+                {
+                    "b": "Handschriftenabteilung"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "k": "handschriften@shlb.landsh.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0145"
+                },
+                {
+                    "e": "GBV"
+                },
+                {
+                    "f": "21"
+                },
+                {
+                    "g": "02"
+                },
+                {
+                    "h": "08"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Landeskunde Schleswig-Holstein"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "HAM"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "GBV"
+                },
+                {
+                    "d": "Kalliope"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035K": [
+            [
+                {
+                    "b": "A"
+                }
+            ]
+        ],
+        "035O": [
+            [
+                {
+                    "a": "FZL DE-622"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-68",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-68",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-68",
+    "identifier": "DE-68",
+    "name": "Schleswig-Holsteinische Landesbibliothek",
+    "location": "Kiel",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "HAM"
+}

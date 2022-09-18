@@ -1,0 +1,230 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-994.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:28-11-18"
+                ],
+                {
+                    "t": "16:37:51.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020587465"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "LC463"
+                },
+                {
+                    "d": "994"
+                },
+                {
+                    "e": "DE-994"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.stadt-kamen.de/kultur/stadtbuecherei"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Kamen StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtb\u00fccherei Kamen"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Markt 1"
+                },
+                {
+                    "b": "Kamen"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "59174"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "i": "Di, Do und Fr 10.00-18.00, Mi 14.00-18.00, Sa 10.00-13.00"
+                },
+                {
+                    "k": "7.66412"
+                },
+                {
+                    "l": "51.59158"
+                },
+                {
+                    "n": "05978020"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "2307"
+                },
+                {
+                    "f": "9 23-180"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "2307"
+                },
+                {
+                    "i": "9 23-181"
+                },
+                {
+                    "k": "buecherei@stadt-kamen.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "07"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "b"
+                },
+                {
+                    "d": "buecherei@stadt-kamen.de"
+                }
+            ],
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "buecherei@stadt-kamen.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "buecherei@stadt-kamen.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-994",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-994",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-994",
+    "identifier": "DE-994",
+    "name": "Stadtb\u00fccherei Kamen",
+    "location": "Kamen",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NRW"
+}

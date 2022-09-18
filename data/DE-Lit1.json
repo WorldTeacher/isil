@@ -1,0 +1,180 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Lit1.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:23-03-10"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:11-05-22"
+                ],
+                {
+                    "t": "12:52:27.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:23-03-10"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1001061322"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "101103-0"
+                },
+                {
+                    "d": "Lit 1"
+                },
+                {
+                    "e": "DE-Lit1"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.lichtenstein-sachsen.de/start.html"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Lichtenstein Stadtarchiv"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtarchiv Lichtenstein"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Badergasse 17"
+                },
+                {
+                    "b": "Lichtenstein/Sachsen"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "09347"
+                },
+                {
+                    "f": "Sachsen"
+                },
+                {
+                    "k": "12.63337"
+                },
+                {
+                    "l": "50.75562"
+                },
+                {
+                    "n": "14524160"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "k": "hauptamt@lichtenstein-sachsen.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0367"
+                },
+                {
+                    "f": "52"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "01"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "SAX"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Lit1",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Lit1",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Lit1",
+    "identifier": "DE-Lit1",
+    "name": "Stadtarchiv Lichtenstein",
+    "location": "Lichtenstein/Sachsen",
+    "type": [
+        "Organization",
+        "Archive"
+    ],
+    "addressRegion": "SAX"
+}

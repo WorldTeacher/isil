@@ -1,0 +1,260 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-4018.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:05-01-22"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:11-01-22"
+                ],
+                {
+                    "t": "14:02:59.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:05-01-22"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1248798147"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "WE941"
+                },
+                {
+                    "d": "4018"
+                },
+                {
+                    "e": "DE-4018"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "https://www.gelenau.de/index.php/rathaus/gemeindebibliothek.html"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Gelenau GB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Bibliothek Gelenau"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Rathauspl. 3"
+                },
+                {
+                    "b": "Gelenau"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "09423"
+                },
+                {
+                    "f": "Sachsen"
+                },
+                {
+                    "i": "Mo 8-12, Di 13-18, Do 13-17, Fr 8-12"
+                },
+                {
+                    "k": "12.98251"
+                },
+                {
+                    "l": "50.71328"
+                },
+                {
+                    "o": "nicht barrierefrei"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "a": "Rathauspl. 1"
+                },
+                {
+                    "b": "Gelenau"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "09423"
+                },
+                {
+                    "f": "Sachsen"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "37297"
+                },
+                {
+                    "f": "7321"
+                },
+                {
+                    "k": "bibliothek@gelenau.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "06"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "SAX"
+                },
+                {
+                    "d": "BRISE"
+                },
+                {
+                    "e": "n"
+                },
+                {
+                    "f": "x"
+                },
+                {
+                    "g": "R"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "a"
+                },
+                {
+                    "d": "bibliothek@gelenau.de"
+                }
+            ],
+            [
+                {
+                    "a": "b"
+                },
+                {
+                    "d": "bibliothek@gelenau.de"
+                }
+            ],
+            [
+                {
+                    "a": "d"
+                },
+                {
+                    "d": "bibliothek@gelenau.de"
+                }
+            ],
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "bibliothek@gelenau.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "bibliothek@gelenau.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-4018",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-4018",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-4018",
+    "identifier": "DE-4018",
+    "name": "Bibliothek Gelenau",
+    "location": "Gelenau",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "SAX"
+}

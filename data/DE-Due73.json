@@ -1,0 +1,272 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Due73.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9042:16-08-18"
+                ],
+                {
+                    "t": "14:07:30.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "02059061X"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "FE638"
+                },
+                {
+                    "d": "D\u00fc 73"
+                },
+                {
+                    "e": "DE-Due73"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.duesseldorf.de/Kultur/filmmuseum/index.html"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://www.duesselbib.de"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "D\u00fcsseldorf Filmmuseum"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Filmmuseum D\u00fcsseldorf, Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Schulstr. 4"
+                },
+                {
+                    "b": "D\u00fcsseldorf"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "40213"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "i": "Nach Vereinbarung"
+                },
+                {
+                    "k": "6.77118"
+                },
+                {
+                    "l": "51.22390"
+                },
+                {
+                    "n": "05111000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "D\u00fcsseldorf"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "40200"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "211"
+                },
+                {
+                    "f": "89-93777"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "211"
+                },
+                {
+                    "i": "89-93768"
+                },
+                {
+                    "k": "bibliothek.filmmuseum@duesseldorf.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "06"
+                },
+                {
+                    "i": "P"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Film <Geschichte, Produktion und Rezeption>"
+                },
+                {
+                    "a": "Filmarchivierung und -restaurierung"
+                },
+                {
+                    "a": "Nicht-kommerzielle Filmarbeit"
+                },
+                {
+                    "a": "Medienp\u00e4dgagogik"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "d": "GDK"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "bibliothek.filmmuseum@duesseldorf.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "bibliothek.filmmuseum@duesseldorf.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Due73",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Due73",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Due73",
+    "identifier": "DE-Due73",
+    "name": "Filmmuseum D\u00fcsseldorf, Bibliothek",
+    "location": "D\u00fcsseldorf",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NRW"
+}

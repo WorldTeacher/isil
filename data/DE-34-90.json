@@ -1,0 +1,293 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-34-90.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:18-11-99"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:16-08-21"
+                ],
+                {
+                    "t": "14:59:18.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "009005773"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "352090-0"
+                },
+                {
+                    "d": "34/90"
+                },
+                {
+                    "e": "DE-34-90"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "https://www.uni-kassel.de/ub/ueber-uns/kontakt"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://hds.hebis.de/ubks/index.php"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Kassel UB, Sto OZW"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Universit\u00e4tsbibliothek Kassel, Standort Oberzwehren"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Heinrich-Plett-Str. 40"
+                },
+                {
+                    "b": "Kassel"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "34132"
+                },
+                {
+                    "f": "Hessen"
+                },
+                {
+                    "k": "9.44836"
+                },
+                {
+                    "l": "51.28210"
+                },
+                {
+                    "n": "06611000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Kassel"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "34111"
+                },
+                {
+                    "f": "Hessen"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ],
+            [
+                {
+                    "a": "Diagonale 10"
+                },
+                {
+                    "b": "Kassel"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "34127"
+                },
+                {
+                    "f": "Hessen"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "W"
+                },
+                {
+                    "3": "Paketpost Fernleihe"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "561"
+                },
+                {
+                    "f": "8 04-4222"
+                },
+                {
+                    "k": "ozw@bibliothek.uni-kassel.de"
+                }
+            ],
+            [
+                {
+                    "a": "W"
+                },
+                {
+                    "b": "Kontakt Fernleihe"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "k": "fl@bibliothek.uni-kassel.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0040"
+                },
+                {
+                    "e": "HBV"
+                },
+                {
+                    "f": "65"
+                },
+                {
+                    "g": "02"
+                },
+                {
+                    "h": "08"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "HES"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "HeBIS"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035K": [
+            [
+                {
+                    "b": "A"
+                }
+            ]
+        ],
+        "035O": [
+            [
+                {
+                    "a": "FZL DE-620"
+                }
+            ]
+        ],
+        "047A": [
+            [
+                {
+                    "a": "Nur Pr\u00e4senzbestand"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-34-90",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-34-90",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-34-90",
+    "identifier": "DE-34-90",
+    "name": "Universit\u00e4tsbibliothek Kassel, Standort Oberzwehren",
+    "location": "Kassel",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "HES"
+}

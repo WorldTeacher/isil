@@ -1,0 +1,229 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-M68.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:17-08-22"
+                ],
+                {
+                    "t": "07:40:55.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020595425"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "808068-9"
+                },
+                {
+                    "b": "DC801"
+                },
+                {
+                    "d": "M 68"
+                },
+                {
+                    "e": "DE-M68"
+                },
+                {
+                    "f": "MPGPS"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://aleph.mpg.de/F?func=file&file_name=find-b&local_base=psk01"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "M\u00fcnchen MPI Psychiatrie"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Max-Planck-Institut f\u00fcr Psychiatrie, Deutsche Forschungsanstalt f\u00fcr Psychiatrie, Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Kraepelinstr. 2-10"
+                },
+                {
+                    "b": "M\u00fcnchen"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "80804"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "i": "Di-Do 09.00-16.00"
+                },
+                {
+                    "j": "Nutzung der Bibliothek f\u00fcr Externe nur nach Absprache"
+                },
+                {
+                    "k": "11.57583"
+                },
+                {
+                    "l": "48.17373"
+                },
+                {
+                    "n": "09162000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "89"
+                },
+                {
+                    "f": "3 06 22-1260"
+                },
+                {
+                    "k": "biblio@psych.mpg.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0148"
+                },
+                {
+                    "d": "MPG"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "07"
+                },
+                {
+                    "h": "07"
+                },
+                {
+                    "i": "P"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Psychiatrie"
+                },
+                {
+                    "a": "Neurologie"
+                },
+                {
+                    "a": "Neurowissenschaften"
+                },
+                {
+                    "a": "Geschichte der Psychiatrie"
+                },
+                {
+                    "a": "Psychologie"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAY"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-M68",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-M68",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-M68",
+    "identifier": "DE-M68",
+    "name": "Max-Planck-Institut f\u00fcr Psychiatrie, Deutsche Forschungsanstalt f\u00fcr Psychiatrie, Bibliothek",
+    "location": "M\u00fcnchen",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAY"
+}

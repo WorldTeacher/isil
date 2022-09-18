@@ -1,0 +1,204 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-1000.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:28-01-16"
+                ],
+                {
+                    "t": "16:01:01.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020587511"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "GH505"
+                },
+                {
+                    "d": "1000"
+                },
+                {
+                    "e": "DE-1000"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.mediothek-tbb.de"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Tauberbischofsheim Mediothek"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "St\u00e4dtische Mediothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Blumenstr. 5"
+                },
+                {
+                    "b": "Tauberbischofsheim"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "97941"
+                },
+                {
+                    "f": "Baden-W\u00fcrttemberg"
+                },
+                {
+                    "i": "Mo und Mi 13.00-18.00, Do 12.00-18.00, Fr 10.00-12.00 und 13.00-18.00, Sa 10.30-12.30"
+                },
+                {
+                    "k": "9.66245"
+                },
+                {
+                    "l": "49.62354"
+                },
+                {
+                    "n": "08128115"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "9341"
+                },
+                {
+                    "f": "8 03 83"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "9341"
+                },
+                {
+                    "i": "80 37 83"
+                },
+                {
+                    "k": "mediothek@tauberbischofsheim.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "34"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "06"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-1000",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-1000",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-1000",
+    "identifier": "DE-1000",
+    "name": "St\u00e4dtische Mediothek",
+    "location": "Tauberbischofsheim",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAW"
+}

@@ -1,0 +1,257 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-982.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:18-11-99"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:06-02-20"
+                ],
+                {
+                    "t": "16:47:22.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "009035117"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "668982-6"
+                },
+                {
+                    "b": "BD727"
+                },
+                {
+                    "d": "982"
+                },
+                {
+                    "e": "DE-982"
+                },
+                {
+                    "f": "DAG"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.dagstuhl.de/bibliothek"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://wwwopac.dagstuhl.de:8080/webopac"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Bibliothek"
+                },
+                {
+                    "4": "a"
+                }
+            ],
+            [
+                {
+                    "a": "Wadern SchlossDagstuhl LZI/WGL"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Schloss Dagstuhl - Leibniz-Zentrum f\u00fcr Informatik, Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Oktavie-Allee"
+                },
+                {
+                    "b": "Wadern"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "66687"
+                },
+                {
+                    "f": "Saarland"
+                },
+                {
+                    "i": "Mo-Do 8.00-16.00, Fr 08.00- 13.00"
+                },
+                {
+                    "j": "externe Nutzung nur nach vorheriger telefonischer Terminabsprache m\u00f6glich"
+                },
+                {
+                    "k": "6.89783"
+                },
+                {
+                    "l": "49.52924"
+                },
+                {
+                    "n": "10042116"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "6871"
+                },
+                {
+                    "f": "9 05-127"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "6871"
+                },
+                {
+                    "i": "9 05-130"
+                },
+                {
+                    "k": "bib@dagstuhl.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0072"
+                },
+                {
+                    "d": "SWB"
+                },
+                {
+                    "d": "WGL"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "08"
+                },
+                {
+                    "h": "07"
+                },
+                {
+                    "i": "P"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Informatik"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "SWB"
+                },
+                {
+                    "d": "WGL"
+                },
+                {
+                    "e": "k"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-982",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-982",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-982",
+    "identifier": "DE-982",
+    "name": "Schloss Dagstuhl - Leibniz-Zentrum f\u00fcr Informatik, Bibliothek",
+    "location": "Wadern",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAW"
+}

@@ -1,0 +1,306 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-520.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:25-07-05"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:31-08-22"
+                ],
+                {
+                    "t": "12:36:57.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:25-07-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "975787284"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "951520-3"
+                },
+                {
+                    "b": "EK539"
+                },
+                {
+                    "d": "520"
+                },
+                {
+                    "e": "DE-520"
+                },
+                {
+                    "f": "HTWDD"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.htw-dresden.de/bib"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://primo.bib.htw-dresden.de"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Dresden HS TuW"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Hochschule f\u00fcr Technik und Wirtschaft Dresden, Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Andreas-Schubert-Str. 8"
+                },
+                {
+                    "b": "Dresden"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "01069"
+                },
+                {
+                    "f": "Sachsen"
+                },
+                {
+                    "i": "Mo-Fr 9.00-22.00 und Sa 10.00-14.00"
+                },
+                {
+                    "k": "13.73609"
+                },
+                {
+                    "l": "51.03660"
+                },
+                {
+                    "n": "14612000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Dresden"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "01008"
+                },
+                {
+                    "f": "Sachsen"
+                },
+                {
+                    "g": "12 07 01"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "351"
+                },
+                {
+                    "f": "4 62-3696"
+                },
+                {
+                    "k": "Bibliothek@htw-dresden.de"
+                },
+                {
+                    "l": "Ausleihe/Auskunft"
+                }
+            ],
+            [
+                {
+                    "a": "W"
+                },
+                {
+                    "b": "Fernleihe"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "351"
+                },
+                {
+                    "f": "4 62-3692"
+                },
+                {
+                    "k": "Fernleihe@htw-dresden.de"
+                }
+            ]
+        ],
+        "035D": [
+            [
+                {
+                    "a": "D 166"
+                }
+            ],
+            [
+                {
+                    "a": "D 183"
+                }
+            ],
+            [
+                {
+                    "a": "D 137"
+                }
+            ],
+            [
+                {
+                    "a": "D 235"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0149"
+                },
+                {
+                    "d": "SWB"
+                },
+                {
+                    "f": "70"
+                },
+                {
+                    "g": "02"
+                },
+                {
+                    "h": "08"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "SAX"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "SWB"
+                },
+                {
+                    "e": "k"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035O": [
+            [
+                {
+                    "a": "FZL DE-622"
+                }
+            ]
+        ],
+        "035Q": [
+            [
+                {
+                    "a": "j"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-520",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-520",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-520",
+    "identifier": "DE-520",
+    "name": "Hochschule f\u00fcr Technik und Wirtschaft Dresden, Bibliothek",
+    "location": "Dresden",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "SAX"
+}

@@ -1,0 +1,268 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-405.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:18-11-99"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:28-11-18"
+                ],
+                {
+                    "t": "16:39:24.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "009035761"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "AH405"
+                },
+                {
+                    "d": "405"
+                },
+                {
+                    "e": "DE-405"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.stadtbuecherei-ahlen.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://www.bibliothek-im-netz.de"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Ahlen StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtb\u00fccherei Ahlen"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "S\u00fcdenmauer 21"
+                },
+                {
+                    "b": "Ahlen"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "59227"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "i": "Mo-Di und Do-Fr 10.00-18.00"
+                },
+                {
+                    "k": "7.88753"
+                },
+                {
+                    "l": "51.76145"
+                },
+                {
+                    "n": "05570004"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Ahlen"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "59225"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "2382"
+                },
+                {
+                    "f": "59-292 (Ausleihe) und -471 (Fernleihe)"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "2382"
+                },
+                {
+                    "i": "59-557"
+                },
+                {
+                    "k": "stadtbuecherei@stadt.ahlen.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "07"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Technik"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "d": "VBKrsW"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "b"
+                },
+                {
+                    "d": "stadtbuecherei@stadt.ahlen.de"
+                }
+            ],
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "stadtbuecherei@stadt.ahlen.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "stadtbuecherei@stadt.ahlen.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-405",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-405",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-405",
+    "identifier": "DE-405",
+    "name": "Stadtb\u00fccherei Ahlen",
+    "location": "Ahlen",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NRW"
+}

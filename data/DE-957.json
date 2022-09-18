@@ -1,0 +1,225 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-957.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:30-08-22"
+                ],
+                {
+                    "t": "16:55:46.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020587163"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "JC038"
+                },
+                {
+                    "d": "957"
+                },
+                {
+                    "e": "DE-957"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.buecherei-mindelheim.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://cloudopac.winbiap.de/mindelheim/index.aspx"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Mindelheim StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtb\u00fccherei Mindelheim"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Mindelgasse 1"
+                },
+                {
+                    "b": "Mindelheim"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "87719"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "i": "Di und Fr 10.00-13.00 und 14.30-18.00, Mi 14.30-18.00, Do 14.30-19.00, Sa 10.00-13.00"
+                },
+                {
+                    "k": "10.48587"
+                },
+                {
+                    "l": "48.04560"
+                },
+                {
+                    "n": "09778173"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "8261"
+                },
+                {
+                    "f": "2 17 01"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "8261"
+                },
+                {
+                    "i": "9915-886"
+                },
+                {
+                    "k": "buecherei@mindelheim.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "06"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAY"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "BVB"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "buecherei@mindelheim.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-957",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-957",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-957",
+    "identifier": "DE-957",
+    "name": "Stadtb\u00fccherei Mindelheim",
+    "location": "Mindelheim",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAY"
+}

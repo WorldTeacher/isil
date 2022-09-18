@@ -1,0 +1,202 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-1672.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:23-01-08"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:16-11-20"
+                ],
+                {
+                    "t": "13:16:07.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:23-01-08"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "987267752"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "d": "1672"
+                },
+                {
+                    "e": "DE-1672"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.uebersee.com/gemeindebuecherei"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "\u00dcbersee K\u00d6B"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Gemeindeb\u00fccherei \u00dcbersee"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Ringstra\u00dfe 37 a"
+                },
+                {
+                    "b": "\u00dcbersee"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "83236"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "h": "Nikolausheim"
+                },
+                {
+                    "k": "12.47940"
+                },
+                {
+                    "l": "47.82133"
+                },
+                {
+                    "n": "09189159"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "8642"
+                },
+                {
+                    "f": "12 31"
+                },
+                {
+                    "k": "buecherei-uebersee@t-online.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "10"
+                },
+                {
+                    "h": "06"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAY"
+                },
+                {
+                    "c": "BVB"
+                },
+                {
+                    "e": "n"
+                },
+                {
+                    "g": "R"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "buecherei-uebersee@t-online.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-1672",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-1672",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-1672",
+    "identifier": "DE-1672",
+    "name": "Gemeindeb\u00fccherei \u00dcbersee",
+    "location": "\u00dcbersee",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAY"
+}

@@ -1,0 +1,245 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-116.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:08-08-16"
+                ],
+                {
+                    "t": "11:27:13.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020582870"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "AK116"
+                },
+                {
+                    "d": "116"
+                },
+                {
+                    "e": "DE-116"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.stadtbibliothek-hildesheim.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://webopac.stadt-hildesheim.de/libero/WebOpac.cls"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Hildesheim StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtbibliothek Hildesheim"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Judenstr. 1"
+                },
+                {
+                    "b": "Hildesheim"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "31134"
+                },
+                {
+                    "f": "Niedersachsen"
+                },
+                {
+                    "i": "Di-Fr 10.30-18.00, Sa 10.00-13.00"
+                },
+                {
+                    "k": "9.95188"
+                },
+                {
+                    "l": "52.15202"
+                },
+                {
+                    "n": "03254021"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "a": "Scheelenstr. 26"
+                },
+                {
+                    "b": "Hildesheim"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "31134"
+                },
+                {
+                    "f": "Niedersachsen"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "5121"
+                },
+                {
+                    "f": "3 01-4141, -4153 und -4154 (Fernleihe)"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "5121"
+                },
+                {
+                    "i": "3 01-4199"
+                },
+                {
+                    "k": "stadtbibliothek@stadt-hildesheim.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "08"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NIE"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "GBV"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035O": [
+            [
+                {
+                    "a": "FZL DE-622"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-116",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-116",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-116",
+    "identifier": "DE-116",
+    "name": "Stadtbibliothek Hildesheim",
+    "location": "Hildesheim",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NIE"
+}

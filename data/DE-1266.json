@@ -1,0 +1,230 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-1266.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:31-01-06"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:28-11-16"
+                ],
+                {
+                    "t": "11:47:55.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:31-01-06"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "978345576"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "WC749"
+                },
+                {
+                    "d": "1266"
+                },
+                {
+                    "e": "DE-1266"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.bibliothek.seecampus-niederlausitz.de/"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Stadtbibliothek Lauchhammer"
+                },
+                {
+                    "4": "a"
+                }
+            ],
+            [
+                {
+                    "a": "Stadtbibliothek Schwarzheide/Lauchhammer"
+                },
+                {
+                    "4": "a"
+                }
+            ],
+            [
+                {
+                    "a": "Schwarzheide StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "See-Campus-Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Lauchhammerstra\u00dfe 33"
+                },
+                {
+                    "b": "Schwarzheide"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "01987"
+                },
+                {
+                    "f": "Brandenburg"
+                },
+                {
+                    "i": "Mo-Di und Do-Fr 10.00-18.00"
+                },
+                {
+                    "k": "13.81725"
+                },
+                {
+                    "l": "51.49203"
+                },
+                {
+                    "n": "12066176"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "35752"
+                },
+                {
+                    "f": "94 94 30"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "35752"
+                },
+                {
+                    "i": "94 94 39"
+                },
+                {
+                    "k": "bibliothek@seecampus-niederlausitz.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "06"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Oberspreewald-Lausitz"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BER"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "KOBV"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-1266",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-1266",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-1266",
+    "identifier": "DE-1266",
+    "name": "See-Campus-Bibliothek",
+    "location": "Schwarzheide",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BER"
+}

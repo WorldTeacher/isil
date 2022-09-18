@@ -1,0 +1,238 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-1060.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:26-08-16"
+                ],
+                {
+                    "t": "14:20:42.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "02058797X"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "JN587"
+                },
+                {
+                    "d": "1060"
+                },
+                {
+                    "e": "DE-1060"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.friedrichsdorf.de/stadtbuecherei"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://stadtbuecherei.friedrichsdorf.de/opac/index.S"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Friedrichsdorf StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtb\u00fccherei Friedrichsdorf"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Institut Garnier 1"
+                },
+                {
+                    "b": "Friedrichsdorf"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "61381"
+                },
+                {
+                    "f": "Hessen"
+                },
+                {
+                    "i": "Di und Fr 15.00-18.00, Mi 10.00-12.00 und 15.00-18.00, Do 10.00-12.00 und 15.00-19.00, Sa 10.00-13.00"
+                },
+                {
+                    "k": "8.64403"
+                },
+                {
+                    "l": "50.25803"
+                },
+                {
+                    "n": "06434002"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Friedrichsdorf"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "61364"
+                },
+                {
+                    "f": "Hessen"
+                },
+                {
+                    "g": "13 40"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "6172"
+                },
+                {
+                    "f": "7 83 28"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "6172"
+                },
+                {
+                    "i": "77 76 81"
+                },
+                {
+                    "k": "stadtbuecherei@friedrichsdorf.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "06"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "HES"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "HeBIS"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-1060",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-1060",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-1060",
+    "identifier": "DE-1060",
+    "name": "Stadtb\u00fccherei Friedrichsdorf",
+    "location": "Friedrichsdorf",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "HES"
+}

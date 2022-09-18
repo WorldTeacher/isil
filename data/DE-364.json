@@ -1,0 +1,310 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-364.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:18-11-99"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:09-04-21"
+                ],
+                {
+                    "t": "13:19:59.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "009035753"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "468364-X"
+                },
+                {
+                    "b": "AL364"
+                },
+                {
+                    "d": "364"
+                },
+                {
+                    "e": "DE-364"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.martin-opitz-bibliothek.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://kat.martin-opitz-bibliothek.de/vufind/"
+                },
+                {
+                    "z": "B"
+                }
+            ],
+            [
+                {
+                    "u": "https://katalog.martin-opitz-bibliothek.de/cgi-bin/voe/db/maske.pl?db=voe"
+                },
+                {
+                    "x": "Verbundkatalog VOE"
+                },
+                {
+                    "z": "W"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "MOB"
+                },
+                {
+                    "4": "a"
+                }
+            ],
+            [
+                {
+                    "a": "Herne MOB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Martin-Opitz-Bibliothek (MOB)"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Berliner Pl. 5"
+                },
+                {
+                    "b": "Herne"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "44623"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "i": "Mo-Do 10.00-18.00, Fr 10.00-14.00"
+                },
+                {
+                    "k": "7.22311"
+                },
+                {
+                    "l": "51.53723"
+                },
+                {
+                    "n": "05916000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "2323"
+                },
+                {
+                    "f": "16-2805"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "2323"
+                },
+                {
+                    "i": "16-2609"
+                },
+                {
+                    "k": "information.mob@herne.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0182"
+                },
+                {
+                    "d": "HBZ"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "08"
+                },
+                {
+                    "h": "09"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Preu\u00dfen <ehem. Ostprovinzen>"
+                },
+                {
+                    "a": "Osteuropa"
+                },
+                {
+                    "a": "Migration"
+                },
+                {
+                    "a": "Geschichte"
+                },
+                {
+                    "a": "Literatur"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "KOBV"
+                },
+                {
+                    "d": "Kalliope"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "a"
+                },
+                {
+                    "d": "information.mob@herne.de"
+                }
+            ],
+            [
+                {
+                    "a": "b"
+                },
+                {
+                    "d": "fernleihen.mob@herne.de"
+                }
+            ],
+            [
+                {
+                    "a": "d"
+                },
+                {
+                    "d": "information.mob@herne.de"
+                }
+            ],
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "fernleihen.mob@herne.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "fernleihen.mob@herne.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-364",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-364",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-364",
+    "identifier": "DE-364",
+    "name": "Martin-Opitz-Bibliothek (MOB)",
+    "location": "Herne",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NRW"
+}

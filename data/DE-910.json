@@ -1,0 +1,251 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-910.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:27-08-15"
+                ],
+                {
+                    "t": "15:17:06.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020586841"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "JC099"
+                },
+                {
+                    "d": "910"
+                },
+                {
+                    "e": "DE-910"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.lindau.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://www.datronic.de/cgi-bin/findus.fcgi.pl?customer=lindau"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Lindau/Bodensee StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtb\u00fccherei Lindau/Bodensee"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Maximilianstr. 52"
+                },
+                {
+                    "b": "Lindau/Bodensee"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "88131"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "h": "Postgeb\u00e4ude - Eingang \u00fcber den Hof"
+                },
+                {
+                    "i": "Di-Mi 14.00-18.00, Do 16.00-19.30, Fr 9.00-12.00, Sa 10.00-13.00"
+                },
+                {
+                    "k": "9.68116"
+                },
+                {
+                    "l": "47.54576"
+                },
+                {
+                    "n": "09776116"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Lindau"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "88107"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "g": "17 40"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "8382"
+                },
+                {
+                    "f": "27 47 47-0"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "8382"
+                },
+                {
+                    "i": "27 47 47-859"
+                },
+                {
+                    "k": "stadtbuecherei@lindau.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "07"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAY"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "BVB"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "stadtbuecherei.fernleihe@lindau.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-910",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-910",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-910",
+    "identifier": "DE-910",
+    "name": "Stadtb\u00fccherei Lindau/Bodensee",
+    "location": "Lindau/Bodensee",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAY"
+}

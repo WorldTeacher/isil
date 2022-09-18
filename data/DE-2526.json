@@ -1,0 +1,202 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-2526.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-08-17"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:09-11-20"
+                ],
+                {
+                    "t": "13:24:29.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:11-08-17"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1138134171"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "d": "2526"
+                },
+                {
+                    "e": "DE-2526"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.dzbank-kunstsammlung.de"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Frankfurt/M DZ BANK KunstSaml"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "DZ BANK Kunstsammlung, Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Platz der Republik"
+                },
+                {
+                    "b": "Frankfurt/Main"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "60325"
+                },
+                {
+                    "f": "Hessen"
+                },
+                {
+                    "h": "ART FOYER"
+                },
+                {
+                    "i": "Di-Mi und Fr-Sa 11.00-19.00, Do 11.00-20.00"
+                },
+                {
+                    "k": "8.65952"
+                },
+                {
+                    "l": "50.11028"
+                },
+                {
+                    "n": "06412000"
+                },
+                {
+                    "o": "barrierefrei"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "69"
+                },
+                {
+                    "f": "74 47-42030"
+                },
+                {
+                    "k": "kunst@dzbank.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "08"
+                },
+                {
+                    "h": "04"
+                },
+                {
+                    "i": "P"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Zeitgen\u00f6ssische Kunst, Fotografie"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "HES"
+                },
+                {
+                    "c": "SWB"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-2526",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-2526",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-2526",
+    "identifier": "DE-2526",
+    "name": "DZ BANK Kunstsammlung, Bibliothek",
+    "location": "Frankfurt/Main",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "HES"
+}

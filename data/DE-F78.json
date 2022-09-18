@@ -1,0 +1,234 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-F78.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:25-10-21"
+                ],
+                {
+                    "t": "12:01:22.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020590970"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "608078-9"
+                },
+                {
+                    "b": "BS724"
+                },
+                {
+                    "d": "F 78"
+                },
+                {
+                    "e": "DE-F78"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "https://www.hfmdk-frankfurt.de/thema/bibliothek"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://lbsopac.rz.uni-frankfurt.de/DB=77/LNG=DU/ADVANCED_SEARCHFILTER"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Frankfurt/M HS Musik"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Hochschule f\u00fcr Musik und Darstellende Kunst Frankfurt, Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Eschersheimer Landstr. 29/39"
+                },
+                {
+                    "b": "Frankfurt/Main"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "60322"
+                },
+                {
+                    "f": "Hessen"
+                },
+                {
+                    "i": "W\u00e4hrend der Vorlesungszeiten: Mo-Fr 9.30-18.30; w\u00e4hrend der Semesterferien: Mo, Mi, Fr 10.00-15.00; Di, Do 13:00-18:00"
+                },
+                {
+                    "j": "Zur Ausleihe sind ausschlie\u00dflich die Studierenden und Lehrenden der Hochschule berechtigt, f\u00fcr externe InteressentInnen ist Pr\u00e4senznutzung m\u00f6glich"
+                },
+                {
+                    "k": "8.67617"
+                },
+                {
+                    "l": "50.12031"
+                },
+                {
+                    "n": "06412000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "69"
+                },
+                {
+                    "f": "15 40 07-293"
+                },
+                {
+                    "k": "info.bibliothek@hfmdk-frankfurt.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0036"
+                },
+                {
+                    "e": "HBV"
+                },
+                {
+                    "f": "70"
+                },
+                {
+                    "g": "02"
+                },
+                {
+                    "h": "07"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Musik"
+                },
+                {
+                    "a": "Theater"
+                },
+                {
+                    "a": "Tanz"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "HES"
+                },
+                {
+                    "c": "HeBIS"
+                },
+                {
+                    "d": "Kalliope"
+                },
+                {
+                    "e": "n"
+                },
+                {
+                    "f": "x"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-F78",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-F78",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-F78",
+    "identifier": "DE-F78",
+    "name": "Hochschule f\u00fcr Musik und Darstellende Kunst Frankfurt, Bibliothek",
+    "location": "Frankfurt/Main",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "HES"
+}

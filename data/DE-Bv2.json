@@ -1,0 +1,278 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Bv2.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:25-10-17"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:27-02-19"
+                ],
+                {
+                    "t": "10:37:46.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:25-10-17"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1142243346"
+                ]
+            ]
+        ],
+        "007N": [
+            [
+                [
+                    "009003096"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "208501-X"
+                },
+                {
+                    "b": "DN730"
+                },
+                {
+                    "d": "Bv 2"
+                },
+                {
+                    "e": "DE-Bv2"
+                },
+                {
+                    "f": "AWIPM"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.awi.de/ueber-uns/service/bibliothek.html"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://vzlbs.gbv.de/DB=12/LNG=DU/"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Bremerhaven A.-Wegener-Inst."
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Alfred-Wegener-Institut Helmholtz-Zentrum f\u00fcr Polar- und Meeresforschung, (AWI), Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Am alten Hafen 26"
+                },
+                {
+                    "b": "Bremerhaven"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "27568"
+                },
+                {
+                    "f": "Bremen"
+                },
+                {
+                    "i": "Mo-Do 9.00-15.00, Fr 9.00-13.00"
+                },
+                {
+                    "k": "8.58025"
+                },
+                {
+                    "l": "53.54043"
+                },
+                {
+                    "n": "04012000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Bremerhaven"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "27515"
+                },
+                {
+                    "f": "Bremen"
+                },
+                {
+                    "g": "12 01 61"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "471"
+                },
+                {
+                    "f": "48 31-1276"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "471"
+                },
+                {
+                    "i": "48 31-1919"
+                },
+                {
+                    "k": "library@awi.de"
+                }
+            ]
+        ],
+        "035D": [
+            [
+                {
+                    "a": "Hg 1"
+                }
+            ],
+            [
+                {
+                    "b": "GyBrWI (fr\u00fcherer MARC Code)"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0218"
+                },
+                {
+                    "e": "GBV"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "07"
+                },
+                {
+                    "h": "07"
+                },
+                {
+                    "i": "P"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "HAM"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "GBV"
+                },
+                {
+                    "d": "AMB"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Bv2",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Bv2",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Bv2",
+    "identifier": "DE-Bv2",
+    "name": "Alfred-Wegener-Institut Helmholtz-Zentrum f\u00fcr Polar- und Meeresforschung, (AWI), Bibliothek",
+    "location": "Bremerhaven",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "HAM"
+}

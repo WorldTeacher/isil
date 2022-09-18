@@ -1,0 +1,263 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-M25.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:17-01-05"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:03-04-19"
+                ],
+                {
+                    "t": "08:39:30.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "026959038"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "808026-4"
+                },
+                {
+                    "b": "CW342"
+                },
+                {
+                    "d": "M 25"
+                },
+                {
+                    "e": "DE-M25"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.innenministerium.bayern.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://opac.bib-bvb.de"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "M\u00fcnchen Innenministerium"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Bayerisches Staatsministerium des Innern, f\u00fcr Sport und Integration, Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Odeonsplatz 3"
+                },
+                {
+                    "b": "M\u00fcnchen"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "80539"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "i": "Nicht \u00f6ffentlich zug\u00e4nglich"
+                },
+                {
+                    "k": "11.57670"
+                },
+                {
+                    "l": "48.14347"
+                },
+                {
+                    "n": "09162000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "M\u00fcnchen"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "80524"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "89"
+                },
+                {
+                    "f": "21 92-2286"
+                },
+                {
+                    "k": "bibliothek@stmi.bayern.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0161"
+                },
+                {
+                    "d": "BVB"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "02"
+                },
+                {
+                    "h": "06"
+                },
+                {
+                    "i": "P"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Verwaltungsrecht"
+                },
+                {
+                    "a": "Innere Sicherheit"
+                },
+                {
+                    "a": "Polizeiwesen"
+                },
+                {
+                    "a": "Feuerwehr"
+                },
+                {
+                    "a": "Katastrophen- und Zivilschutz"
+                },
+                {
+                    "a": "Rettungswesen"
+                },
+                {
+                    "a": "Bayerische Ortsgeschichte"
+                },
+                {
+                    "a": "Bayerisches Kommunalrecht"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAY"
+                },
+                {
+                    "c": "BVB"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-M25",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-M25",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-M25",
+    "identifier": "DE-M25",
+    "name": "Bayerisches Staatsministerium des Innern, f\u00fcr Sport und Integration, Bibliothek",
+    "location": "M\u00fcnchen",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAY"
+}

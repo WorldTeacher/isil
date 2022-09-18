@@ -1,0 +1,238 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-454.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:28-11-18"
+                ],
+                {
+                    "t": "16:38:44.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "02058427X"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "AH454"
+                },
+                {
+                    "d": "454"
+                },
+                {
+                    "e": "DE-454"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "https://stadtbuecherei.soest.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://stadtbuecherei.soest.de/index.aspx"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Soest StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtb\u00fccherei Soest"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Severinstr. 10"
+                },
+                {
+                    "b": "Soest"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "59494"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "i": "Mo-Di und Do-Fr 10.00-13.30 und 14.30-18.00, Sa 10.00-13.00"
+                },
+                {
+                    "k": "8.11066"
+                },
+                {
+                    "l": "51.57302"
+                },
+                {
+                    "n": "05974040"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "2921"
+                },
+                {
+                    "f": "1 03-1111"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "2921"
+                },
+                {
+                    "i": "1 03-1198"
+                },
+                {
+                    "k": "stadtbuecherei@soest.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "07"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "b"
+                },
+                {
+                    "d": "mail@stadtbuecherei-soest.de"
+                }
+            ],
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "fernleihe@soest.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "fernleihe@soest.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-454",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-454",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-454",
+    "identifier": "DE-454",
+    "name": "Stadtb\u00fccherei Soest",
+    "location": "Soest",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NRW"
+}

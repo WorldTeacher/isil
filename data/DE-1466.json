@@ -1,0 +1,225 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-1466.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:23-11-07"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:28-01-16"
+                ],
+                {
+                    "t": "16:06:52.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:23-11-07"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "986509418"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "GP076"
+                },
+                {
+                    "d": "1466"
+                },
+                {
+                    "e": "DE-1466"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.buecherei-vaterstetten.de/"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://www.buecherei-vaterstetten.de/katalog.html"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Vaterstetten GB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Gemeindeb\u00fccherei Vaterstetten"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Johann-Strau\u00df-Str. 37"
+                },
+                {
+                    "b": "Baldham"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "85598"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "i": "Mo und Mi-Do 15.00-19.00, Di 11.00-14.00 und 15.00-19.00, Fr 11.00-14.00"
+                },
+                {
+                    "k": "11.78571"
+                },
+                {
+                    "l": "48.10575"
+                },
+                {
+                    "n": "09175132"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "8106"
+                },
+                {
+                    "f": "3 58 88-8"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "8106"
+                },
+                {
+                    "i": "3 58 88-9"
+                },
+                {
+                    "k": "buecherei@vaterstetten.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "06"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAY"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "BVB"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "fernleihe@vaterstetten.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-1466",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-1466",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-1466",
+    "identifier": "DE-1466",
+    "name": "Gemeindeb\u00fccherei Vaterstetten",
+    "location": "Baldham",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAY"
+}

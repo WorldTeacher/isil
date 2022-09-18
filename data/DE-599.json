@@ -1,0 +1,203 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-599.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:30-09-08"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:02-05-18"
+                ],
+                {
+                    "t": "15:48:52.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:30-09-08"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "990632393"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "d": "599"
+                },
+                {
+                    "e": "DE-599"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.dnb.de/agv"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "AG Verbund; AGV"
+                },
+                {
+                    "4": "a"
+                }
+            ],
+            [
+                {
+                    "a": "Frankfurt/Main AGV"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Arbeitsgemeinschaft der Verbundsysteme"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Adickesallee 1"
+                },
+                {
+                    "b": "Frankfurt/Main"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "60322"
+                },
+                {
+                    "f": "Hessen"
+                },
+                {
+                    "i": "nicht \u00f6ffentlich zug\u00e4nglich"
+                },
+                {
+                    "k": "8.68329"
+                },
+                {
+                    "l": "50.13121"
+                },
+                {
+                    "n": "06412000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "z": "Sitz des Sekretariats"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "69"
+                },
+                {
+                    "f": "15 25-1523"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "69"
+                },
+                {
+                    "i": "15 25-1010"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "96"
+                },
+                {
+                    "g": "06"
+                },
+                {
+                    "h": "11"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "HES"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-599",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-599",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-599",
+    "identifier": "DE-599",
+    "name": "Arbeitsgemeinschaft der Verbundsysteme",
+    "location": "Frankfurt/Main",
+    "type": [
+        "Organization",
+        "Organization"
+    ],
+    "addressRegion": "HES"
+}

@@ -1,0 +1,226 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Bch1.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:12-02-02"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:17-02-16"
+                ],
+                {
+                    "t": "14:00:48.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "023222700"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "BK419"
+                },
+                {
+                    "d": "Bch 1"
+                },
+                {
+                    "e": "DE-Bch1"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.kloster-plankstetten.de"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Berching KlosterB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Bibliothek der Benediktinerabtei Plankstetten"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Klosterpl. 1"
+                },
+                {
+                    "b": "Berching"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "92334"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "i": "Do-Fr 14.30-17.00"
+                },
+                {
+                    "j": "und nach Vereinbarung"
+                },
+                {
+                    "k": "11.45352"
+                },
+                {
+                    "l": "49.06888"
+                },
+                {
+                    "n": "09373112"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "8462"
+                },
+                {
+                    "f": "2 06-140"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "8462"
+                },
+                {
+                    "i": "2 06-121"
+                },
+                {
+                    "k": "bibliothek@kloster-plankstetten.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "10"
+                },
+                {
+                    "h": "07"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Monastische Theologie"
+                },
+                {
+                    "a": "\u00d6kologie"
+                },
+                {
+                    "a": "Oberpfalz"
+                },
+                {
+                    "a": "Mittelfranken"
+                },
+                {
+                    "a": "Oberbayern"
+                },
+                {
+                    "a": "Niederbayern"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAY"
+                },
+                {
+                    "c": "BVB"
+                },
+                {
+                    "e": "l"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Bch1",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Bch1",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Bch1",
+    "identifier": "DE-Bch1",
+    "name": "Bibliothek der Benediktinerabtei Plankstetten",
+    "location": "Berching",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAY"
+}

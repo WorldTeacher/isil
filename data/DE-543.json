@@ -1,0 +1,215 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-543.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:01-03-16"
+                ],
+                {
+                    "t": "15:48:36.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020584911"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "WB514"
+                },
+                {
+                    "d": "543"
+                },
+                {
+                    "e": "DE-543"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.bibliothek-auerbach.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://opac.bibliothek-auerbach.de/"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Auerbach/V. StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtbibliothek Auerbach"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Schlo\u00dfstr. 9"
+                },
+                {
+                    "b": "Auerbach/Vogtland"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "08209"
+                },
+                {
+                    "f": "Sachsen"
+                },
+                {
+                    "i": "Mo-Di und Fr 14.00-19.00, Do 10.00-19.00, Sa 10.00-13.00"
+                },
+                {
+                    "k": "12.40181"
+                },
+                {
+                    "l": "50.50850"
+                },
+                {
+                    "n": "14523020"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "3744"
+                },
+                {
+                    "f": "21 31 25"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "3744"
+                },
+                {
+                    "i": "21 99 53"
+                },
+                {
+                    "k": "mail@bibliothek-auerbach.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "06"
+                },
+                {
+                    "h": "07"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "SAX"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "SWB"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-543",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-543",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-543",
+    "identifier": "DE-543",
+    "name": "Stadtbibliothek Auerbach",
+    "location": "Auerbach/Vogtland",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "SAX"
+}

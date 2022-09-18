@@ -1,0 +1,204 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/AT-UBG-HB.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:29-11-04"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:27-02-19"
+                ],
+                {
+                    "t": "10:37:40.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:27-05-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "026770660"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "030010-X"
+                },
+                {
+                    "c": "15.216.0000-4"
+                },
+                {
+                    "d": "AT-UBG-HB"
+                },
+                {
+                    "e": "AT-UBG-HB"
+                },
+                {
+                    "f": "UBG"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://ub.uni-graz.at"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://opac.uni-graz.at"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Graz Univ. HB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Universit\u00e4t Graz, Hauptbibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Universit\u00e4tsplatz 3"
+                },
+                {
+                    "b": "Graz"
+                },
+                {
+                    "d": "AT"
+                },
+                {
+                    "e": "A-8010"
+                },
+                {
+                    "f": "\u00d6sterreich"
+                },
+                {
+                    "k": "15.45034"
+                },
+                {
+                    "l": "47.07840"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "43"
+                },
+                {
+                    "e": "316"
+                },
+                {
+                    "f": "3 80-3105"
+                },
+                {
+                    "k": "ub.auskunft@uni-graz.at"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "c": "0157"
+                },
+                {
+                    "e": "\u00d6BV"
+                },
+                {
+                    "f": "60"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "WEU"
+                },
+                {
+                    "c": "\u00d6BV"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ],
+        "047A": [
+            [
+                {
+                    "a": "Allgemein (\u00f6ffentlich) zug\u00e4nglich"
+                }
+            ]
+        ]
+    },
+    "_id": "AT-UBG-HB",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/AT-UBG-HB",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/AT-UBG-HB",
+    "identifier": "AT-UBG-HB",
+    "name": "Universit\u00e4t Graz, Hauptbibliothek",
+    "location": "Graz",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "WEU"
+}

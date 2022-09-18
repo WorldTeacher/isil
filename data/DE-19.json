@@ -1,0 +1,296 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-19.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:18-11-99"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:12-09-22"
+                ],
+                {
+                    "t": "07:25:11.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "00902350X"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "810001-9"
+                },
+                {
+                    "b": "AF019"
+                },
+                {
+                    "d": "19"
+                },
+                {
+                    "e": "DE-19"
+                },
+                {
+                    "f": "UBM"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.ub.uni-muenchen.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://opac.ub.uni-muenchen.de/TouchPoint/start.do"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "M\u00fcnchen UB LMU"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Universit\u00e4tsbibliothek der LMU M\u00fcnchen"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Geschwister-Scholl-Pl. 1"
+                },
+                {
+                    "b": "M\u00fcnchen"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "80539"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "i": "Mo-Fr 9.00-20.00"
+                },
+                {
+                    "k": "11.58053"
+                },
+                {
+                    "l": "48.14970"
+                },
+                {
+                    "n": "09162000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "89"
+                },
+                {
+                    "f": "21 80-3434"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "89"
+                },
+                {
+                    "i": "21 80-3836"
+                },
+                {
+                    "k": "fernleihe@ub.uni-muenchen.de"
+                }
+            ]
+        ],
+        "035D": [
+            [
+                {
+                    "a": "M 131"
+                }
+            ],
+            [
+                {
+                    "b": "GyMLM (fr\u00fcherer MARC Code)"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0026"
+                },
+                {
+                    "d": "BVB"
+                },
+                {
+                    "f": "60"
+                },
+                {
+                    "g": "02"
+                },
+                {
+                    "h": "10"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAY"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "BVB"
+                },
+                {
+                    "d": "Kalliope"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035K": [
+            [
+                {
+                    "b": "A"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "fernleihe@ub.uni-muenchen.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "fernleihe@ub.uni-muenchen.de"
+                }
+            ]
+        ],
+        "035O": [
+            [
+                {
+                    "a": "ISIL DE-12; AUTO DE-618"
+                }
+            ],
+            [
+                {
+                    "a": "ISIL DE-12; FZL DE-617"
+                }
+            ]
+        ],
+        "035Q": [
+            [
+                {
+                    "a": "j"
+                }
+            ]
+        ],
+        "047A": [
+            [
+                {
+                    "a": "Pflichtexemplare aus Oberbayern"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-19",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-19",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-19",
+    "identifier": "DE-19",
+    "name": "Universit\u00e4tsbibliothek der LMU M\u00fcnchen",
+    "location": "M\u00fcnchen",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAY"
+}

@@ -1,0 +1,188 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-553.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:21-03-16"
+                ],
+                {
+                    "t": "17:05:33.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:27-05-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020585004"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "WA455"
+                },
+                {
+                    "d": "553"
+                },
+                {
+                    "e": "DE-553"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Pasewalk StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtbibliothek Pasewalk"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Gr\u00fcnstr. 59"
+                },
+                {
+                    "b": "Pasewalk"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "17309"
+                },
+                {
+                    "f": "Mecklenburg-Vorpommern"
+                },
+                {
+                    "i": "Mo und Fr 13.00-18.00, Di und Do 10.00-12.00 und 13.00-18.00"
+                },
+                {
+                    "k": "13.98725"
+                },
+                {
+                    "l": "53.50566"
+                },
+                {
+                    "n": "13062043"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "3973"
+                },
+                {
+                    "f": "2 09 40"
+                },
+                {
+                    "k": "bibliothek@pasewalk.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "06"
+                },
+                {
+                    "h": "06"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "HAM"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "GBV"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-553",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-553",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-553",
+    "identifier": "DE-553",
+    "name": "Stadtbibliothek Pasewalk",
+    "location": "Pasewalk",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "HAM"
+}

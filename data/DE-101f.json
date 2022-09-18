@@ -1,0 +1,272 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-101f.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:10-03-22"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:10-03-22"
+                ],
+                {
+                    "t": "16:14:42.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:10-03-22"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1253266433"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "d": "101f"
+                },
+                {
+                    "e": "DE-101f"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "https://www.dnb.de/dea"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://portal.dnb.de/"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Leipzig DNB Exilarchiv"
+                },
+                {
+                    "4": "a"
+                }
+            ],
+            [
+                {
+                    "a": "Leipzig DNB Exilarchiv"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Deutsche Nationalbibliothek Leipzig, Deutsches Exilarchiv 1933-1945"
+                }
+            ]
+        ],
+        "029R": [
+            [
+                {
+                    "9": "009030115"
+                },
+                {
+                    "7": "Tw"
+                },
+                {
+                    "a": "Deutsche Nationalbibliothek Leipzig"
+                },
+                {
+                    "e": "DE-101a"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Deutscher Platz 1"
+                },
+                {
+                    "b": "Leipzig"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "04103"
+                },
+                {
+                    "f": "Sachsen"
+                },
+                {
+                    "i": "Mo-Fr 9.00-22.00, Sa 10.00-18.00"
+                },
+                {
+                    "k": "12.39645"
+                },
+                {
+                    "l": "51.32211"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "69"
+                },
+                {
+                    "f": "15 25 1900"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "69"
+                },
+                {
+                    "i": "15 25 1959"
+                },
+                {
+                    "k": "exil@dnb.de"
+                }
+            ],
+            [
+                {
+                    "a": "W"
+                },
+                {
+                    "b": "Fernleihe"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "341"
+                },
+                {
+                    "f": "22 71 567"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "341"
+                },
+                {
+                    "i": "22 71 444"
+                },
+                {
+                    "k": "fernleihe@dnb.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "f": "11"
+                },
+                {
+                    "g": "01"
+                },
+                {
+                    "h": "08"
+                },
+                {
+                    "i": "P"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "1933-1950 im Ausland erschienene Publikationen deutschsprachiger Emigranten"
+                },
+                {
+                    "a": "Nachl\u00e4sse und Teilnachl\u00e4sse deutschsprachiger Emigranten"
+                },
+                {
+                    "a": "Archive von Exilorganisationen"
+                },
+                {
+                    "a": "Sammlungen von Exilforschern"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "SAX"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-101f",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-101f",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-101f",
+    "identifier": "DE-101f",
+    "name": "Deutsche Nationalbibliothek Leipzig, Deutsches Exilarchiv 1933-1945",
+    "location": "Leipzig",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "SAX"
+}

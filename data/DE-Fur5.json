@@ -1,0 +1,245 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Fur5.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:05-05-22"
+                ],
+                {
+                    "t": "14:30:46.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "02059142X"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "WA613"
+                },
+                {
+                    "d": "Fur 5"
+                },
+                {
+                    "e": "DE-Fur5"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.bibo-fw.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://opac.stadtbibliothek-fuerstenwalde.de/"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "F\u00fcrstenwalde StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtbibliothek F\u00fcrstenwalde"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Dompl. 7"
+                },
+                {
+                    "b": "F\u00fcrstenwalde"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "15517"
+                },
+                {
+                    "f": "Brandenburg"
+                },
+                {
+                    "i": "Mo, Di und Fr 10.00-18.00, Do 10.00-19.00, Sa 10.00-13.00"
+                },
+                {
+                    "k": "14.06612"
+                },
+                {
+                    "l": "52.35753"
+                },
+                {
+                    "n": "12067144"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "F\u00fcrstenwalde"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "15517"
+                },
+                {
+                    "f": "Brandenburg"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "3361"
+                },
+                {
+                    "f": "55 72 32"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "3361"
+                },
+                {
+                    "i": "55 74 44"
+                },
+                {
+                    "k": "stadtbibliothek@fuerstenwalde-spree.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "05"
+                },
+                {
+                    "h": "07"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Gedenkbibliothek der Initiativgruppe Internierungslager Ketschendorf e.V."
+                },
+                {
+                    "a": "Territoriale Literatur \u00fcber F\u00fcrstenwalde und Umland"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BER"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "KOBV"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Fur5",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Fur5",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Fur5",
+    "identifier": "DE-Fur5",
+    "name": "Stadtbibliothek F\u00fcrstenwalde",
+    "location": "F\u00fcrstenwalde",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BER"
+}

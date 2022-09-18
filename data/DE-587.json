@@ -1,0 +1,278 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-587.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:18-11-99"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:22-02-21"
+                ],
+                {
+                    "t": "15:55:44.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "009009191"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "501141-3"
+                },
+                {
+                    "d": "587"
+                },
+                {
+                    "e": "DE-587"
+                },
+                {
+                    "f": "ZUMA"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.gesis.org/bibliothek/"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://www.gesis.org/bibliothek/"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "K\u00f6ln GESIS WGL"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "GESIS - Leibniz-Institut f\u00fcr Sozialwissenschaften, Bibliothek K\u00f6ln"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Unter Sachsenhausen 6-8"
+                },
+                {
+                    "b": "K\u00f6ln"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "50667"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "i": "Mo-Do 10.00-12.00 und 14.00-16.00"
+                },
+                {
+                    "j": "und nach Vereinbarung"
+                },
+                {
+                    "k": "6.95190"
+                },
+                {
+                    "l": "50.94264"
+                },
+                {
+                    "n": "05315000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "221"
+                },
+                {
+                    "f": "4 76 94-131 und 132"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "221"
+                },
+                {
+                    "i": "4 76 94-199"
+                },
+                {
+                    "k": "bibliothek-koeln@gesis.org"
+                }
+            ]
+        ],
+        "035D": [
+            [
+                {
+                    "a": "38/141"
+                }
+            ],
+            [
+                {
+                    "a": "587a"
+                },
+                {
+                    "b": "DE-587a"
+                }
+            ],
+            [
+                {
+                    "a": "587b"
+                },
+                {
+                    "b": "DE-587b"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0043"
+                },
+                {
+                    "d": "HBZ"
+                },
+                {
+                    "d": "WGL"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "07"
+                },
+                {
+                    "h": "07"
+                },
+                {
+                    "i": "P"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Umfrageergebnisse"
+                },
+                {
+                    "a": "Wahlforschung"
+                },
+                {
+                    "a": "Politische Einstellungen"
+                },
+                {
+                    "a": "Methoden und Ergebnisse der empirischen Sozialforschung"
+                },
+                {
+                    "a": "angewandte Informatik"
+                },
+                {
+                    "a": "Geschlechterverh\u00e4ltnisse in der Wissenschaft"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "c": "HBZ"
+                },
+                {
+                    "d": "WGL"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-587",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-587",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-587",
+    "identifier": "DE-587",
+    "name": "GESIS - Leibniz-Institut f\u00fcr Sozialwissenschaften, Bibliothek K\u00f6ln",
+    "location": "K\u00f6ln",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NRW"
+}

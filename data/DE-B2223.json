@@ -1,0 +1,286 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-B2223.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:22-01-20"
+                ],
+                {
+                    "t": "10:22:37.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020589107"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "182223-8"
+                },
+                {
+                    "b": "FC708"
+                },
+                {
+                    "d": "B 2223"
+                },
+                {
+                    "e": "DE-B2223"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.bibliotheken-ekbo.de"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Berlin Landeskirchl. Bib. EKBO"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Landeskirchliche Bibliothek der EKBO"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Georgenkirchstr. 69/70"
+                },
+                {
+                    "b": "Berlin"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "10249"
+                },
+                {
+                    "f": "Berlin"
+                },
+                {
+                    "h": "Haus 1"
+                },
+                {
+                    "i": "Di-Do 9.30-12.00 und 13.00-16.00, Fr 9.30-12.00"
+                },
+                {
+                    "k": "13.42559"
+                },
+                {
+                    "l": "52.52734"
+                },
+                {
+                    "n": "11000000"
+                },
+                {
+                    "o": "f\u00fcr Rollstuhlfahrer geeignet"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Berlin"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "10218"
+                },
+                {
+                    "f": "Berlin"
+                },
+                {
+                    "g": "35 09 54"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "30"
+                },
+                {
+                    "f": "2 43 44-134"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "30"
+                },
+                {
+                    "i": "2 43 44-142"
+                },
+                {
+                    "k": "bibliotheken@ekbo.de"
+                },
+                {
+                    "l": "Auskunft"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0320"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "09"
+                },
+                {
+                    "h": "08"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Evangelische Theologie"
+                },
+                {
+                    "a": "Missionswissenschaft/-theologie"
+                },
+                {
+                    "a": "Brandenburgica"
+                },
+                {
+                    "a": "Interreligi\u00f6ser Dialog"
+                },
+                {
+                    "a": "\u00d6kumene"
+                },
+                {
+                    "a": "Kirchliches Recht"
+                },
+                {
+                    "a": "Krankenhausseelsorge"
+                },
+                {
+                    "a": "Migration"
+                },
+                {
+                    "a": "Integration"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BER"
+                },
+                {
+                    "c": "KOBV"
+                },
+                {
+                    "d": "VThK"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "bibliotheken@ekbo.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-B2223",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-B2223",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-B2223",
+    "identifier": "DE-B2223",
+    "name": "Landeskirchliche Bibliothek der EKBO",
+    "location": "Berlin",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BER"
+}

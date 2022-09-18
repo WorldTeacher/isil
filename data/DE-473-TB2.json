@@ -1,0 +1,293 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-473-TB2.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:09-10-14"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:17-11-16"
+                ],
+                {
+                    "t": "15:54:07.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:09-10-14"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1059262843"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "d": "473/TB2"
+                },
+                {
+                    "e": "DE-473-TB2"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.uni-bamberg.de/teilbibliothek2/"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://katalog.ub.uni-bamberg.de"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Bamberg UB TeilB2"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Universit\u00e4tsbibliothek Bamberg, Teilbibliothek 2 (Humanwissenschaften)"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Markusplatz 3"
+                },
+                {
+                    "b": "Bamberg"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "96047"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "h": "Zugang: Ecke Steinertstra\u00dfe"
+                },
+                {
+                    "k": "10.88294"
+                },
+                {
+                    "l": "49.89571"
+                },
+                {
+                    "n": "09461000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "z": "Bibliotheksadresse"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "a": "Universit\u00e4tsbibliothek Bamberg"
+                },
+                {
+                    "b": "Bamberg"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "96018"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "g": "27 05"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "z": "Briefpost"
+                },
+                {
+                    "2": "P"
+                }
+            ],
+            [
+                {
+                    "a": "Universit\u00e4tsbibliothek Bamberg, Feldkirchenstr. 21"
+                },
+                {
+                    "b": "Bamberg"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "96052"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "h": "Zufahrt: Am Heidelsteig"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "z": "Paketpost"
+                },
+                {
+                    "2": "W"
+                },
+                {
+                    "3": "Paketpost"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "951"
+                },
+                {
+                    "f": "8 63-1570"
+                },
+                {
+                    "k": "fernleihe.ub@uni-bamberg.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "65"
+                },
+                {
+                    "g": "02"
+                },
+                {
+                    "h": "08"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAY"
+                },
+                {
+                    "c": "BVB"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035K": [
+            [
+                {
+                    "b": "A"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "fernleihe.ub@uni-bamberg.de"
+                }
+            ]
+        ],
+        "035O": [
+            [
+                {
+                    "a": "AUTO DE-618"
+                }
+            ],
+            [
+                {
+                    "a": "FZL DE-619"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-473-TB2",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-473-TB2",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-473-TB2",
+    "identifier": "DE-473-TB2",
+    "name": "Universit\u00e4tsbibliothek Bamberg, Teilbibliothek 2 (Humanwissenschaften)",
+    "location": "Bamberg",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAY"
+}

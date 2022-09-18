@@ -1,0 +1,255 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-B2044.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:18-11-99"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9040:30-03-22"
+                ],
+                {
+                    "t": "16:56:45.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "009025502"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "918083-7"
+                },
+                {
+                    "b": "EA998"
+                },
+                {
+                    "d": "B 2044"
+                },
+                {
+                    "e": "DE-B2044"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.hof.uni-halle.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://www.hof.uni-halle.de/fis/opac-recherche/"
+                },
+                {
+                    "z": "B"
+                }
+            ],
+            [
+                {
+                    "u": "http://www.hof.uni-halle.de/fis/"
+                },
+                {
+                    "x": "Fachinformationsservice"
+                },
+                {
+                    "z": "W"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Wittenberg Hochschulforschung"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Institut f\u00fcr Hochschulforschung (HoF) Halle-Wittenberg an der Martin-Luther-Universit\u00e4t Halle-Wittenberg, Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Collegienstr. 62"
+                },
+                {
+                    "b": "Wittenberg Lutherstadt"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "06886"
+                },
+                {
+                    "f": "Sachsen-Anhalt"
+                },
+                {
+                    "i": "Mo-Do 8.00-12.00 und 13.00-16.00, Fr 8.00-12.00 und 13.00-14.00"
+                },
+                {
+                    "k": "12.65024"
+                },
+                {
+                    "l": "51.86481"
+                },
+                {
+                    "n": "15091375"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "3491"
+                },
+                {
+                    "f": "4 66-251"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "3491"
+                },
+                {
+                    "i": "4 66-255"
+                },
+                {
+                    "k": "fachinformationsservice@hof.uni-halle.de"
+                }
+            ]
+        ],
+        "035D": [
+            [
+                {
+                    "a": "D 202"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0101"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "08"
+                },
+                {
+                    "h": "07"
+                },
+                {
+                    "i": "P"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Forschung \u00fcber Hochschulen"
+                },
+                {
+                    "a": "Hochschulpolitik"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "SAA"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "GBV"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-B2044",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-B2044",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-B2044",
+    "identifier": "DE-B2044",
+    "name": "Institut f\u00fcr Hochschulforschung (HoF) Halle-Wittenberg an der Martin-Luther-Universit\u00e4t Halle-Wittenberg, Bibliothek",
+    "location": "Wittenberg Lutherstadt",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "SAA"
+}

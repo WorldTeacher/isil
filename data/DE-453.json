@@ -1,0 +1,277 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-453.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:28-11-18"
+                ],
+                {
+                    "t": "16:38:45.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020584261"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "AE453"
+                },
+                {
+                    "d": "453"
+                },
+                {
+                    "e": "DE-453"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.siegen.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://www.go-libri.de"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Siegen StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtbibliothek Siegen"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Markt 25"
+                },
+                {
+                    "b": "Siegen"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "57072"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "i": "Di-Fr 10.00-19.00, Sa 10.00-14.00"
+                },
+                {
+                    "k": "8.02495"
+                },
+                {
+                    "l": "50.87489"
+                },
+                {
+                    "n": "05970040"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "271"
+                },
+                {
+                    "f": "4 04-3011"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "271"
+                },
+                {
+                    "i": "4 04-3038"
+                },
+                {
+                    "k": "stadtbibliothek@siegen.de"
+                }
+            ],
+            [
+                {
+                    "a": "W"
+                },
+                {
+                    "b": "Fernleihe"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "271"
+                },
+                {
+                    "f": "4 04-3036"
+                },
+                {
+                    "k": "stadtbibliothek@siegen.de"
+                }
+            ]
+        ],
+        "035D": [
+            [
+                {
+                    "a": "419"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "08"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Jazz-Noten"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "stadtbibliothek@siegen.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "stadtbibliothek@siegen.de"
+                }
+            ]
+        ],
+        "035O": [
+            [
+                {
+                    "a": "ISIL DE-467; FZL DE-621"
+                },
+                {
+                    "b": "CONTAINER"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-453",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-453",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-453",
+    "identifier": "DE-453",
+    "name": "Stadtbibliothek Siegen",
+    "location": "Siegen",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NRW"
+}

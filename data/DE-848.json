@@ -1,0 +1,271 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-848.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:30-08-22"
+                ],
+                {
+                    "t": "16:38:46.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020586329"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "HQ189"
+                },
+                {
+                    "d": "848"
+                },
+                {
+                    "e": "DE-848"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.stadtbuecherei-traunstein.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://sb-traunstein.lmscloud.net/"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Traunstein StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtb\u00fccherei Traunstein"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Haywards-Heath-Weg 1"
+                },
+                {
+                    "b": "Traunstein"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "83278"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "i": "Di bis Fr 10.00-17.00, Sa 10.00-13.00"
+                },
+                {
+                    "k": "12.64413"
+                },
+                {
+                    "l": "47.86984"
+                },
+                {
+                    "n": "09189155"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "861"
+                },
+                {
+                    "f": "16 44 80"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "861"
+                },
+                {
+                    "i": "16 44 82"
+                },
+                {
+                    "k": "info@stadtbuecherei-traunstein.de"
+                }
+            ],
+            [
+                {
+                    "a": "W"
+                },
+                {
+                    "b": "Fernleihe"
+                },
+                {
+                    "k": "fernleihe@stadtbuecherei-traunstein.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "07"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAY"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "BVB"
+                },
+                {
+                    "d": "biblio18"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "a"
+                },
+                {
+                    "d": "fernleihe@stadtbuecherei-traunstein.de"
+                }
+            ],
+            [
+                {
+                    "a": "b"
+                },
+                {
+                    "d": "fernleihe@stadtbuecherei-traunstein.de"
+                }
+            ],
+            [
+                {
+                    "a": "d"
+                },
+                {
+                    "d": "fernleihe@stadtbuecherei-traunstein.de"
+                }
+            ],
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "fernleihe@stadtbuecherei-traunstein.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "fernleihe@stadtbuecherei-traunstein.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-848",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-848",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-848",
+    "identifier": "DE-848",
+    "name": "Stadtb\u00fccherei Traunstein",
+    "location": "Traunstein",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAY"
+}

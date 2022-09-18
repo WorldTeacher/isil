@@ -1,0 +1,236 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-M7.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:28-02-05"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:23-02-21"
+                ],
+                {
+                    "t": "13:35:28.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:27-05-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "027155757"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "808007-0"
+                },
+                {
+                    "d": "M 7"
+                },
+                {
+                    "e": "DE-M7"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.bbgev.de/"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "M\u00fcnchen Bay.Bot.Ges."
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Bayerische Botanische Gesellschaft, Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Menzingerstr. 67"
+                },
+                {
+                    "b": "M\u00fcnchen"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "80638"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "i": "Mo, Mi, Fr 8.00-12.00, Di u. Do 14.00-16.00"
+                },
+                {
+                    "j": "nicht \u00f6ffentlich zug\u00e4nglich"
+                },
+                {
+                    "k": "11.50121"
+                },
+                {
+                    "l": "48.16413"
+                },
+                {
+                    "n": "09162000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "89"
+                },
+                {
+                    "f": "1 78 61-255"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "89"
+                },
+                {
+                    "i": "1 78 61-195"
+                },
+                {
+                    "k": "library@bsm.mwn.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0026"
+                },
+                {
+                    "d": "BVB"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "07"
+                },
+                {
+                    "h": "06"
+                },
+                {
+                    "i": "P"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Naturschutz"
+                },
+                {
+                    "a": "\u00d6kologie"
+                },
+                {
+                    "a": "Landschaftspflege"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAY"
+                },
+                {
+                    "c": "BVB"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ],
+        "047A": [
+            [
+                {
+                    "a": "Anfertigung von Kopien in begrenztem Umfang"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-M7",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-M7",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-M7",
+    "identifier": "DE-M7",
+    "name": "Bayerische Botanische Gesellschaft, Bibliothek",
+    "location": "M\u00fcnchen",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAY"
+}

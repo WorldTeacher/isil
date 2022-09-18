@@ -1,0 +1,228 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-2016.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:26-11-13"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:28-01-16"
+                ],
+                {
+                    "t": "16:25:27.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:26-11-13"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1044591102"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "KQ668"
+                },
+                {
+                    "d": "2016"
+                },
+                {
+                    "e": "DE-2016"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.backnang.de/stadtbuecherei"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://wwwopac.rz-kiru.de/backnang/index.asp?DB=backnang"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Backnang StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtb\u00fccherei Backnang"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Im Biegel 13"
+                },
+                {
+                    "b": "Backnang"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "71522"
+                },
+                {
+                    "f": "Baden-W\u00fcrttemberg"
+                },
+                {
+                    "i": "Di 14.00-18.00, Mi 9.00-18.00, Do 14.00-20.00, Fr 9.00-16.00, Sa 9.00-12.00"
+                },
+                {
+                    "k": "9.43030"
+                },
+                {
+                    "l": "48.94849"
+                },
+                {
+                    "n": "08119008"
+                },
+                {
+                    "o": "barrierefrei"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "7191"
+                },
+                {
+                    "f": "6 49 95"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "7191"
+                },
+                {
+                    "i": "89 41 41"
+                },
+                {
+                    "k": "stadtbuecherei@backnang.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "07"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "SWB"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "stadtbuecherei@backnang.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-2016",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-2016",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-2016",
+    "identifier": "DE-2016",
+    "name": "Stadtb\u00fccherei Backnang",
+    "location": "Backnang",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAW"
+}

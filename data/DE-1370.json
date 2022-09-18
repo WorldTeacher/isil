@@ -1,0 +1,229 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-1370.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:19-01-09"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:28-01-16"
+                ],
+                {
+                    "t": "16:05:45.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:19-01-09"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "99211165X"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "GB850"
+                },
+                {
+                    "d": "1370"
+                },
+                {
+                    "e": "DE-1370"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.stadtbibliothek.mannheim.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://katalog.mannheim.de/wopac/index.asp"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Mannheim StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtbibliothek Mannheim"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "N 3, 4"
+                },
+                {
+                    "b": "Mannheim"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "68161"
+                },
+                {
+                    "f": "Baden-W\u00fcrttemberg"
+                },
+                {
+                    "i": "s. Homepage"
+                },
+                {
+                    "k": "8.46690"
+                },
+                {
+                    "l": "49.48580"
+                },
+                {
+                    "n": "08222000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Mannheim"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "68069"
+                },
+                {
+                    "f": "Baden-W\u00fcrttemberg"
+                },
+                {
+                    "g": "12 18 35"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "621"
+                },
+                {
+                    "f": "2 93-8935"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "621"
+                },
+                {
+                    "i": "2 93-9541"
+                },
+                {
+                    "k": "stadtbibliothek@mannheim.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "09"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAW"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-1370",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-1370",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-1370",
+    "identifier": "DE-1370",
+    "name": "Stadtbibliothek Mannheim",
+    "location": "Mannheim",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAW"
+}

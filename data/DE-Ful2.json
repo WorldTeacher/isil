@@ -1,0 +1,267 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Ful2.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:11-06-21"
+                ],
+                {
+                    "t": "09:48:24.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020591411"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "648002-0"
+                },
+                {
+                    "b": "DA774"
+                },
+                {
+                    "d": "Ful 2"
+                },
+                {
+                    "e": "DE-Ful2"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://bib.thf-fulda.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://opac.uni-giessen.de/IMPLAND=Y/SRT=YOP/LNG=DU/DB=80/"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Hauptbibliothek der Theologischen Fakult\u00e4t Fulda"
+                },
+                {
+                    "4": "a"
+                }
+            ],
+            [
+                {
+                    "a": "Fulda Priesterseminar"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Bibliothek des Bisch\u00f6flichen Priesterseminars"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Domdechanei 4"
+                },
+                {
+                    "b": "Fulda"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "36037"
+                },
+                {
+                    "f": "Hessen"
+                },
+                {
+                    "i": "Mo-Do 9.00-17.00, Fr 9-15.00"
+                },
+                {
+                    "k": "9.67129"
+                },
+                {
+                    "l": "50.55366"
+                },
+                {
+                    "n": "06631009"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "661"
+                },
+                {
+                    "f": "87-531 und -530"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "661"
+                },
+                {
+                    "i": "87-550"
+                },
+                {
+                    "k": "info-bibliothek@thf-fulda.de"
+                }
+            ]
+        ],
+        "035D": [
+            [
+                {
+                    "a": "Ful 2a"
+                },
+                {
+                    "b": "DE-Ful2a"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0048"
+                },
+                {
+                    "e": "HBV"
+                },
+                {
+                    "f": "70"
+                },
+                {
+                    "g": "10"
+                },
+                {
+                    "h": "09"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Theologie"
+                },
+                {
+                    "a": "Kirchengeschichte"
+                },
+                {
+                    "a": "Geschichte"
+                },
+                {
+                    "a": "Philosophie"
+                },
+                {
+                    "a": "Fuldensien"
+                },
+                {
+                    "a": "Fulda"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "HES"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "HeBIS"
+                },
+                {
+                    "d": "VThK"
+                },
+                {
+                    "e": "k"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Ful2",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Ful2",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Ful2",
+    "identifier": "DE-Ful2",
+    "name": "Bibliothek des Bisch\u00f6flichen Priesterseminars",
+    "location": "Fulda",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "HES"
+}

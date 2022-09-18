@@ -1,0 +1,250 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-1925.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:22-01-13"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:19-10-21"
+                ],
+                {
+                    "t": "14:55:40.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:22-01-13"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1030021511"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "WD766"
+                },
+                {
+                    "d": "1925"
+                },
+                {
+                    "e": "DE-1925"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://bibliothek.ebersbach-neugersdorf.de/"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Ebersbach-Neugersdorf StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtbibliothek Ebersbach-Neugersdorf"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Hofeweg 41"
+                },
+                {
+                    "b": "Ebersbach-Neugersdorf"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "02730"
+                },
+                {
+                    "f": "Sachsen"
+                },
+                {
+                    "i": "Mo-Di und Do-Fr 09.00-12.00 und 13.30-18.00"
+                },
+                {
+                    "k": "14.60572"
+                },
+                {
+                    "l": "50.99151"
+                },
+                {
+                    "n": "14626085"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "a": "Reichsstr. 1"
+                },
+                {
+                    "b": "Ebersbach-Neugersdorf"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "02730"
+                },
+                {
+                    "f": "Sachsen"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "z": "Adresse f\u00fcr Fernleihsendungen"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "3586"
+                },
+                {
+                    "f": "7 63-174"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "3586"
+                },
+                {
+                    "i": "7 63-189"
+                },
+                {
+                    "k": "Bibliothek@ebersbach-neugersdorf.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "07"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Regionalliteratur"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "SAX"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "d": "\u00d6VK"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035J": [
+            [
+                {
+                    "a": "Alle Fernleihsendungen sind bitte nur an die oben genannte Postadresse zu senden"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-1925",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-1925",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-1925",
+    "identifier": "DE-1925",
+    "name": "Stadtbibliothek Ebersbach-Neugersdorf",
+    "location": "Ebersbach-Neugersdorf",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "SAX"
+}

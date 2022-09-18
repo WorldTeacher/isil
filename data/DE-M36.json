@@ -1,0 +1,240 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-M36.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "0292:25-06-20"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:15-07-20"
+                ],
+                {
+                    "t": "12:21:49.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "0292:25-06-20"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1212605411"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "805000-4"
+                },
+                {
+                    "b": "GE486"
+                },
+                {
+                    "d": "M 36"
+                },
+                {
+                    "e": "DE-M36"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.muenchner-stadtbibliothek.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://www.muenchner-stadtbibliothek.de/opac"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "M\u00fcnchen StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "M\u00fcnchner Stadtbibliothek, Zentralbibliothek Am Gasteig"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Rosenheimer Str. 5"
+                },
+                {
+                    "b": "M\u00fcnchen"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "81667"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "i": "Mo-Fr 10.00-19.00, Sa 11.00-16.00"
+                },
+                {
+                    "k": "11.59145"
+                },
+                {
+                    "l": "48.13177"
+                },
+                {
+                    "n": "09162000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "89"
+                },
+                {
+                    "f": "4 80 98-3313"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "89"
+                },
+                {
+                    "i": "4 80 98-3344"
+                },
+                {
+                    "k": "stb.leserservice@muenchen.de"
+                }
+            ]
+        ],
+        "035D": [
+            [
+                {
+                    "a": "M 337"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0331"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "10"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAY"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "BVB"
+                },
+                {
+                    "e": "k"
+                }
+            ]
+        ],
+        "035O": [
+            [
+                {
+                    "a": "ISIL DE-12; AUTO DE-618"
+                }
+            ],
+            [
+                {
+                    "a": "ISIL DE-12; FZL DE-617"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-M36",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-M36",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-M36",
+    "identifier": "DE-M36",
+    "name": "M\u00fcnchner Stadtbibliothek, Zentralbibliothek Am Gasteig",
+    "location": "M\u00fcnchen",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAY"
+}

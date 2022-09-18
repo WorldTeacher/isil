@@ -1,0 +1,282 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-713.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:23-07-21"
+                ],
+                {
+                    "t": "13:25:07.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020585241"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "LE241"
+                },
+                {
+                    "d": "713"
+                },
+                {
+                    "e": "DE-713"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.stadtbuecherei-wuerselen.de/"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://webopac.verbund.aachen.de"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "W\u00fcrselen StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtb\u00fccherei W\u00fcrselen"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Kaiserstr. 36"
+                },
+                {
+                    "b": "W\u00fcrselen"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "52146"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "i": "Di, Do und Fr 15.00 -18.30, Mi 11.00-13.30 und 15.00-18.30, Sa 10.00-13.00"
+                },
+                {
+                    "k": "6.13207"
+                },
+                {
+                    "l": "50.82000"
+                },
+                {
+                    "n": "05354036"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "W"
+                },
+                {
+                    "3": "Besucheradresse"
+                }
+            ],
+            [
+                {
+                    "a": "Morlaixplatz 1"
+                },
+                {
+                    "b": "W\u00fcrselen"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "52146"
+                },
+                {
+                    "h": "Stadt W\u00fcrselen/Stadtb\u00fccherei"
+                },
+                {
+                    "i": "Di, Do und Fr 15.00 -18.30, Mi 11.00-13.30 und 15.00-18.30, Sa 10.00-13.00"
+                },
+                {
+                    "k": "6.13207"
+                },
+                {
+                    "l": "50.82000"
+                },
+                {
+                    "n": "05354036"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "z": "Hier nur Postzustellung, Besucher siehe Besucheradresse"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "2405"
+                },
+                {
+                    "f": "67-559 bis -560"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "2405"
+                },
+                {
+                    "i": "4 99 39-559"
+                },
+                {
+                    "k": "stadtbuecherei@wuerselen.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "07"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "d": "VBAachen; Kalliope"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "b"
+                },
+                {
+                    "d": "stadtbuecherei@wuerselen.de"
+                }
+            ],
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "stadtbuecherei@wuerselen.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "stadtbuecherei@wuerselen.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-713",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-713",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-713",
+    "identifier": "DE-713",
+    "name": "Stadtb\u00fccherei W\u00fcrselen",
+    "location": "W\u00fcrselen",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NRW"
+}

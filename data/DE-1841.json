@@ -1,0 +1,267 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-1841.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:27-10-10"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:05-07-17"
+                ],
+                {
+                    "t": "10:11:52.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:27-10-10"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "100789394X"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "808500-6"
+                },
+                {
+                    "d": "1841"
+                },
+                {
+                    "e": "DE-1841"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.fhvr-polizei.bayern.de/de/startseite.html"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://sdvoz2.bib-bvb.de/InfoGuideClient.sdvsis/start.do?Login=wosdv"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Polizeihochschulbibliothek Bayern, FBP"
+                },
+                {
+                    "4": "a"
+                }
+            ],
+            [
+                {
+                    "a": "F\u00fcrstenfeldbruck Hf\u00f6D Polizei"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Hochschule f\u00fcr den \u00f6ffentlichen Dienst in Bayern, Fachbereich Polizei, Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "F\u00fcrstenfelder Str. 29"
+                },
+                {
+                    "b": "F\u00fcrstenfeldbruck"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "82256"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "i": "Mo-Do 8.00-16.00, Fr 8.00-13.00"
+                },
+                {
+                    "k": "10.97138"
+                },
+                {
+                    "l": "48.50985"
+                },
+                {
+                    "n": "09179121"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "8141"
+                },
+                {
+                    "f": "4 08-124"
+                },
+                {
+                    "k": "buecherei-ffb@pol.hfoed.bayern.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0161"
+                },
+                {
+                    "d": "BVB"
+                },
+                {
+                    "f": "70"
+                },
+                {
+                    "g": "02"
+                },
+                {
+                    "h": "05"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Verfassungsrecht"
+                },
+                {
+                    "a": "Eingriffsrecht"
+                },
+                {
+                    "a": "Strafwidrigkeiten"
+                },
+                {
+                    "a": "Ordnungswidrigkeiten"
+                },
+                {
+                    "a": "Verwaltungsrecht"
+                },
+                {
+                    "a": "Kriminalwissenschaften"
+                },
+                {
+                    "a": "Einsatzlehre"
+                },
+                {
+                    "a": "Gesellschaftswissenschaften"
+                },
+                {
+                    "a": "F\u00fchrungslehre"
+                },
+                {
+                    "a": "Verkehrslehre"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAY"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "BVB"
+                },
+                {
+                    "e": "n"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "buecherei-ffb@pol.hfoed.bayern.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-1841",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-1841",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-1841",
+    "identifier": "DE-1841",
+    "name": "Hochschule f\u00fcr den \u00f6ffentlichen Dienst in Bayern, Fachbereich Polizei, Bibliothek",
+    "location": "F\u00fcrstenfeldbruck",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAY"
+}

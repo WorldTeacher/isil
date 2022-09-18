@@ -1,0 +1,227 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-702.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:22-09-17"
+                ],
+                {
+                    "t": "15:26:39.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020585209"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "GE140"
+                },
+                {
+                    "d": "702"
+                },
+                {
+                    "e": "DE-702"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.bibliothek-heidenheim.de"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Heidenheim StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtbibliothek Heidenheim"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Willy-Brandt-Platz 1"
+                },
+                {
+                    "b": "Heidenheim/Brenz"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "89522"
+                },
+                {
+                    "f": "Baden-W\u00fcrttemberg"
+                },
+                {
+                    "i": "Di-Fr 10.00-18.00, Sa 10.00-13.00"
+                },
+                {
+                    "k": "10.15147"
+                },
+                {
+                    "l": "48.67649"
+                },
+                {
+                    "n": "08135019"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Heidenheim/Brenz"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "89501"
+                },
+                {
+                    "f": "Baden-W\u00fcrttemberg"
+                },
+                {
+                    "g": "11 46"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "7321"
+                },
+                {
+                    "f": "3 27-4321"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "7321"
+                },
+                {
+                    "i": "3 27-4311"
+                },
+                {
+                    "k": "bibliothek@heidenheim.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "07"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "SWB"
+                },
+                {
+                    "e": "l"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-702",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-702",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-702",
+    "identifier": "DE-702",
+    "name": "Stadtbibliothek Heidenheim",
+    "location": "Heidenheim/Brenz",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAW"
+}

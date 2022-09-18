@@ -1,0 +1,268 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-192.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:28-01-16"
+                ],
+                {
+                    "t": "16:25:07.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020583222"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "938222-7"
+                },
+                {
+                    "b": "AE192"
+                },
+                {
+                    "d": "192"
+                },
+                {
+                    "e": "DE-192"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.bibliothek-ballenstedt.de/"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Ballenstedt StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "F\u00fcrstin-Pauline-Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Alter Markt 9"
+                },
+                {
+                    "b": "Ballenstedt"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "06493"
+                },
+                {
+                    "f": "Sachsen-Anhalt"
+                },
+                {
+                    "i": "Mo 13.00-18.00, Di 10.00-12.00 und 14.00-18.00, Mi 13.00-17.00, Do 10.00-12.00 und 14.00-17.00"
+                },
+                {
+                    "k": "11.24292"
+                },
+                {
+                    "l": "51.72057"
+                },
+                {
+                    "n": "15085040"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "a": "Rathauspl. 12"
+                },
+                {
+                    "b": "Ballenstedt"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "06493"
+                },
+                {
+                    "f": "Sachsen-Anhalt"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "39483"
+                },
+                {
+                    "f": "9 67 43"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "39483"
+                },
+                {
+                    "i": "2 78"
+                },
+                {
+                    "k": "Bibliothek_Ballenstedt@online.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0165"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "06"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Anhalt-Bernburg <F\u00fcrstenhaus>"
+                },
+                {
+                    "a": "Geschichte"
+                },
+                {
+                    "a": "Geographie"
+                },
+                {
+                    "a": "Geologie"
+                },
+                {
+                    "a": "Naturwissenschaften"
+                },
+                {
+                    "a": "Geisteswissenschaften"
+                },
+                {
+                    "a": "Anhalt"
+                },
+                {
+                    "a": "Agthe-Archiv <Noten u.a.>"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "SAA"
+                },
+                {
+                    "c": "GBV"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ],
+        "035K": [
+            [
+                {
+                    "b": "A"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-192",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-192",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-192",
+    "identifier": "DE-192",
+    "name": "F\u00fcrstin-Pauline-Bibliothek",
+    "location": "Ballenstedt",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "SAA"
+}

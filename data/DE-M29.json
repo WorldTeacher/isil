@@ -1,0 +1,256 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-M29.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:28-02-05"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:24-09-21"
+                ],
+                {
+                    "t": "09:53:21.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:27-05-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "027155463"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "808029-X"
+                },
+                {
+                    "b": "BT819"
+                },
+                {
+                    "d": "M 29"
+                },
+                {
+                    "e": "DE-M29"
+                },
+                {
+                    "f": "HMTM"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://bibliothek.musikhochschule-muenchen.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://webopac.bibliothek.musikhochschule-muenchen.de"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "University of Music and Performing Arts, Library"
+                },
+                {
+                    "4": "a"
+                }
+            ],
+            [
+                {
+                    "a": "M\u00fcnchen, HS f. Musik u.Theater"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Hochschule f\u00fcr Musik und Theater M\u00fcnchen, Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Arcisstr. 12"
+                },
+                {
+                    "b": "M\u00fcnchen"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "80333"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "i": "Mo-Do 9.30-19.00, Fr 9.30-16.00 (Lesesaal)"
+                },
+                {
+                    "j": "Mo-Do 9.30-16.00, Fr 9.30-13.00 (Ausleihe); w\u00e4hrend der vorlesungsfreien Zeit verk\u00fcrzte \u00d6ffnungszeiten"
+                },
+                {
+                    "k": "11.56766"
+                },
+                {
+                    "l": "48.14620"
+                },
+                {
+                    "n": "09162000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "89"
+                },
+                {
+                    "f": "2 89-27460"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "89"
+                },
+                {
+                    "i": "2 89-27857"
+                },
+                {
+                    "k": "bibliothek@musikhochschule-muenchen.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0161"
+                },
+                {
+                    "d": "BVB"
+                },
+                {
+                    "f": "70"
+                },
+                {
+                    "g": "02"
+                },
+                {
+                    "h": "07"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Musikalien f\u00fcr die k\u00fcnstlerische Praxis"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAY"
+                },
+                {
+                    "c": "BVB"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ],
+        "035Q": [
+            [
+                {
+                    "a": "j"
+                }
+            ]
+        ],
+        "047A": [
+            [
+                {
+                    "a": "Geschlossener Benutzerkreis, \u00fcberwiegend Magazinbibliothek"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-M29",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-M29",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-M29",
+    "identifier": "DE-M29",
+    "name": "Hochschule f\u00fcr Musik und Theater M\u00fcnchen, Bibliothek",
+    "location": "M\u00fcnchen",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAY"
+}

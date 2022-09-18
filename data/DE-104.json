@@ -1,0 +1,244 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-104.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:18-11-99"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:25-10-21"
+                ],
+                {
+                    "t": "11:49:36.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "009004440"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "333000-X"
+                },
+                {
+                    "b": "AK104"
+                },
+                {
+                    "d": "104"
+                },
+                {
+                    "e": "DE-104"
+                },
+                {
+                    "f": "UBCL"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "https://www.ub.tu-clausthal.de/"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://lhclz.gbv.de/DB=1/"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Clausthal-Z. UB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Universit\u00e4tsbibliothek Clausthal"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Leibnizstr. 2"
+                },
+                {
+                    "b": "Clausthal-Zellerfeld"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "38678"
+                },
+                {
+                    "f": "Niedersachsen"
+                },
+                {
+                    "i": "Mo-Fr 9.00-21.00, Sa-So 10.00-19.00"
+                },
+                {
+                    "k": "10.34114"
+                },
+                {
+                    "l": "51.80104"
+                },
+                {
+                    "n": "03153004"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "5323"
+                },
+                {
+                    "f": "72-3636 (Auskunft) und -2303 (Leihstelle)"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "5323"
+                },
+                {
+                    "i": "72-3639"
+                },
+                {
+                    "k": "office@ub.tu-clausthal.de"
+                }
+            ]
+        ],
+        "035D": [
+            [
+                {
+                    "a": "Cl 30"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0060"
+                },
+                {
+                    "e": "GBV"
+                },
+                {
+                    "f": "60"
+                },
+                {
+                    "g": "02"
+                },
+                {
+                    "h": "09"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NIE"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "GBV"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035O": [
+            [
+                {
+                    "a": "FZL DE-622"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-104",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-104",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-104",
+    "identifier": "DE-104",
+    "name": "Universit\u00e4tsbibliothek Clausthal",
+    "location": "Clausthal-Zellerfeld",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NIE"
+}

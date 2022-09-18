@@ -1,0 +1,288 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-751.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:10-10-12"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:24-09-21"
+                ],
+                {
+                    "t": "09:53:03.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:10-10-12"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "102673388X"
+                ]
+            ]
+        ],
+        "007N": [
+            [
+                [
+                    "009021868"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "752000-1"
+                },
+                {
+                    "b": "AE751"
+                },
+                {
+                    "d": "751"
+                },
+                {
+                    "e": "DE-751"
+                },
+                {
+                    "f": "HSBKA"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "https://www.ph-karlsruhe.de/campus/serviceeinrichtungen/hochschulbibliothek"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://bsz.ibs-bw.de/opac30"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Karlsruhe HSB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Hochschulbibliothek Karlsruhe (PH)"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Bismarckstr. 10"
+                },
+                {
+                    "b": "Karlsruhe"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "76133"
+                },
+                {
+                    "f": "Baden-W\u00fcrttemberg"
+                },
+                {
+                    "i": "Mo-Do 8.00-20.00, Fr 8.00-18.00"
+                },
+                {
+                    "k": "8.39312"
+                },
+                {
+                    "l": "49.01392"
+                },
+                {
+                    "n": "08212000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Karlsruhe"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "76060"
+                },
+                {
+                    "f": "Baden-W\u00fcrttemberg"
+                },
+                {
+                    "g": "11 10 62"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "721"
+                },
+                {
+                    "f": "9 25-5513 (Fernleihe)"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "721"
+                },
+                {
+                    "i": "9 25-5519"
+                },
+                {
+                    "k": "fernleihe@ph-karlsruhe.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0310"
+                },
+                {
+                    "d": "SWB"
+                },
+                {
+                    "f": "70"
+                },
+                {
+                    "g": "02"
+                },
+                {
+                    "h": "08"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Schulb\u00fccher"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "SWB"
+                },
+                {
+                    "e": "k"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035K": [
+            [
+                {
+                    "b": "A"
+                }
+            ]
+        ],
+        "035O": [
+            [
+                {
+                    "a": "ISIL DE-31; AUTO DE-624"
+                }
+            ]
+        ],
+        "035Q": [
+            [
+                {
+                    "a": "j"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-751",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-751",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-751",
+    "identifier": "DE-751",
+    "name": "Hochschulbibliothek Karlsruhe (PH)",
+    "location": "Karlsruhe",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAW"
+}

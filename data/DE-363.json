@@ -1,0 +1,204 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-363.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:18-11-16"
+                ],
+                {
+                    "t": "10:21:36.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020583710"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "AH363"
+                },
+                {
+                    "d": "363"
+                },
+                {
+                    "e": "DE-363"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Lingen StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtbibliothek Lingen"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Karolinenstr. 10"
+                },
+                {
+                    "b": "Lingen/Ems"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "49808"
+                },
+                {
+                    "f": "Niedersachsen"
+                },
+                {
+                    "i": "Di-Fr 10.00-18.00, Sa 10.00-13.00"
+                },
+                {
+                    "k": "7.31775"
+                },
+                {
+                    "l": "52.52298"
+                },
+                {
+                    "n": "03454032"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "591"
+                },
+                {
+                    "f": "9 16 71-0  und -24 (Fernleihe)"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "591"
+                },
+                {
+                    "i": "9 16 71-30"
+                },
+                {
+                    "k": "fernleihe@lingen.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "08"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Heimatkunde Lingen"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NIE"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "GBV"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-363",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-363",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-363",
+    "identifier": "DE-363",
+    "name": "Stadtbibliothek Lingen",
+    "location": "Lingen/Ems",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NIE"
+}

@@ -1,0 +1,183 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-1629.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:29-01-08"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:30-04-18"
+                ],
+                {
+                    "t": "15:23:46.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:29-01-08"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "98734689X"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "PF419"
+                },
+                {
+                    "d": "1629"
+                },
+                {
+                    "e": "DE-1629"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Neunkirchen/Sand K\u00d6B"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Katholische \u00d6ffentliche B\u00fccherei Kersbach"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Alter Hof 2"
+                },
+                {
+                    "b": "Neunkirchen/Sand"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "91233"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "k": "11.36040"
+                },
+                {
+                    "l": "49.54160"
+                },
+                {
+                    "n": "09574141"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "k": "kersbach@lau-net.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "10"
+                },
+                {
+                    "h": "05"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAY"
+                },
+                {
+                    "c": "BVB"
+                },
+                {
+                    "e": "n"
+                },
+                {
+                    "g": "R"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "kersbach@lau-net.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-1629",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-1629",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-1629",
+    "identifier": "DE-1629",
+    "name": "Katholische \u00d6ffentliche B\u00fccherei Kersbach",
+    "location": "Neunkirchen/Sand",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAY"
+}

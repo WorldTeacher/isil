@@ -1,0 +1,196 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/AT-SAA.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:04-06-19"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:04-06-19"
+                ],
+                {
+                    "t": "16:51:44.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:04-06-19"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1187791741"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "030067-6"
+                },
+                {
+                    "d": "AT-SAA"
+                },
+                {
+                    "e": "AT-SAA"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "https://ubifo.wordpress.com/shared-archiving/"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Verteilte Archivierung \u00d6sterreich"
+                },
+                {
+                    "4": "a"
+                }
+            ],
+            [
+                {
+                    "a": "Shared Archiving Austria"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Shared Archiving Austria"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "c/o Universit\u00e4tsbibliothek Wien, Universit\u00e4tsring 1"
+                },
+                {
+                    "b": "Wien"
+                },
+                {
+                    "d": "AT"
+                },
+                {
+                    "e": "A-1010"
+                },
+                {
+                    "f": "\u00d6sterreich"
+                },
+                {
+                    "k": "16.36078"
+                },
+                {
+                    "l": "48.21328"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "k": "sharedarchiving@ubifo.at"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "c": "0157"
+                },
+                {
+                    "e": "\u00d6BV"
+                },
+                {
+                    "f": "88"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Elektronisch verf\u00fcgbare Printzeitschriften"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "WEU"
+                },
+                {
+                    "c": "\u00d6BV"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ],
+        "047A": [
+            [
+                {
+                    "a": "Gemeinsame Archivierungsinitiative aller \u00f6sterreichischen Universit\u00e4tsbibliotheken"
+                }
+            ]
+        ]
+    },
+    "_id": "AT-SAA",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/AT-SAA",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/AT-SAA",
+    "identifier": "AT-SAA",
+    "name": "Shared Archiving Austria",
+    "location": "Wien",
+    "type": [
+        "Organization",
+        "Organization"
+    ],
+    "addressRegion": "WEU"
+}

@@ -1,0 +1,281 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-48.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:26-01-16"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9047:13-05-16"
+                ],
+                {
+                    "t": "15:53:23.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:26-01-16"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "108168805X"
+                ]
+            ]
+        ],
+        "007N": [
+            [
+                [
+                    "009003258"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "245100-1"
+                },
+                {
+                    "b": "GB291"
+                },
+                {
+                    "d": "48"
+                },
+                {
+                    "e": "DE-48"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.stadtbibliothek.luebeck.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://katalog.stadtbibliothek.luebeck.de"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "L\u00fcbeck StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Bibliothek der Hansestadt L\u00fcbeck"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Hundestr. 5-17"
+                },
+                {
+                    "b": "L\u00fcbeck"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "23552"
+                },
+                {
+                    "f": "Schleswig-Holstein"
+                },
+                {
+                    "i": "Mo-Fr 10.00-19.00, Sa 9.00-13.00"
+                },
+                {
+                    "k": "10.69043"
+                },
+                {
+                    "l": "53.86830"
+                },
+                {
+                    "n": "01003000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "L\u00fcbeck"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "23539"
+                },
+                {
+                    "f": "Schleswig-Holstein"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "451"
+                },
+                {
+                    "f": "1 22-4114 (Information) und -4166 (Fernleihe)"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "451"
+                },
+                {
+                    "i": "1 22-4112"
+                },
+                {
+                    "k": "stadtbibliothek@luebeck.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0323"
+                },
+                {
+                    "d": "GBV"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "10"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "L\u00fcbeck"
+                },
+                {
+                    "a": "Hanse"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "HAM"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "GBV"
+                },
+                {
+                    "d": "Kalliope"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035K": [
+            [
+                {
+                    "b": "A"
+                }
+            ]
+        ],
+        "035O": [
+            [
+                {
+                    "a": "FZL DE-622"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-48",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-48",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-48",
+    "identifier": "DE-48",
+    "name": "Bibliothek der Hansestadt L\u00fcbeck",
+    "location": "L\u00fcbeck",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "HAM"
+}

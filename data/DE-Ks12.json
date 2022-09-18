@@ -1,0 +1,261 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Ks12.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:28-07-22"
+                ],
+                {
+                    "t": "09:50:39.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "02059481X"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "DB857"
+                },
+                {
+                    "d": "Ks 12"
+                },
+                {
+                    "e": "DE-Ks12"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.ekkw.de/service/bibliotheken/index.html"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://www.opac.medio-kundenserver.de/ALEPH"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Kassel LaKiBi"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Landeskirchliche Bibliothek Kassel"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Wilhelmsh\u00f6her Allee 330"
+                },
+                {
+                    "b": "Kassel"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "34131"
+                },
+                {
+                    "f": "Hessen"
+                },
+                {
+                    "i": "Die Bibliothek ist ab dem 31.07.2022 f\u00fcr den Publikumsverkehr geschlossen"
+                },
+                {
+                    "k": "9.43464"
+                },
+                {
+                    "l": "51.31474"
+                },
+                {
+                    "n": "06611000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "z": "Haus der Kirche"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Kassel"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "34114"
+                },
+                {
+                    "f": "Hessen"
+                },
+                {
+                    "g": "41 02 60"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "561"
+                },
+                {
+                    "f": "93 78-336 (Auskunft) und -329 (Fernleihe)"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "561"
+                },
+                {
+                    "i": "93 78-400"
+                },
+                {
+                    "k": "bibliothek.lka@ekkw.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "09"
+                },
+                {
+                    "h": "07"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Theologie"
+                },
+                {
+                    "a": "Theologie <Hessen>"
+                },
+                {
+                    "a": "Kirchenrecht"
+                },
+                {
+                    "a": "Agenden"
+                },
+                {
+                    "a": "Gesangb\u00fccher"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "HES"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035J": [
+            [
+                {
+                    "a": "Teilnahme am innerkirchlichen Leihverkehr"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Ks12",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Ks12",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Ks12",
+    "identifier": "DE-Ks12",
+    "name": "Landeskirchliche Bibliothek Kassel",
+    "location": "Kassel",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "HES"
+}

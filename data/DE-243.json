@@ -1,0 +1,274 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-243.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:18-11-99"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:30-11-18"
+                ],
+                {
+                    "t": "15:37:25.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "009013792"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "567020-2"
+                },
+                {
+                    "b": "AG243"
+                },
+                {
+                    "d": "243"
+                },
+                {
+                    "e": "DE-243"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.remscheid.de/bibliothek"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://webopac.remscheid.de/webOPACClient.remscheid/start.do"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Remscheid StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "\u00d6ffentliche Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Scharffstr. 4/6"
+                },
+                {
+                    "b": "Remscheid"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "42853"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "i": "Di und Fr 11.00-19.00, Mi-Do 11.00-18.00, Sa 11.00-13.00"
+                },
+                {
+                    "k": "7.18958"
+                },
+                {
+                    "l": "51.18186"
+                },
+                {
+                    "n": "05120000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Remscheid"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "42849"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "2191"
+                },
+                {
+                    "f": "16-2446"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "2191"
+                },
+                {
+                    "i": "16-2532"
+                },
+                {
+                    "k": "Fernleihe@remscheid.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0126"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "08"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Mathematik"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "b"
+                },
+                {
+                    "d": "Fernleihe@remscheid.de"
+                }
+            ],
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "Fernleihe@remscheid.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "Fernleihe@remscheid.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-243",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-243",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-243",
+    "identifier": "DE-243",
+    "name": "\u00d6ffentliche Bibliothek",
+    "location": "Remscheid",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NRW"
+}

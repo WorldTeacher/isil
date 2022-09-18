@@ -1,0 +1,237 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-285.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:18-11-99"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:28-03-17"
+                ],
+                {
+                    "t": "10:55:47.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "009004947"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "347010-6"
+                },
+                {
+                    "b": "AL285"
+                },
+                {
+                    "d": "285"
+                },
+                {
+                    "e": "DE-285"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://stadtbibliothek.goettingen.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://opac.stadtbibliothek.goettingen.de"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "G\u00f6ttingen StB Buergenthal-Haus"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtbibliothek G\u00f6ttingen"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Gotmarstr. 8"
+                },
+                {
+                    "b": "G\u00f6ttingen"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "37073"
+                },
+                {
+                    "f": "Niedersachsen"
+                },
+                {
+                    "i": "Mo-Di und Do-Fr 10.00-19.00, Sa 10.00-16.00"
+                },
+                {
+                    "k": "9.93373"
+                },
+                {
+                    "l": "51.53340"
+                },
+                {
+                    "n": "03152012"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "551"
+                },
+                {
+                    "f": "4 00-2823 und -2824"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "551"
+                },
+                {
+                    "i": "4 00-2760"
+                },
+                {
+                    "k": "stabigoe@goettingen.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0100"
+                },
+                {
+                    "d": "GBV"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "08"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NIE"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "GBV"
+                },
+                {
+                    "d": "\u00d6VK"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035O": [
+            [
+                {
+                    "a": "FZL DE-622"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-285",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-285",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-285",
+    "identifier": "DE-285",
+    "name": "Stadtbibliothek G\u00f6ttingen",
+    "location": "G\u00f6ttingen",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NIE"
+}

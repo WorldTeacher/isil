@@ -1,0 +1,236 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-2213.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:26-08-14"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:29-11-17"
+                ],
+                {
+                    "t": "14:24:13.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:26-08-14"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1056921307"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "948213-1"
+                },
+                {
+                    "d": "2213"
+                },
+                {
+                    "e": "DE-2213"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.ewnt.de/"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://ewnt.bibdia-hosts.de/opax/de/qsim.html.S"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "EWNT"
+                },
+                {
+                    "4": "b"
+                }
+            ],
+            [
+                {
+                    "a": "Jena EWNT"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Eine Welt Netzwerk Th\u00fcringen e. V., Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Kochstra\u00dfe 1a"
+                },
+                {
+                    "b": "Jena"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "07745"
+                },
+                {
+                    "f": "Th\u00fcringen"
+                },
+                {
+                    "i": "Mo, Mi und Do 10.00-15.00"
+                },
+                {
+                    "j": "und nach Absprache"
+                },
+                {
+                    "k": "11.57996"
+                },
+                {
+                    "l": "50.92527"
+                },
+                {
+                    "n": "16053000"
+                },
+                {
+                    "o": "Zugang zur Bibliothek im Erdgeschoss"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "3641"
+                },
+                {
+                    "f": "2 24 99 50"
+                },
+                {
+                    "k": "bibliothek@ewnt.org"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0327"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "08"
+                },
+                {
+                    "h": "06"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Entwicklungspolitik"
+                },
+                {
+                    "a": "Globales Lernen"
+                },
+                {
+                    "a": "P\u00e4dagogik"
+                },
+                {
+                    "a": "Eine Welt"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "THU"
+                },
+                {
+                    "d": "Archiv3"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-2213",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-2213",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-2213",
+    "identifier": "DE-2213",
+    "name": "Eine Welt Netzwerk Th\u00fcringen e. V., Bibliothek",
+    "location": "Jena",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "THU"
+}

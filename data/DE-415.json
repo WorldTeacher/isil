@@ -1,0 +1,253 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-415.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:31-07-19"
+                ],
+                {
+                    "t": "09:14:46.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020583974"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "AB415"
+                },
+                {
+                    "d": "415"
+                },
+                {
+                    "e": "DE-415"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "https://www.erkelenz.de/familie-gesellschaft-bildung-soziales/stadtbuecherei/"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://webopac.erkelenz.de/libero/WebOpac.cls"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Erkelenz StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtb\u00fccherei Erkelenz"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Gasthausstr. 7"
+                },
+                {
+                    "b": "Erkelenz"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "41812"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "i": "Di 10.00-18.00, Mi 10.00-12.00, Do 10.00-12.00 und 15.00-19.00, Fr 10.00-12.00 und 15.00-17.00, Sa 9.00-13.00"
+                },
+                {
+                    "k": "6.31337"
+                },
+                {
+                    "l": "51.08035"
+                },
+                {
+                    "n": "05370004"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Erkelenz"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "41801"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "g": "11 51/11 56"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "2431"
+                },
+                {
+                    "f": "85-362"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "2431"
+                },
+                {
+                    "i": "85-378"
+                },
+                {
+                    "k": "stadtbuecherei.erkelenz@erkelenz.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "06"
+                },
+                {
+                    "h": "07"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "Stadtbuecherei.Erkelenz@erkelenz.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "Stadtbuecherei.Erkelenz@erkelenz.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-415",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-415",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-415",
+    "identifier": "DE-415",
+    "name": "Stadtb\u00fccherei Erkelenz",
+    "location": "Erkelenz",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NRW"
+}

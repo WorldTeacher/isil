@@ -1,0 +1,238 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-733.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:28-11-18"
+                ],
+                {
+                    "t": "16:38:40.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "02058542X"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "LC256"
+                },
+                {
+                    "d": "733"
+                },
+                {
+                    "e": "DE-733"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.hoexter.de/buecherei"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://www.hoexter.de/buch"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "H\u00f6xter StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtb\u00fccherei H\u00f6xter"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "M\u00f6llingerstr. 9"
+                },
+                {
+                    "b": "H\u00f6xter"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "37671"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "i": "Mo und Fr 14.00-18.00, Di 13.00-18.00, Mi 8.00-13.00, Do 14.00-19.00"
+                },
+                {
+                    "k": "9.38028"
+                },
+                {
+                    "l": "51.77555"
+                },
+                {
+                    "n": "05762020"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "5271"
+                },
+                {
+                    "f": "9 63-4444"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "5271"
+                },
+                {
+                    "i": "9 63-1911"
+                },
+                {
+                    "k": "stadtbuecherei@hoexter.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "07"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "b"
+                },
+                {
+                    "d": "fernleihe@hoexter.de"
+                }
+            ],
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "fernleihe@hoexter.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "fernleihe@hoexter.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-733",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-733",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-733",
+    "identifier": "DE-733",
+    "name": "Stadtb\u00fccherei H\u00f6xter",
+    "location": "H\u00f6xter",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NRW"
+}

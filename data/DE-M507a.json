@@ -1,0 +1,256 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-M507a.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:17-02-11"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:23-05-18"
+                ],
+                {
+                    "t": "18:30:16.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:17-02-11"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1010103822"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "848036-9"
+                },
+                {
+                    "d": "M 507a"
+                },
+                {
+                    "e": "DE-M507a"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.lenbachhaus.de"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Lenbachhaus, Kubin-Archiv"
+                },
+                {
+                    "4": "a"
+                }
+            ],
+            [
+                {
+                    "a": "M\u00fcnchen Kubin-Archiv"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "St\u00e4dtische Galerie im Lenbachhaus M\u00fcnchen, Kubin-Archiv"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Luisenstr. 33"
+                },
+                {
+                    "b": "M\u00fcnchen"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "80333"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "i": "auf Anfrage"
+                },
+                {
+                    "j": "nicht \u00f6ffentlich zug\u00e4nglich"
+                },
+                {
+                    "k": "11.56354"
+                },
+                {
+                    "l": "48.14722"
+                },
+                {
+                    "n": "09162000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "89"
+                },
+                {
+                    "f": "2 33-82622"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "89"
+                },
+                {
+                    "i": "2 33-82692 und -82693"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0161"
+                },
+                {
+                    "d": "BVB"
+                },
+                {
+                    "f": "59"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "06"
+                },
+                {
+                    "i": "P"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Alfred Kubin"
+                },
+                {
+                    "a": "Fotoarchiv"
+                },
+                {
+                    "a": "Archivbestand der Bildwerke Alfred Kubins"
+                },
+                {
+                    "a": "Archivbestand der ungedruckten Werke Kubins (Manuskripte, Vortr\u00e4ge, Briefwechsel etc.)"
+                },
+                {
+                    "a": "Archivbestand der ungedruckten Werke von und zu Pers\u00f6nlichkeiten des Umkreises (Manuskripte, Vortr\u00e4ge, Briefwechsel etc.)"
+                },
+                {
+                    "a": "Archivbestand und fortlaufende Sammlung der gedruckten Werke Kubins"
+                },
+                {
+                    "a": "Druckwerke zu Kubin, fortlaufend"
+                },
+                {
+                    "a": "Druckwerke von und zu Pers\u00f6nlichkeiten des Umkreises, teilweise fortlaufend"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAY"
+                },
+                {
+                    "c": "BVB"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ],
+        "047A": [
+            [
+                {
+                    "a": "Die Bibliothek und das Kubin-Archiv sind zwei voneinander getrennte Einrichtungen verschiedener Abteilungen innerhalb des Lenbachhauses M\u00fcnchen"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-M507a",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-M507a",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-M507a",
+    "identifier": "DE-M507a",
+    "name": "St\u00e4dtische Galerie im Lenbachhaus M\u00fcnchen, Kubin-Archiv",
+    "location": "M\u00fcnchen",
+    "type": [
+        "Organization",
+        "Archive"
+    ],
+    "addressRegion": "BAY"
+}

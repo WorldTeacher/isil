@@ -1,0 +1,206 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-2082.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:13-02-14"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:03-05-16"
+                ],
+                {
+                    "t": "08:52:34.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:13-02-14"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1047471973"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "KR533"
+                },
+                {
+                    "d": "2082"
+                },
+                {
+                    "e": "DE-2082"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.magstadt.de/2311_DEU_WWW.php"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://178.15.0.236/webopac/index.asp?DB=w_bib"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Magstadt StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Ortsb\u00fccherei Magstadt"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Alte Stuttgarter Str. 6"
+                },
+                {
+                    "b": "Magstadt"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "71106"
+                },
+                {
+                    "f": "Baden-W\u00fcrttemberg"
+                },
+                {
+                    "i": "Di-Fr 9.00-12.15 und 15.00-18.30, Sa 9.00-12.15"
+                },
+                {
+                    "k": "8.96480"
+                },
+                {
+                    "l": "48.74216"
+                },
+                {
+                    "n": "08115029"
+                },
+                {
+                    "o": "barrierefrei"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "7159"
+                },
+                {
+                    "f": "4 20 77 72"
+                },
+                {
+                    "k": "buecherei@magstadt.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "06"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-2082",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-2082",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-2082",
+    "identifier": "DE-2082",
+    "name": "Ortsb\u00fccherei Magstadt",
+    "location": "Magstadt",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAW"
+}

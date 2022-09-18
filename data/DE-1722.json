@@ -1,0 +1,202 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-1722.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:14-01-08"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:20-10-16"
+                ],
+                {
+                    "t": "12:37:49.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:14-01-08"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "987129511"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "NS256"
+                },
+                {
+                    "d": "1722"
+                },
+                {
+                    "e": "DE-1722"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.bergkirchen.de/kulturundfreizeit/buecherei.aspx"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Bergkirchen K\u00d6B"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Gemeindeb\u00fccherei Bergkirchen"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Johann-Michael-Fischer-Str. 1"
+                },
+                {
+                    "b": "Bergkirchen"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "85232"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "k": "11.36295"
+                },
+                {
+                    "l": "48.25624"
+                },
+                {
+                    "n": "09174113"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "8131"
+                },
+                {
+                    "f": "36 60-73"
+                },
+                {
+                    "k": "fernleihe@st-michaelsbund.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "10"
+                },
+                {
+                    "h": "06"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAY"
+                },
+                {
+                    "c": "BVB"
+                },
+                {
+                    "e": "n"
+                },
+                {
+                    "g": "R"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "fernleihe@st-michaelsbund.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-1722",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-1722",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-1722",
+    "identifier": "DE-1722",
+    "name": "Gemeindeb\u00fccherei Bergkirchen",
+    "location": "Bergkirchen",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAY"
+}

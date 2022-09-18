@@ -1,0 +1,183 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-1673.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:23-01-08"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:30-04-18"
+                ],
+                {
+                    "t": "15:47:39.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:23-01-08"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "987267744"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "SU111"
+                },
+                {
+                    "d": "1673"
+                },
+                {
+                    "e": "DE-1673"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Windischeschenbach K\u00d6B"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Katholische \u00d6ffentliche B\u00fccherei Neuhaus"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Wurzer Str. 16"
+                },
+                {
+                    "b": "Windischeschenbach"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "92670"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "k": "12.17703"
+                },
+                {
+                    "l": "49.79564"
+                },
+                {
+                    "n": "09374168"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "k": "fernleihe@st-michaelsbund.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "10"
+                },
+                {
+                    "h": "04"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAY"
+                },
+                {
+                    "c": "BVB"
+                },
+                {
+                    "e": "n"
+                },
+                {
+                    "g": "R"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "fernleihe@st-michaelsbund.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-1673",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-1673",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-1673",
+    "identifier": "DE-1673",
+    "name": "Katholische \u00d6ffentliche B\u00fccherei Neuhaus",
+    "location": "Windischeschenbach",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAY"
+}

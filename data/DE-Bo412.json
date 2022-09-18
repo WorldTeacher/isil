@@ -1,0 +1,275 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Bo412.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:21-12-04"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:01-08-19"
+                ],
+                {
+                    "t": "14:08:27.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "026887878"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "538412-6"
+                },
+                {
+                    "b": "EX746"
+                },
+                {
+                    "d": "Bo 412"
+                },
+                {
+                    "e": "DE-Bo412"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.bundeskunsthalle.de/bibliothek"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://www.bundeskunsthalle.de/cgi-bin/bib/kah"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Bundeskunsthalle"
+                },
+                {
+                    "4": "b"
+                }
+            ],
+            [
+                {
+                    "a": "Bonn Kunst/Ausst.Halle"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Kunst- und Ausstellungshalle der Bundesrepublik Deutschland, Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Helmut-Kohl-Allee 4"
+                },
+                {
+                    "b": "Bonn"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "53113"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "i": "Di-Fr 10.00-17.00"
+                },
+                {
+                    "k": "7.12233"
+                },
+                {
+                    "l": "50.71454"
+                },
+                {
+                    "n": "05314000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "228"
+                },
+                {
+                    "f": "91 71-212 bis -214"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "228"
+                },
+                {
+                    "i": "91 71-233"
+                },
+                {
+                    "k": "bibliothek@bundeskunsthalle.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0014"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "01"
+                },
+                {
+                    "h": "07"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Ausstellungswesen <Geschichte>"
+                },
+                {
+                    "a": "Ausstellungswesen <Praxis>"
+                },
+                {
+                    "a": "Kunst <20. u. 21. Jahrhundert>"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035K": [
+            [
+                {
+                    "b": "A"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "b"
+                },
+                {
+                    "d": "bibliothek@bundeskunsthalle.de"
+                }
+            ],
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "bibliothek@bundeskunsthalle.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "bibliothek@bundeskunsthalle.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Bo412",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Bo412",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Bo412",
+    "identifier": "DE-Bo412",
+    "name": "Kunst- und Ausstellungshalle der Bundesrepublik Deutschland, Bibliothek",
+    "location": "Bonn",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NRW"
+}

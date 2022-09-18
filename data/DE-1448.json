@@ -1,0 +1,230 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-1448.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:20-11-07"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:02-09-22"
+                ],
+                {
+                    "t": "10:06:02.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:20-11-07"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "986457035"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "HQ086"
+                },
+                {
+                    "d": "1448"
+                },
+                {
+                    "e": "DE-1448"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "https://www.weilheim.de/mein-weilheim/buergerservice/staedtische-einrichtungen/stadtbuecherei"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://biblioplus-digital.onleihe.de"
+                },
+                {
+                    "z": "B"
+                }
+            ],
+            [
+                {
+                    "u": "http://www.biblioplus.de/"
+                },
+                {
+                    "x": "OPAC/Katalog"
+                },
+                {
+                    "z": "W"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Weilheim/Oberbayern StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtb\u00fccherei Weilheim"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Unterer Graben 3"
+                },
+                {
+                    "b": "Weilheim/Oberbayern"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "82362"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "i": "Mo und Mi 14.00-18.00, Di und Fr 10.00-11.30 und 13.00-18.00, Do 14.00-19.00"
+                },
+                {
+                    "k": "11.14087"
+                },
+                {
+                    "l": "47.84080"
+                },
+                {
+                    "n": "09190157"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "881"
+                },
+                {
+                    "f": "6 82-6100"
+                },
+                {
+                    "k": "stadtbuecherei@weilheim.bayern.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "07"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAY"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "BVB"
+                },
+                {
+                    "d": "BiblioPLUS"
+                },
+                {
+                    "e": "n"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "fernleihe@weilheim.bayern.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-1448",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-1448",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-1448",
+    "identifier": "DE-1448",
+    "name": "Stadtb\u00fccherei Weilheim",
+    "location": "Weilheim/Oberbayern",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAY"
+}

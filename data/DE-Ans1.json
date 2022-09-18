@@ -1,0 +1,204 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Ans1.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:04-05-06"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:29-03-16"
+                ],
+                {
+                    "t": "08:36:57.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:04-05-06"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "979600537"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "888019-0"
+                },
+                {
+                    "d": "Ans 1"
+                },
+                {
+                    "e": "DE-Ans1"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.ansbach.de/cda/showpage.php?SiteID=73"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Ansbach Stadtarchiv"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtarchiv Ansbach"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Karlsplatz 7/9"
+                },
+                {
+                    "b": "Ansbach"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "91522"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "i": "Mo und Mi 9.00-12.00, Di und Do 14.00-17.00"
+                },
+                {
+                    "k": "10.57520"
+                },
+                {
+                    "l": "49.29966"
+                },
+                {
+                    "n": "09561000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "981"
+                },
+                {
+                    "f": "51-248"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "981"
+                },
+                {
+                    "i": "51-249"
+                },
+                {
+                    "k": "stadtarchiv@ansbach.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0167"
+                },
+                {
+                    "f": "52"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "01"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAY"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Ans1",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Ans1",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Ans1",
+    "identifier": "DE-Ans1",
+    "name": "Stadtarchiv Ansbach",
+    "location": "Ansbach",
+    "type": [
+        "Organization",
+        "Archive"
+    ],
+    "addressRegion": "BAY"
+}

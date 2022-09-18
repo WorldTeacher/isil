@@ -1,0 +1,239 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-5-11.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:18-11-99"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:22-02-21"
+                ],
+                {
+                    "t": "15:53:34.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "009012125"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "532011-2"
+                },
+                {
+                    "d": "5/11"
+                },
+                {
+                    "e": "DE-5-11"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "https://www.ulb.uni-bonn.de/die-ulb/bibliotheksstruktur/bibliotheken-a-z/5-11"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Bonn Geogr. Institut"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Universit\u00e4t Bonn, Geographisches Institut, Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Meckenheimer Allee 166"
+                },
+                {
+                    "b": "Bonn"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "53115"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "k": "7.09130"
+                },
+                {
+                    "l": "50.72651"
+                },
+                {
+                    "n": "05314000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Bonn"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "53001"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "g": "11 47"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "228"
+                },
+                {
+                    "f": "73-2106 und -7436"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "228"
+                },
+                {
+                    "i": "73-5393"
+                }
+            ]
+        ],
+        "035D": [
+            [
+                {
+                    "a": "5/164"
+                }
+            ],
+            [
+                {
+                    "a": "Bo 173"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "c": "0014"
+                },
+                {
+                    "d": "HBZ"
+                },
+                {
+                    "f": "65"
+                },
+                {
+                    "g": "02"
+                },
+                {
+                    "h": "08"
+                },
+                {
+                    "k": "Bo 11"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "c": "HBZ"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-5-11",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-5-11",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-5-11",
+    "identifier": "DE-5-11",
+    "name": "Universit\u00e4t Bonn, Geographisches Institut, Bibliothek",
+    "location": "Bonn",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NRW"
+}

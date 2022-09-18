@@ -1,0 +1,249 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-L245.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "1220:21-01-04"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:27-02-19"
+                ],
+                {
+                    "t": "10:37:39.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:27-05-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "025525646"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "958495-X"
+                },
+                {
+                    "b": "EH142"
+                },
+                {
+                    "c": "L1-HS"
+                },
+                {
+                    "d": "L 245"
+                },
+                {
+                    "e": "DE-L245"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.landesschule-f\u00fcr-h\u00f6rgesch\u00e4digte.sachsen.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://webopac.shs.smk.sachsen.de/libero/WebOpac.cls"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Leipzig Sam.Heinicke-Schule"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Samuel-Heinicke-Schule, Bibliothek H\u00f6r- und Sprachgesch\u00e4digtenwesen Leipzig"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Karl-Siegismund-Str. 2"
+                },
+                {
+                    "b": "Leipzig"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "04317"
+                },
+                {
+                    "f": "Sachsen"
+                },
+                {
+                    "i": "Mo und Mi-Do 9.00-12.00 und 13.00-16.00, Di 9.00-12.00 und 13.00-17.00, Fr 9.00-12.00"
+                },
+                {
+                    "k": "12.39841"
+                },
+                {
+                    "l": "51.32742"
+                },
+                {
+                    "n": "14713000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "341"
+                },
+                {
+                    "f": "2 69 04-123"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "341"
+                },
+                {
+                    "i": "2 69 04-166"
+                },
+                {
+                    "k": "hsw@shs.smk.sachsen.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0101"
+                },
+                {
+                    "d": "SWB"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "02"
+                },
+                {
+                    "h": "07"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Sprachgesch\u00e4digtenwesen"
+                },
+                {
+                    "a": "H\u00f6rgesch\u00e4digtenwesen"
+                },
+                {
+                    "a": "H\u00f6rgesch\u00e4digtenp\u00e4dagogik"
+                },
+                {
+                    "a": "Sprachbehindertenp\u00e4dagogik"
+                },
+                {
+                    "a": "Logop\u00e4die"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "SAX"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "SWB"
+                },
+                {
+                    "e": "k"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-L245",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-L245",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-L245",
+    "identifier": "DE-L245",
+    "name": "Samuel-Heinicke-Schule, Bibliothek H\u00f6r- und Sprachgesch\u00e4digtenwesen Leipzig",
+    "location": "Leipzig",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "SAX"
+}

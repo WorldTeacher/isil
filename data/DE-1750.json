@@ -1,0 +1,180 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-1750.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:08-01-08"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:30-04-18"
+                ],
+                {
+                    "t": "17:01:25.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:08-01-08"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "987059734"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "d": "1750"
+                },
+                {
+                    "e": "DE-1750"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Bad Griesbach/R. K\u00d6B"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtb\u00fccherei Bad Griesbach"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Haagstra\u00dfe 32"
+                },
+                {
+                    "b": "Bad Griesbach/Rottal"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "94086"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "k": "13.19390"
+                },
+                {
+                    "l": "48.45570"
+                },
+                {
+                    "n": "09275124"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "k": "fernleihe@st-michaelsbund.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "10"
+                },
+                {
+                    "h": "05"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAY"
+                },
+                {
+                    "c": "BVB"
+                },
+                {
+                    "e": "n"
+                },
+                {
+                    "g": "R"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "fernleihe@st-michaelsbund.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-1750",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-1750",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-1750",
+    "identifier": "DE-1750",
+    "name": "Stadtb\u00fccherei Bad Griesbach",
+    "location": "Bad Griesbach/Rottal",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAY"
+}

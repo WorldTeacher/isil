@@ -1,0 +1,218 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-2471.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:07-02-17"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:28-04-21"
+                ],
+                {
+                    "t": "09:22:00.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:07-02-17"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1124865918"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "KR235"
+                },
+                {
+                    "d": "2471"
+                },
+                {
+                    "e": "DE-2471"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.buecherei-aichwald.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://bibliothek.komm.one/aichwald"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Aichwald StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "B\u00fccherei Aichwald"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Hauptstr. 17"
+                },
+                {
+                    "b": "Aichwald"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "73773"
+                },
+                {
+                    "f": "Baden-W\u00fcrttemberg"
+                },
+                {
+                    "i": "Di und Do 10.00-12.00 und 15.00-18.00, Mi 15.00-19.00, Fr 15.00-18.00, Sa 10.00-12.00"
+                },
+                {
+                    "k": "9.37621"
+                },
+                {
+                    "l": "48.75953"
+                },
+                {
+                    "n": "08116076"
+                },
+                {
+                    "o": "barrierefrei"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "711"
+                },
+                {
+                    "f": "3 05 19 33"
+                },
+                {
+                    "k": "buecherei@aichwald.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "06"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAW"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "b"
+                },
+                {
+                    "d": "buecherei@aichwald.de"
+                }
+            ],
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "buecherei@aichwald.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-2471",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-2471",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-2471",
+    "identifier": "DE-2471",
+    "name": "B\u00fccherei Aichwald",
+    "location": "Aichwald",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAW"
+}

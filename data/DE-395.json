@@ -1,0 +1,238 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-395.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:28-11-18"
+                ],
+                {
+                    "t": "16:39:00.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020583877"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "AG395"
+                },
+                {
+                    "d": "395"
+                },
+                {
+                    "e": "DE-395"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.espelkamp.de/Bildung/buecherei.asp"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://webopac.espelkamp.de/index.aspx"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Espelkamp StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtb\u00fccherei Espelkamp"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Wilhelm-Kern-Pl. 14"
+                },
+                {
+                    "b": "Espelkamp"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "32339"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "i": "Mo und Do 13.00-18.00, Di und Fr 09.00-12.00 und 14.00-18.00, Mi 14.00-19.00"
+                },
+                {
+                    "k": "8.62839"
+                },
+                {
+                    "l": "52.37755"
+                },
+                {
+                    "n": "05770008"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "5772"
+                },
+                {
+                    "f": "5 62-150"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "5772"
+                },
+                {
+                    "i": "5 62-151"
+                },
+                {
+                    "k": "stadtbuecherei@espelkamp.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "07"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "b"
+                },
+                {
+                    "d": "stadtbuecherei@espelkamp.de"
+                }
+            ],
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "stadtbuecherei@espelkamp.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "stadtbuecherei@espelkamp.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-395",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-395",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-395",
+    "identifier": "DE-395",
+    "name": "Stadtb\u00fccherei Espelkamp",
+    "location": "Espelkamp",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NRW"
+}

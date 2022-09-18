@@ -1,0 +1,220 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-1784.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:04-01-08"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:28-01-16"
+                ],
+                {
+                    "t": "16:17:54.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:04-01-08"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "987018604"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "SU846"
+                },
+                {
+                    "d": "1784"
+                },
+                {
+                    "e": "DE-1784"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.stadtbuecherei-obernburg.de/"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://obernburg.webopac.winbiap.net/obernburg/"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Obernburg StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtb\u00fccherei Obernburg"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "R\u00f6merstr. 74"
+                },
+                {
+                    "b": "Obernburg"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "63785"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "i": "Di und Mi 8.30-10.30 und 16-18, Do 17.00-19.00"
+                },
+                {
+                    "k": "9.14891"
+                },
+                {
+                    "l": "49.84323"
+                },
+                {
+                    "n": "09676145"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "6022"
+                },
+                {
+                    "f": "2 08 93 94"
+                },
+                {
+                    "k": "mail@stadtbuecherei-obernburg.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "06"
+                },
+                {
+                    "h": "06"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAY"
+                },
+                {
+                    "c": "BVB"
+                },
+                {
+                    "e": "n"
+                },
+                {
+                    "g": "R"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "mail@stadtbuecherei-obernburg.de"
+                }
+            ]
+        ],
+        "047A": [
+            [
+                {
+                    "a": "Zus\u00e4tzliche Tr\u00e4ger sind Katholische Kirchengemeinde und Evangelisch-lutherische Kirchengemeinde"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-1784",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-1784",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-1784",
+    "identifier": "DE-1784",
+    "name": "Stadtb\u00fccherei Obernburg",
+    "location": "Obernburg",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAY"
+}

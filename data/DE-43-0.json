@@ -1,0 +1,271 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-43-0.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:18-11-99"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:30-01-17"
+                ],
+                {
+                    "t": "09:03:35.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:27-05-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "009061789"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "621000-4"
+                },
+                {
+                    "b": "DG557"
+                },
+                {
+                    "d": "43/0"
+                },
+                {
+                    "e": "DE-43-0"
+                },
+                {
+                    "f": "FHWI"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "https://www.hs-rm.de/de/service/hochschul-und-landesbibliothek/ueber-uns/standorte/#standort-kurt-schumacher-ring-12651"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://hds.hebis.de/hsrm/index.php"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Wiesbaden HLB K-SchumacherRing"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Hochschul- und Landesbibliothek RheinMain, Kurt-Schumacher-Ring"
+                }
+            ]
+        ],
+        "029R": [
+            [
+                {
+                    "9": "009014063"
+                },
+                {
+                    "7": "Tw"
+                },
+                {
+                    "a": "Hochschul- und Landesbibliothek RheinMain, Rheinstra\u00dfe"
+                },
+                {
+                    "e": "DE-43"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Kurt-Schumacher-Ring 18"
+                },
+                {
+                    "b": "Wiesbaden"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "65197"
+                },
+                {
+                    "f": "Hessen"
+                },
+                {
+                    "k": "8.21695"
+                },
+                {
+                    "l": "50.08078"
+                },
+                {
+                    "n": "06414000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "611"
+                },
+                {
+                    "f": "94 95-1186"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "611"
+                },
+                {
+                    "i": "94 95-1188"
+                },
+                {
+                    "k": "theke-ksr-hlb@hs-rm.de"
+                }
+            ],
+            [
+                {
+                    "a": "W"
+                },
+                {
+                    "b": "Fernleihe"
+                },
+                {
+                    "k": "fernleihe-ksr-hlb@hs-rm.de"
+                }
+            ]
+        ],
+        "035D": [
+            [
+                {
+                    "a": "969"
+                },
+                {
+                    "b": "DE-969"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0044"
+                },
+                {
+                    "e": "HBV"
+                },
+                {
+                    "f": "70"
+                },
+                {
+                    "g": "02"
+                },
+                {
+                    "h": "08"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "HES"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "HeBIS"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035O": [
+            [
+                {
+                    "a": "FZL DE-620"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-43-0",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-43-0",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-43-0",
+    "identifier": "DE-43-0",
+    "name": "Hochschul- und Landesbibliothek RheinMain, Kurt-Schumacher-Ring",
+    "location": "Wiesbaden",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "HES"
+}

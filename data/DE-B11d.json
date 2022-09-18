@@ -1,0 +1,279 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-B11d.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:18-11-99"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:18-10-16"
+                ],
+                {
+                    "t": "15:37:41.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "009002642"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "180735-3"
+                },
+                {
+                    "b": "CM549"
+                },
+                {
+                    "d": "B 11d"
+                },
+                {
+                    "e": "DE-B11d"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.ifskb.de/?q=node/319"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://opac.smb.spk-berlin.de/"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "KB/AB"
+                },
+                {
+                    "4": "a"
+                }
+            ],
+            [
+                {
+                    "a": "Berlin SMB Arch. Bibl."
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Staatliche Museen zu Berlin, Preu\u00dfischer Kulturbesitz, Kunstbibliothek, Arch\u00e4ologische Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Geschwister-Scholl-Str. 6"
+                },
+                {
+                    "b": "Berlin"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "10117"
+                },
+                {
+                    "f": "Berlin"
+                },
+                {
+                    "i": "Mo-Fr 9.00-20.00"
+                },
+                {
+                    "j": "Benutzung nur nach Voranmeldung"
+                },
+                {
+                    "k": "13.39249"
+                },
+                {
+                    "l": "52.52102"
+                },
+                {
+                    "n": "11000000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "30"
+                },
+                {
+                    "f": "2 66-425820"
+                },
+                {
+                    "k": "auskunft.ab@smb.spk-berlin.de"
+                }
+            ]
+        ],
+        "035D": [
+            [
+                {
+                    "a": "B 11a"
+                },
+                {
+                    "b": "DE-B11a"
+                }
+            ],
+            [
+                {
+                    "a": "B 11g"
+                },
+                {
+                    "b": "DE-B11g"
+                }
+            ],
+            [
+                {
+                    "a": "B 11v"
+                },
+                {
+                    "b": "DE-B11v"
+                }
+            ],
+            [
+                {
+                    "a": "B 735"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0113"
+                },
+                {
+                    "e": "GBV"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "01"
+                },
+                {
+                    "h": "08"
+                },
+                {
+                    "i": "P"
+                },
+                {
+                    "k": "B 735"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Vor- und Fr\u00fchgeschichte"
+                },
+                {
+                    "a": "Arch\u00e4ologie <Europa>"
+                },
+                {
+                    "a": "vorderasiatische Arch\u00e4ologie"
+                },
+                {
+                    "a": "altorientalische Philologie"
+                },
+                {
+                    "a": "klassische  Arch\u00e4ologie"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BER"
+                },
+                {
+                    "c": "GBV"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-B11d",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-B11d",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-B11d",
+    "identifier": "DE-B11d",
+    "name": "Staatliche Museen zu Berlin, Preu\u00dfischer Kulturbesitz, Kunstbibliothek, Arch\u00e4ologische Bibliothek",
+    "location": "Berlin",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BER"
+}

@@ -1,0 +1,260 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Due72.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:28-01-16"
+                ],
+                {
+                    "t": "16:35:13.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020590601"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "408072-5"
+                },
+                {
+                    "b": "DN481"
+                },
+                {
+                    "d": "D\u00fc 72"
+                },
+                {
+                    "e": "DE-Due72"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.archiv-ekir.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://swb.bsz-bw.de"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "D\u00fcsseldorf ArchivBib Ev.Kirche"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Archiv der Evangelischen Kirche im Rheinland, Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Hans-B\u00f6ckler-Str. 7"
+                },
+                {
+                    "b": "D\u00fcsseldorf"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "40476"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "i": "Mo-Di und Do 8.30-16.00, Mi und Fr 8.30-14.00"
+                },
+                {
+                    "k": "6.77594"
+                },
+                {
+                    "l": "51.24702"
+                },
+                {
+                    "n": "05111000"
+                },
+                {
+                    "o": "barrierefrei"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "D\u00fcsseldorf"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "40403"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "g": "30 03 39"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "211"
+                },
+                {
+                    "f": "45 62-227"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "211"
+                },
+                {
+                    "i": "45 62-421"
+                },
+                {
+                    "k": "archiv@ekir-lka.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0194"
+                },
+                {
+                    "d": "SWB"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "09"
+                },
+                {
+                    "h": "07"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Rheinische Evangelische Kirchengeschichte"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "SWB"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Due72",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Due72",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Due72",
+    "identifier": "DE-Due72",
+    "name": "Archiv der Evangelischen Kirche im Rheinland, Bibliothek",
+    "location": "D\u00fcsseldorf",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NRW"
+}

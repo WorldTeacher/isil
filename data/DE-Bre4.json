@@ -1,0 +1,270 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Bre4.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:18-11-99"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:07-11-16"
+                ],
+                {
+                    "t": "15:37:46.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:27-05-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "009003274"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "288004-0"
+                },
+                {
+                    "b": "ST817"
+                },
+                {
+                    "d": "Bre 4"
+                },
+                {
+                    "e": "DE-Bre4"
+                },
+                {
+                    "f": "LBBEK"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.kirche-bremen.de/orte/bibliothek/bibliothek_start.php"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://vzopc4.gbv.de:8080/DB=17/LNG=DU/"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Bremen Landeskirchl.B"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Landeskirchliche Bibliothek Bremen"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Franziuseck 2-4"
+                },
+                {
+                    "b": "Bremen"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "28199"
+                },
+                {
+                    "f": "Bremen"
+                },
+                {
+                    "h": "Haus der Kirche"
+                },
+                {
+                    "i": "Mo und Do 9.00-17.00, Di-Mi und Fr 9.00-13.00"
+                },
+                {
+                    "j": "w\u00e4hrend der Schulferien: Mo-Fr 9.00-13.00"
+                },
+                {
+                    "k": "8.80494"
+                },
+                {
+                    "l": "53.07175"
+                },
+                {
+                    "n": "04011000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Bremen"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "28069"
+                },
+                {
+                    "f": "Bremen"
+                },
+                {
+                    "g": "10 69 29"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "421"
+                },
+                {
+                    "f": "55 97-287"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "421"
+                },
+                {
+                    "i": "55 97-265"
+                },
+                {
+                    "k": "bibliothek@kirche-bremen.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0111"
+                },
+                {
+                    "e": "GBV"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "09"
+                },
+                {
+                    "h": "07"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Evangelische Theologie"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "HAM"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "GBV"
+                },
+                {
+                    "e": "l"
+                }
+            ]
+        ],
+        "035K": [
+            [
+                {
+                    "b": "A"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Bre4",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Bre4",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Bre4",
+    "identifier": "DE-Bre4",
+    "name": "Landeskirchliche Bibliothek Bremen",
+    "location": "Bremen",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "HAM"
+}

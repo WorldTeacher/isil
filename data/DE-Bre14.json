@@ -1,0 +1,282 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Bre14.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:29-09-05"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:07-06-19"
+                ],
+                {
+                    "t": "09:45:59.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:29-09-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "97654914X"
+                ]
+            ]
+        ],
+        "007N": [
+            [
+                [
+                    "97654914X"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "288014-3"
+                },
+                {
+                    "d": "Bre 14"
+                },
+                {
+                    "e": "DE-Bre14"
+                },
+                {
+                    "f": "ZMT"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "https://www.leibniz-zmt.de/de/forschung-infrastruktur/media-unit.html"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://gso.gbv.de/DB=9.647/"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "ZMT MEDIA Unit"
+                },
+                {
+                    "4": "a"
+                }
+            ],
+            [
+                {
+                    "a": "Bremen ZMT"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Leibniz-Zentrum f\u00fcr Marine Tropenforschung (ZMT) GmbH, Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Fahrenheitstr. 6"
+                },
+                {
+                    "b": "Bremen"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "28359"
+                },
+                {
+                    "f": "Bremen"
+                },
+                {
+                    "h": "Anbau, oberstes Stockwerk"
+                },
+                {
+                    "k": "8.84603"
+                },
+                {
+                    "l": "53.10789"
+                },
+                {
+                    "n": "04011000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "421"
+                },
+                {
+                    "f": "23 80 01 16"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "421"
+                },
+                {
+                    "i": "2 38 00-30"
+                },
+                {
+                    "k": "library@leibniz-zmt.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0111"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "06"
+                },
+                {
+                    "h": "05"
+                },
+                {
+                    "i": "P"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Marine \u00d6kosysteme"
+                },
+                {
+                    "a": "Fischereibiologie"
+                },
+                {
+                    "a": "K\u00fcstenmanagement"
+                },
+                {
+                    "a": "Biogeochemie"
+                },
+                {
+                    "a": "Sozialwissenschaften"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "HAM"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "GBV"
+                },
+                {
+                    "d": "AMB"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "library@leibniz-zmt.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "library@leibniz-zmt.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Bre14",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Bre14",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Bre14",
+    "identifier": "DE-Bre14",
+    "name": "Leibniz-Zentrum f\u00fcr Marine Tropenforschung (ZMT) GmbH, Bibliothek",
+    "location": "Bremen",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "HAM"
+}

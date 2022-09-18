@@ -1,0 +1,272 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-75.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:18-11-99"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:22-02-16"
+                ],
+                {
+                    "t": "16:26:31.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "009024158"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "855100-5"
+                },
+                {
+                    "b": "AB075"
+                },
+                {
+                    "d": "75"
+                },
+                {
+                    "e": "DE-75"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.stadtbibliothek.nuernberg.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://online-service.nuernberg.de/webpac/"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "N\u00fcrnberg StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtbibliothek im Bildungscampus N\u00fcrnberg"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Gewerbemuseumsplatz 4"
+                },
+                {
+                    "b": "N\u00fcrnberg"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "90403"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "i": "Mo-Fr 11.00-19.00, Sa 11.00-16.00"
+                },
+                {
+                    "j": "\u00d6ffnungszeiten f\u00fcr besondere Bereiche s. Homepage"
+                },
+                {
+                    "k": "11.08271"
+                },
+                {
+                    "l": "49.45186"
+                },
+                {
+                    "n": "09564000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "911"
+                },
+                {
+                    "f": "2 31-7565 (Hotline) und -2784 (Fernleihe)"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "911"
+                },
+                {
+                    "i": "2 31-5435"
+                },
+                {
+                    "j": "622903 stnbg d"
+                },
+                {
+                    "k": "StB-Fernleihe@stadt.nuernberg.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0100"
+                },
+                {
+                    "d": "BVB"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "09"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "N\u00fcrnberg und Franken (Ortskunde und Landeskunde)"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAY"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "BVB"
+                },
+                {
+                    "d": "Kalliope"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035K": [
+            [
+                {
+                    "b": "A"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "stb-fernleihe@stadt.nuernberg.de"
+                }
+            ]
+        ],
+        "035O": [
+            [
+                {
+                    "a": "ISIL DE-29; AUTO DE-618"
+                }
+            ],
+            [
+                {
+                    "a": "ISIL DE-29; FZL DE-619"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-75",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-75",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-75",
+    "identifier": "DE-75",
+    "name": "Stadtbibliothek im Bildungscampus N\u00fcrnberg",
+    "location": "N\u00fcrnberg",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAY"
+}

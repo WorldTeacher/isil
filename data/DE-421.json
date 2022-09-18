@@ -1,0 +1,293 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-421.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:18-11-99"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9042:28-01-20"
+                ],
+                {
+                    "t": "10:04:06.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:27-05-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "009071326"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "578421-9"
+                },
+                {
+                    "b": "AF421"
+                },
+                {
+                    "d": "421"
+                },
+                {
+                    "e": "DE-421"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.menden.de/buecherei"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://www.menden.de/opac"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Menden StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Dorte-Hilleke-B\u00fccherei"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Hauptstr. 48"
+                },
+                {
+                    "b": "Menden/Sauerland"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "58706"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "i": "Di und Fr 10.00-17.00, Mi-Do 15.00-19.00, Sa 10.00-13.00"
+                },
+                {
+                    "k": "7.79529"
+                },
+                {
+                    "l": "51.43798"
+                },
+                {
+                    "n": "05962040"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Menden"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "58706"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "2373"
+                },
+                {
+                    "f": "9 03-600"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "2373"
+                },
+                {
+                    "i": "9 03-10646"
+                },
+                {
+                    "k": "stadtbuecherei@menden.de"
+                },
+                {
+                    "l": "Zentrale"
+                }
+            ],
+            [
+                {
+                    "a": "W"
+                },
+                {
+                    "b": "Fernleihe"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "2373"
+                },
+                {
+                    "f": "9 03-645"
+                },
+                {
+                    "k": "fernleihe@menden.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0100"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "07"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "b"
+                },
+                {
+                    "d": "fernleihe@menden.de"
+                }
+            ],
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "fernleihe@menden.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "fernleihe@menden.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-421",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-421",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-421",
+    "identifier": "DE-421",
+    "name": "Dorte-Hilleke-B\u00fccherei",
+    "location": "Menden/Sauerland",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NRW"
+}

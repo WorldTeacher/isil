@@ -1,0 +1,221 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-374.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:06-12-19"
+                ],
+                {
+                    "t": "08:38:00.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "02058377X"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "AE374"
+                },
+                {
+                    "d": "374"
+                },
+                {
+                    "e": "DE-374"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.rheine-bibliothek.de/"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://www.rheine-bibliothek.de/"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Rheine StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtbibliothek Rheine"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Matthiasstr. 37"
+                },
+                {
+                    "b": "Rheine"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "48431"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "i": "Mo 14.00-18.00, Di-Fr 10.00-18.00, Sa 10.00-13.00"
+                },
+                {
+                    "k": "7.43730"
+                },
+                {
+                    "l": "52.27669"
+                },
+                {
+                    "n": "05566076"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "5971"
+                },
+                {
+                    "f": "9 39-160"
+                },
+                {
+                    "k": "stadtbibliothek@rheine.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "07"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "stadtbibliothek@rheine.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "stadtbibliothek@rheine.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-374",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-374",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-374",
+    "identifier": "DE-374",
+    "name": "Stadtbibliothek Rheine",
+    "location": "Rheine",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NRW"
+}

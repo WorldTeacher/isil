@@ -1,0 +1,205 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Aug13.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:13-07-09"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:17-02-16"
+                ],
+                {
+                    "t": "14:01:24.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:13-07-09"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "995285012"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "d": "Aug 13"
+                },
+                {
+                    "e": "DE-Aug13"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.vgh.bayern.de"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Augsburg Verwaltungsgericht"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Verwaltungsgericht Augsburg, Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Kornhausgasse 4"
+                },
+                {
+                    "b": "Augsburg"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "86152"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "i": "nicht \u00f6ffentlich zug\u00e4nglich"
+                },
+                {
+                    "k": "10.89550"
+                },
+                {
+                    "l": "48.37362"
+                },
+                {
+                    "n": "09761000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "821"
+                },
+                {
+                    "f": "3 27-04"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "821"
+                },
+                {
+                    "i": "3 27-3149"
+                },
+                {
+                    "k": "Poststelle@vg-a.bayern.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "02"
+                },
+                {
+                    "h": "05"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Recht"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAY"
+                },
+                {
+                    "c": "BVB"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Aug13",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Aug13",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Aug13",
+    "identifier": "DE-Aug13",
+    "name": "Verwaltungsgericht Augsburg, Bibliothek",
+    "location": "Augsburg",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAY"
+}

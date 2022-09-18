@@ -1,0 +1,244 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-1122.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:16-07-01"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:28-11-18"
+                ],
+                {
+                    "t": "16:37:02.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:27-05-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "022059075"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "HT300"
+                },
+                {
+                    "d": "1122"
+                },
+                {
+                    "e": "DE-1122"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.mediathek-ingelheim.de"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Ingelheim Mediathek"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Mediathek Ingelheim"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Friedrich-Ebert-Stra\u00dfe 16"
+                },
+                {
+                    "b": "Ingelheim"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "55218"
+                },
+                {
+                    "f": "Rheinland-Pfalz"
+                },
+                {
+                    "i": "Mo-Di und Do 10.00-18.30, Mi und Fr 14.30-18.30, Sa 10.00-14.00"
+                },
+                {
+                    "k": "8.05405"
+                },
+                {
+                    "l": "49.97392"
+                },
+                {
+                    "n": "07339030"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "a": "Friedrich-Ebert-Stra\u00dfe 14"
+                },
+                {
+                    "b": "Ingelheim"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "55218"
+                },
+                {
+                    "f": "Rheinland-Pfalz"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "6132"
+                },
+                {
+                    "f": "7 82-782"
+                },
+                {
+                    "k": "mediathek@ingelheim.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "07"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "b"
+                },
+                {
+                    "d": "mediathek@ingelheim.de"
+                }
+            ],
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "mediathek@ingelheim.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "mediathek@ingelheim.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-1122",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-1122",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-1122",
+    "identifier": "DE-1122",
+    "name": "Mediathek Ingelheim",
+    "location": "Ingelheim",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NRW"
+}

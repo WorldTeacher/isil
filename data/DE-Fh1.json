@@ -1,0 +1,237 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Fh1.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:18-11-99"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:17-10-16"
+                ],
+                {
+                    "t": "15:55:21.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "009023488"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "798001-2"
+                },
+                {
+                    "b": "BY539"
+                },
+                {
+                    "d": "Fh 1"
+                },
+                {
+                    "e": "DE-Fh1"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.bodenseebibliothek.de/"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://swb.bsz-bw.de"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Friedrichshafen BodenseeB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Bodenseebibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Katharinenstr. 55"
+                },
+                {
+                    "b": "Friedrichshafen"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "88045"
+                },
+                {
+                    "f": "Baden-W\u00fcrttemberg"
+                },
+                {
+                    "h": "Max-Gr\u00fcnbeck-Haus"
+                },
+                {
+                    "i": "Di-Mi 9.00-12.00 und 13.00-17.00, Do 9.00-12.00 und 13.00-18.00, Fr 9.00-12.00"
+                },
+                {
+                    "k": "9.47642"
+                },
+                {
+                    "l": "47.65752"
+                },
+                {
+                    "n": "08435016"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "7541"
+                },
+                {
+                    "f": "2 09-153"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "7541"
+                },
+                {
+                    "i": "2 03-88842"
+                },
+                {
+                    "k": "bodenseebibliothek@friedrichshafen.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0074"
+                },
+                {
+                    "d": "SWB"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "07"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Bodenseeraum"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "SWB"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Fh1",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Fh1",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Fh1",
+    "identifier": "DE-Fh1",
+    "name": "Bodenseebibliothek",
+    "location": "Friedrichshafen",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAW"
+}

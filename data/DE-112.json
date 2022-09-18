@@ -1,0 +1,217 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-112.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:03-06-21"
+                ],
+                {
+                    "t": "15:12:22.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020582854"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "AJ112"
+                },
+                {
+                    "d": "112"
+                },
+                {
+                    "e": "DE-112"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "https://eisenach.bibliotheca-open.de/"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Eisenach StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtbibliothek Eisenach"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Georgenstr. 45-47"
+                },
+                {
+                    "b": "Eisenach"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "99817"
+                },
+                {
+                    "f": "Th\u00fcringen"
+                },
+                {
+                    "i": "Mo und Do 10.00-18.00, Di und Fr 13.00-18.00"
+                },
+                {
+                    "k": "10.31462"
+                },
+                {
+                    "l": "50.97586"
+                },
+                {
+                    "n": "16056000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "3691"
+                },
+                {
+                    "f": "73 49-678"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "3691"
+                },
+                {
+                    "i": "73 49-692"
+                },
+                {
+                    "k": "bibliothek@eisenach.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "07"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Geschichte Eisenachs und der Region (Th\u00fcringen)"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "THU"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "GBV"
+                },
+                {
+                    "d": "\u00d6VK"
+                },
+                {
+                    "e": "k"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-112",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-112",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-112",
+    "identifier": "DE-112",
+    "name": "Stadtbibliothek Eisenach",
+    "location": "Eisenach",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "THU"
+}

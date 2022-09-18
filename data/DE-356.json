@@ -1,0 +1,237 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-356.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:15-11-16"
+                ],
+                {
+                    "t": "17:59:50.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020583672"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "AA356"
+                },
+                {
+                    "d": "356"
+                },
+                {
+                    "e": "DE-356"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Bad Kreuznach StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtbibliothek Bad Kreuznach"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Kreuzstr. 69"
+                },
+                {
+                    "b": "Bad Kreuznach"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "55543"
+                },
+                {
+                    "f": "Rheinland-Pfalz"
+                },
+                {
+                    "i": "Mo und Mi 14.00-18.00, Di und Do-Fr 10.00-18.00, Sa 10.00-13.00"
+                },
+                {
+                    "k": "7.85838"
+                },
+                {
+                    "l": "49.84247"
+                },
+                {
+                    "n": "07133006"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "671"
+                },
+                {
+                    "f": "8 00-240 (Auskunft) und -381 (Fernleihe)"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "671"
+                },
+                {
+                    "i": "8 00-389"
+                },
+                {
+                    "k": "bibliothek@bad-kreuznach.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "07"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035K": [
+            [
+                {
+                    "b": "A"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "b"
+                },
+                {
+                    "d": "bibliothek@bad-kreuznach.de"
+                }
+            ],
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "bibliothek@bad-kreuznach.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "bibliothek@bad-kreuznach.de"
+                }
+            ]
+        ],
+        "035O": [
+            [
+                {
+                    "a": "ISIL DE-929; FZL DE-621"
+                },
+                {
+                    "b": "CONTAINER"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-356",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-356",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-356",
+    "identifier": "DE-356",
+    "name": "Stadtbibliothek Bad Kreuznach",
+    "location": "Bad Kreuznach",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NRW"
+}

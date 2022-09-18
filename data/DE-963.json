@@ -1,0 +1,220 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-963.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:22-02-21"
+                ],
+                {
+                    "t": "15:40:09.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020587252"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "d": "963"
+                },
+                {
+                    "e": "DE-963"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.hs21.de/direkteinstieg/bibliothek.html"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://vzlbs2.gbv.de/DB=70/LNG=DU/"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "gemeinn\u00fctzige GmbH Staatlich anerkannte private Fachhochschule"
+                },
+                {
+                    "4": "a"
+                }
+            ],
+            [
+                {
+                    "a": "Buxtehude HS21"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Hochschule 21, Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Harburger Str. 6"
+                },
+                {
+                    "b": "Buxtehude"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "21614"
+                },
+                {
+                    "f": "Niedersachsen"
+                },
+                {
+                    "i": "Mo-Fr 9.00-18.00"
+                },
+                {
+                    "k": "9.70461"
+                },
+                {
+                    "l": "53.47762"
+                },
+                {
+                    "n": "03359010"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "4161"
+                },
+                {
+                    "f": "6 48-125"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "4161"
+                },
+                {
+                    "i": "6 48-123"
+                },
+                {
+                    "k": "bibliothek@hs21.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "70"
+                },
+                {
+                    "g": "08"
+                },
+                {
+                    "h": "06"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NIE"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "GBV"
+                },
+                {
+                    "e": "k"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-963",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-963",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-963",
+    "identifier": "DE-963",
+    "name": "Hochschule 21, Bibliothek",
+    "location": "Buxtehude",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NIE"
+}

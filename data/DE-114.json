@@ -1,0 +1,233 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-114.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:27-01-22"
+                ],
+                {
+                    "t": "08:27:52.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020582862"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "AD114"
+                },
+                {
+                    "d": "114"
+                },
+                {
+                    "e": "DE-114"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "https://halberstadt.bibliotheca-open.de/"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Halberstadt StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtbibliothek 'Heinrich Heine' Halberstadt"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Dompl. 49"
+                },
+                {
+                    "b": "Halberstadt"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "38820"
+                },
+                {
+                    "f": "Sachsen-Anhalt"
+                },
+                {
+                    "i": "Mo-Di und Do-Fr 11.00-18.00, Sa 10.00-13.00"
+                },
+                {
+                    "k": "11.04351"
+                },
+                {
+                    "l": "51.89606"
+                },
+                {
+                    "n": "15085135"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Halberstadt"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "38805"
+                },
+                {
+                    "f": "Sachsen-Anhalt"
+                },
+                {
+                    "g": "15 37"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "3941"
+                },
+                {
+                    "f": "55 14 90 (Auskunft) und 55 15 00 (Fernleihe)"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "3941"
+                },
+                {
+                    "i": "55 10 47"
+                },
+                {
+                    "k": "BibHBS@halberstadt.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "07"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "SAA"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "GBV"
+                },
+                {
+                    "d": "\u00d6VK"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-114",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-114",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-114",
+    "identifier": "DE-114",
+    "name": "Stadtbibliothek 'Heinrich Heine' Halberstadt",
+    "location": "Halberstadt",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "SAA"
+}

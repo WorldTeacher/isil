@@ -1,0 +1,231 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Kob9.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:06-11-01"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:30-11-18"
+                ],
+                {
+                    "t": "15:37:15.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "022772030"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "548009-7"
+                },
+                {
+                    "b": "CX966"
+                },
+                {
+                    "d": "Kob 9"
+                },
+                {
+                    "e": "DE-Kob9"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.ovg.mjv.rlp.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://www.datronic.de/cgi-bin/findus.fcgi.pl?customer=ovg_koblenz"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Koblenz NJZ"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Neues Justizzentrum Koblenz, Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Deinhardpassage 1"
+                },
+                {
+                    "b": "Koblenz"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "56068"
+                },
+                {
+                    "f": "Rheinland-Pfalz"
+                },
+                {
+                    "i": "Mo-Do 8.00-16.30, Fr 8.00-12.30"
+                },
+                {
+                    "k": "7.59937"
+                },
+                {
+                    "l": "50.35778"
+                },
+                {
+                    "n": "07111000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "261"
+                },
+                {
+                    "f": "13 07-40350"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "261"
+                },
+                {
+                    "i": "13 07-48350"
+                },
+                {
+                    "k": "bibliothek@ovg.mjv.rlp.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0098"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "02"
+                },
+                {
+                    "h": "06"
+                },
+                {
+                    "i": "P"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "\u00d6ffentliches Recht"
+                },
+                {
+                    "a": "Verwaltungsrecht"
+                },
+                {
+                    "a": "Verfassungsrecht"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Kob9",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Kob9",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Kob9",
+    "identifier": "DE-Kob9",
+    "name": "Neues Justizzentrum Koblenz, Bibliothek",
+    "location": "Koblenz",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NRW"
+}

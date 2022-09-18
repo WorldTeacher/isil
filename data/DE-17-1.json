@@ -1,0 +1,233 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-17-1.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:06-11-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:08-10-20"
+                ],
+                {
+                    "t": "12:12:36.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020966083"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "611001-0"
+                },
+                {
+                    "d": "17/1"
+                },
+                {
+                    "e": "DE-17-1"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.ulb.tu-darmstadt.de/17_001"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "BGG"
+                },
+                {
+                    "4": "a"
+                }
+            ],
+            [
+                {
+                    "a": "Darmstadt ULB Stadtmitte"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "TU Darmstadt, Universit\u00e4ts- und Landesbibliothek - Stadtmitte"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Magdalenenstr. 8"
+                },
+                {
+                    "b": "Darmstadt"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "64289"
+                },
+                {
+                    "f": "Hessen"
+                },
+                {
+                    "k": "8.65798"
+                },
+                {
+                    "l": "49.87674"
+                },
+                {
+                    "n": "06411000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035D": [
+            [
+                {
+                    "a": "Ds 6"
+                }
+            ],
+            [
+                {
+                    "a": "Ds 7"
+                }
+            ],
+            [
+                {
+                    "a": "Ds 20"
+                }
+            ],
+            [
+                {
+                    "a": "Ds 44"
+                }
+            ],
+            [
+                {
+                    "a": "Ds 89"
+                }
+            ],
+            [
+                {
+                    "a": "Ds 115"
+                }
+            ],
+            [
+                {
+                    "a": "17/116"
+                }
+            ],
+            [
+                {
+                    "a": "17/122"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0024"
+                },
+                {
+                    "e": "HBV"
+                },
+                {
+                    "f": "65"
+                },
+                {
+                    "g": "07"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "HES"
+                },
+                {
+                    "c": "HeBIS"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035J": [
+            [
+                {
+                    "a": "Die Best\u00e4nde des Interimsstandortes BGG sind vor\u00fcbergehend, bis zum Bezug des dritten Standortes \u201eSchloss\u201c in der ULB Stadtmitte untergebracht, Bestellungen per Fax: 06151/16-76201, Bestellungen per E-Mail: fernleihe@ulb.tu-darmstadt.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-17-1",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-17-1",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-17-1",
+    "identifier": "DE-17-1",
+    "name": "TU Darmstadt, Universit\u00e4ts- und Landesbibliothek - Stadtmitte",
+    "location": "Darmstadt",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "HES"
+}

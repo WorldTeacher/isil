@@ -1,0 +1,288 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-154.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:18-11-99"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:27-02-19"
+                ],
+                {
+                    "t": "10:37:31.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "009024042"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "837000-X"
+                },
+                {
+                    "b": "AB154"
+                },
+                {
+                    "d": "154"
+                },
+                {
+                    "e": "DE-154"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.staatliche-bibliothek-passau.de/"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://infoguide.ub.uni-passau.de/InfoGuideClient.upasis/start.do?Login=igupa"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Passau SB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Staatliche Bibliothek Passau"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Michaeligasse 11"
+                },
+                {
+                    "b": "Passau"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "94032"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "i": "Mo-Fr 7.30-18.00"
+                },
+                {
+                    "j": "Ausleihe: Mo-Mi 7.30-17.00, Do-Fr 7.30-16.00"
+                },
+                {
+                    "k": "13.47049"
+                },
+                {
+                    "l": "48.57433"
+                },
+                {
+                    "n": "09262000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "851"
+                },
+                {
+                    "f": "75 64 40-0"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "851"
+                },
+                {
+                    "i": "75 64 40-27"
+                },
+                {
+                    "k": "sbp_info@staatliche-bibliothek-passau.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0094"
+                },
+                {
+                    "d": "BVB"
+                },
+                {
+                    "f": "21"
+                },
+                {
+                    "g": "02"
+                },
+                {
+                    "h": "09"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Bibliophilie"
+                },
+                {
+                    "a": "Buchgeschichte"
+                },
+                {
+                    "a": "Buchmalerei"
+                },
+                {
+                    "a": "Emblematik"
+                },
+                {
+                    "a": "Jesuitica"
+                },
+                {
+                    "a": "Niederbayern <Heimatgeschichte>"
+                },
+                {
+                    "a": "Niederbayern <Literatur>"
+                },
+                {
+                    "a": "Wissenschaftsgeschichte"
+                },
+                {
+                    "a": "Niederbayern in der Druckgraphik"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAY"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "BVB"
+                },
+                {
+                    "d": "Kalliope"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035K": [
+            [
+                {
+                    "b": "A"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "sbp_info@staatliche-bibliothek-passau.de"
+                }
+            ]
+        ],
+        "035O": [
+            [
+                {
+                    "a": "ISIL DE-739; FZL DE-619"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-154",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-154",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-154",
+    "identifier": "DE-154",
+    "name": "Staatliche Bibliothek Passau",
+    "location": "Passau",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAY"
+}

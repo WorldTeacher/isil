@@ -1,0 +1,222 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-1415.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:09-11-07"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:28-01-16"
+                ],
+                {
+                    "t": "16:06:15.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:09-11-07"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "986328588"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "GN722"
+                },
+                {
+                    "d": "1415"
+                },
+                {
+                    "e": "DE-1415"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.stadtbuecherei.garching.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://stgoz2.bib-bvb.de/webOPACClient.stgsis/start.do?Login=wostg"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Garching StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtb\u00fccherei Garching"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "B\u00fcrgerplatz 11"
+                },
+                {
+                    "b": "Garching bei M\u00fcnchen"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "85748"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "i": "Mo 11.00-21.00, Di-Fr 11.00-18.00"
+                },
+                {
+                    "k": "11.65065"
+                },
+                {
+                    "l": "48.25040"
+                },
+                {
+                    "n": "09184119"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "89"
+                },
+                {
+                    "f": "3 20 89-210"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "89"
+                },
+                {
+                    "i": "3 20 89-211"
+                },
+                {
+                    "k": "buecherei@garching.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "07"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAY"
+                },
+                {
+                    "c": "BVB"
+                },
+                {
+                    "e": "n"
+                },
+                {
+                    "g": "R"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "buecherei@garching.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-1415",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-1415",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-1415",
+    "identifier": "DE-1415",
+    "name": "Stadtb\u00fccherei Garching",
+    "location": "Garching bei M\u00fcnchen",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAY"
+}

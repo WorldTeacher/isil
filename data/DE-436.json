@@ -1,0 +1,237 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-436.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:13-02-19"
+                ],
+                {
+                    "t": "11:07:02.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "02058413X"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "AD436"
+                },
+                {
+                    "d": "436"
+                },
+                {
+                    "e": "DE-436"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://bibliothek.kempen.de"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Kempen StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtbibliothek Kempen"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Burgstr. 19"
+                },
+                {
+                    "b": "Kempen"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "47906"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "i": "Di und Fr 11.00-17.00, Mi 14.00-17.00, Do 14.00-18.00, Sa 11.00-13.00"
+                },
+                {
+                    "k": "6.42081"
+                },
+                {
+                    "l": "51.36564"
+                },
+                {
+                    "n": "05166012"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "2152"
+                },
+                {
+                    "f": "9 17-4133"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "2152"
+                },
+                {
+                    "i": "9 17-4815"
+                },
+                {
+                    "k": "fernleihe@kempen.de"
+                }
+            ]
+        ],
+        "035D": [
+            [
+                {
+                    "a": "783"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "07"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "b"
+                },
+                {
+                    "d": "fernleihe@kempen.de"
+                }
+            ],
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "fernleihe@kempen.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "fernleihe@kempen.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-436",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-436",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-436",
+    "identifier": "DE-436",
+    "name": "Stadtbibliothek Kempen",
+    "location": "Kempen",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NRW"
+}

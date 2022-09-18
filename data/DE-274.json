@@ -1,0 +1,233 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-274.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:31-03-16"
+                ],
+                {
+                    "t": "11:00:54.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020583516"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "AC274"
+                },
+                {
+                    "d": "274"
+                },
+                {
+                    "e": "DE-274"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.viersen.de"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Viersen StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtbibliothek, Hauptstelle"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Rathausmarkt 1 b"
+                },
+                {
+                    "b": "Viersen"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "41747"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "k": "6.39093"
+                },
+                {
+                    "l": "51.25839"
+                },
+                {
+                    "n": "05166032"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "2162"
+                },
+                {
+                    "f": "1 01-510"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "2162"
+                },
+                {
+                    "i": "1 01-515"
+                },
+                {
+                    "j": "\u00fcber 8518846 skvi d"
+                },
+                {
+                    "k": "stadtbibliothek@viersen.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "08"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "d": "Kalliope"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "b"
+                },
+                {
+                    "d": "fernleihe@viersen.de"
+                }
+            ],
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "fernleihe@viersen.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "fernleihe@viersen.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-274",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-274",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-274",
+    "identifier": "DE-274",
+    "name": "Stadtbibliothek, Hauptstelle",
+    "location": "Viersen",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NRW"
+}

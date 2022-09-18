@@ -1,0 +1,255 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-159.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:19-01-16"
+                ],
+                {
+                    "t": "18:14:33.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "02058301X"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "778159-3"
+                },
+                {
+                    "b": "AF159"
+                },
+                {
+                    "d": "159"
+                },
+                {
+                    "e": "DE-159"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.ueberlingen.de/B%C3%BCrger_Stadt/Stadtverwaltung/Fachbereich_1/Kultur/Leopold_wbr_Sophien_wbr_Bibliothek/"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "\u00dcberlingen Leopold SophienB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Leopold Sophien Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Steinhausgasse 1"
+                },
+                {
+                    "b": "\u00dcberlingen"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "88662"
+                },
+                {
+                    "f": "Baden-W\u00fcrttemberg"
+                },
+                {
+                    "i": "Di und Do 14.00-17.00, Mi 10.00-13.00, Fr 10.00-13.00"
+                },
+                {
+                    "j": "wissenschaftliche Benutzung des Altbestandes (bis 1850) nur nach Voranmeldung;Terminvereinbarung m\u00f6glich"
+                },
+                {
+                    "k": "9.15908"
+                },
+                {
+                    "l": "47.76760"
+                },
+                {
+                    "n": "08435059"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "\u00dcberlingen"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "88648"
+                },
+                {
+                    "f": "Baden-W\u00fcrttemberg"
+                },
+                {
+                    "g": "10 18 63"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "7551"
+                },
+                {
+                    "f": "99-1072"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "7551"
+                },
+                {
+                    "i": "99-1077"
+                },
+                {
+                    "k": "lsb@ueberlingen.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0074"
+                },
+                {
+                    "d": "SWB"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "07"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "SWB"
+                },
+                {
+                    "d": "Kalliope"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035K": [
+            [
+                {
+                    "b": "A"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-159",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-159",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-159",
+    "identifier": "DE-159",
+    "name": "Leopold Sophien Bibliothek",
+    "location": "\u00dcberlingen",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAW"
+}

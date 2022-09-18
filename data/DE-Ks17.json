@@ -1,0 +1,282 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Ks17.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "0292:02-11-21"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:20-07-22"
+                ],
+                {
+                    "t": "12:20:16.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "0292:02-11-21"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1244828874"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "358017-9"
+                },
+                {
+                    "b": "FE687"
+                },
+                {
+                    "d": "Ks 17"
+                },
+                {
+                    "e": "DE-Ks17"
+                },
+                {
+                    "f": "DOCUA"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.documenta-archiv.de/de/"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://documenta.primo.exlibrisgroup.com/discovery/search?vid=49DOC_INST:DOC"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Kassel documenta archiv Bib"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "documenta archiv, Bibliothek"
+                }
+            ]
+        ],
+        "029R": [
+            [
+                {
+                    "9": "1160335230"
+                },
+                {
+                    "7": "Tw"
+                },
+                {
+                    "a": "documenta archiv"
+                },
+                {
+                    "e": "DE-2611"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Untere Karlsstr. 4"
+                },
+                {
+                    "b": "Kassel"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "34117"
+                },
+                {
+                    "f": "Hessen"
+                },
+                {
+                    "i": "Di-Fr 9.00-16.00"
+                },
+                {
+                    "k": "9.49853"
+                },
+                {
+                    "l": "51.31409"
+                },
+                {
+                    "n": "06611000"
+                },
+                {
+                    "o": "barrierefrei"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "a": "Friedrichsplatz 18"
+                },
+                {
+                    "b": "Kassel"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "34117"
+                },
+                {
+                    "f": "Hessen"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "R"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "561"
+                },
+                {
+                    "f": "7 07 27-3108"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "561"
+                },
+                {
+                    "i": "7 07 27-39"
+                },
+                {
+                    "k": "bibliothek@documenta.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0357"
+                },
+                {
+                    "d": "SWB"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "h": "06"
+                },
+                {
+                    "i": "P"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "documenta-Geschichte"
+                },
+                {
+                    "a": "Kunst des 20. und 21. Jahrhunderts"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "HES"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "SWB"
+                },
+                {
+                    "e": "n"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Ks17",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Ks17",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Ks17",
+    "identifier": "DE-Ks17",
+    "name": "documenta archiv, Bibliothek",
+    "location": "Kassel",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "HES"
+}

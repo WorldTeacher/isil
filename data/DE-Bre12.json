@@ -1,0 +1,221 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Bre12.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:27-02-19"
+                ],
+                {
+                    "t": "10:37:37.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020589751"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "288012-X"
+                },
+                {
+                    "b": "EY787"
+                },
+                {
+                    "d": "Bre 12"
+                },
+                {
+                    "e": "DE-Bre12"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.forschungsstelle.uni-bremen.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://vzlbs2.gbv.de/DB=71/LNG=DU/"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Bremen Forschungsst. Osteuropa"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Forschungsstelle Osteuropa an der Universit\u00e4t Bremen - Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Klagenfurter Str. 8"
+                },
+                {
+                    "b": "Bremen"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "28359"
+                },
+                {
+                    "f": "Bremen"
+                },
+                {
+                    "h": "Osteuropa-Geb\u00e4ude"
+                },
+                {
+                    "k": "8.81235"
+                },
+                {
+                    "l": "53.07373"
+                },
+                {
+                    "n": "04011000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "421"
+                },
+                {
+                    "f": "2 18-69636"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "421"
+                },
+                {
+                    "i": "2 18-69607"
+                },
+                {
+                    "k": "fsobib@uni-bremen.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0111"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "08"
+                },
+                {
+                    "h": "07"
+                },
+                {
+                    "i": "P"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "HAM"
+                },
+                {
+                    "c": "GBV"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Bre12",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Bre12",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Bre12",
+    "identifier": "DE-Bre12",
+    "name": "Forschungsstelle Osteuropa an der Universit\u00e4t Bremen - Bibliothek",
+    "location": "Bremen",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "HAM"
+}

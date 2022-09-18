@@ -1,0 +1,251 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-1821.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:02-03-10"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:20-09-21"
+                ],
+                {
+                    "t": "12:37:46.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:02-03-10"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1000538079"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "HY561"
+                },
+                {
+                    "d": "1821"
+                },
+                {
+                    "e": "DE-1821"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "https://www.bergen-online.de/50-0-Stadtbuecherei.html"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://bibkataloge.de/bergen"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Bergen  StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtb\u00fccherei Bergen"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Schulstr. 10"
+                },
+                {
+                    "b": "Bergen Kreis Celle"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "29303"
+                },
+                {
+                    "f": "Niedersachsen"
+                },
+                {
+                    "i": "Di und Fr 14.00-17.00, Mi 14.00-19.00, Do 9.00-12.00 und 14.00-19.00"
+                },
+                {
+                    "j": "Kindergartengruppen und Schulklassen auch au\u00dferhalb der \u00d6ffnungszeiten mit Voranmeldung m\u00f6glich"
+                },
+                {
+                    "k": "9.96039"
+                },
+                {
+                    "l": "52.81016"
+                },
+                {
+                    "n": "03351004"
+                },
+                {
+                    "o": "barrierefrei"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "a": "Deichend 3-7"
+                },
+                {
+                    "b": "Bergen"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "29296"
+                },
+                {
+                    "f": "Niedersachsen"
+                },
+                {
+                    "g": "11 99"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "5051"
+                },
+                {
+                    "f": "55 88"
+                },
+                {
+                    "k": "stadtbuecherei@bergen-online.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "06"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Belletristik"
+                },
+                {
+                    "a": "Sachb\u00fccher"
+                },
+                {
+                    "a": "Kinder- und Jugendliteratur"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NIE"
+                },
+                {
+                    "c": "GBV"
+                },
+                {
+                    "d": "\u00d6VK"
+                },
+                {
+                    "e": "n"
+                },
+                {
+                    "g": "R"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-1821",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-1821",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-1821",
+    "identifier": "DE-1821",
+    "name": "Stadtb\u00fccherei Bergen",
+    "location": "Bergen Kreis Celle",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NIE"
+}

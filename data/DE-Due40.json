@@ -1,0 +1,230 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Due40.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:24-09-18"
+                ],
+                {
+                    "t": "08:22:18.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020590466"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "CZ963"
+                },
+                {
+                    "d": "D\u00fc 40"
+                },
+                {
+                    "e": "DE-Due40"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "https://land.nrw/"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://bvlb.nrw.de/webopac/"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "D\u00fcsseldorf Landesregierung"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Landesregierung Nordrhein-Westfalen, Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "J\u00fcrgensplatz 1"
+                },
+                {
+                    "b": "D\u00fcsseldorf"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "40219"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "i": "Mo-Di 8.00-16.30, Mi-Fr 8.00-16.00"
+                },
+                {
+                    "k": "6.76741"
+                },
+                {
+                    "l": "51.21697"
+                },
+                {
+                    "n": "05111000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "D\u00fcsseldorf"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "40190"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "211"
+                },
+                {
+                    "f": "8 37-1247"
+                },
+                {
+                    "k": "bibliothek@stk.nrw.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "02"
+                },
+                {
+                    "h": "08"
+                },
+                {
+                    "i": "P"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "\u00d6ffentliches Recht"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "d": "BVLBNRW"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Due40",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Due40",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Due40",
+    "identifier": "DE-Due40",
+    "name": "Landesregierung Nordrhein-Westfalen, Bibliothek",
+    "location": "D\u00fcsseldorf",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NRW"
+}

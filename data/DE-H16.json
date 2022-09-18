@@ -1,0 +1,223 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-H16.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:18-11-99"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:10-10-18"
+                ],
+                {
+                    "t": "07:41:35.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "009002987"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "208016-3"
+                },
+                {
+                    "b": "DB146"
+                },
+                {
+                    "d": "H 16"
+                },
+                {
+                    "e": "DE-H16"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "https://markk-hamburg.de/bibliothek/"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Hamburg Mus.am Rothenbaum"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Museum am Rothenbaum, Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Rothenbaumchaussee 64"
+                },
+                {
+                    "b": "Hamburg"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "20148"
+                },
+                {
+                    "f": "Hamburg"
+                },
+                {
+                    "i": "Do-So 13.00-18.00"
+                },
+                {
+                    "k": "9.98927"
+                },
+                {
+                    "l": "53.56832"
+                },
+                {
+                    "n": "02000000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "40"
+                },
+                {
+                    "f": "42 88 79-691 und 518"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "40"
+                },
+                {
+                    "i": "42 88 79-242"
+                },
+                {
+                    "k": "bibliothek@markk-hamburg.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0025"
+                },
+                {
+                    "e": "GBV"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "02"
+                },
+                {
+                    "h": "08"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Ethnologie"
+                },
+                {
+                    "a": "K\u00fcnste und Kulturen der Welt"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "HAM"
+                },
+                {
+                    "c": "GBV"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-H16",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-H16",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-H16",
+    "identifier": "DE-H16",
+    "name": "Museum am Rothenbaum, Bibliothek",
+    "location": "Hamburg",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "HAM"
+}

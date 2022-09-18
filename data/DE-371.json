@@ -1,0 +1,230 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-371.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:25-02-21"
+                ],
+                {
+                    "t": "13:51:03.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020583745"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "AG371"
+                },
+                {
+                    "d": "371"
+                },
+                {
+                    "e": "DE-371"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "https://www.stadtbibliothek-guetersloh.de/"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "G\u00fctersloh StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtbibliothek G\u00fctersloh GmbH"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Blessenst\u00e4tte 1"
+                },
+                {
+                    "b": "G\u00fctersloh"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "33330"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "i": "Di-Fr 10.00-19.00, Sa 10.00-15.00"
+                },
+                {
+                    "k": "8.37701"
+                },
+                {
+                    "l": "51.90417"
+                },
+                {
+                    "n": "05754008"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "5241"
+                },
+                {
+                    "f": "2 11 80-50 (Sekretariat) und -56 (Fernleihe)"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "5241"
+                },
+                {
+                    "i": "2 11 80-52"
+                },
+                {
+                    "k": "stadtbibliothek-guetersloh@gt-net.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "08"
+                },
+                {
+                    "h": "08"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "b"
+                },
+                {
+                    "d": "stadtbibliothek-guetersloh@gt-net.de"
+                }
+            ],
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "fernleihe@gt-net.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "fernleihe@gt-net.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-371",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-371",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-371",
+    "identifier": "DE-371",
+    "name": "Stadtbibliothek G\u00fctersloh GmbH",
+    "location": "G\u00fctersloh",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NRW"
+}

@@ -1,0 +1,224 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-H123.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:22-02-16"
+                ],
+                {
+                    "t": "16:21:57.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020591977"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "208123-4"
+                },
+                {
+                    "b": "CT072"
+                },
+                {
+                    "d": "H 123"
+                },
+                {
+                    "e": "DE-H123"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.hamburg.de/startseite-lsg/service/bibliothek/"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://kataloge.uni-hamburg.de/DB=9.2/LNG=DU/"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Hamburg Landessozialgericht"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Landessozialgericht und Sozialgericht Hamburg, Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Dammtorstr. 7"
+                },
+                {
+                    "b": "Hamburg"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "20354"
+                },
+                {
+                    "f": "Hamburg"
+                },
+                {
+                    "i": "Mo-Fr 9.00-12.00"
+                },
+                {
+                    "k": "10.02735"
+                },
+                {
+                    "l": "53.60204"
+                },
+                {
+                    "n": "02000000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "40"
+                },
+                {
+                    "f": "4 28 43-5861"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "40"
+                },
+                {
+                    "i": "4 28 43-5770"
+                },
+                {
+                    "k": "BibliothekSozialgerichte@lsozg.justiz.hamburg.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0025"
+                },
+                {
+                    "e": "GBV"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "02"
+                },
+                {
+                    "h": "06"
+                },
+                {
+                    "i": "P"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "HAM"
+                },
+                {
+                    "c": "GBV"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-H123",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-H123",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-H123",
+    "identifier": "DE-H123",
+    "name": "Landessozialgericht und Sozialgericht Hamburg, Bibliothek",
+    "location": "Hamburg",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "HAM"
+}

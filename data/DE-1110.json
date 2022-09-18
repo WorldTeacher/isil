@@ -1,0 +1,222 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-1110.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:18-08-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:28-11-18"
+                ],
+                {
+                    "t": "16:37:12.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020726570"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "LP426"
+                },
+                {
+                    "d": "1110"
+                },
+                {
+                    "e": "DE-1110"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://bibliotheca.boenen.de/BIBNET_OPAC/index.aspx"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "B\u00f6nen GB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Gemeindeb\u00fccherei B\u00f6nen"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Lessingstr. 6"
+                },
+                {
+                    "b": "B\u00f6nen"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "59199"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "i": "Di 10.00-17.00, Mi und Fr 13.00-17.00, Do 13.00-18.00"
+                },
+                {
+                    "k": "7.76203"
+                },
+                {
+                    "l": "51.60163"
+                },
+                {
+                    "n": "05978008"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "2383"
+                },
+                {
+                    "f": "54 54"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "2383"
+                },
+                {
+                    "i": "91 35 06"
+                },
+                {
+                    "k": "buecherei@boenen.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "07"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "fernleihe@boenen.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "fernleihe@boenen.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-1110",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-1110",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-1110",
+    "identifier": "DE-1110",
+    "name": "Gemeindeb\u00fccherei B\u00f6nen",
+    "location": "B\u00f6nen",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NRW"
+}

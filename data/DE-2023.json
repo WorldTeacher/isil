@@ -1,0 +1,206 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-2023.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:02-12-13"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:28-01-16"
+                ],
+                {
+                    "t": "16:25:30.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:02-12-13"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1044842520"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "GM249"
+                },
+                {
+                    "d": "2023"
+                },
+                {
+                    "e": "DE-2023"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.remshalden-bibliothek.de/"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://wwwopac.rz-as.de/remshalden/index.asp?DB=remshalden"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Remshalden StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Bibliothek Remshalden"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Fron\u00e4ckerstr. 43"
+                },
+                {
+                    "b": "Remshalden"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "73630"
+                },
+                {
+                    "f": "Baden-W\u00fcrttemberg"
+                },
+                {
+                    "i": "Di, Do-Fr 15.00-19.00, Mi 10.00-12.30, 1. und 3. Sa 10.00-12.00"
+                },
+                {
+                    "k": "9.43735"
+                },
+                {
+                    "l": "48.81050"
+                },
+                {
+                    "o": "barrierefrei"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "7151"
+                },
+                {
+                    "f": "97 31 20 11"
+                },
+                {
+                    "k": "bibliothek@remshalden.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "06"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "SWB"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-2023",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-2023",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-2023",
+    "identifier": "DE-2023",
+    "name": "Bibliothek Remshalden",
+    "location": "Remshalden",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAW"
+}

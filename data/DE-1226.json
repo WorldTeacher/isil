@@ -1,0 +1,230 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-1226.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:10-08-04"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:28-11-18"
+                ],
+                {
+                    "t": "16:30:27.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "026340658"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "GF119"
+                },
+                {
+                    "d": "1226"
+                },
+                {
+                    "e": "DE-1226"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.voerde.de/buecherei"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Voerde StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtbibliothek Voerde"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Im Osterfeld 22"
+                },
+                {
+                    "b": "Voerde"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "46562"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "i": "Mo und Do 14.00-18.00, Di 9.00-12.00 und 14.00-18.00, Mi 14.00-19.00"
+                },
+                {
+                    "k": "6.68074"
+                },
+                {
+                    "l": "51.59862"
+                },
+                {
+                    "n": "05170044"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "2855"
+                },
+                {
+                    "f": "80-388"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "2855"
+                },
+                {
+                    "i": "80-390"
+                },
+                {
+                    "k": "stadtbibliothek@voerde.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "07"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "b"
+                },
+                {
+                    "d": "stadtbibliothek@voerde.de"
+                }
+            ],
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "stadtbibliothek@voerde.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "stadtbibliothek@voerde.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-1226",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-1226",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-1226",
+    "identifier": "DE-1226",
+    "name": "Stadtbibliothek Voerde",
+    "location": "Voerde",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NRW"
+}

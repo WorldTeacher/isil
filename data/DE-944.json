@@ -1,0 +1,272 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-944.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:24-09-21"
+                ],
+                {
+                    "t": "09:53:48.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:27-05-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020587090"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "705500-6"
+                },
+                {
+                    "b": "DX455"
+                },
+                {
+                    "d": "944"
+                },
+                {
+                    "e": "DE-944"
+                },
+                {
+                    "f": "FHAA"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.hs-aalen.de/bibliothek"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Aalen HS"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Hochschule Aalen, Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Anton-Huber-Str. 17"
+                },
+                {
+                    "b": "Aalen"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "73430"
+                },
+                {
+                    "f": "Baden-W\u00fcrttemberg"
+                },
+                {
+                    "i": "Mo-Fr 8.00-20.00, Sa 9.00-16.00"
+                },
+                {
+                    "j": "w\u00e4hrend der Vorlesungszeit"
+                },
+                {
+                    "k": "10.06699"
+                },
+                {
+                    "l": "48.84053"
+                },
+                {
+                    "n": "08136088"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "a": "Beethovenstr. 1"
+                },
+                {
+                    "b": "Aalen"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "73430"
+                },
+                {
+                    "f": "Baden-W\u00fcrttemberg"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "7361"
+                },
+                {
+                    "f": "5 76-1919"
+                },
+                {
+                    "k": "bibliothek@hs-aalen.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0128"
+                },
+                {
+                    "d": "SWB"
+                },
+                {
+                    "f": "70"
+                },
+                {
+                    "g": "02"
+                },
+                {
+                    "h": "07"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "SWB"
+                },
+                {
+                    "e": "k"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "b"
+                },
+                {
+                    "d": "bibliothek@hs-aalen.de"
+                }
+            ],
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "fernleihe@hs-aalen.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "fernleihe@hs-aalen.de"
+                }
+            ]
+        ],
+        "035Q": [
+            [
+                {
+                    "a": "j"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-944",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-944",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-944",
+    "identifier": "DE-944",
+    "name": "Hochschule Aalen, Bibliothek",
+    "location": "Aalen",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAW"
+}

@@ -1,0 +1,207 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-1900.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:03-07-12"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:18-06-21"
+                ],
+                {
+                    "t": "14:11:07.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:03-07-12"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1023898802"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "MB439"
+                },
+                {
+                    "d": "1900"
+                },
+                {
+                    "e": "DE-1900"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.leuna-stadt.de/index.php/stadtbibliothek.html"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Leuna StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtbibliothek Leuna"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Rathausstr. 1"
+                },
+                {
+                    "b": "Leuna"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "06237"
+                },
+                {
+                    "f": "Sachsen-Anhalt"
+                },
+                {
+                    "i": "Mo 10.00-12.00 und 13.00-16.00, Di und Do 10.00-12.00 und 13.00-18.00, Fr 10.00-12.00"
+                },
+                {
+                    "k": "12.02363"
+                },
+                {
+                    "l": "51.32120"
+                },
+                {
+                    "n": "14729040"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "3461"
+                },
+                {
+                    "f": "84 01 44"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "3461"
+                },
+                {
+                    "i": "81 32 22"
+                },
+                {
+                    "k": "stadtbibliothek@leuna.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "07"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "SAA"
+                },
+                {
+                    "c": "GBV"
+                },
+                {
+                    "d": "\u00d6VK"
+                },
+                {
+                    "e": "n"
+                },
+                {
+                    "g": "R"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-1900",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-1900",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-1900",
+    "identifier": "DE-1900",
+    "name": "Stadtbibliothek Leuna",
+    "location": "Leuna",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "SAA"
+}

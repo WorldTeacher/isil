@@ -1,0 +1,179 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-MUS-139519.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:04-01-12"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:12-10-20"
+                ],
+                {
+                    "t": "08:21:35.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:04-01-12"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1018501371"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "e": "DE-MUS-139519"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.museen-stade.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://www.museen-in-deutschland.de/singleview.php?muges=139519"
+                },
+                {
+                    "x": "Weitere Informationen"
+                },
+                {
+                    "z": "W"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Museum Schwedenspeicher"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Wasser West 39"
+                },
+                {
+                    "b": "Stade"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "21682"
+                },
+                {
+                    "f": "Niedersachsen"
+                },
+                {
+                    "i": "Di-Fr 10.00-17.00, Sa-So 10.00-18.00"
+                },
+                {
+                    "k": "9.47715"
+                },
+                {
+                    "l": "53.60402"
+                },
+                {
+                    "o": "Aufzug, WC"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "4141"
+                },
+                {
+                    "f": "79 77 30"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "4141"
+                },
+                {
+                    "i": "7 97 73 99"
+                },
+                {
+                    "k": "info@museen-stade.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "86"
+                },
+                {
+                    "g": "07"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-MUS-139519",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-MUS-139519",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-MUS-139519",
+    "identifier": "DE-MUS-139519",
+    "name": "Museum Schwedenspeicher",
+    "location": "Stade",
+    "type": [
+        "Organization",
+        "Museum"
+    ]
+}

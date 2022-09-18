@@ -1,0 +1,266 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-91S.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:20-08-09"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:02-09-22"
+                ],
+                {
+                    "t": "13:54:39.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:20-08-09"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "996101594"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "820301-5"
+                },
+                {
+                    "d": "91 S"
+                },
+                {
+                    "e": "DE-91S"
+                },
+                {
+                    "f": "TUM"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.ub.tum.de/"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://www.ub.tum.de/online-katalog"
+                },
+                {
+                    "z": "B"
+                }
+            ],
+            [
+                {
+                    "u": "https://www.ub.tum.de/oeffnungszeiten/Straubing"
+                },
+                {
+                    "x": "\u00d6ffnungszeiten"
+                },
+                {
+                    "z": "W"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "M\u00fcnchen TU/TeilB Straubing"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Technische Universit\u00e4t M\u00fcnchen, Universit\u00e4tsbibliothek, Teilbibliothek Straubing"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Petersgasse 18"
+                },
+                {
+                    "b": "Straubing"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "94315"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "i": "siehe \u00d6ffnungszeiten auf der Homepage"
+                },
+                {
+                    "k": "12.58325"
+                },
+                {
+                    "l": "48.88518"
+                },
+                {
+                    "n": "09263000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "9421"
+                },
+                {
+                    "f": "18 71 80"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "9421"
+                },
+                {
+                    "i": "18 71 83"
+                },
+                {
+                    "k": "fl91S@ub.tum.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0056"
+                },
+                {
+                    "d": "BVB"
+                },
+                {
+                    "f": "65"
+                },
+                {
+                    "g": "02"
+                },
+                {
+                    "h": "05"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Nachwachsende Rohstoffe"
+                },
+                {
+                    "a": "Erneuerbare Energien"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAY"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "BVB"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "fl91S@ub.tum.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "fl91S@ub.tum.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-91S",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-91S",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-91S",
+    "identifier": "DE-91S",
+    "name": "Technische Universit\u00e4t M\u00fcnchen, Universit\u00e4tsbibliothek, Teilbibliothek Straubing",
+    "location": "Straubing",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAY"
+}

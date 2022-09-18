@@ -1,0 +1,227 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Hgn1.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:28-10-15"
+                ],
+                {
+                    "t": "08:32:30.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020592639"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "WA315"
+                },
+                {
+                    "d": "Hgn 1"
+                },
+                {
+                    "e": "DE-Hgn1"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.stadtbibliothek.hagenow.de"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Hagenow StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtbibliothek Hagenow"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "M\u00f6llner Str. 61"
+                },
+                {
+                    "b": "Hagenow"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "19230"
+                },
+                {
+                    "f": "Mecklenburg-Vorpommern"
+                },
+                {
+                    "i": "Mo-Di und Do-Fr 11.00-18.00, Mi 10.00-12.00, 1. Sa im Monat 10.00-12.00"
+                },
+                {
+                    "k": "11.19513"
+                },
+                {
+                    "l": "53.43217"
+                },
+                {
+                    "n": "13054043"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Hagenow"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "19221"
+                },
+                {
+                    "f": "Mecklenburg-Vorpommern"
+                },
+                {
+                    "g": "11 33"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "3883"
+                },
+                {
+                    "f": "72 10 62"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "3883"
+                },
+                {
+                    "i": "6 61 79"
+                },
+                {
+                    "k": "stadtbibliothek@hagenow.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "06"
+                },
+                {
+                    "h": "06"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "HAM"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Hgn1",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Hgn1",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Hgn1",
+    "identifier": "DE-Hgn1",
+    "name": "Stadtbibliothek Hagenow",
+    "location": "Hagenow",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "HAM"
+}

@@ -1,0 +1,210 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-1906.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:12-09-12"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:18-06-21"
+                ],
+                {
+                    "t": "14:11:06.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:12-09-12"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1025919629"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "GB771"
+                },
+                {
+                    "d": "1906"
+                },
+                {
+                    "e": "DE-1906"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.bibliothek-jessen.de"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Jessen StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtbibliothek Jessen"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "M\u00fchlberger Str. 39"
+                },
+                {
+                    "b": "Jessen"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "06917"
+                },
+                {
+                    "f": "Sachsen-Anhalt"
+                },
+                {
+                    "i": "Mo 13.00-16.00, Di 13.00-17.00, Do 11.00-18.00, Fr 10.00-16.00"
+                },
+                {
+                    "j": "Mittwoch geschlossen"
+                },
+                {
+                    "k": "12.94876"
+                },
+                {
+                    "l": "51.78992"
+                },
+                {
+                    "n": "15091145"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "3537"
+                },
+                {
+                    "f": "21 40 76"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "3537"
+                },
+                {
+                    "i": "21 62 84"
+                },
+                {
+                    "k": "info@bibliothek-jessen.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "06"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "SAA"
+                },
+                {
+                    "c": "GBV"
+                },
+                {
+                    "d": "\u00d6VK"
+                },
+                {
+                    "e": "n"
+                },
+                {
+                    "g": "R"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-1906",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-1906",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-1906",
+    "identifier": "DE-1906",
+    "name": "Stadtbibliothek Jessen",
+    "location": "Jessen",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "SAA"
+}

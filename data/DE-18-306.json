@@ -1,0 +1,296 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-18-306.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:01-07-05"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:27-02-19"
+                ],
+                {
+                    "t": "10:37:40.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:01-07-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "975523503"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "201306-X"
+                },
+                {
+                    "d": "18/306"
+                },
+                {
+                    "e": "DE-18-306"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://bis-erdsystem.de"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Gemeinsame Bibliothek des Max-Planck-Instituts f\u00fcr Meteorologie (MPI-M) und des Centrums f\u00fcr Erdsystemforschung und Nachhaltigkeit (CEN)"
+                },
+                {
+                    "4": "a"
+                }
+            ],
+            [
+                {
+                    "a": "Hamburg BIS Erdsystemforschung"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Bibliotheks- und Informationsservice (BIS) f\u00fcr Erdsystemforschung"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Bundesstr. 53"
+                },
+                {
+                    "b": "Hamburg"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "20146"
+                },
+                {
+                    "f": "Hamburg"
+                },
+                {
+                    "h": "Erdgeschoss"
+                },
+                {
+                    "i": "Mo-Fr 9.00-19.00"
+                },
+                {
+                    "k": "9.97530"
+                },
+                {
+                    "l": "53.56776"
+                },
+                {
+                    "n": "02000000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "40"
+                },
+                {
+                    "f": "4 28 38-5076"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "40"
+                },
+                {
+                    "i": "4 11 73-298"
+                },
+                {
+                    "k": "bis.erdsystem@mpimet.mpg.de"
+                }
+            ]
+        ],
+        "035D": [
+            [
+                {
+                    "a": "18/141"
+                }
+            ],
+            [
+                {
+                    "a": "18/240"
+                }
+            ],
+            [
+                {
+                    "a": "18/271"
+                }
+            ],
+            [
+                {
+                    "a": "H 145"
+                }
+            ],
+            [
+                {
+                    "a": "H 218"
+                }
+            ],
+            [
+                {
+                    "a": "H 255"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "c": "0025"
+                },
+                {
+                    "e": "GBV"
+                },
+                {
+                    "f": "65"
+                },
+                {
+                    "g": "02"
+                },
+                {
+                    "h": "07"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Meteorologie"
+                },
+                {
+                    "a": "Klimatologie"
+                },
+                {
+                    "a": "Geophysik"
+                },
+                {
+                    "a": "Ozeanographie"
+                },
+                {
+                    "a": "Meeresbiologie"
+                },
+                {
+                    "a": "Meereschemie"
+                },
+                {
+                    "a": "Meeres\u00f6kologie"
+                },
+                {
+                    "a": "Biogeochemie"
+                },
+                {
+                    "a": "Fernerkundung"
+                },
+                {
+                    "a": "Marine Geologie"
+                },
+                {
+                    "a": "Fischereibiologie"
+                },
+                {
+                    "a": "Aquatische Toxikologie"
+                },
+                {
+                    "a": "Limnologie"
+                },
+                {
+                    "a": "Umweltforschung"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "HAM"
+                },
+                {
+                    "c": "GBV"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-18-306",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-18-306",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-18-306",
+    "identifier": "DE-18-306",
+    "name": "Bibliotheks- und Informationsservice (BIS) f\u00fcr Erdsystemforschung",
+    "location": "Hamburg",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "HAM"
+}

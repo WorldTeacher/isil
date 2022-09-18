@@ -1,0 +1,239 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-1812.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-01-10"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:09-03-22"
+                ],
+                {
+                    "t": "07:36:45.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:11-01-10"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "999441906"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "NF840"
+                },
+                {
+                    "d": "1812"
+                },
+                {
+                    "e": "DE-1812"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.buecherei-essenbach.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://buecherei-essenbach.de/webopac/"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Essenbach StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "B\u00fccherei Essenbach"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Rathausplatz 3"
+                },
+                {
+                    "b": "Essenbach"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "84051"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "h": "Gemeindeverwaltung f\u00fcr B\u00fccherei Essenbach"
+                },
+                {
+                    "i": "Mi 16.00-18.00, Sa 10.00-12.00, So 10.00-11.00"
+                },
+                {
+                    "k": "12.21483"
+                },
+                {
+                    "l": "48.60942"
+                },
+                {
+                    "n": "09274128"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "a": "Savigneux-Platz 2a"
+                },
+                {
+                    "b": "Essenbach"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "84051"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "z": "B\u00fccherei Essenbach"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "8703"
+                },
+                {
+                    "f": "90 92 24"
+                },
+                {
+                    "k": "buecherei@essenbach.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "10"
+                },
+                {
+                    "h": "05"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAY"
+                },
+                {
+                    "e": "n"
+                },
+                {
+                    "g": "R"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "buecherei-essenbach@t-online.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-1812",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-1812",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-1812",
+    "identifier": "DE-1812",
+    "name": "B\u00fccherei Essenbach",
+    "location": "Essenbach",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAY"
+}

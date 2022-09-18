@@ -1,0 +1,205 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-1410.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:08-11-07"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:01-07-21"
+                ],
+                {
+                    "t": "10:16:25.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:08-11-07"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "986322318"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "GE231"
+                },
+                {
+                    "d": "1410"
+                },
+                {
+                    "e": "DE-1410"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.erlangen.de/bibliothek"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://stadtbibliothek-recherche.erlangen.de/Mediensuche/Einfache-Suche"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Erlangen StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtbibliothek Erlangen"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Marktplatz 1"
+                },
+                {
+                    "b": "Erlangen"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "91054"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "i": "Mo-Fr 10.00-18.30, Sa 10.00-14.00"
+                },
+                {
+                    "k": "11.00362"
+                },
+                {
+                    "l": "49.59727"
+                },
+                {
+                    "n": "09562000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "9131"
+                },
+                {
+                    "f": "86 22 82"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "9131"
+                },
+                {
+                    "i": "86 24 31"
+                },
+                {
+                    "k": "stadtbibliothek@stadt.erlangen.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "08"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "Stadtbibliothek@stadt.erlangen.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-1410",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-1410",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-1410",
+    "identifier": "DE-1410",
+    "name": "Stadtbibliothek Erlangen",
+    "location": "Erlangen",
+    "type": [
+        "Organization",
+        "Library"
+    ]
+}

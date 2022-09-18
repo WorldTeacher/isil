@@ -1,0 +1,203 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-M509.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:07-10-08"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:06-09-21"
+                ],
+                {
+                    "t": "16:03:01.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:07-10-08"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "990690598"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "ZZ198"
+                },
+                {
+                    "d": "M 509"
+                },
+                {
+                    "e": "DE-M509"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "https://www.fhvr-aub.bayern.de/de/startseite.html"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://bybtp20.bib-bvb.de/TouchPoint/start.do?View=bbs&SearchType=2&BaseURL=this"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "M\u00fcnchen Studienbibliothek"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Studienbibliothek des Fachbereichs Archiv- und Bibliothekswesen der Hf\u00f6D"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Dessauerstr. 6"
+                },
+                {
+                    "b": "M\u00fcnchen"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "80992"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "i": "Nicht \u00f6ffentlich zug\u00e4nglich"
+                },
+                {
+                    "k": "11.53079"
+                },
+                {
+                    "l": "48.18040"
+                },
+                {
+                    "n": "09162000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "89"
+                },
+                {
+                    "f": "2 87 24-6710"
+                },
+                {
+                    "k": "poststelle@aub.hfoed.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "73"
+                },
+                {
+                    "g": "02"
+                },
+                {
+                    "h": "01"
+                },
+                {
+                    "i": "P"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAY"
+                },
+                {
+                    "c": "BVB"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-M509",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-M509",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-M509",
+    "identifier": "DE-M509",
+    "name": "Studienbibliothek des Fachbereichs Archiv- und Bibliothekswesen der Hf\u00f6D",
+    "location": "M\u00fcnchen",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAY"
+}

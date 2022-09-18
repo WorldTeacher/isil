@@ -1,0 +1,195 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Lip1.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:23-03-10"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:11-05-22"
+                ],
+                {
+                    "t": "12:52:18.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:23-03-10"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1001061446"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "101101-7"
+                },
+                {
+                    "d": "Lip 1"
+                },
+                {
+                    "e": "DE-Lip1"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.lippstadt.de/kultur/geschichte/stadtarchiv/117260100000011920.php"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Lippstadt Stadtarchiv"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtarchiv Lippstadt"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Soeststra\u00dfe 8"
+                },
+                {
+                    "b": "Lippstadt"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "59555"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "i": "Mo und Fr 8.30-12.30, Di 8.30-12.30 und 14.00-16.00, Do 8.30-12.30 und  14.00-17.30"
+                },
+                {
+                    "k": "8.34064"
+                },
+                {
+                    "l": "51.67122"
+                },
+                {
+                    "n": "05974028"
+                },
+                {
+                    "o": "teilweise barrierefrei"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "2941"
+                },
+                {
+                    "f": "98 02 62"
+                },
+                {
+                    "k": "stadtarchiv@stadt-lippstadt.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0367"
+                },
+                {
+                    "f": "52"
+                },
+                {
+                    "g": "07"
+                },
+                {
+                    "i": "P"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Lip1",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Lip1",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Lip1",
+    "identifier": "DE-Lip1",
+    "name": "Stadtarchiv Lippstadt",
+    "location": "Lippstadt",
+    "type": [
+        "Organization",
+        "Archive"
+    ],
+    "addressRegion": "NRW"
+}

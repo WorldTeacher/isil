@@ -1,0 +1,246 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-964.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:17-11-16"
+                ],
+                {
+                    "t": "15:58:21.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020587260"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "HW072"
+                },
+                {
+                    "d": "964"
+                },
+                {
+                    "e": "DE-964"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.nienburg.de/stadtbibliothek"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://www.kataloge-bz-lueneburg.de/nienburg/webopac/"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Nienburg/Weser StB"
+                },
+                {
+                    "4": "c"
+                }
+            ],
+            [
+                {
+                    "a": "Posthof"
+                },
+                {
+                    "4": "a"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtbibliothek Nienburg/Weser"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Georgstr. 22"
+                },
+                {
+                    "b": "Nienburg/Weser"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "31582"
+                },
+                {
+                    "f": "Niedersachsen"
+                },
+                {
+                    "i": "Di und Do-FR 10.00-18.00, Mi und Sa 10.00-13.00"
+                },
+                {
+                    "k": "9.20767"
+                },
+                {
+                    "l": "52.63895"
+                },
+                {
+                    "n": "03256022"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Nienburg/Weser"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "31567"
+                },
+                {
+                    "f": "Niedersachsen"
+                },
+                {
+                    "g": "17 80"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "5021"
+                },
+                {
+                    "f": "87-368, -359 und -262"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "5021"
+                },
+                {
+                    "i": "91 45 50"
+                },
+                {
+                    "k": "posthof@nienburg.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "06"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NIE"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "GBV"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-964",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-964",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-964",
+    "identifier": "DE-964",
+    "name": "Stadtbibliothek Nienburg/Weser",
+    "location": "Nienburg/Weser",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NIE"
+}

@@ -1,0 +1,230 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-1083.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:14-03-16"
+                ],
+                {
+                    "t": "07:47:17.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020588208"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "HD104"
+                },
+                {
+                    "d": "1083"
+                },
+                {
+                    "e": "DE-1083"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.lilienthal.de/index.php?id=84"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Lilienthal StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Bibliothek Lilienthal"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Klosterstr. 25"
+                },
+                {
+                    "b": "Lilienthal"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "28865"
+                },
+                {
+                    "f": "Niedersachsen"
+                },
+                {
+                    "h": "Murkens Hof"
+                },
+                {
+                    "i": "Mo-Di und Do 10.00-12.30 und 15.00-18.00, Fr 10.00-12.30"
+                },
+                {
+                    "k": "8.91372"
+                },
+                {
+                    "l": "53.14084"
+                },
+                {
+                    "n": "03356005"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Lilienthal"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "28865"
+                },
+                {
+                    "f": "Niedersachsen"
+                },
+                {
+                    "g": "12 60"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "4298"
+                },
+                {
+                    "f": "92 91 33"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "4298"
+                },
+                {
+                    "i": "92 92 93"
+                },
+                {
+                    "k": "Bibliothek@Lilienthal.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "06"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NIE"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "GBV"
+                },
+                {
+                    "e": "l"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-1083",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-1083",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-1083",
+    "identifier": "DE-1083",
+    "name": "Bibliothek Lilienthal",
+    "location": "Lilienthal",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NIE"
+}

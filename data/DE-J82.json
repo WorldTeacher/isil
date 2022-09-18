@@ -1,0 +1,245 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-J82.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:18-11-99"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:09-03-21"
+                ],
+                {
+                    "t": "13:38:01.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "009032991"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "GC556"
+                },
+                {
+                    "d": "J 82"
+                },
+                {
+                    "e": "DE-J82"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://stadtbibliothek.jena.de/"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Jena StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Jenakultur, Ernst-Abbe-B\u00fccherei und Lesehalle"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Carl-Zeiss-Pl. 10"
+                },
+                {
+                    "b": "Jena"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "07743"
+                },
+                {
+                    "f": "Th\u00fcringen"
+                },
+                {
+                    "i": "Mo-Fr 10.00-19.00, Sa 10.00-13.00"
+                },
+                {
+                    "k": "11.57902"
+                },
+                {
+                    "l": "50.92846"
+                },
+                {
+                    "n": "16053000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Jena"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "07703"
+                },
+                {
+                    "f": "Th\u00fcringen"
+                },
+                {
+                    "g": "10 03 07"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "3641"
+                },
+                {
+                    "f": "49 81-52 und -60 (Ausleihe)"
+                },
+                {
+                    "k": "sekretariat.eab@jena.de"
+                },
+                {
+                    "l": "kein Fax"
+                }
+            ],
+            [
+                {
+                    "a": "W"
+                },
+                {
+                    "b": "Ausleihe"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "3641"
+                },
+                {
+                    "f": "49 81-60"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "08"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Stadtbibliothek"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "THU"
+                },
+                {
+                    "c": "GBV"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-J82",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-J82",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-J82",
+    "identifier": "DE-J82",
+    "name": "Jenakultur, Ernst-Abbe-B\u00fccherei und Lesehalle",
+    "location": "Jena",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "THU"
+}

@@ -1,0 +1,258 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-444.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9042:27-01-20"
+                ],
+                {
+                    "t": "16:34:19.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020584202"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "AC444"
+                },
+                {
+                    "d": "444"
+                },
+                {
+                    "e": "DE-444"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.stadtbuecherei-kleve.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://webopac.krzn.de/WebOPAC/start?homegkz=540"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Kleve StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtb\u00fccherei Kleve"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Wasserstr. 30/32"
+                },
+                {
+                    "b": "Kleve"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "47533"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "k": "6.13984"
+                },
+                {
+                    "l": "51.78817"
+                },
+                {
+                    "n": "05154036"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Kleve"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "47517"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "g": "19 55"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "2821"
+                },
+                {
+                    "f": "75 73-31 und -33"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "2821"
+                },
+                {
+                    "i": "75 73-11"
+                },
+                {
+                    "k": "buecherei@kleve.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "07"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "b"
+                },
+                {
+                    "d": "Fernleihe@kleve.de"
+                }
+            ],
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "Fernleihe@kleve.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "Fernleihe@kleve.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-444",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-444",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-444",
+    "identifier": "DE-444",
+    "name": "Stadtb\u00fccherei Kleve",
+    "location": "Kleve",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NRW"
+}

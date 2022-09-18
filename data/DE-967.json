@@ -1,0 +1,238 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-967.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:28-11-18"
+                ],
+                {
+                    "t": "16:37:53.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020587295"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "AK967"
+                },
+                {
+                    "d": "967"
+                },
+                {
+                    "e": "DE-967"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.greven.net/stadtbibliothek"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://opac.stadt-greven.de/"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Greven StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtbibliothek Greven"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Kirchstr. 3"
+                },
+                {
+                    "b": "Greven"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "48268"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "i": "Di 10.00-12.00 und 15.00-19.00, Mi und Fr 10.00-12.00 und 15.00-18.00, Do 15.00-19.00, Sa 10.00-13.00"
+                },
+                {
+                    "k": "7.61118"
+                },
+                {
+                    "l": "52.09279"
+                },
+                {
+                    "n": "05566012"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "2571"
+                },
+                {
+                    "f": "9 20-390"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "2571"
+                },
+                {
+                    "i": "9 20-399"
+                },
+                {
+                    "k": "stadtbibliothek@stadt-greven.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "07"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "b"
+                },
+                {
+                    "d": "stadtbibliothek@stadt-greven.de"
+                }
+            ],
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "stadtbibliothek@stadt-greven.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "stadtbibliothek@stadt-greven.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-967",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-967",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-967",
+    "identifier": "DE-967",
+    "name": "Stadtbibliothek Greven",
+    "location": "Greven",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NRW"
+}

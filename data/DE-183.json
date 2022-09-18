@@ -1,0 +1,252 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-183.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:11-05-22"
+                ],
+                {
+                    "t": "14:26:31.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020583133"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "101255-1"
+                },
+                {
+                    "b": "AC183"
+                },
+                {
+                    "d": "183"
+                },
+                {
+                    "e": "DE-183"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.bayreuth.de/rathaus_buerger_service/bildung_wissenschaft/stadtbibliothek_2388.html"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://wwwopac.stadt.bayreuth.de/de-de/Mediensuche/Einfache-Suche"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Bayreuth StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "RW21 Stadtbibliothek Bayreuth"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Richard-Wagner-Str. 21"
+                },
+                {
+                    "b": "Bayreuth"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "95444"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "i": "Di-Fr 10.00-19.00, Sa 10.00-15.00"
+                },
+                {
+                    "k": "11.58061"
+                },
+                {
+                    "l": "49.94284"
+                },
+                {
+                    "n": "09462000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "921"
+                },
+                {
+                    "f": "50 70 38 27"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "921"
+                },
+                {
+                    "i": "50 70 38 39"
+                },
+                {
+                    "k": "stadtbibliothek@stadt.bayreuth.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0367"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "07"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Richard Wagner"
+                },
+                {
+                    "a": "Bayreuther Festspiele"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAY"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "BVB"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "f": "x"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "stadtbibliothek@stadt.bayreuth.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "stadtbibliothek@stadt.bayreuth.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-183",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-183",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-183",
+    "identifier": "DE-183",
+    "name": "RW21 Stadtbibliothek Bayreuth",
+    "location": "Bayreuth",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAY"
+}

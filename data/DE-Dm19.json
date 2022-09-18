@@ -1,0 +1,275 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Dm19.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:18-11-99"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:28-11-18"
+                ],
+                {
+                    "t": "16:39:23.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:27-05-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "00903577X"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "468019-4"
+                },
+                {
+                    "b": "DE573"
+                },
+                {
+                    "d": "Dm 19"
+                },
+                {
+                    "e": "DE-Dm19"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.baua.de/bibliothek"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Dortmund BA Arbeitsschutz"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Bundesanstalt f\u00fcr Arbeitsschutz und Arbeitsmedizin, Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Friedrich-Henkel-Weg 1/25"
+                },
+                {
+                    "b": "Dortmund"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "44149"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "k": "7.42177"
+                },
+                {
+                    "l": "51.49832"
+                },
+                {
+                    "n": "05913000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Dortmund"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "44061"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "g": "17 02 02"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "231"
+                },
+                {
+                    "f": "90 71-2369"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "231"
+                },
+                {
+                    "i": "90 71-2435"
+                },
+                {
+                    "k": "medienservice_do@baua.bund.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0126"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "01"
+                },
+                {
+                    "h": "07"
+                },
+                {
+                    "i": "P"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Arbeitssicherheit"
+                },
+                {
+                    "a": "Arbeit und Gesundheit"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "d": "BRB"
+                },
+                {
+                    "e": "k"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "b"
+                },
+                {
+                    "d": "Ausleihe_Do@baua.bund.de"
+                }
+            ],
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "Ausleihe_Do@baua.bund.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "Ausleihe_Do@baua.bund.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Dm19",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Dm19",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Dm19",
+    "identifier": "DE-Dm19",
+    "name": "Bundesanstalt f\u00fcr Arbeitsschutz und Arbeitsmedizin, Bibliothek",
+    "location": "Dortmund",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NRW"
+}

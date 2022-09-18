@@ -1,0 +1,223 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-264.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:06-02-20"
+                ],
+                {
+                    "t": "08:31:36.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020583451"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "AJ264"
+                },
+                {
+                    "d": "264"
+                },
+                {
+                    "e": "DE-264"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.offenbach.de/bildung/stadtbibliothek/index.php"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://offenbach.bibnet.se/web/arena"
+                },
+                {
+                    "z": "B"
+                }
+            ],
+            [
+                {
+                    "u": "http://www.offenbach.de/bildung/stadtbibliothek/artikel7c.php"
+                },
+                {
+                    "z": "C"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Offenbach StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtbibliothek Offenbach"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Herrnstr. 84"
+                },
+                {
+                    "b": "Offenbach/Main"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "63065"
+                },
+                {
+                    "f": "Hessen"
+                },
+                {
+                    "i": "Mo und Sa 10.00-16.00, Di-Fr 10.00-18.00"
+                },
+                {
+                    "k": "8.76105"
+                },
+                {
+                    "l": "50.10805"
+                },
+                {
+                    "n": "06413000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "69"
+                },
+                {
+                    "f": "80 65-2643"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "69"
+                },
+                {
+                    "i": "80 65-3272"
+                },
+                {
+                    "k": "Stadtbibliothek-Fernleihe@offenbach.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "08"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "HES"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "HeBIS"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-264",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-264",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-264",
+    "identifier": "DE-264",
+    "name": "Stadtbibliothek Offenbach",
+    "location": "Offenbach/Main",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "HES"
+}

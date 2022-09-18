@@ -1,0 +1,198 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Ln7.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:05-04-16"
+                ],
+                {
+                    "t": "14:02:12.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020595131"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "DC308"
+                },
+                {
+                    "d": "Ln 7"
+                },
+                {
+                    "e": "DE-Ln7"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.basf.com"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Ludwigshafen BASF Bi/Info"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "BASF SE, GOI/WH-C 6, Bibliothek und Infocenter"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "b": "Ludwigshafen/Rhein"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "67056"
+                },
+                {
+                    "f": "Rheinland-Pfalz"
+                },
+                {
+                    "i": "nicht \u00f6ffentlich zug\u00e4nglich"
+                },
+                {
+                    "k": "8.42142"
+                },
+                {
+                    "l": "49.51987"
+                },
+                {
+                    "n": "07314000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "621"
+                },
+                {
+                    "f": "60-47920"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "621"
+                },
+                {
+                    "i": "60-6647920"
+                },
+                {
+                    "k": "document-delivery@basf.com"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "08"
+                },
+                {
+                    "h": "06"
+                },
+                {
+                    "i": "P"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Ln7",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Ln7",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Ln7",
+    "identifier": "DE-Ln7",
+    "name": "BASF SE, GOI/WH-C 6, Bibliothek und Infocenter",
+    "location": "Ludwigshafen/Rhein",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NRW"
+}

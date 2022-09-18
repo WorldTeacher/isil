@@ -1,0 +1,293 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-242.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:18-11-99"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:30-11-18"
+                ],
+                {
+                    "t": "15:37:42.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "009005951"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "427000-9"
+                },
+                {
+                    "b": "AD242"
+                },
+                {
+                    "d": "242"
+                },
+                {
+                    "e": "DE-242"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.lebendige-bibliothek.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://opax.bottrop.de/opax/de/index.html.S"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Bottrop StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Lebendige Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "B\u00f6ckenhoffstr. 30"
+                },
+                {
+                    "b": "Bottrop"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "46236"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "i": "Di-Mi und Fr 10.00-18.00, Do 10.00-19.00, Sa 10.00-14.00"
+                },
+                {
+                    "k": "6.92258"
+                },
+                {
+                    "l": "51.52353"
+                },
+                {
+                    "n": "05512000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Bottrop"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "46215"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "g": "10 15 54"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "2041"
+                },
+                {
+                    "f": "70 38 50"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "2041"
+                },
+                {
+                    "i": "70 38 55"
+                },
+                {
+                    "k": "stadtbuecherei@bottrop.de"
+                }
+            ],
+            [
+                {
+                    "a": "W"
+                },
+                {
+                    "b": "Fernleihe"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "2041"
+                },
+                {
+                    "f": "70-3854"
+                },
+                {
+                    "k": "ALV.bibliothek@bottrop.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0126"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "07"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "b"
+                },
+                {
+                    "d": "alv.bibliothek@bottrop.de"
+                }
+            ],
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "alv.bibliothek@bottrop.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "alv.bibliothek@bottrop.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-242",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-242",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-242",
+    "identifier": "DE-242",
+    "name": "Lebendige Bibliothek",
+    "location": "Bottrop",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NRW"
+}

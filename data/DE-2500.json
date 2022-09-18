@@ -1,0 +1,249 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-2500.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:10-05-17"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:11-05-17"
+                ],
+                {
+                    "t": "13:07:30.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:10-05-17"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1131737326"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "d": "2500"
+                },
+                {
+                    "e": "DE-2500"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://opac.uni-erfurt.de/LNG=DU/DB=6.1/"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Bibliothek des Th\u00fcringer Landtags"
+                },
+                {
+                    "4": "a"
+                }
+            ],
+            [
+                {
+                    "a": "Erfurt Th\u00fcringer Landtag"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Th\u00fcringer Landtag, Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "J\u00fcrgen-Fuchs-Str. 1"
+                },
+                {
+                    "b": "Erfurt"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "99096"
+                },
+                {
+                    "f": "Th\u00fcringen"
+                },
+                {
+                    "i": "Mo-Do 8.00-12.00 und 13.00-16.00, Fr 8.00-12.00 und 13.00-14.00"
+                },
+                {
+                    "k": "11.03504"
+                },
+                {
+                    "l": "50.96420"
+                },
+                {
+                    "n": "16051000"
+                },
+                {
+                    "o": "teilweise barrierefrei"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "361"
+                },
+                {
+                    "f": "37-72063"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "361"
+                },
+                {
+                    "i": "37-71066"
+                },
+                {
+                    "k": "bibliothek@landtag.thueringen.de"
+                }
+            ],
+            [
+                {
+                    "a": "W"
+                },
+                {
+                    "b": "Ausleihe"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "361"
+                },
+                {
+                    "f": "37-72018"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "02"
+                },
+                {
+                    "h": "07"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Staats- und Verfassungsrecht, Allgemeines und Besonderes Verwaltungsrecht, Politik und Gesellschaft, Regionalia und angrenzende Gebiete"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "THU"
+                },
+                {
+                    "c": "GBV"
+                },
+                {
+                    "e": "k"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "bibliothek@landtag.thueringen.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-2500",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-2500",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-2500",
+    "identifier": "DE-2500",
+    "name": "Th\u00fcringer Landtag, Bibliothek",
+    "location": "Erfurt",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "THU"
+}

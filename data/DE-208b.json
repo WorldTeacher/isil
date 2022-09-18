@@ -1,0 +1,201 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-208b.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:05-08-10"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:11-06-20"
+                ],
+                {
+                    "t": "13:58:16.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:05-08-10"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1005411158"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "d": "208b"
+                },
+                {
+                    "e": "DE-208b"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Leipzig BGH"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Bibliothek des Bundesgerichtshofs in Leipzig"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Karl-Heine-Str. 12"
+                },
+                {
+                    "b": "Leipzig"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "04229"
+                },
+                {
+                    "f": "Sachsen"
+                },
+                {
+                    "k": "12.34543"
+                },
+                {
+                    "l": "51.33251"
+                },
+                {
+                    "n": "14713000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "341"
+                },
+                {
+                    "f": "4 87 37-29"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "341"
+                },
+                {
+                    "i": "4 87 37-99"
+                },
+                {
+                    "k": "bibliothek-leipzig@bgh.bund.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "01"
+                },
+                {
+                    "h": "06"
+                },
+                {
+                    "i": "P"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Rechtswissenschaft"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "SAX"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "SWB"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-208b",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-208b",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-208b",
+    "identifier": "DE-208b",
+    "name": "Bibliothek des Bundesgerichtshofs in Leipzig",
+    "location": "Leipzig",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "SAX"
+}

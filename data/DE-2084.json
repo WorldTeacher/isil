@@ -1,0 +1,218 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-2084.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:21-02-14"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:03-06-21"
+                ],
+                {
+                    "t": "15:11:14.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:21-02-14"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1047734028"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "HY652"
+                },
+                {
+                    "d": "2084"
+                },
+                {
+                    "e": "DE-2084"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "https://www.lehrte.de/de/stadtbibliothek.html"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://webopac.lehrte.de/webopac/index.asp?DB=web_biblio"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Lehrte StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtbibliothek Lehrte"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Burgdorfer Str. 16"
+                },
+                {
+                    "b": "Lehrte"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "31275"
+                },
+                {
+                    "f": "Niedersachsen"
+                },
+                {
+                    "i": "Mo, Mi und Fr 10.00-13.30, Di und Do 10.00-19.00, jeden 1. Samstag im Monat 10.00-13.30"
+                },
+                {
+                    "k": "9.97702"
+                },
+                {
+                    "l": "52.37814"
+                },
+                {
+                    "n": "03241011"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "5132"
+                },
+                {
+                    "f": "5 44 60"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "5132"
+                },
+                {
+                    "i": "58 82 37"
+                },
+                {
+                    "k": "stadtbibliothek@lehrte.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "07"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NIE"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "GBV"
+                },
+                {
+                    "d": "\u00d6VK"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-2084",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-2084",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-2084",
+    "identifier": "DE-2084",
+    "name": "Stadtbibliothek Lehrte",
+    "location": "Lehrte",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NIE"
+}

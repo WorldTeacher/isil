@@ -1,0 +1,287 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Kn185.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:28-11-18"
+                ],
+                {
+                    "t": "16:37:24.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020594666"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "CH854"
+                },
+                {
+                    "d": "Kn 185"
+                },
+                {
+                    "e": "DE-Kn185"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.khm.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://bibliothek.khm.de"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "K\u00f6ln Kunst HS"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Kunsthochschule f\u00fcr Medien, Bibliothek / Mediathek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Rheingasse 8"
+                },
+                {
+                    "b": "K\u00f6ln"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "50676"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "i": "Mo-Do 10.00-18.00, Fr. 10.00-15.00"
+                },
+                {
+                    "j": "w\u00e4hrend der Semesterferien: Mo-Do 10.00-16.30, Fr 10.00-15.00"
+                },
+                {
+                    "k": "6.96069"
+                },
+                {
+                    "l": "50.93413"
+                },
+                {
+                    "n": "05315000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "a": "Peter-Welter-Platz 2"
+                },
+                {
+                    "b": "K\u00f6ln"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "50676"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "221"
+                },
+                {
+                    "f": "2 01 89-160"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "221"
+                },
+                {
+                    "i": "2 01 89-109"
+                },
+                {
+                    "k": "bibliothek@khm.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "70"
+                },
+                {
+                    "g": "02"
+                },
+                {
+                    "h": "07"
+                },
+                {
+                    "i": "P"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Zeitgen\u00f6ssische Kunst"
+                },
+                {
+                    "a": "Kunsttheorie"
+                },
+                {
+                    "a": "Photographie"
+                },
+                {
+                    "a": "Design"
+                },
+                {
+                    "a": "Musik"
+                },
+                {
+                    "a": "Fernsehen"
+                },
+                {
+                    "a": "Film"
+                },
+                {
+                    "a": "Medientheorie"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "bibliothek@khm.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "bibliothek@khm.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Kn185",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Kn185",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Kn185",
+    "identifier": "DE-Kn185",
+    "name": "Kunsthochschule f\u00fcr Medien, Bibliothek / Mediathek",
+    "location": "K\u00f6ln",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NRW"
+}

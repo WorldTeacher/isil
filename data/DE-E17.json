@@ -1,0 +1,250 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-E17.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:04-12-12"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:28-11-18"
+                ],
+                {
+                    "t": "16:29:44.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:04-12-12"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "102854961X"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "d": "E 17"
+                },
+                {
+                    "e": "DE-E17"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.medienzentrum-ruhr.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://www.medienprojekt-essen.de/index.php/kontaktformular"
+                },
+                {
+                    "x": "Kontaktformular"
+                },
+                {
+                    "z": "W"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "MZR"
+                },
+                {
+                    "4": "a"
+                }
+            ],
+            [
+                {
+                    "a": "mz:R"
+                },
+                {
+                    "4": "a"
+                }
+            ],
+            [
+                {
+                    "a": "Essen MZR"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Medienzentrum Ruhr e.V."
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Frankenstr. 185"
+                },
+                {
+                    "b": "Essen"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "45134"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "h": "Jugendmedienzentrum des Jugendamts Essen"
+                },
+                {
+                    "i": "nach Absprache"
+                },
+                {
+                    "k": "7.03468"
+                },
+                {
+                    "l": "51.42398"
+                },
+                {
+                    "n": "05113000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "201"
+                },
+                {
+                    "f": "4 70 95 87"
+                },
+                {
+                    "k": "info@medienzentrum-ruhr.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "57"
+                },
+                {
+                    "g": "08"
+                },
+                {
+                    "h": "04"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Film"
+                },
+                {
+                    "a": "Medien"
+                },
+                {
+                    "a": "Fimrecht"
+                },
+                {
+                    "a": "Eigenproduktionen des Medienzentrum Ruhr e.V."
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "e": "l"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "info@medienzentrum-ruhr.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "info@medienzentrum-ruhr.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-E17",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-E17",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-E17",
+    "identifier": "DE-E17",
+    "name": "Medienzentrum Ruhr e.V.",
+    "location": "Essen",
+    "type": [
+        "Organization",
+        "Archive"
+    ],
+    "addressRegion": "NRW"
+}

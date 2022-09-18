@@ -1,0 +1,271 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-125.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:18-11-99"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:27-04-19"
+                ],
+                {
+                    "t": "12:33:09.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "00903014X"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "958899-1"
+                },
+                {
+                    "b": "AA125"
+                },
+                {
+                    "d": "125"
+                },
+                {
+                    "e": "DE-125"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.ratsschulbibliothek.de"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "RSB Zwickau"
+                },
+                {
+                    "4": "b"
+                }
+            ],
+            [
+                {
+                    "a": "Zwickau RB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Ratsschulbibliothek, Wissenschaftliche Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Lessingstr. 1"
+                },
+                {
+                    "b": "Zwickau"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "08058"
+                },
+                {
+                    "f": "Sachsen"
+                },
+                {
+                    "i": "Di-Fr 8.00-18.00"
+                },
+                {
+                    "k": "12.48739"
+                },
+                {
+                    "l": "50.72505"
+                },
+                {
+                    "n": "14524330"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "375"
+                },
+                {
+                    "f": "83-4200"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "375"
+                },
+                {
+                    "i": "83-4242"
+                },
+                {
+                    "k": "ratsschulbibliothek@zwickau.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0222"
+                },
+                {
+                    "d": "SWB"
+                },
+                {
+                    "f": "21"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "08"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Kunst-, Kultur-, Musikgeschichte"
+                },
+                {
+                    "a": "Region S\u00fcdwestsachsen/Erzgebirge"
+                },
+                {
+                    "a": "Geschichte <Sachsen>"
+                },
+                {
+                    "a": "Sprache"
+                },
+                {
+                    "a": "Literaturgeschichte"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "SAX"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "SWB"
+                },
+                {
+                    "d": "Kalliope"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035K": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "b": "A"
+                }
+            ]
+        ],
+        "035O": [
+            [
+                {
+                    "a": "FZL DE-622"
+                }
+            ],
+            [
+                {
+                    "a": "ISIL DE-Zwi2"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-125",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-125",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-125",
+    "identifier": "DE-125",
+    "name": "Ratsschulbibliothek, Wissenschaftliche Bibliothek",
+    "location": "Zwickau",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "SAX"
+}

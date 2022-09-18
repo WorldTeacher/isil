@@ -1,0 +1,209 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-42.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:05-10-18"
+                ],
+                {
+                    "t": "14:18:28.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020582390"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "AL042"
+                },
+                {
+                    "d": "42"
+                },
+                {
+                    "e": "DE-42"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.neustrelitz.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://www.kulturquartier-neustrelitz.de"
+                },
+                {
+                    "x": "Kultureinrichtung"
+                },
+                {
+                    "z": "W"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Neustrelitz StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtbibliothek Neustrelitz"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Schlo\u00dfstr. 12/13"
+                },
+                {
+                    "b": "Neustrelitz"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "17235"
+                },
+                {
+                    "f": "Mecklenburg-Vorpommern"
+                },
+                {
+                    "i": "Mo 14.00-18.00, Di-Fr 10.00-18.00, Sa 10.00-14.00"
+                },
+                {
+                    "k": "13.06032"
+                },
+                {
+                    "l": "53.36221"
+                },
+                {
+                    "n": "13055050"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "3981"
+                },
+                {
+                    "f": "2 39 09 22"
+                },
+                {
+                    "k": "stadtbibliothek@kulturquartier-neustrelitz.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "07"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "HAM"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "GBV"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-42",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-42",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-42",
+    "identifier": "DE-42",
+    "name": "Stadtbibliothek Neustrelitz",
+    "location": "Neustrelitz",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "HAM"
+}

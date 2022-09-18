@@ -1,0 +1,251 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-922.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:28-11-18"
+                ],
+                {
+                    "t": "16:37:58.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020586949"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "KG554"
+                },
+                {
+                    "d": "922"
+                },
+                {
+                    "e": "DE-922"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.bibliothek.rietberg.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://www.webopac.winbiap.de/rietberg/index.aspx"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Rietberg StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtbibliothek Rietberg"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Emsstr. 10"
+                },
+                {
+                    "b": "Rietberg"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "33397"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "i": "Di und Do 14.30-19.00, Mi und Fr 11.00-13.00 und 14.30-19.00, Sa 10.00-13.00"
+                },
+                {
+                    "k": "8.42909"
+                },
+                {
+                    "l": "51.80895"
+                },
+                {
+                    "n": "05754032"
+                },
+                {
+                    "o": "barrierefrei"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "a": "R\u00fcgenstr. 1"
+                },
+                {
+                    "b": "Rietberg"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "33397"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "5244"
+                },
+                {
+                    "f": "9 86-371"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "5244"
+                },
+                {
+                    "i": "9 86-17371"
+                },
+                {
+                    "k": "stadtbibliothek@stadt-rietberg.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "06"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "d": "Kalliope; HBZ-DigiBib"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "stadtbibliothek@stadt-rietberg.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-922",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-922",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-922",
+    "identifier": "DE-922",
+    "name": "Stadtbibliothek Rietberg",
+    "location": "Rietberg",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NRW"
+}

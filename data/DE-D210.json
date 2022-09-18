@@ -1,0 +1,261 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-D210.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:20-01-16"
+                ],
+                {
+                    "t": "14:49:55.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020590148"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "958210-1"
+                },
+                {
+                    "b": "EY751"
+                },
+                {
+                    "d": "D 210"
+                },
+                {
+                    "e": "DE-D210"
+                },
+                {
+                    "f": "CPFS"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.cpfs.mpg.de/de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://aleph.mpg.de/F?func=file&file_name=find-b&local_base=CPF01"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Dresden MPI Chem. Physik"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Max-Planck-Institut f\u00fcr Chemische Physik fester Stoffe, Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "N\u00f6thnitzer Str. 40"
+                },
+                {
+                    "b": "Dresden"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "01187"
+                },
+                {
+                    "f": "Sachsen"
+                },
+                {
+                    "i": "Mo-Fr 8.30-15.30"
+                },
+                {
+                    "j": "Eine Ausleihe ist nur f\u00fcr MitarbeiterInnen des MPI CPfS m\u00f6glich.  Nutzung der Bibliothek f\u00fcr Externe nach Absprache"
+                },
+                {
+                    "k": "13.71950"
+                },
+                {
+                    "l": "51.02637"
+                },
+                {
+                    "n": "14612000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "351"
+                },
+                {
+                    "f": "4646-3607"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "351"
+                },
+                {
+                    "i": "4646-10"
+                },
+                {
+                    "k": "library@cpfs.mpg.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0148"
+                },
+                {
+                    "d": "MPG"
+                },
+                {
+                    "d": "SWB"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "07"
+                },
+                {
+                    "h": "07"
+                },
+                {
+                    "i": "P"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Anorganische Chemie"
+                },
+                {
+                    "a": "Festk\u00f6rperphysik"
+                },
+                {
+                    "a": "Chemische Metallkunde"
+                },
+                {
+                    "a": "Festk\u00f6rperchemie"
+                },
+                {
+                    "a": "Physik der Quantenmaterie"
+                },
+                {
+                    "a": "Physik der korrelierten Materie"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "SAX"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "SWB"
+                },
+                {
+                    "e": "k"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-D210",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-D210",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-D210",
+    "identifier": "DE-D210",
+    "name": "Max-Planck-Institut f\u00fcr Chemische Physik fester Stoffe, Bibliothek",
+    "location": "Dresden",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "SAX"
+}

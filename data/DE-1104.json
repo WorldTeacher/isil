@@ -1,0 +1,210 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-1104.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:11-05-22"
+                ],
+                {
+                    "t": "11:21:21.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:27-05-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020588410"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "101014-1"
+                },
+                {
+                    "b": "HF708"
+                },
+                {
+                    "d": "1104"
+                },
+                {
+                    "e": "DE-1104"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://wwwopac.rz-as.de/radolfzell/index.asp?DB=radolfzell"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Radolfzell StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtbibliothek Radolfzell"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Marktplatz 8"
+                },
+                {
+                    "b": "Radolfzell"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "78315"
+                },
+                {
+                    "f": "Baden-W\u00fcrttemberg"
+                },
+                {
+                    "i": "Di und Do-Fr 12.00-18.30, Mi 10.00-19.30, Sa 10.00-14.00"
+                },
+                {
+                    "k": "8.97054"
+                },
+                {
+                    "l": "47.73719"
+                },
+                {
+                    "n": "08335063"
+                },
+                {
+                    "o": "Barrierefrei"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "7732"
+                },
+                {
+                    "f": "81-382"
+                },
+                {
+                    "k": "bibliothek@radolfzell.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0367"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "07"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "SWB"
+                },
+                {
+                    "d": "Kalliope"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-1104",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-1104",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-1104",
+    "identifier": "DE-1104",
+    "name": "Stadtbibliothek Radolfzell",
+    "location": "Radolfzell",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAW"
+}

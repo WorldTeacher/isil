@@ -1,0 +1,268 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-211.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:18-11-99"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:30-11-18"
+                ],
+                {
+                    "t": "15:37:35.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "009008748"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "478211-2"
+                },
+                {
+                    "b": "AH211"
+                },
+                {
+                    "d": "211"
+                },
+                {
+                    "e": "DE-211"
+                },
+                {
+                    "f": "EABPB"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.eab-paderborn.org"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://eab.eabopac.de"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Paderborn EAB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Erzbisch\u00f6fliche Akademische Bibliothek Paderborn"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Leostr. 21"
+                },
+                {
+                    "b": "Paderborn"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "33098"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "i": "Mo-Fr 9.00-12.30 umd 14.30-18.00"
+                },
+                {
+                    "k": "8.75460"
+                },
+                {
+                    "l": "51.71409"
+                },
+                {
+                    "n": "05774032"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "5251"
+                },
+                {
+                    "f": "29 04 80"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "5251"
+                },
+                {
+                    "i": "28 25 75"
+                },
+                {
+                    "k": "info@eab-paderborn.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0100"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "10"
+                },
+                {
+                    "h": "09"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Theologie"
+                },
+                {
+                    "a": "Westfalica"
+                },
+                {
+                    "a": "Hagiographie"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "d": "Kalliope"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "ausleihe@eab-paderborn.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "ausleihe@eab-paderborn.de"
+                }
+            ]
+        ],
+        "035O": [
+            [
+                {
+                    "a": "ISIL DE-466; FZL DE-621"
+                },
+                {
+                    "b": "CONTAINER"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-211",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-211",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-211",
+    "identifier": "DE-211",
+    "name": "Erzbisch\u00f6fliche Akademische Bibliothek Paderborn",
+    "location": "Paderborn",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NRW"
+}

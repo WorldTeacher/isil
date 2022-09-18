@@ -1,0 +1,241 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-259.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:05-02-19"
+                ],
+                {
+                    "t": "14:45:32.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020583427"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "AH259"
+                },
+                {
+                    "d": "259"
+                },
+                {
+                    "e": "DE-259"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.bibliothek-moers.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://katalog.bibliothek-moers.de"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Moers StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtbibliothek Moers"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Wilhelm-Schroeder-Str. 10"
+                },
+                {
+                    "b": "Moers"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "47441"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "i": "Di-Fr 10.30-18.30, Sa 10.30-13.30"
+                },
+                {
+                    "k": "6.63176"
+                },
+                {
+                    "l": "51.45320"
+                },
+                {
+                    "n": "05170024"
+                },
+                {
+                    "o": "barrierefrei"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "2841"
+                },
+                {
+                    "f": "2 01-742 (Verwaltung) und -747 (Fernleihe)"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "2841"
+                },
+                {
+                    "i": "2 01-760"
+                },
+                {
+                    "k": "bib@moers.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "08"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "b"
+                },
+                {
+                    "d": "bib@moers.de"
+                }
+            ],
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "bib@moers.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "bib@moers.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-259",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-259",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-259",
+    "identifier": "DE-259",
+    "name": "Stadtbibliothek Moers",
+    "location": "Moers",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NRW"
+}

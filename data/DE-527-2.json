@@ -1,0 +1,252 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-527-2.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:16-01-09"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:08-07-19"
+                ],
+                {
+                    "t": "10:43:58.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:16-01-09"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "992096960"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "937002-X"
+                },
+                {
+                    "d": "527/2"
+                },
+                {
+                    "e": "DE-527-2"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.hs-harz.de"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Halberstadt HS Harz"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Hochschule Harz, Bibliothek, Standort Halberstadt"
+                }
+            ]
+        ],
+        "029R": [
+            [
+                {
+                    "9": "020584776"
+                },
+                {
+                    "7": "Tw"
+                },
+                {
+                    "a": "Hochschule Harz, Hauptbibliothek, Standort Wernigerode / Harz"
+                },
+                {
+                    "e": "DE-527"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Domplatz 16"
+                },
+                {
+                    "b": "Halberstadt"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "38820"
+                },
+                {
+                    "f": "Sachsen-Anhalt"
+                },
+                {
+                    "k": "11.04767"
+                },
+                {
+                    "l": "51.89561"
+                },
+                {
+                    "n": "15085135"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "3943"
+                },
+                {
+                    "f": "6 59-176"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "3943"
+                },
+                {
+                    "i": "6 59-179"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0111"
+                },
+                {
+                    "e": "GBV"
+                },
+                {
+                    "f": "73"
+                },
+                {
+                    "g": "02"
+                },
+                {
+                    "h": "07"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "SAA"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "GBV"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "fernleihe-hbs@hs-harz.de"
+                }
+            ],
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "fernleihe-hbs@hs-harz.de"
+                }
+            ],
+            [
+                {
+                    "a": "b"
+                },
+                {
+                    "d": "fernleihe-hbs@hs-harz.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-527-2",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-527-2",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-527-2",
+    "identifier": "DE-527-2",
+    "name": "Hochschule Harz, Bibliothek, Standort Halberstadt",
+    "location": "Halberstadt",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "SAA"
+}

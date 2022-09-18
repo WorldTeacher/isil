@@ -1,0 +1,217 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Emr1.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:22-02-10"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:12-05-22"
+                ],
+                {
+                    "t": "11:18:09.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:22-02-10"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1000363074"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "101266-6"
+                },
+                {
+                    "d": "Emr 1"
+                },
+                {
+                    "e": "DE-Emr1"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "https://www.emmerich.de/de/inhalt/stadtarchiv/"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Emmerich a. R. Stadtarchiv"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtarchiv Emmerich am Rhein"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Martinikirchgang 2"
+                },
+                {
+                    "b": "Emmerich"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "46446"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "i": "Do 10.00-12.30 und 14.00-18.00"
+                },
+                {
+                    "k": "6.23730"
+                },
+                {
+                    "l": "51.83107"
+                },
+                {
+                    "n": "05154008"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "2822"
+                },
+                {
+                    "f": "75-1903"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "2822"
+                },
+                {
+                    "i": "74-409"
+                },
+                {
+                    "k": "stadtverwaltung@stadt-emmerich.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0367"
+                },
+                {
+                    "f": "52"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "05"
+                },
+                {
+                    "i": "P"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Orts- und Regionalgeschichte"
+                },
+                {
+                    "a": "Zeitungsarchiv ab 1846"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "d": "Kalliope"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Emr1",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Emr1",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Emr1",
+    "identifier": "DE-Emr1",
+    "name": "Stadtarchiv Emmerich am Rhein",
+    "location": "Emmerich",
+    "type": [
+        "Organization",
+        "Archive"
+    ],
+    "addressRegion": "NRW"
+}

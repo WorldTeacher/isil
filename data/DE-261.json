@@ -1,0 +1,260 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-261.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:22-01-21"
+                ],
+                {
+                    "t": "14:55:09.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020583435"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "AL261"
+                },
+                {
+                    "d": "261"
+                },
+                {
+                    "e": "DE-261"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "https://www.arnsberg.de/bibliothek/"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://webopac.citkomm.de/arnsberg/index.aspx"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Arnsberg StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtbibliothek Arnsberg"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Neheimer Markt 2"
+                },
+                {
+                    "b": "Arnsberg"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "59755"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "i": "Di-Fr 10.00-18.00, Sa 10.00-13.00"
+                },
+                {
+                    "k": "7.95966"
+                },
+                {
+                    "l": "51.45343"
+                },
+                {
+                    "n": "05958004"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Arnsberg"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "59753"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "2932"
+                },
+                {
+                    "f": "2 96 80"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "2932"
+                },
+                {
+                    "i": "8 27 75"
+                },
+                {
+                    "k": "bibliothek.neheim@arnsberg.de"
+                }
+            ]
+        ],
+        "035D": [
+            [
+                {
+                    "a": "759"
+                },
+                {
+                    "b": "DE-759"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "07"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "bibliothek.neheim@arnsberg.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "bibliothek.neheim@arnsberg.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-261",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-261",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-261",
+    "identifier": "DE-261",
+    "name": "Stadtbibliothek Arnsberg",
+    "location": "Arnsberg",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NRW"
+}

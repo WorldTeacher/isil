@@ -1,0 +1,210 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-2535.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:18-09-17"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:18-09-17"
+                ],
+                {
+                    "t": "17:19:09.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:18-09-17"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1140037714"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "e": "DE-2535"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://archiv.handschriften.bplaced.de/"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://archiv.handschriften.bplaced.de/suche/"
+                },
+                {
+                    "z": "B"
+                }
+            ],
+            [
+                {
+                    "u": "http://archiv.handschriften.bplaced.de/kontakt.php"
+                },
+                {
+                    "z": "D"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "HSA"
+                },
+                {
+                    "4": "a"
+                }
+            ],
+            [
+                {
+                    "a": "Dresden HSA"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Handschriftenarchiv Dresdner Kreuzchor"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Dornbl\u00fcthstra\u00dfe 4"
+                },
+                {
+                    "b": "Dresden"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "01277"
+                },
+                {
+                    "f": "Sachsen"
+                },
+                {
+                    "h": "Kreuzschularchiv"
+                },
+                {
+                    "i": "Auf Anfrage bzw. \u00d6ffnungszeiten des Kreuzschularchives"
+                },
+                {
+                    "k": "13.80188"
+                },
+                {
+                    "l": "51.04673"
+                },
+                {
+                    "n": "14612000"
+                },
+                {
+                    "o": "barrierefrei"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "z": "vor\u00fcbergehender Standort"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "k": "handschriftenarchiv@protonmail.com"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "59"
+                },
+                {
+                    "g": "12"
+                },
+                {
+                    "i": "P"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Kruzianerhandschriften"
+                }
+            ]
+        ],
+        "047A": [
+            [
+                {
+                    "a": "Das Handschriftenarchiv Dresdner Kreuzchor sammelt, archiviert, digitalisiert und bereitet alte Drucke, Handschriften und Kopien des Dresdner Kreuzchores auf"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-2535",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-2535",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-2535",
+    "identifier": "DE-2535",
+    "name": "Handschriftenarchiv Dresdner Kreuzchor",
+    "location": "Dresden",
+    "type": [
+        "Organization",
+        "Archive"
+    ]
+}

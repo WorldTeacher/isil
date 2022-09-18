@@ -1,0 +1,230 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-796.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:28-11-18"
+                ],
+                {
+                    "t": "16:38:21.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "02058590X"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "GC751"
+                },
+                {
+                    "d": "796"
+                },
+                {
+                    "e": "DE-796"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.stadtbuecherei.pulheim.de/"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://212.16.253.33/webOPACClient/start.do"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Pulheim StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtb\u00fccherei Pulheim"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Steinstr. 13"
+                },
+                {
+                    "b": "Pulheim"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "50259"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "i": "Mo-Di und Do 10.00-18.00, Fr-Sa 10.00-13.00"
+                },
+                {
+                    "k": "6.80015"
+                },
+                {
+                    "l": "50.99705"
+                },
+                {
+                    "n": "05362036"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "2238"
+                },
+                {
+                    "f": "8 08-320"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "2238"
+                },
+                {
+                    "i": "8 08-424"
+                },
+                {
+                    "k": "stadtbuecherei@pulheim.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "07"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "stadtbuecherei@pulheim.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "stadtbuecherei@pulheim.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-796",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-796",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-796",
+    "identifier": "DE-796",
+    "name": "Stadtb\u00fccherei Pulheim",
+    "location": "Pulheim",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NRW"
+}

@@ -1,0 +1,194 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-2846.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:09-01-20"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:13-01-20"
+                ],
+                {
+                    "t": "13:22:18.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:09-01-20"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1202543006"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "d": "2846"
+                },
+                {
+                    "e": "DE-2846"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "https://www.fham.de/studienorte/hochschulcampus-unna/"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://www.dhgs-hochschule.de/studienorte/unna/"
+                },
+                {
+                    "x": "weitere Homepage"
+                },
+                {
+                    "z": "W"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Unna HS Management Sport"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Hochschule f\u00fcr angewandtes Management und Deutsche Hochschule f\u00fcr Gesundheit und Sport - Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Heinrich-Werner-Platz 1"
+                },
+                {
+                    "b": "Unna"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "59427"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "i": "Mo-Fr 9.00-17.00"
+                },
+                {
+                    "k": "7.63646"
+                },
+                {
+                    "l": "51.55199"
+                },
+                {
+                    "n": "05978036"
+                },
+                {
+                    "o": "barrierefrei"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "k": "bibliothek@fham.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "70"
+                },
+                {
+                    "g": "08"
+                },
+                {
+                    "h": "01"
+                },
+                {
+                    "i": "P"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-2846",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-2846",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-2846",
+    "identifier": "DE-2846",
+    "name": "Hochschule f\u00fcr angewandtes Management und Deutsche Hochschule f\u00fcr Gesundheit und Sport - Bibliothek",
+    "location": "Unna",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NRW"
+}

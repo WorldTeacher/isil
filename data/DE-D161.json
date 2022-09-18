@@ -1,0 +1,289 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-D161.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:24-09-21"
+                ],
+                {
+                    "t": "09:53:42.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020590075"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "958161-3"
+                },
+                {
+                    "b": "DR199"
+                },
+                {
+                    "d": "D 161"
+                },
+                {
+                    "e": "DE-D161"
+                },
+                {
+                    "f": "BADD"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.bibliothek-campusjohannstadt.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://webopac.ba-dresden.de/webopac/index.asp?DB=web_biblio"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Berufsakademie Dresden, SSA Dresden"
+                },
+                {
+                    "4": "a"
+                }
+            ],
+            [
+                {
+                    "a": "Dresden BA"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Berufsakademie Sachsen, Staatliche Studienakademie Dresden, Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Hans-Grundig-Str. 25"
+                },
+                {
+                    "b": "Dresden"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "01307"
+                },
+                {
+                    "f": "Sachsen"
+                },
+                {
+                    "i": "Mo-Do 9.00-19.00, Fr 9.00-15.00"
+                },
+                {
+                    "k": "13.76152"
+                },
+                {
+                    "l": "51.05276"
+                },
+                {
+                    "n": "14612000"
+                },
+                {
+                    "o": "barrierefrei"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "351"
+                },
+                {
+                    "f": "4 47 22-410"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "351"
+                },
+                {
+                    "i": "81 33-429"
+                },
+                {
+                    "k": "bibliothek@ba-dresden.de"
+                }
+            ]
+        ],
+        "035D": [
+            [
+                {
+                    "a": "D 246"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0108"
+                },
+                {
+                    "d": "SWB"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "02"
+                },
+                {
+                    "h": "06"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Holz"
+                },
+                {
+                    "a": "Holztechnik"
+                },
+                {
+                    "a": "Steuerberatung"
+                },
+                {
+                    "a": "Bankwirtschaft"
+                },
+                {
+                    "a": "Versicherungswirtschaft"
+                },
+                {
+                    "a": "Informatik"
+                },
+                {
+                    "a": "Wirtschaftsinformatik"
+                },
+                {
+                    "a": "Handel"
+                },
+                {
+                    "a": "Industrie"
+                },
+                {
+                    "a": "Medienproduktion"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "SAX"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "SWB"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035Q": [
+            [
+                {
+                    "a": "j"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-D161",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-D161",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-D161",
+    "identifier": "DE-D161",
+    "name": "Berufsakademie Sachsen, Staatliche Studienakademie Dresden, Bibliothek",
+    "location": "Dresden",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "SAX"
+}

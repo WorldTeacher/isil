@@ -1,0 +1,215 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-1381.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:28-05-09"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:20-08-20"
+                ],
+                {
+                    "t": "10:05:05.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:28-05-09"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "99449520X"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "LB987"
+                },
+                {
+                    "d": "1381"
+                },
+                {
+                    "e": "DE-1381"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.stadtbuecherei-marburg.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://marburg.mobilopac.de"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Marburg StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtb\u00fccherei Marburg"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Ketzerbach 1"
+                },
+                {
+                    "b": "Marburg/Lahn"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "35037"
+                },
+                {
+                    "f": "Hessen"
+                },
+                {
+                    "i": "Di und Do-Fr 12.00-18.30, Mi und Sa 10.00-14.00"
+                },
+                {
+                    "k": "8.76884"
+                },
+                {
+                    "l": "50.81437"
+                },
+                {
+                    "n": "06534014"
+                },
+                {
+                    "o": "barrierefrei,  alle Etagen \u00fcber Aufzug erreichbar"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "6421"
+                },
+                {
+                    "f": "2 01-248"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "6421"
+                },
+                {
+                    "i": "2 01-735"
+                },
+                {
+                    "k": "stadtbuecherei@marburg-stadt.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "08"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "HES"
+                },
+                {
+                    "c": "HeBIS"
+                },
+                {
+                    "d": "HBZ-DigiBib"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-1381",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-1381",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-1381",
+    "identifier": "DE-1381",
+    "name": "Stadtb\u00fccherei Marburg",
+    "location": "Marburg/Lahn",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "HES"
+}

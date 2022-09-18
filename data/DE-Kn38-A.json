@@ -1,0 +1,226 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Kn38-A.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:10-10-07"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:22-02-21"
+                ],
+                {
+                    "t": "15:38:20.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:10-10-07"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "985987103"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "503002-X"
+                },
+                {
+                    "d": "Kn 38/A"
+                },
+                {
+                    "e": "DE-Kn38-A"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.hfmt-koeln.de/hochschule/bibliothek.html"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://bibliothekskatalog.hfmt-koeln.de"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Aachen HfMT K\u00f6ln"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Hochschule f\u00fcr Musik und Tanz K\u00f6ln, Standort Aachen, Bibliothek"
+                }
+            ]
+        ],
+        "029R": [
+            [
+                {
+                    "9": "009010289"
+                },
+                {
+                    "7": "Tw"
+                },
+                {
+                    "a": "Hochschule f\u00fcr Musik und Tanz K\u00f6ln, Bibliothek"
+                },
+                {
+                    "e": "DE-Kn38"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Theaterpl. 16"
+                },
+                {
+                    "b": "Aachen"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "52062"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "k": "6.08777"
+                },
+                {
+                    "l": "50.77186"
+                },
+                {
+                    "n": "05315000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "221"
+                },
+                {
+                    "f": "2 83 80-405"
+                },
+                {
+                    "k": "bibliothek@hfmt-koeln.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "c": "0126"
+                },
+                {
+                    "d": "HBZ"
+                },
+                {
+                    "f": "73"
+                },
+                {
+                    "g": "02"
+                },
+                {
+                    "h": "07"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "c": "HBZ"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ],
+        "047A": [
+            [
+                {
+                    "a": "Hausinterne Bibliothek"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Kn38-A",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Kn38-A",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Kn38-A",
+    "identifier": "DE-Kn38-A",
+    "name": "Hochschule f\u00fcr Musik und Tanz K\u00f6ln, Standort Aachen, Bibliothek",
+    "location": "Aachen",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NRW"
+}

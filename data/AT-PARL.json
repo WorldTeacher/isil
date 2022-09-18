@@ -1,0 +1,210 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/AT-PARL.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:29-11-04"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:22-07-15"
+                ],
+                {
+                    "t": "15:51:28.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "026770571"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "030006-8"
+                },
+                {
+                    "c": "01.309.0000-X"
+                },
+                {
+                    "d": "AT-PARL"
+                },
+                {
+                    "e": "AT-PARL"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.parlament.gv.at/bibliothek"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://www.parlament.gv.at/pls/portal/url/PAGE/SK/BIBL/BIBLKAT/"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Wien ParlamentsB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Parlamentsdirektion, Parlamentsbibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Dr.-Karl-Renner-Ring 3"
+                },
+                {
+                    "b": "Wien"
+                },
+                {
+                    "d": "AT"
+                },
+                {
+                    "e": "A-1017"
+                },
+                {
+                    "f": "\u00d6sterreich"
+                },
+                {
+                    "k": "16.35914"
+                },
+                {
+                    "l": "48.20805"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "43"
+                },
+                {
+                    "e": "1"
+                },
+                {
+                    "f": "4 01 10-2284 (Zeitschriften)"
+                },
+                {
+                    "g": "43"
+                },
+                {
+                    "h": "1"
+                },
+                {
+                    "i": "4 01 10-2825"
+                },
+                {
+                    "k": "bibliothek@parlament.gv.at"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "c": "0157"
+                },
+                {
+                    "e": "\u00d6BV"
+                },
+                {
+                    "f": "81"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "WEU"
+                },
+                {
+                    "c": "\u00d6BV"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ],
+        "047A": [
+            [
+                {
+                    "a": "Fernleihe nur dann, wenn der Bestand an keiner anderen \u00f6sterreichischen Bibliothek nachweisbar ist; Bedingt zug\u00e4nglich: Mo und Fr 8.30-15.30 f\u00fcr externe Leser ausser an Plenartagen des National- und des Bundesrates (Zugang \u00fcber Reichsratsstr. 2, Tor 4) Ausweispflicht!"
+                }
+            ]
+        ]
+    },
+    "_id": "AT-PARL",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/AT-PARL",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/AT-PARL",
+    "identifier": "AT-PARL",
+    "name": "Parlamentsdirektion, Parlamentsbibliothek",
+    "location": "Wien",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "WEU"
+}

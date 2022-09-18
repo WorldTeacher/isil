@@ -1,0 +1,241 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Due5.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:28-01-16"
+                ],
+                {
+                    "t": "16:35:11.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020590415"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "CW731"
+                },
+                {
+                    "d": "D\u00fc 5"
+                },
+                {
+                    "e": "DE-Due5"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.olg-duesseldorf.nrw.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://bvlb.nrw.de/wwwopac/index.asp?nextpage"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "D\u00fcsseldorf Landesgericht"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Oberlandesgericht D\u00fcsseldorf, B\u00fccherei"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Cecilienallee 3"
+                },
+                {
+                    "b": "D\u00fcsseldorf"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "40474"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "i": "Mo-Di 7.30-16.00, Mi-Fr 7.30-15.30"
+                },
+                {
+                    "j": "nicht \u00f6ffentlich zug\u00e4nglich"
+                },
+                {
+                    "k": "6.73493"
+                },
+                {
+                    "l": "51.30163"
+                },
+                {
+                    "n": "05111000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "D\u00fcsseldorf"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "40402"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "g": "30 02 10"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "211"
+                },
+                {
+                    "f": "49 71-329"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "211"
+                },
+                {
+                    "i": "49 71-681"
+                },
+                {
+                    "j": "8584918 olgd d"
+                },
+                {
+                    "k": "B.Buecherei@olg-duesseldorf.nrw.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "02"
+                },
+                {
+                    "h": "06"
+                },
+                {
+                    "i": "P"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "d": "BVLBNRW"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Due5",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Due5",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Due5",
+    "identifier": "DE-Due5",
+    "name": "Oberlandesgericht D\u00fcsseldorf, B\u00fccherei",
+    "location": "D\u00fcsseldorf",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NRW"
+}

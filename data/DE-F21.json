@@ -1,0 +1,237 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-F21.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:18-11-99"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:22-02-21"
+                ],
+                {
+                    "t": "15:52:58.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "009013873"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "601021-0"
+                },
+                {
+                    "d": "F 21"
+                },
+                {
+                    "e": "DE-F21"
+                },
+                {
+                    "f": "UBFM"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.ub.uni-frankfurt.de/medhb/medhb.html"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://webopac.server.uni-frankfurt.de"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Frankfurt/M MedHB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Universit\u00e4tsbibliothek J. C. Senckenberg, Medizinische Hauptbibliothek (MedHB)"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Theodor-Stern-Kai 7"
+                },
+                {
+                    "b": "Frankfurt/Main"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "60596"
+                },
+                {
+                    "f": "Hessen"
+                },
+                {
+                    "h": "Haus 10"
+                },
+                {
+                    "i": "Mo-Fr 9.00-21.00, Sa-So 9.00-18.00"
+                },
+                {
+                    "k": "8.66437"
+                },
+                {
+                    "l": "50.09570"
+                },
+                {
+                    "n": "06412000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "69"
+                },
+                {
+                    "f": "63 01-5058"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "69"
+                },
+                {
+                    "i": "63 01-7724"
+                },
+                {
+                    "k": "MedHB@ub.uni-frankfurt.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0036"
+                },
+                {
+                    "e": "HBV"
+                },
+                {
+                    "f": "65"
+                },
+                {
+                    "g": "02"
+                },
+                {
+                    "h": "08"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Medizin"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "HES"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "HeBIS"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-F21",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-F21",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-F21",
+    "identifier": "DE-F21",
+    "name": "Universit\u00e4tsbibliothek J. C. Senckenberg, Medizinische Hauptbibliothek (MedHB)",
+    "location": "Frankfurt/Main",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "HES"
+}

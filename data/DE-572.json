@@ -1,0 +1,225 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-572.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:02-01-01"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:14-11-18"
+                ],
+                {
+                    "t": "15:54:39.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "021187223"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "CS857"
+                },
+                {
+                    "d": "572"
+                },
+                {
+                    "e": "DE-572"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.muthesius.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://katalog.ub.uni-kiel.de/DB=6/LNG=DU/"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Kiel Muthesius-Kunst-HS"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Muthesius-Kunsthochschule, Zentrale Hochschulbibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Legienstra\u00dfe 35"
+                },
+                {
+                    "b": "Kiel"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "24103"
+                },
+                {
+                    "f": "Schleswig-Holstein"
+                },
+                {
+                    "i": "Mi-Do 10.00-19.00, Fr 10.00-16.00"
+                },
+                {
+                    "j": "Verk\u00fcrzte \u00d6ffnungszeiten w\u00e4hrend der vorlesungsfreien Zeiten"
+                },
+                {
+                    "k": "10.12858"
+                },
+                {
+                    "l": "54.32750"
+                },
+                {
+                    "n": "01002000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "431"
+                },
+                {
+                    "f": "51 98-407"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "431"
+                },
+                {
+                    "i": "51 98-452"
+                },
+                {
+                    "k": "bibliothek@muthesius.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "70"
+                },
+                {
+                    "g": "02"
+                },
+                {
+                    "h": "07"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Kunst"
+                },
+                {
+                    "a": "Industriedesign"
+                },
+                {
+                    "a": "Kommunikationsdesign"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "HAM"
+                },
+                {
+                    "c": "GBV"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-572",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-572",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-572",
+    "identifier": "DE-572",
+    "name": "Muthesius-Kunsthochschule, Zentrale Hochschulbibliothek",
+    "location": "Kiel",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "HAM"
+}

@@ -1,0 +1,269 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Bi10.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "1210:22-02-01"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:14-01-20"
+                ],
+                {
+                    "t": "13:18:20.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "021488711"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "483000-3"
+                },
+                {
+                    "b": "CZ082"
+                },
+                {
+                    "d": "Bi 10"
+                },
+                {
+                    "e": "DE-Bi10"
+                },
+                {
+                    "f": "FHBI"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.fh-bielefeld.de/bib"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Bielefeld FH"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Fachhochschule Bielefeld, Hochschulbibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Interaktion 1"
+                },
+                {
+                    "b": "Bielefeld"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "33619"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "k": "8.49252"
+                },
+                {
+                    "l": "52.04446"
+                },
+                {
+                    "n": "05711000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Bielefeld"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "33511"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "g": "10 11 13"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "521"
+                },
+                {
+                    "f": "1 06-3347"
+                },
+                {
+                    "k": "bib.fernleihe@fh-bielefeld.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0136"
+                },
+                {
+                    "d": "HBZ"
+                },
+                {
+                    "f": "70"
+                },
+                {
+                    "g": "02"
+                },
+                {
+                    "h": "08"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "HBZ"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "b"
+                },
+                {
+                    "d": "bib.fernleihe@fh-bielefeld.de"
+                }
+            ],
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "bib.fernleihe@fh-bielefeld.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "bib.fernleihe@fh-bielefeld.de"
+                }
+            ]
+        ],
+        "035O": [
+            [
+                {
+                    "a": "ISIL DE-361; FZL DE-621"
+                },
+                {
+                    "b": "CONTAINER"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Bi10",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Bi10",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Bi10",
+    "identifier": "DE-Bi10",
+    "name": "Fachhochschule Bielefeld, Hochschulbibliothek",
+    "location": "Bielefeld",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NRW"
+}

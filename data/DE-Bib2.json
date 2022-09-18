@@ -1,0 +1,243 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Bib2.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:09-11-09"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:11-05-22"
+                ],
+                {
+                    "t": "14:24:21.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:09-11-09"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "99796328X"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "101234-4"
+                },
+                {
+                    "d": "Bib 2"
+                },
+                {
+                    "e": "DE-Bib2"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.stadtarchiv-biberach.de"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Biberach Stadtarchiv"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtarchiv Biberach, Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Waldseer Str. 31"
+                },
+                {
+                    "b": "Biberach/Ri\u00df"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "88400"
+                },
+                {
+                    "f": "Baden-W\u00fcrttemberg"
+                },
+                {
+                    "i": "Mi-Do 8.30-17.00"
+                },
+                {
+                    "k": "9.79123"
+                },
+                {
+                    "l": "48.09308"
+                },
+                {
+                    "n": "08426021"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Biberach/Ri\u00df"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "88396"
+                },
+                {
+                    "f": "Baden-W\u00fcrttemberg"
+                },
+                {
+                    "g": "17 57"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "7351"
+                },
+                {
+                    "f": "5 13 27"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "7351"
+                },
+                {
+                    "i": "5 18 53 27"
+                },
+                {
+                    "k": "stadtarchiv@biberach-riss.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0367"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "03"
+                },
+                {
+                    "i": "P"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Stadt Biberach und Umgebung"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "SWB"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Bib2",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Bib2",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Bib2",
+    "identifier": "DE-Bib2",
+    "name": "Stadtarchiv Biberach, Bibliothek",
+    "location": "Biberach/Ri\u00df",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAW"
+}

@@ -1,0 +1,237 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-864.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:28-01-16"
+                ],
+                {
+                    "t": "16:33:25.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020586426"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "KW617"
+                },
+                {
+                    "d": "864"
+                },
+                {
+                    "e": "DE-864"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.stadtschwandorf.de/mehr/bib.index.de.php"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Schwandorf StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtbibliothek Schwandorf"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Sandstr. 5"
+                },
+                {
+                    "b": "Schwandorf"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "92421"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "i": "Mo-Di und Do 9.15-13.00 und 14.00-18.00, Mi 9.15-18.00, Fr 9.15-13.00 und 14.00-18.30"
+                },
+                {
+                    "k": "12.11739"
+                },
+                {
+                    "l": "49.32311"
+                },
+                {
+                    "n": "09376161"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Schwandorf"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "92421"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "9431"
+                },
+                {
+                    "f": "7 15 40"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "9431"
+                },
+                {
+                    "i": "7 15 44"
+                },
+                {
+                    "k": "Stadtbibliothek@Schwandorf.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "07"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAY"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "BVB"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "stadtbibliothek@schwandorf.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-864",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-864",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-864",
+    "identifier": "DE-864",
+    "name": "Stadtbibliothek Schwandorf",
+    "location": "Schwandorf",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAY"
+}

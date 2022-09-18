@@ -1,0 +1,228 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-F227.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:03-07-06"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:17-02-16"
+                ],
+                {
+                    "t": "14:08:15.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:03-07-06"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "980354080"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "608227-0"
+                },
+                {
+                    "d": "F 227"
+                },
+                {
+                    "e": "DE-F227"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.zentrum-oekumene-ekhn.de/"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://pica1l.lhb.tu-darmstadt.de/IMPLAND=Y/SRT=YOP/LNG=DU/DB=EKHN/"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Frankfurt/M Zentrum \u00d6kumene"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Zentrum \u00d6kumene der Evangelischen Kirche in Hessen und Nassau (EKHN), Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Praunheimer Landstr. 206"
+                },
+                {
+                    "b": "Frankfurt/Main"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "60488"
+                },
+                {
+                    "f": "Hessen"
+                },
+                {
+                    "i": "Mo 14.00-16.00 und Mi 10.00-12.30"
+                },
+                {
+                    "k": "8.62492"
+                },
+                {
+                    "l": "50.14602"
+                },
+                {
+                    "n": "06412000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "69"
+                },
+                {
+                    "f": "97 65 18-14"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "69"
+                },
+                {
+                    "i": "97 65 18-19"
+                },
+                {
+                    "k": "info@zoe-ekhn.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0024"
+                },
+                {
+                    "e": "HBV"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "09"
+                },
+                {
+                    "h": "04"
+                },
+                {
+                    "i": "P"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "\u00d6kumene <verschiedene Konfessionen, Religionen, Weltanschauungen>"
+                },
+                {
+                    "a": "Friedensarbeit"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "HES"
+                },
+                {
+                    "c": "HeBIS"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-F227",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-F227",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-F227",
+    "identifier": "DE-F227",
+    "name": "Zentrum \u00d6kumene der Evangelischen Kirche in Hessen und Nassau (EKHN), Bibliothek",
+    "location": "Frankfurt/Main",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "HES"
+}

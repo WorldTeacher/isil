@@ -1,0 +1,209 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-640.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:01-09-20"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:01-09-20"
+                ],
+                {
+                    "t": "13:42:36.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:01-09-20"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1216903689"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "e": "DE-640"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "https://wiki.bsz-bw.de/x/eZM0/"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "bwLastCopies"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Felix-Wankel-Str. 4"
+                },
+                {
+                    "b": "Konstanz"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "78467"
+                },
+                {
+                    "f": "Baden-W\u00fcrttemberg"
+                },
+                {
+                    "k": "9.15692"
+                },
+                {
+                    "l": "47.67819"
+                },
+                {
+                    "n": "08335043"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "a": "Bibliotheksservice-Zentrum , Universit\u00e4t Konstanz"
+                },
+                {
+                    "b": "Konstanz"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "78457"
+                },
+                {
+                    "f": "Baden-W\u00fcrttemberg"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "7531"
+                },
+                {
+                    "f": "88-4176"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "7531"
+                },
+                {
+                    "i": "88-3703"
+                },
+                {
+                    "k": "support@k10plus.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "f": "96"
+                },
+                {
+                    "g": "02"
+                },
+                {
+                    "h": "11"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAW"
+                },
+                {
+                    "c": "SWB"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ],
+        "047A": [
+            [
+                {
+                    "a": "Das Projekt bwLastCopies ist ein Projekt aus dem F\u00f6rderprogramm \u201eWissenschaftliche Bibliotheken gestalten den digitalen Wandel (BW-BigDIWA)\" des Landes Baden-W\u00fcrttemberg. Ziel des Projektes ist die Bestandssicherung seltener Exemplare gedruckter Monographien in baden-w\u00fcrttembergischen Bibliotheken, verbunden mit standort\u00fcbergreifender Absprachen und Kooperationen bzgl. Archivierung seltener Exemplare unter den beteiligten Bibliotheken."
+                }
+            ]
+        ]
+    },
+    "_id": "DE-640",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-640",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-640",
+    "identifier": "DE-640",
+    "name": "bwLastCopies",
+    "location": "Konstanz",
+    "type": [
+        "Organization",
+        "Organization"
+    ],
+    "addressRegion": "BAW"
+}

@@ -1,0 +1,212 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-723.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:20-09-21"
+                ],
+                {
+                    "t": "12:57:34.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020585330"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "GD846"
+                },
+                {
+                    "d": "723"
+                },
+                {
+                    "e": "DE-723"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.leer.de/bibliothek.htm"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://bibkataloge.de/leer"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Leer StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtbibliothek Leer"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Wilhelminengang 2"
+                },
+                {
+                    "b": "Leer/Ostfriesland"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "26789"
+                },
+                {
+                    "f": "Niedersachsen"
+                },
+                {
+                    "h": "Hermann-Tempel-Haus"
+                },
+                {
+                    "i": "Mo, Di, Do & Fr 11:00 - 18:00 Uhr Mi & Sa 10:00 - 13:00 Uhr"
+                },
+                {
+                    "k": "7.45181"
+                },
+                {
+                    "l": "53.22724"
+                },
+                {
+                    "n": "03457013"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "491"
+                },
+                {
+                    "f": "97 82-600"
+                },
+                {
+                    "k": "bibliothek@leer.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "07"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NIE"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "GBV"
+                },
+                {
+                    "d": "\u00d6VK"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-723",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-723",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-723",
+    "identifier": "DE-723",
+    "name": "Stadtbibliothek Leer",
+    "location": "Leer/Ostfriesland",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NIE"
+}

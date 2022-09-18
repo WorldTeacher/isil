@@ -1,0 +1,246 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-502.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:28-01-16"
+                ],
+                {
+                    "t": "16:28:28.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020584571"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "AA502"
+                },
+                {
+                    "d": "502"
+                },
+                {
+                    "e": "DE-502"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.zossen.bbwork.de/"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Zossen StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtbibliothek Zossen"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Kirchpl. 2"
+                },
+                {
+                    "b": "Zossen"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "15806"
+                },
+                {
+                    "f": "Brandenburg"
+                },
+                {
+                    "i": "Mo-Di und Fr 13.00-18.00, Do 10.00-19.00, Sa 10.00-13.00"
+                },
+                {
+                    "k": "13.44848"
+                },
+                {
+                    "l": "52.21651"
+                },
+                {
+                    "n": "12072477"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "a": "Am B\u00fcrgerhaus 1"
+                },
+                {
+                    "b": "Zossen"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "15806"
+                },
+                {
+                    "f": "Brandenburg"
+                },
+                {
+                    "i": "Di-Do 14.00-18.00, Sa 10.00-13.00"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "z": "OT W\u00fcnsdorf"
+                },
+                {
+                    "2": "W"
+                },
+                {
+                    "3": "Standort W\u00fcnsdorf"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "3377"
+                },
+                {
+                    "f": "3 04 04 77"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "3377"
+                },
+                {
+                    "i": "39 95 80"
+                },
+                {
+                    "k": "bibliothekzs@svzossen.brandenburg.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "06"
+                },
+                {
+                    "h": "06"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Teltow-Fl\u00e4ming"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BER"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "KOBV"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-502",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-502",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-502",
+    "identifier": "DE-502",
+    "name": "Stadtbibliothek Zossen",
+    "location": "Zossen",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BER"
+}

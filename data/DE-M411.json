@@ -1,0 +1,234 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-M411.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:09-08-04"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:02-05-18"
+                ],
+                {
+                    "t": "14:40:50.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "026321718"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "DK522"
+                },
+                {
+                    "d": "M 411"
+                },
+                {
+                    "e": "DE-M411"
+                },
+                {
+                    "f": "MPIBC"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "https://www.biochem.mpg.de/facilities/library"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Planegg MPIs Martinsried"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Bibliothek der Max-Planck-Institute Martinsried"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Am Klopferspitz 18"
+                },
+                {
+                    "b": "Planegg"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "82152"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "i": "nicht \u00f6ffentlich zug\u00e4nglich"
+                },
+                {
+                    "k": "11.45833"
+                },
+                {
+                    "l": "48.10565"
+                },
+                {
+                    "n": "09184138"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Planegg"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "82143"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "89"
+                },
+                {
+                    "f": "85 78-3800"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "89"
+                },
+                {
+                    "i": "85 78-2242"
+                },
+                {
+                    "j": "521740 mpi d"
+                },
+                {
+                    "k": "library@biochem.mpg.de"
+                }
+            ]
+        ],
+        "035D": [
+            [
+                {
+                    "a": "M 486"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "08"
+                },
+                {
+                    "h": "07"
+                },
+                {
+                    "i": "P"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAY"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-M411",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-M411",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-M411",
+    "identifier": "DE-M411",
+    "name": "Bibliothek der Max-Planck-Institute Martinsried",
+    "location": "Planegg",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAY"
+}

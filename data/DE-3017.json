@@ -1,0 +1,268 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-3017.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-05-21"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:18-06-21"
+                ],
+                {
+                    "t": "14:10:50.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:11-05-21"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1233327453"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "WE485"
+                },
+                {
+                    "d": "3017"
+                },
+                {
+                    "e": "DE-3017"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "https://www.gemeinde-hartmannsdorf.de/de/Bildung_Gesundheit_Soziales/Bibliothek_1223.html"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://hartmannsdorf.internetopac.de"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Hartmannsdorf GB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Gemeindebibliothek Hartmannsdorf"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Carl-Kirchhof-Str. 27"
+                },
+                {
+                    "b": "Hartmannsdorf"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "09232"
+                },
+                {
+                    "f": "Sachsen"
+                },
+                {
+                    "i": "Mo 09.00-12.00, Di 09.00-12.00 und 14.00-17.00, Do 09.00-12.00 und 14.00-18.00"
+                },
+                {
+                    "k": "12.79075"
+                },
+                {
+                    "l": "50.88579"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "a": "Untere Hauptstr. 111"
+                },
+                {
+                    "b": "Hartmannsdorf"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "09232"
+                },
+                {
+                    "f": "Sachsen"
+                },
+                {
+                    "k": "12.80089"
+                },
+                {
+                    "l": "50.88693"
+                },
+                {
+                    "o": "barrierefrei"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "3722"
+                },
+                {
+                    "f": "409668"
+                },
+                {
+                    "k": "info@bibliothek-hartmannsdorf.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "SAX"
+                },
+                {
+                    "d": "\u00d6VK"
+                },
+                {
+                    "e": "n"
+                },
+                {
+                    "f": "x"
+                },
+                {
+                    "g": "R"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "info@bibliothek-hartmannsdorf.de"
+                }
+            ],
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "info@bibliothek-hartmannsdorf.de"
+                }
+            ],
+            [
+                {
+                    "a": "b"
+                },
+                {
+                    "d": "info@bibliothek-hartmannsdorf.de"
+                }
+            ],
+            [
+                {
+                    "a": "a"
+                },
+                {
+                    "d": "info@bibliothek-hartmannsdorf.de"
+                }
+            ],
+            [
+                {
+                    "a": "d"
+                },
+                {
+                    "d": "info@bibliothek-hartmannsdorf.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-3017",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-3017",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-3017",
+    "identifier": "DE-3017",
+    "name": "Gemeindebibliothek Hartmannsdorf",
+    "location": "Hartmannsdorf",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "SAX"
+}

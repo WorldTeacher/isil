@@ -1,0 +1,210 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/AT-LAO.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:29-11-04"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:27-02-19"
+                ],
+                {
+                    "t": "10:37:40.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "026770946"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "030038-X"
+                },
+                {
+                    "c": "34.014.0000-9"
+                },
+                {
+                    "d": "AT-LAO"
+                },
+                {
+                    "e": "AT-LAO"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.ooe.gv.at/einrichtung/kultur/larchiv.htm"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://opac.bibvb.ac.at/lao"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Linz Ober\u00f6ster.Landesarchiv"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Ober\u00f6sterreichisches Landesarchiv, Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Anzengruberstr. 19"
+                },
+                {
+                    "b": "Linz"
+                },
+                {
+                    "d": "AT"
+                },
+                {
+                    "e": "A-4020"
+                },
+                {
+                    "f": "\u00d6sterreich"
+                },
+                {
+                    "k": "14.29831"
+                },
+                {
+                    "l": "48.29259"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "43"
+                },
+                {
+                    "e": "732"
+                },
+                {
+                    "f": "77 20-14601 und -14602"
+                },
+                {
+                    "g": "43"
+                },
+                {
+                    "h": "732"
+                },
+                {
+                    "i": "77 20-14619"
+                },
+                {
+                    "k": "landesarchiv@ooe.gv.at"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "c": "0157"
+                },
+                {
+                    "e": "\u00d6BV"
+                },
+                {
+                    "f": "81"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "WEU"
+                },
+                {
+                    "c": "\u00d6BV"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ],
+        "047A": [
+            [
+                {
+                    "a": "Allgemein (\u00f6ffentlich) zug\u00e4nglich"
+                }
+            ]
+        ]
+    },
+    "_id": "AT-LAO",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/AT-LAO",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/AT-LAO",
+    "identifier": "AT-LAO",
+    "name": "Ober\u00f6sterreichisches Landesarchiv, Bibliothek",
+    "location": "Linz",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "WEU"
+}

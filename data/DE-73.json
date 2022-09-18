@@ -1,0 +1,260 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-73.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:06-01-16"
+                ],
+                {
+                    "t": "10:35:18.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020582447"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "938206-9"
+                },
+                {
+                    "b": "AG073"
+                },
+                {
+                    "d": "73"
+                },
+                {
+                    "e": "DE-73"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.stadtbibliothek.magdeburg.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://auskunft.stadtbibliothek.magdeburg.de/webopac/index.asp?DB=webopac"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Magdeburg StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtbibliothek Magdeburg"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Breiter Weg 109"
+                },
+                {
+                    "b": "Magdeburg"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "39104"
+                },
+                {
+                    "f": "Sachsen-Anhalt"
+                },
+                {
+                    "i": "Mo-Fr 10.00-19.00, Sa 10.00-13.00"
+                },
+                {
+                    "k": "11.63847"
+                },
+                {
+                    "l": "52.13697"
+                },
+                {
+                    "n": "15003000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Magdeburg"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "39015"
+                },
+                {
+                    "f": "Sachsen-Anhalt"
+                },
+                {
+                    "g": "40 25"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "391"
+                },
+                {
+                    "f": "5 40-4800"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "391"
+                },
+                {
+                    "i": "5 40-4803 und 4804"
+                },
+                {
+                    "k": "stadtbibliothek@magdeburg.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0165"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "09"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Kinderliteratur"
+                },
+                {
+                    "a": "Geschichte <Magdeburg>"
+                },
+                {
+                    "a": "Musik"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "SAA"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "GBV"
+                },
+                {
+                    "d": "\u00d6VK; Kalliope"
+                },
+                {
+                    "e": "l"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-73",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-73",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-73",
+    "identifier": "DE-73",
+    "name": "Stadtbibliothek Magdeburg",
+    "location": "Magdeburg",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "SAA"
+}

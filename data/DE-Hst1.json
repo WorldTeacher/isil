@@ -1,0 +1,201 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Hst1.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:09-05-06"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:29-03-16"
+                ],
+                {
+                    "t": "08:37:25.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:09-05-06"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "979657881"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "858003-0"
+                },
+                {
+                    "d": "Hst 1"
+                },
+                {
+                    "e": "DE-Hst1"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.hoechstadt.de/"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "H\u00f6chstadt/A. Stadtarchiv"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtarchiv H\u00f6chstadt/A."
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Marktplatz 5"
+                },
+                {
+                    "b": "H\u00f6chstadt/Aisch"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "91315"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "k": "10.80465"
+                },
+                {
+                    "l": "49.70352"
+                },
+                {
+                    "n": "09572135"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "9193"
+                },
+                {
+                    "f": "62 61 28"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "9193"
+                },
+                {
+                    "i": "62 61 83"
+                },
+                {
+                    "k": "stadt@hoechstadt.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0167"
+                },
+                {
+                    "f": "52"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "01"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAY"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Hst1",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Hst1",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Hst1",
+    "identifier": "DE-Hst1",
+    "name": "Stadtarchiv H\u00f6chstadt/A.",
+    "location": "H\u00f6chstadt/Aisch",
+    "type": [
+        "Organization",
+        "Archive"
+    ],
+    "addressRegion": "BAY"
+}

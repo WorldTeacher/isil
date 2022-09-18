@@ -1,0 +1,247 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-2627.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:16-08-18"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:04-08-22"
+                ],
+                {
+                    "t": "10:26:22.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:16-08-18"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "116471841X"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "101317-8"
+                },
+                {
+                    "d": "2627"
+                },
+                {
+                    "e": "DE-2627"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "https://web.maecenata.eu/bibliothek"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://gso.gbv.de/DB=9.611/"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Berlin Maecenata Bib."
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Maecenata Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Rungestr. 17"
+                },
+                {
+                    "b": "Berlin"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "10179"
+                },
+                {
+                    "f": "Berlin"
+                },
+                {
+                    "h": "Maecenata Stiftung"
+                },
+                {
+                    "k": "13.41949"
+                },
+                {
+                    "l": "52.51216"
+                },
+                {
+                    "n": "11000000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "30"
+                },
+                {
+                    "f": "28 38 79 09"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "30"
+                },
+                {
+                    "i": "28 38 79 10"
+                },
+                {
+                    "k": "info@maecenata.eu"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0011"
+                },
+                {
+                    "e": "GBV"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "08"
+                },
+                {
+                    "h": "06"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Zivilgesellschaft"
+                },
+                {
+                    "a": "Philanthropie"
+                },
+                {
+                    "a": "Nichtregierungsorganisationen"
+                },
+                {
+                    "a": "Politikwissenschaft"
+                },
+                {
+                    "a": "Sozialwissenschaft"
+                },
+                {
+                    "a": "Ehrenamtliche T\u00e4tigkeit"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BER"
+                },
+                {
+                    "c": "GBV"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ],
+        "047A": [
+            [
+                {
+                    "a": "Die zur Zeit rund 15.000 Medieneinheiten umfassende Maecenata Bibliothek ist die gr\u00f6\u00dfte transdisziplin\u00e4re Fachbibliothek zu den Themen Zivilgesellschaft, B\u00fcrgerengagement, Philanthropie und Stiftungswesen im deutschsprachigen Raum. Sie steht der \u00d6ffentlichkeit in Freihandaufstellung zur Verf\u00fcgung. Die Nutzerinnen und Nutzer kommen vor allem aus Hochschulen, Politik, Medien und zivilgesellschaftlichen Organisationen."
+                }
+            ]
+        ]
+    },
+    "_id": "DE-2627",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-2627",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-2627",
+    "identifier": "DE-2627",
+    "name": "Maecenata Bibliothek",
+    "location": "Berlin",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BER"
+}

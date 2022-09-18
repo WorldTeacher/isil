@@ -1,0 +1,258 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-1116-DLR.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-02-10"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:05-02-21"
+                ],
+                {
+                    "t": "13:29:54.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:11-02-10"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1000167097"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "673216-1"
+                },
+                {
+                    "d": "1116/DLR"
+                },
+                {
+                    "e": "DE-1116-DLR"
+                },
+                {
+                    "f": "DLRR"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "https://www.weincampus-neustadt.de/bibliothek"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://opac.hs-lu.de/alipac/?BASE=D-TIT"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "DLR Rheinpfalz"
+                },
+                {
+                    "4": "a"
+                }
+            ],
+            [
+                {
+                    "a": "Neustadt/W DLR Rheinpfalz"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Dienstleistungszentrum L\u00e4ndlicher Raum, Bibliothek"
+                }
+            ]
+        ],
+        "029R": [
+            [
+                {
+                    "9": "020599633"
+                },
+                {
+                    "7": "Tw"
+                },
+                {
+                    "a": "Hochschule f\u00fcr Wirtschaft und Gesellschaft Ludwigshafen, Bibliothek"
+                },
+                {
+                    "e": "DE-1116"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Breitenweg 71"
+                },
+                {
+                    "b": "Neustadt/Weinstra\u00dfe"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "67435"
+                },
+                {
+                    "f": "Rheinland-Pfalz"
+                },
+                {
+                    "i": "Mo 8.30-12.00, Di-Do 8.30-15.30, Fr 8.30-12.00"
+                },
+                {
+                    "k": "8.18625"
+                },
+                {
+                    "l": "49.36966"
+                },
+                {
+                    "n": "07316000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "6321"
+                },
+                {
+                    "f": "6 71-240"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "6321"
+                },
+                {
+                    "i": "6 71-222"
+                },
+                {
+                    "k": "Bibliothek-Rheinpfalz@dlr.rlp.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "c": "0313"
+                },
+                {
+                    "d": "HBZ"
+                },
+                {
+                    "f": "73"
+                },
+                {
+                    "g": "02"
+                },
+                {
+                    "h": "05"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Weinbau"
+                },
+                {
+                    "a": "\u00d6nologie"
+                },
+                {
+                    "a": "Gartenbau"
+                },
+                {
+                    "a": "Phytomedizin"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "c": "HBZ"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-1116-DLR",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-1116-DLR",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-1116-DLR",
+    "identifier": "DE-1116-DLR",
+    "name": "Dienstleistungszentrum L\u00e4ndlicher Raum, Bibliothek",
+    "location": "Neustadt/Weinstra\u00dfe",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NRW"
+}

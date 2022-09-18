@@ -1,0 +1,258 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-M472.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:28-02-05"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:05-12-17"
+                ],
+                {
+                    "t": "09:17:30.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:27-05-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "027155455"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "808473-7"
+                },
+                {
+                    "b": "BS451"
+                },
+                {
+                    "d": "M 472"
+                },
+                {
+                    "e": "DE-M472"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "https://www.hff-muenchen.de/de_DE/bibliothek"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://webopac.hff-muc.de/webOPACClient.hffsis/start.do?Login=wohff"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "M\u00fcnchen HFF"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Hochschule f\u00fcr Fernsehen und Film, Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Bernd-Eichinger-Platz 1"
+                },
+                {
+                    "b": "M\u00fcnchen"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "80333"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "i": "Mo-Do 10.00-19.00, Fr 10.00-14.00"
+                },
+                {
+                    "j": "im August geschlossen"
+                },
+                {
+                    "k": "11.56895"
+                },
+                {
+                    "l": "48.14685"
+                },
+                {
+                    "n": "09162000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "89"
+                },
+                {
+                    "f": "6 89 57-9107"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "89"
+                },
+                {
+                    "i": "6 89 57-9900"
+                },
+                {
+                    "k": "fernleihe@hff-muc.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0161"
+                },
+                {
+                    "d": "BVB"
+                },
+                {
+                    "f": "70"
+                },
+                {
+                    "g": "02"
+                },
+                {
+                    "h": "07"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Film"
+                },
+                {
+                    "a": "Fernsehen"
+                },
+                {
+                    "a": "Medien"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAY"
+                },
+                {
+                    "c": "BVB"
+                },
+                {
+                    "e": "k"
+                },
+                {
+                    "g": "R"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "fernleihe@hff-muc.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "fernleihe@hff-muc.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-M472",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-M472",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-M472",
+    "identifier": "DE-M472",
+    "name": "Hochschule f\u00fcr Fernsehen und Film, Bibliothek",
+    "location": "M\u00fcnchen",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAY"
+}

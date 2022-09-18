@@ -1,0 +1,239 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-152.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:16-01-19"
+                ],
+                {
+                    "t": "14:39:43.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020582986"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "AG152"
+                },
+                {
+                    "d": "152"
+                },
+                {
+                    "e": "DE-152"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.noerdlingen.de/stadtbibliothek"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://noerdlingen-opac.customer.findus-internet-opac.de/cgi-bin/findus.fcgi.pl?customer=noerdlingen;_cookiecheck=2009-04-16-14-29-05&_cookiecheck=2009-04-16-14-31-25"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "N\u00f6rdlingen StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtbibliothek N\u00f6rdlingen"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Karl-Schlierf-Pl. 1"
+                },
+                {
+                    "b": "N\u00f6rdlingen"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "86720"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "i": "Di und Sa 10.00-13.00, Mi 10.00-18.00, Do 14.00-18.30, Fr 10.00-13.00 und 14.00-18.00"
+                },
+                {
+                    "k": "10.48952"
+                },
+                {
+                    "l": "48.85170"
+                },
+                {
+                    "n": "09779194"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "N\u00f6rdlingen"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "86715"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "g": "15 43"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "9081"
+                },
+                {
+                    "f": "84-300"
+                },
+                {
+                    "k": "stadtbibliothek@noerdlingen.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "07"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAY"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "BVB"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "stadtbibliothek@noerdlingen.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-152",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-152",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-152",
+    "identifier": "DE-152",
+    "name": "Stadtbibliothek N\u00f6rdlingen",
+    "location": "N\u00f6rdlingen",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAY"
+}

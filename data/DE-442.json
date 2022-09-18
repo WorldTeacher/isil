@@ -1,0 +1,241 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-442.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:15-06-21"
+                ],
+                {
+                    "t": "09:25:15.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020584199"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "QQ763"
+                },
+                {
+                    "d": "442"
+                },
+                {
+                    "e": "DE-442"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.beckum.de/koeb.html"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://vb-beckum.lmscloud.net/"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Beckum K\u00d6B"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Katholische \u00d6ffentliche Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Clemens-August-Str. 27"
+                },
+                {
+                    "b": "Beckum"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "59269"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "i": "Mo, Do-Fr 15.00-18.00, Di 9.00-12.00 und 15.00-18.00, Mi 9.00-18.00, Sa 9.30-12.30"
+                },
+                {
+                    "k": "8.04217"
+                },
+                {
+                    "l": "51.75406"
+                },
+                {
+                    "n": "05570008"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "2521"
+                },
+                {
+                    "f": "42 52"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "2521"
+                },
+                {
+                    "i": "40 32"
+                },
+                {
+                    "k": "buecherei-beckum@bistum-muenster.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "10"
+                },
+                {
+                    "h": "07"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "d": "VBKrsW"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "b"
+                },
+                {
+                    "d": "buecherei-beckum@bistum-muenster.de"
+                }
+            ],
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "buecherei-beckum@bistum-muenster.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "buecherei-beckum@bistum-muenster.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-442",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-442",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-442",
+    "identifier": "DE-442",
+    "name": "Katholische \u00d6ffentliche Bibliothek",
+    "location": "Beckum",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NRW"
+}

@@ -1,0 +1,231 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-843.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:28-01-16"
+                ],
+                {
+                    "t": "16:33:18.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:27-05-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020586272"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "878843-1"
+                },
+                {
+                    "b": "HE030"
+                },
+                {
+                    "d": "843"
+                },
+                {
+                    "e": "DE-843"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.bad-brueckenau.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://www.bad-brueckenau.de/buch"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Bad Br\u00fcckenau StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtbibliothek und Stadtarchiv Bad Br\u00fcckenau"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Alter Rathauspl. 1"
+                },
+                {
+                    "b": "Bad Br\u00fcckenau"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "97769"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "i": "Di-Mi und Fr 14.00-17.00, Do 14.00-18.00, Sa 10.00-14.00"
+                },
+                {
+                    "k": "9.78733"
+                },
+                {
+                    "l": "50.30869"
+                },
+                {
+                    "n": "09672113"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "9741"
+                },
+                {
+                    "f": "8 04 55"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "9741"
+                },
+                {
+                    "i": "69 05"
+                },
+                {
+                    "k": "kultur@bad-brueckenau.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0167"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "06"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAY"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "kultur@Bad-Brueckenau.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-843",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-843",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-843",
+    "identifier": "DE-843",
+    "name": "Stadtbibliothek und Stadtarchiv Bad Br\u00fcckenau",
+    "location": "Bad Br\u00fcckenau",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAY"
+}

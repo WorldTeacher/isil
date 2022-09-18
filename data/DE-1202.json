@@ -1,0 +1,215 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-1202.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:17-05-04"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:20-09-21"
+                ],
+                {
+                    "t": "13:18:20.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "025993909"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "KD966"
+                },
+                {
+                    "d": "1202"
+                },
+                {
+                    "e": "DE-1202"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.buecherei-wittmund.de/"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://bibkataloge.de/wittmund"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Wittmund StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtb\u00fccherei Wittmund"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Kirchstr. 15"
+                },
+                {
+                    "b": "Wittmund"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "26409"
+                },
+                {
+                    "f": "Niedersachsen"
+                },
+                {
+                    "i": "Mo. 10-13 & 14-17; Di. 10-13 & 14-18; Mi. 10-10 & 14-17; Do. 10-17; Fr. 10-13"
+                },
+                {
+                    "k": "7.78108"
+                },
+                {
+                    "l": "53.57615"
+                },
+                {
+                    "n": "03462019"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "4462"
+                },
+                {
+                    "f": "9 83-232"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "4462"
+                },
+                {
+                    "i": "9 83-299"
+                },
+                {
+                    "k": "buecherei@stadt.wittmund.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "05"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NIE"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "GBV"
+                },
+                {
+                    "d": "\u00d6VK"
+                },
+                {
+                    "e": "l"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-1202",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-1202",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-1202",
+    "identifier": "DE-1202",
+    "name": "Stadtb\u00fccherei Wittmund",
+    "location": "Wittmund",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NIE"
+}

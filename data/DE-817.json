@@ -1,0 +1,253 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-817.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:28-11-18"
+                ],
+                {
+                    "t": "16:38:10.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020586116"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "LE228"
+                },
+                {
+                    "d": "817"
+                },
+                {
+                    "e": "DE-817"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.wuelfrath.net/buecherei"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://www.bibnet.de"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "W\u00fclfrath StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "W\u00fclfrather Medien Welt"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Wilhelmstr. 146"
+                },
+                {
+                    "b": "W\u00fclfrath"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "42489"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "i": "Di-Mi und Fr 10.00-12.30 und 15.00-18.00, Do 15.00-18.00, Sa 9.00-13.00"
+                },
+                {
+                    "k": "7.03207"
+                },
+                {
+                    "l": "51.28240"
+                },
+                {
+                    "n": "05158036"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "W\u00fclfrath"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "42481"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "g": "14 80"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "2058"
+                },
+                {
+                    "f": "89 66 65"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "2058"
+                },
+                {
+                    "i": "1 81-320"
+                },
+                {
+                    "k": "buecherei@stadt.wuelfrath.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "06"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "buecherei@stadt.wuelfrath.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "buecherei@stadt.wuelfrath.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-817",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-817",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-817",
+    "identifier": "DE-817",
+    "name": "W\u00fclfrather Medien Welt",
+    "location": "W\u00fclfrath",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NRW"
+}

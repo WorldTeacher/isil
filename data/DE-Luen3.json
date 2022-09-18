@@ -1,0 +1,255 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Luen3.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:05-09-18"
+                ],
+                {
+                    "t": "10:12:52.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020595255"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "318001-3"
+                },
+                {
+                    "b": "CX954"
+                },
+                {
+                    "d": "L\u00fcn 3"
+                },
+                {
+                    "e": "DE-Luen3"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.oberverwaltungsgericht.niedersachsen.de"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "L\u00fcneburg Oberverwalt.Gericht"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Nieders\u00e4chsisches Oberverwaltungsgericht, Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Uelzener Str. 40"
+                },
+                {
+                    "b": "L\u00fcneburg"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "21335"
+                },
+                {
+                    "f": "Niedersachsen"
+                },
+                {
+                    "i": "Mo-Do 9.00-14.00, Fr  und vor Wochenfeiertagen 9.00-12.00"
+                },
+                {
+                    "j": "eingeschr\u00e4nkt \u00f6ffentlich zug\u00e4nglich"
+                },
+                {
+                    "k": "10.40600"
+                },
+                {
+                    "l": "53.23717"
+                },
+                {
+                    "n": "03355022"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "L\u00fcneburg"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "21313"
+                },
+                {
+                    "f": "Niedersachsen"
+                },
+                {
+                    "g": "23 71"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "4131"
+                },
+                {
+                    "f": "7 18-0"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "4131"
+                },
+                {
+                    "i": "7 18-208"
+                },
+                {
+                    "k": "OVGLG-Bibliothek@justiz.niedersachsen.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0111"
+                },
+                {
+                    "e": "GBV"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "02"
+                },
+                {
+                    "h": "07"
+                },
+                {
+                    "i": "P"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "\u00d6ffentliches Recht"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NIE"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "GBV"
+                },
+                {
+                    "e": "k"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Luen3",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Luen3",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Luen3",
+    "identifier": "DE-Luen3",
+    "name": "Nieders\u00e4chsisches Oberverwaltungsgericht, Bibliothek",
+    "location": "L\u00fcneburg",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NIE"
+}

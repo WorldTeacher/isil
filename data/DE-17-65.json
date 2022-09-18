@@ -1,0 +1,183 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-17-65.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:18-11-99"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:22-02-21"
+                ],
+                {
+                    "t": "15:41:58.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "009053298"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "611065-4"
+                },
+                {
+                    "d": "17/65"
+                },
+                {
+                    "e": "DE-17-65"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.ulb.tu-darmstadt.de/17_065"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Darmstadt Inst. IWAR"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "TU Darmstadt, Institut IWAR"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Franziska-Braun-Str. 7"
+                },
+                {
+                    "b": "Darmstadt"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "64287"
+                },
+                {
+                    "f": "Hessen"
+                },
+                {
+                    "k": "8.67884"
+                },
+                {
+                    "l": "49.86198"
+                },
+                {
+                    "n": "06411000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035D": [
+            [
+                {
+                    "a": "17/64"
+                },
+                {
+                    "b": "DE-17-64"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "c": "0024"
+                },
+                {
+                    "e": "HBV"
+                },
+                {
+                    "f": "65"
+                },
+                {
+                    "g": "07"
+                },
+                {
+                    "k": "Ds 65"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "HES"
+                },
+                {
+                    "c": "HeBIS"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-17-65",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-17-65",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-17-65",
+    "identifier": "DE-17-65",
+    "name": "TU Darmstadt, Institut IWAR",
+    "location": "Darmstadt",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "HES"
+}

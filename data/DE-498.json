@@ -1,0 +1,185 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-498.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:04-11-16"
+                ],
+                {
+                    "t": "14:06:13.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020584547"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "AG498"
+                },
+                {
+                    "d": "498"
+                },
+                {
+                    "e": "DE-498"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Norderstedt StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtb\u00fccherei Norderstedt-Mitte"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Rathausallee 50"
+                },
+                {
+                    "b": "Norderstedt"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "22846"
+                },
+                {
+                    "f": "Schleswig-Holstein"
+                },
+                {
+                    "k": "9.99327"
+                },
+                {
+                    "l": "53.70825"
+                },
+                {
+                    "n": "01060063"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "40"
+                },
+                {
+                    "f": "5 22 08-950 und -952"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "40"
+                },
+                {
+                    "i": "5 22 08-969"
+                },
+                {
+                    "k": "stb-mitte@norderstedt.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "08"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "HAM"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-498",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-498",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-498",
+    "identifier": "DE-498",
+    "name": "Stadtb\u00fccherei Norderstedt-Mitte",
+    "location": "Norderstedt",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "HAM"
+}

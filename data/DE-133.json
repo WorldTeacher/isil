@@ -1,0 +1,234 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-133.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:19-01-16"
+                ],
+                {
+                    "t": "18:16:29.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020582919"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "538533-7"
+                },
+                {
+                    "b": "AL133"
+                },
+                {
+                    "d": "133"
+                },
+                {
+                    "e": "DE-133"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.bonn.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://www.stadtarchiv.bonn.de/cgi-bin/katalog.pl"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Bonn Stadtarchiv"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtarchiv und Stadthistorische Bibliothek Bonn"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Berliner Pl. 2"
+                },
+                {
+                    "b": "Bonn"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "53103"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "h": "Passage"
+                },
+                {
+                    "i": "Mo und Do 10.00-18.00, Di und Mi 10.00-16.00, Fr und Sa 10.00-13.00"
+                },
+                {
+                    "k": "7.09484"
+                },
+                {
+                    "l": "50.73721"
+                },
+                {
+                    "n": "05314000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "228"
+                },
+                {
+                    "f": "77-2412, -2465 und -3683"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "228"
+                },
+                {
+                    "i": "77-4301"
+                },
+                {
+                    "k": "Stadtarchiv@bonn.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0302"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "08"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Bonn <Stadtgeschichte>"
+                },
+                {
+                    "a": "Arndt, Ernst Moritz"
+                },
+                {
+                    "a": "Schmidtbonn, Wilhelm"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "d": "Kalliope"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-133",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-133",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-133",
+    "identifier": "DE-133",
+    "name": "Stadtarchiv und Stadthistorische Bibliothek Bonn",
+    "location": "Bonn",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NRW"
+}

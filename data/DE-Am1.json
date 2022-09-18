@@ -1,0 +1,214 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Am1.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:18-10-17"
+                ],
+                {
+                    "t": "13:21:09.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020588593"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "CY855"
+                },
+                {
+                    "d": "Am 1"
+                },
+                {
+                    "e": "DE-Am1"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.fuerst-leiningen.de/"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "F\u00fcrstlich Leiningensche Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Schlo\u00dfpl. 1"
+                },
+                {
+                    "b": "Amorbach"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "63916"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "k": "9.22021"
+                },
+                {
+                    "l": "49.64352"
+                },
+                {
+                    "n": "09676112"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Amorbach"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "63912"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "g": "11 80"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "9373"
+                },
+                {
+                    "f": "97 15-0"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "9373"
+                },
+                {
+                    "i": "97 15-50"
+                },
+                {
+                    "k": "sekretariat@fuerst-leiningen.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "12"
+                },
+                {
+                    "h": "06"
+                },
+                {
+                    "i": "P"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAY"
+                },
+                {
+                    "d": "Kalliope"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Am1",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Am1",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Am1",
+    "identifier": "DE-Am1",
+    "name": "F\u00fcrstlich Leiningensche Bibliothek",
+    "location": "Amorbach",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAY"
+}

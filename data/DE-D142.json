@@ -1,0 +1,283 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-D142.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:18-11-99"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:23-05-22"
+                ],
+                {
+                    "t": "12:42:39.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "009030441"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "958204-6"
+                },
+                {
+                    "b": "ED240"
+                },
+                {
+                    "d": "D 142"
+                },
+                {
+                    "e": "DE-D142"
+                },
+                {
+                    "f": "IFWDD"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "https://ifwlib.bibliotheca-open.de/de-de/"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://ifwlib.bibliotheca-open.de/de-de/Mediensuche/Erweiterte-Suche"
+                },
+                {
+                    "z": "B"
+                }
+            ],
+            [
+                {
+                    "u": "https://ifwlib.bibliotheca-open.de/en-us/"
+                },
+                {
+                    "x": "Homepage englische Version"
+                },
+                {
+                    "z": "W"
+                }
+            ],
+            [
+                {
+                    "u": "https://ifwlib.bibliotheca-open.de/en-us/Search/Advanced-Search"
+                },
+                {
+                    "x": "OPAC englische Version"
+                },
+                {
+                    "z": "W"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Bibliothek des IFW Dresden"
+                },
+                {
+                    "4": "a"
+                }
+            ],
+            [
+                {
+                    "a": "Dresden IFW WGL"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Leibniz-Institut f\u00fcr Festk\u00f6rper- und Werkstoffforschung, IFW Dresden, Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Helmholtzstr. 20"
+                },
+                {
+                    "b": "Dresden"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "01069"
+                },
+                {
+                    "f": "Sachsen"
+                },
+                {
+                    "k": "13.72533"
+                },
+                {
+                    "l": "51.02671"
+                },
+                {
+                    "n": "14612000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "351"
+                },
+                {
+                    "f": "4 65 94 88"
+                },
+                {
+                    "k": "bibliothek@ifw-dresden.de"
+                }
+            ]
+        ],
+        "035D": [
+            [
+                {
+                    "a": "D 144"
+                }
+            ],
+            [
+                {
+                    "a": "D 125"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0101"
+                },
+                {
+                    "d": "WGL"
+                },
+                {
+                    "d": "SWB"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "06"
+                },
+                {
+                    "h": "07"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Festk\u00f6rperphysik"
+                },
+                {
+                    "a": "Werkstoffkunde"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "SAX"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "SWB"
+                },
+                {
+                    "d": "WGL"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035Q": [
+            [
+                {
+                    "a": "j"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-D142",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-D142",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-D142",
+    "identifier": "DE-D142",
+    "name": "Leibniz-Institut f\u00fcr Festk\u00f6rper- und Werkstoffforschung, IFW Dresden, Bibliothek",
+    "location": "Dresden",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "SAX"
+}

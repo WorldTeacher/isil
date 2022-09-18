@@ -1,0 +1,222 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-1309.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-06-07"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:28-12-16"
+                ],
+                {
+                    "t": "10:16:42.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:11-06-07"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "984576185"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "HQ104"
+                },
+                {
+                    "d": "1309"
+                },
+                {
+                    "e": "DE-1309"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.buecherei-penzberg.de/homepage.html"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://cloudopac.winbiap.de/penzberg/index.aspx"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Penzberg StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtb\u00fccherei Penzberg"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Karlstr. 23"
+                },
+                {
+                    "b": "Penzberg"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "82377"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "h": "Rathauspassage"
+                },
+                {
+                    "i": "Di und Fr 10.30-17.30, Mi und Sa 9.30-12.30, Do 10.30-19.00"
+                },
+                {
+                    "k": "11.37735"
+                },
+                {
+                    "l": "47.75097"
+                },
+                {
+                    "n": "09190141"
+                },
+                {
+                    "o": "barrierefrei"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "8856"
+                },
+                {
+                    "f": "8 13-750"
+                },
+                {
+                    "k": "buecherei@penzberg.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "06"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAY"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "BVB"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "buecherei@penzberg.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-1309",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-1309",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-1309",
+    "identifier": "DE-1309",
+    "name": "Stadtb\u00fccherei Penzberg",
+    "location": "Penzberg",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAY"
+}

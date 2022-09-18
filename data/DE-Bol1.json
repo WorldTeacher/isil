@@ -1,0 +1,210 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Bol1.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:11-06-18"
+                ],
+                {
+                    "t": "10:42:28.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020589662"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "BL667"
+                },
+                {
+                    "d": "Bol 1"
+                },
+                {
+                    "e": "DE-Bol1"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.ev-akademie-boll.de"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Bad Boll Ev. Akademie"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Evangelische Akademie Bad Boll, Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Akademieweg 11"
+                },
+                {
+                    "b": "Bad Boll"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "73087"
+                },
+                {
+                    "f": "Baden-W\u00fcrttemberg"
+                },
+                {
+                    "i": "nicht \u00f6ffentlich zug\u00e4nglich"
+                },
+                {
+                    "k": "9.60094"
+                },
+                {
+                    "l": "48.63848"
+                },
+                {
+                    "n": "08117012"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "7164"
+                },
+                {
+                    "f": "79-285"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "7164"
+                },
+                {
+                    "i": "79-5285"
+                },
+                {
+                    "k": "bibliothek@ev-akademie-boll.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "09"
+                },
+                {
+                    "h": "06"
+                },
+                {
+                    "i": "P"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "SWB"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Bol1",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Bol1",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Bol1",
+    "identifier": "DE-Bol1",
+    "name": "Evangelische Akademie Bad Boll, Bibliothek",
+    "location": "Bad Boll",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAW"
+}

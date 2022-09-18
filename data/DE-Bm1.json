@@ -1,0 +1,260 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Bm1.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:28-11-18"
+                ],
+                {
+                    "t": "16:37:33.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:27-05-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "02058931X"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "CZ112"
+                },
+                {
+                    "d": "Bm 1"
+                },
+                {
+                    "e": "DE-Bm1"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "https://www.thga.de/die-th/zentrale-einrichtungen/medienzentrum/bibliothek/"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Bochum TH"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Technische Hochschule Georg Agricola, Hochschulbibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Herner Str. 45"
+                },
+                {
+                    "b": "Bochum"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "44787"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "i": "Mo 8.00-18.00, Di und Do 8.00-20.00, Mi 8.00-12.00, Fr 8.00-16.00, Sa 9.30-12.00"
+                },
+                {
+                    "k": "7.21353"
+                },
+                {
+                    "l": "51.48813"
+                },
+                {
+                    "n": "05911000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Bochum"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "44727"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "g": "10 27 49"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "234"
+                },
+                {
+                    "f": "9 68-3216, -3250 und -3385"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "234"
+                },
+                {
+                    "i": "9 68-3255"
+                },
+                {
+                    "k": "Bibliothek@thga.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "70"
+                },
+                {
+                    "g": "08"
+                },
+                {
+                    "h": "07"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035K": [
+            [
+                {
+                    "b": "A"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "b"
+                },
+                {
+                    "d": "Bibliothek@thga.de"
+                }
+            ],
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "Bibliothek@thga.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "Bibliothek@thga.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Bm1",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Bm1",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Bm1",
+    "identifier": "DE-Bm1",
+    "name": "Technische Hochschule Georg Agricola, Hochschulbibliothek",
+    "location": "Bochum",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NRW"
+}

@@ -1,0 +1,285 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-B1547.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:09-07-03"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:18-02-21"
+                ],
+                {
+                    "t": "13:31:16.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:27-05-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "024872679"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "181547-7"
+                },
+                {
+                    "b": "ME109"
+                },
+                {
+                    "d": "B 1547"
+                },
+                {
+                    "e": "DE-B1547"
+                },
+                {
+                    "f": "DIM"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "https://www.institut-fuer-menschenrechte.de/bibliothek/"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://vzopc4.gbv.de/DB=22/"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "DIMR"
+                },
+                {
+                    "4": "b"
+                }
+            ],
+            [
+                {
+                    "a": "Berlin InstMenschenrechte"
+                },
+                {
+                    "4": "c"
+                }
+            ],
+            [
+                {
+                    "a": "German Institute for Human Rights"
+                },
+                {
+                    "4": "d"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Deutsches Institut f\u00fcr Menschenrechte, Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Zimmerstr. 26/27"
+                },
+                {
+                    "b": "Berlin"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "10969"
+                },
+                {
+                    "f": "Berlin"
+                },
+                {
+                    "h": "Aufgang A, 7. Stock"
+                },
+                {
+                    "i": "Mo-Fr 10.00-17.00"
+                },
+                {
+                    "k": "13.39331"
+                },
+                {
+                    "l": "52.50777"
+                },
+                {
+                    "n": "11000000"
+                },
+                {
+                    "o": "Rollstuhlgerechter Zugang. PC-Arbeitsplatz f\u00fcr sehbehinderte Menschen"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "30"
+                },
+                {
+                    "f": "25 93 59-10"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "30"
+                },
+                {
+                    "i": "25 93 59-59"
+                },
+                {
+                    "k": "bib-info@dimr.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0111"
+                },
+                {
+                    "e": "GBV"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "08"
+                },
+                {
+                    "h": "06"
+                },
+                {
+                    "i": "P"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Menschenrechte"
+                },
+                {
+                    "a": "Menschenrechtsbildung"
+                },
+                {
+                    "a": "UN-Behindertenrechtskonvention"
+                },
+                {
+                    "a": "Kinderrechte"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BER"
+                },
+                {
+                    "c": "GBV"
+                },
+                {
+                    "d": "KOBV"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "bib-info@dimr.de"
+                }
+            ]
+        ],
+        "047A": [
+            [
+                {
+                    "a": "Wochenendausleihe Freitag-Montag m\u00f6glich"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-B1547",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-B1547",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-B1547",
+    "identifier": "DE-B1547",
+    "name": "Deutsches Institut f\u00fcr Menschenrechte, Bibliothek",
+    "location": "Berlin",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BER"
+}

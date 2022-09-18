@@ -1,0 +1,279 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-He43.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:18-11-99"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:17-02-16"
+                ],
+                {
+                    "t": "13:46:10.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:27-05-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "009017011"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "698043-0"
+                },
+                {
+                    "b": "DB596"
+                },
+                {
+                    "d": "He 43"
+                },
+                {
+                    "e": "DE-He43"
+                },
+                {
+                    "f": "MPIMF"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.mpimf-heidelberg.mpg.de/einrichtungen/bibliothek/index.html"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://aleph.mpg.de/F?func=file&file_name=find-a&local_base=imf01"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Heidelberg MPI Med.Forschung"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Max-Planck-Institut f\u00fcr medizinische Forschung, Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Jahnstr. 29"
+                },
+                {
+                    "b": "Heidelberg"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "69120"
+                },
+                {
+                    "f": "Baden-W\u00fcrttemberg"
+                },
+                {
+                    "i": "nach Vereinbarung"
+                },
+                {
+                    "k": "8.67599"
+                },
+                {
+                    "l": "49.41211"
+                },
+                {
+                    "n": "08221000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Heidelberg"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "69028"
+                },
+                {
+                    "f": "Baden-W\u00fcrttemberg"
+                },
+                {
+                    "g": "10 38 20"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "6221"
+                },
+                {
+                    "f": "4 86-201"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "6221"
+                },
+                {
+                    "i": "4 86-213"
+                },
+                {
+                    "j": "461505 mpimf d"
+                },
+                {
+                    "k": "lib@mpimf-heidelberg.mpg.de"
+                }
+            ]
+        ],
+        "035D": [
+            [
+                {
+                    "b": "GyHeM (fr\u00fcherer MARC Code)"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0023"
+                },
+                {
+                    "d": "SWB"
+                },
+                {
+                    "d": "MPG"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "01"
+                },
+                {
+                    "h": "07"
+                },
+                {
+                    "i": "P"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Biochemie"
+                },
+                {
+                    "a": "Chemie"
+                },
+                {
+                    "a": "Neurowissenschaften"
+                },
+                {
+                    "a": "Biophysik"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAW"
+                },
+                {
+                    "c": "SWB"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-He43",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-He43",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-He43",
+    "identifier": "DE-He43",
+    "name": "Max-Planck-Institut f\u00fcr medizinische Forschung, Bibliothek",
+    "location": "Heidelberg",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAW"
+}

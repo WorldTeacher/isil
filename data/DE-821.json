@@ -1,0 +1,222 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-821.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:07-12-20"
+                ],
+                {
+                    "t": "15:54:39.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:27-05-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020586159"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "PK036"
+                },
+                {
+                    "d": "821"
+                },
+                {
+                    "e": "DE-821"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.buecherei-rheinbach.de"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Rheinbach K\u00d6B"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "\u00d6ffentliche B\u00fccherei Sankt Martin"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Lindenpl. 4"
+                },
+                {
+                    "b": "Rheinbach"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "53359"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "i": "Mo-Di 9.00-18.00, Do-Fr 14.30-18.00, Sa 9.00-13.00"
+                },
+                {
+                    "k": "6.94968"
+                },
+                {
+                    "l": "50.62538"
+                },
+                {
+                    "n": "05382048"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "2226"
+                },
+                {
+                    "f": "36 82"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "2226"
+                },
+                {
+                    "i": "9 09 98 90"
+                },
+                {
+                    "k": "buecherei@st-martin-rheinbach.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "10"
+                },
+                {
+                    "h": "06"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "buecherei@st-martin-rheinbach.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "buecherei@st-martin-rheinbach.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-821",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-821",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-821",
+    "identifier": "DE-821",
+    "name": "\u00d6ffentliche B\u00fccherei Sankt Martin",
+    "location": "Rheinbach",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NRW"
+}

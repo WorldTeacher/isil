@@ -1,0 +1,224 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-613.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:22-02-08"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:03-04-18"
+                ],
+                {
+                    "t": "10:06:05.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:22-02-08"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "987668439"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "d": "613"
+                },
+                {
+                    "e": "DE-613"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.vthk.de/vthk_hi_ueber.php"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://www.vthk.de"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "VThK"
+                },
+                {
+                    "4": "a"
+                }
+            ],
+            [
+                {
+                    "a": "Neuendettelsau VThK"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Virtueller Katalog Theologie und Kirche"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Waldstr. 15"
+                },
+                {
+                    "b": "Neuendettelsau"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "91564"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "k": "10.77720"
+                },
+                {
+                    "l": "49.28443"
+                },
+                {
+                    "n": "09571180"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "z": "Kontaktanschrift"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "9874"
+                },
+                {
+                    "f": "5 09-300"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "9874"
+                },
+                {
+                    "i": "5 09-555"
+                },
+                {
+                    "k": "bibliothek@augustana.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "95"
+                },
+                {
+                    "g": "06"
+                },
+                {
+                    "h": "11"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Theologie"
+                },
+                {
+                    "a": "Sozialwissenschaften"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "WWW"
+                },
+                {
+                    "d": "VThK"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-613",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-613",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-613",
+    "identifier": "DE-613",
+    "name": "Virtueller Katalog Theologie und Kirche",
+    "location": "Neuendettelsau",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "WWW"
+}

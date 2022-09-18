@@ -1,0 +1,212 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-1183.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:04-05-04"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:22-11-16"
+                ],
+                {
+                    "t": "18:16:12.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "025949233"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "JN496"
+                },
+                {
+                    "d": "1183"
+                },
+                {
+                    "e": "DE-1183"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.stadtbibliothek-row.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://kataloge-bz-niedersachsen.de/rotenburg/webopac/"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Rotenburg/W StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtbibliothek Rotenburg/W\u00fcmme"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Am Kirchhof 10"
+                },
+                {
+                    "b": "Rotenburg/W\u00fcmme"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "27356"
+                },
+                {
+                    "f": "Niedersachsen"
+                },
+                {
+                    "i": "Mo 15.00-18.00, Di-Mi 9.00-12.00 und 15.00-18.00, Do 9.00-18.00, Sa 9.00-12.00"
+                },
+                {
+                    "k": "9.40566"
+                },
+                {
+                    "l": "53.10856"
+                },
+                {
+                    "n": "03357039"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "4261"
+                },
+                {
+                    "f": "91 45-15 und -35"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "4261"
+                },
+                {
+                    "i": "91 45-20"
+                },
+                {
+                    "k": "bib@rotenburg-wuemme.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "07"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NIE"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "GBV"
+                },
+                {
+                    "e": "l"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-1183",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-1183",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-1183",
+    "identifier": "DE-1183",
+    "name": "Stadtbibliothek Rotenburg/W\u00fcmme",
+    "location": "Rotenburg/W\u00fcmme",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NIE"
+}

@@ -1,0 +1,227 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-1828.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:04-05-10"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:13-12-21"
+                ],
+                {
+                    "t": "10:43:30.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:04-05-10"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1002151996"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "GQ391"
+                },
+                {
+                    "d": "1828"
+                },
+                {
+                    "e": "DE-1828"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "https://hiddenhausen.bibliotheken-in-owl.de/"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://hiddenhausen.bibliotheken-in-owl.de/Suche"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Hiddenhausen GB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Gemeindeb\u00fccherei Hiddenhausen"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Rathauspl. 15"
+                },
+                {
+                    "b": "Hiddenhausen"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "32120"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "i": "Di und Do 12.30-18.00, Mi 10.00 -15.00, Fr 10.00-13.00 und 14.00-18.00"
+                },
+                {
+                    "k": "8.63809"
+                },
+                {
+                    "l": "52.15287"
+                },
+                {
+                    "n": "05758016"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "5221"
+                },
+                {
+                    "f": "96 41 20"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "5221"
+                },
+                {
+                    "i": "2 96 90 90"
+                },
+                {
+                    "k": "buch@hiddenhausen.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "06"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "e": "l"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "buch@hiddenhausen.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "buch@hiddenhausen.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-1828",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-1828",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-1828",
+    "identifier": "DE-1828",
+    "name": "Gemeindeb\u00fccherei Hiddenhausen",
+    "location": "Hiddenhausen",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NRW"
+}

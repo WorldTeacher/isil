@@ -1,0 +1,263 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-1082.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:28-11-18"
+                ],
+                {
+                    "t": "16:37:41.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020588194"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "DZ324"
+                },
+                {
+                    "d": "1082"
+                },
+                {
+                    "e": "DE-1082"
+                },
+                {
+                    "f": "FHKL"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "https://www.hs-kl.de/hochschule/servicestellen/bibliothek/"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://143.93.12.30/wwwopac/index.asp?DB=webopac1"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Zweibr\u00fccken HS Kaiserslautern"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Hochschule Kaiserslautern, Campus Zweibr\u00fccken, Bibliothek"
+                }
+            ]
+        ],
+        "029R": [
+            [
+                {
+                    "9": "020588216"
+                },
+                {
+                    "7": "Tw"
+                },
+                {
+                    "a": "Hochschule Kaiserslautern, Hochschulbibliothek, Standortbibliothek Kaiserslautern"
+                },
+                {
+                    "e": "DE-1084"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Amerikastr. 1"
+                },
+                {
+                    "b": "Zweibr\u00fccken"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "66482"
+                },
+                {
+                    "f": "Rheinland-Pfalz"
+                },
+                {
+                    "h": "O 110"
+                },
+                {
+                    "i": "Mo-Do 8.30-19.00, Fr 9.00-15.00, Sa 10.00-14.00"
+                },
+                {
+                    "j": "w\u00e4hrend der Semesterferien: Mo-Do 8.30-12.00 und 13.00-15.00, Fr 9.00-13.00"
+                },
+                {
+                    "k": "7.36448"
+                },
+                {
+                    "l": "49.27397"
+                },
+                {
+                    "n": "07320000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "631"
+                },
+                {
+                    "f": "37 24-5133"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "631"
+                },
+                {
+                    "i": "37 24-5135"
+                },
+                {
+                    "k": "bibliothek-zw@hs-kl.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "73"
+                },
+                {
+                    "g": "02"
+                },
+                {
+                    "h": "07"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "b"
+                },
+                {
+                    "d": "bibliothek-zw@hs-kl.de"
+                }
+            ],
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "bibliothek-zw@hs-kl.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "bibliothek-zw@hs-kl.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-1082",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-1082",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-1082",
+    "identifier": "DE-1082",
+    "name": "Hochschule Kaiserslautern, Campus Zweibr\u00fccken, Bibliothek",
+    "location": "Zweibr\u00fccken",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NRW"
+}

@@ -1,0 +1,241 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-709.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:18-11-99"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:19-08-21"
+                ],
+                {
+                    "t": "11:31:30.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "009012001"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "LH102"
+                },
+                {
+                    "d": "709"
+                },
+                {
+                    "e": "DE-709"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.hennef.de/stadtbibliothek"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://sb-hennef.lmscloud.net"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Hennef StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtbibliothek Hennef"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Beethovenstr. 21"
+                },
+                {
+                    "b": "Hennef"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "53773"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "i": "Di-Mi und Fr 10.00-13.00 und 14.00-18.00, Do 15.30-19.30, Sa 10.00-13.00"
+                },
+                {
+                    "k": "7.27961"
+                },
+                {
+                    "l": "50.77424"
+                },
+                {
+                    "n": "05382020"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "2242"
+                },
+                {
+                    "f": "88 85 30"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "2242"
+                },
+                {
+                    "i": "88 85 36"
+                },
+                {
+                    "k": "leihverkehr@hennef.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "07"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "f": "x"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "b"
+                },
+                {
+                    "d": "leihverkehr@hennef.de"
+                }
+            ],
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "leihverkehr@hennef.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "leihverkehr@hennef.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-709",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-709",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-709",
+    "identifier": "DE-709",
+    "name": "Stadtbibliothek Hennef",
+    "location": "Hennef",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NRW"
+}

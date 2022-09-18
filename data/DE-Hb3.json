@@ -1,0 +1,234 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Hb3.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:24-09-04"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:17-02-16"
+                ],
+                {
+                    "t": "14:18:52.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "026497778"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "d": "Hb 3"
+                },
+                {
+                    "e": "DE-Hb3"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.arbg-heilbronn.de/"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Heilbronn Arbeitsgericht"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Arbeitsgericht Heilbronn, Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Paulinenstr. 18"
+                },
+                {
+                    "b": "Heilbronn"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "74076"
+                },
+                {
+                    "f": "Baden-W\u00fcrttemberg"
+                },
+                {
+                    "i": "Mo-Do 9.00-15.30, Fr 9.00-12.00"
+                },
+                {
+                    "j": "nicht \u00f6ffentlich zug\u00e4nglich"
+                },
+                {
+                    "k": "9.22152"
+                },
+                {
+                    "l": "49.14815"
+                },
+                {
+                    "n": "08121000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Heilbronn"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "74076"
+                },
+                {
+                    "f": "Baden-W\u00fcrttemberg"
+                },
+                {
+                    "g": "11 64"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "7131"
+                },
+                {
+                    "f": "95 78-0"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "7131"
+                },
+                {
+                    "i": "95 78-444"
+                },
+                {
+                    "k": "poststelle-hn@lag.bwl.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "02"
+                },
+                {
+                    "h": "02"
+                },
+                {
+                    "i": "P"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Arbeitsrecht"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAW"
+                },
+                {
+                    "c": "SWB"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Hb3",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Hb3",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Hb3",
+    "identifier": "DE-Hb3",
+    "name": "Arbeitsgericht Heilbronn, Bibliothek",
+    "location": "Heilbronn",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAW"
+}

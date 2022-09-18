@@ -1,0 +1,209 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-926.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:28-01-16"
+                ],
+                {
+                    "t": "16:33:51.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020586973"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "KL055"
+                },
+                {
+                    "d": "926"
+                },
+                {
+                    "e": "DE-926"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.frankenberg-eder.de/index.php/buecherei.html"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://www.datronic.de/cgi-bin/findus.pl?customer=frankenberg"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Frankenberg StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtb\u00fccherei Frankenberg"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Pferdemarkt 20"
+                },
+                {
+                    "b": "Frankenberg/Eder"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "35066"
+                },
+                {
+                    "f": "Hessen"
+                },
+                {
+                    "h": "Im Steinhaus"
+                },
+                {
+                    "i": "Mo und Mi 10.00-13.00 und 15.00-18.30, Di und Fr 14.00-17.00, Sa 10.00-12.00"
+                },
+                {
+                    "k": "8.80299"
+                },
+                {
+                    "l": "51.05863"
+                },
+                {
+                    "n": "06635011"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "6451"
+                },
+                {
+                    "f": "71 68 20"
+                },
+                {
+                    "k": "buecherei@frankenberg.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "06"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "HES"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "HeBIS"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-926",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-926",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-926",
+    "identifier": "DE-926",
+    "name": "Stadtb\u00fccherei Frankenberg",
+    "location": "Frankenberg/Eder",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "HES"
+}

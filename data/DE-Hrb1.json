@@ -1,0 +1,189 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Hrb1.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:15-03-10"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:11-05-22"
+                ],
+                {
+                    "t": "12:54:12.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:15-03-10"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1000849775"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "101122-4"
+                },
+                {
+                    "d": "Hrb 1"
+                },
+                {
+                    "e": "DE-Hrb1"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "https://www.herrenberg.de/buerger-service/wo-erledigt-man-was/aemtereinrichtungen/stadtarchiv.html"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Herrenberg Stadtarchiv"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtarchiv Herrenberg"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Marienstr. 21"
+                },
+                {
+                    "b": "Herrenberg"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "71083"
+                },
+                {
+                    "f": "Baden-W\u00fcrttemberg"
+                },
+                {
+                    "k": "8.87399"
+                },
+                {
+                    "l": "48.59253"
+                },
+                {
+                    "n": "08115021"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "7032"
+                },
+                {
+                    "f": "95 46 33-0"
+                },
+                {
+                    "k": "archiv@herrenberg.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0367"
+                },
+                {
+                    "f": "52"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "01"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAW"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Hrb1",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Hrb1",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Hrb1",
+    "identifier": "DE-Hrb1",
+    "name": "Stadtarchiv Herrenberg",
+    "location": "Herrenberg",
+    "type": [
+        "Organization",
+        "Archive"
+    ],
+    "addressRegion": "BAW"
+}

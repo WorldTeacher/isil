@@ -1,0 +1,280 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Hed2.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:03-05-02"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:24-09-21"
+                ],
+                {
+                    "t": "09:53:28.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "023468645"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "797200-3"
+                },
+                {
+                    "b": "HE895"
+                },
+                {
+                    "d": "Hed 2"
+                },
+                {
+                    "e": "DE-Hed2"
+                },
+                {
+                    "f": "BAH"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.dhbw-heidenheim.de/Bibliothek.55.0.html"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://bsz.ibs-bw.de/opac09"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Heidenheim DHBW Bibliothek"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Duale Hochschule Baden-W\u00fcrttemberg Heidenheim, Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Marienstr. 20"
+                },
+                {
+                    "b": "Heidenheim/Brenz"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "89518"
+                },
+                {
+                    "f": "Baden-W\u00fcrttemberg"
+                },
+                {
+                    "i": "Mo-Do 10.00-18.00, Fr 10.00-13.30, Sa 9.30-12.00"
+                },
+                {
+                    "k": "10.15454"
+                },
+                {
+                    "l": "48.68213"
+                },
+                {
+                    "n": "08135019"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Heidenheim/Brenz"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "89501"
+                },
+                {
+                    "f": "Baden-W\u00fcrttemberg"
+                },
+                {
+                    "g": "11 30"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "7321"
+                },
+                {
+                    "f": "27 22-150"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "7321"
+                },
+                {
+                    "i": "27 22-159"
+                },
+                {
+                    "k": "bibliothek@dhbw-heidenheim.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0070"
+                },
+                {
+                    "d": "SWB"
+                },
+                {
+                    "f": "70"
+                },
+                {
+                    "g": "02"
+                },
+                {
+                    "h": "07"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Wirtschaftswissenschaften"
+                },
+                {
+                    "a": "Technik"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "SWB"
+                },
+                {
+                    "e": "n"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "bibliothek@dhbw-heidenheim.de"
+                }
+            ]
+        ],
+        "035Q": [
+            [
+                {
+                    "a": "j"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Hed2",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Hed2",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Hed2",
+    "identifier": "DE-Hed2",
+    "name": "Duale Hochschule Baden-W\u00fcrttemberg Heidenheim, Bibliothek",
+    "location": "Heidenheim/Brenz",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAW"
+}

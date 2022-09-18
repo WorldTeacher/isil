@@ -1,0 +1,251 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Ka92.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:06-01-10"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:06-09-17"
+                ],
+                {
+                    "t": "15:55:07.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:06-01-10"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "99932635X"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "d": "Ka 92"
+                },
+                {
+                    "e": "DE-Ka92"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "https://www.landkreis-karlsruhe.de/index.phtml?La=1&sNavID=1863.81&object=tx|1863.216.1&kat=&kuo=1&sub=0"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Kreisarchiv Karlsruhe"
+                },
+                {
+                    "4": "a"
+                }
+            ],
+            [
+                {
+                    "a": "Bruchsal Krsarchiv Karlsruhe"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Landratsamt Karlsruhe, Kreisarchiv"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Werner-von-Siemens-Str. 2-6"
+                },
+                {
+                    "b": "Bruchsal"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "76646"
+                },
+                {
+                    "f": "Baden-W\u00fcrttemberg"
+                },
+                {
+                    "h": "Geb\u00e4ude 5112"
+                },
+                {
+                    "i": "Mo, Mi und Fr. 8.00-12.00, Do 8.00-12.00 und 14.00-17.00"
+                },
+                {
+                    "k": "8.59058"
+                },
+                {
+                    "l": "49.12848"
+                },
+                {
+                    "n": "08215009"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "a": "Beiertheimer Allee 2"
+                },
+                {
+                    "b": "Karlsruhe"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "76137"
+                },
+                {
+                    "f": "Baden-W\u00fcrttemberg"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "721"
+                },
+                {
+                    "f": "9 36-59200"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "721"
+                },
+                {
+                    "i": "9 36-59201"
+                },
+                {
+                    "k": "kreisarchiv@landratsamt-karlsruhe.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "52"
+                },
+                {
+                    "g": "03"
+                },
+                {
+                    "h": "05"
+                },
+                {
+                    "i": "P"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Landkreis Karlsruhe <Ortsgeschichte>"
+                },
+                {
+                    "a": "Karlsruhe <Kreis- und Regionalgeschichte>"
+                },
+                {
+                    "a": "Baden-W\u00fcrttemberg <Geschichte, Verwaltung>"
+                },
+                {
+                    "a": "Gesetz-, Verordnungs- und Amtsbl\u00e4tter"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAW"
+                },
+                {
+                    "c": "SWB"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Ka92",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Ka92",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Ka92",
+    "identifier": "DE-Ka92",
+    "name": "Landratsamt Karlsruhe, Kreisarchiv",
+    "location": "Bruchsal",
+    "type": [
+        "Organization",
+        "Archive"
+    ],
+    "addressRegion": "BAW"
+}

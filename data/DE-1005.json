@@ -1,0 +1,254 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-1005.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:22-06-22"
+                ],
+                {
+                    "t": "10:25:44.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020587562"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "JH590"
+                },
+                {
+                    "d": "1005"
+                },
+                {
+                    "e": "DE-1005"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "https://www.lauda-koenigshofen.de/kultur+_+freizeit/kultur/stadtbuecherei"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://web-opac.komm.one/lauda-koenigshofen/index.asp?DB=Lauda-Koenigshofen"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Lauda-K\u00f6nigshofen StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtb\u00fccherei Lauda - K\u00f6nigshofen"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Rathausstr. 21"
+                },
+                {
+                    "b": "Lauda-K\u00f6nigshofen"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "97922"
+                },
+                {
+                    "f": "Baden-W\u00fcrttemberg"
+                },
+                {
+                    "i": "Mo-Di 14.00-16.00, Mi 15.00-19.00, Do 10.00-12.00"
+                },
+                {
+                    "k": "9.70390"
+                },
+                {
+                    "l": "49.57067"
+                },
+                {
+                    "n": "08128139"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "a": "Rathausstr. 21"
+                },
+                {
+                    "b": "Lauda-K\u00f6nigshofen"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "97922"
+                },
+                {
+                    "f": "Baden-W\u00fcrttemberg"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "9343"
+                },
+                {
+                    "f": "50 15 930"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "9343"
+                },
+                {
+                    "i": "5 01-100"
+                },
+                {
+                    "k": "stadtbuecherei@lauda-koenigshofen.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "06"
+                },
+                {
+                    "i": "P"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "SWB"
+                },
+                {
+                    "d": "V\u00d6B-BF"
+                },
+                {
+                    "e": "n"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "stadtbuecherei@lauda-k\u00f6nigshofen.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-1005",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-1005",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-1005",
+    "identifier": "DE-1005",
+    "name": "Stadtb\u00fccherei Lauda - K\u00f6nigshofen",
+    "location": "Lauda-K\u00f6nigshofen",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAW"
+}

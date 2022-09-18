@@ -1,0 +1,234 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-1151.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:28-10-03"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:23-02-18"
+                ],
+                {
+                    "t": "11:39:37.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "025250841"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "d": "1151"
+                },
+                {
+                    "e": "DE-1151"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.lrasha.de/de/buergerservice/kreisarchiv/allgemein.html"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Schw\u00e4bisch Hall Kreisarchiv"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Kreisarchiv Schw\u00e4bisch Hall, Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "M\u00fcnzstr. 1"
+                },
+                {
+                    "b": "Schw\u00e4bisch Hall"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "74523"
+                },
+                {
+                    "f": "Baden-W\u00fcrttemberg"
+                },
+                {
+                    "i": "nach Vereinabrung"
+                },
+                {
+                    "k": "9.73686"
+                },
+                {
+                    "l": "49.11583"
+                },
+                {
+                    "n": "08127076"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Schw\u00e4bisch Hall"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "74507"
+                },
+                {
+                    "f": "Baden-W\u00fcrttemberg"
+                },
+                {
+                    "g": "11 04 53"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "791"
+                },
+                {
+                    "f": "7 55-7398"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "791"
+                },
+                {
+                    "i": "7 55-7362"
+                },
+                {
+                    "k": "info@LRASHA.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "03"
+                },
+                {
+                    "h": "03"
+                },
+                {
+                    "i": "P"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "W\u00fcrttembergica"
+                },
+                {
+                    "a": "Lokalzeitungen <ab 1830>"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAW"
+                },
+                {
+                    "c": "SWB"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-1151",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-1151",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-1151",
+    "identifier": "DE-1151",
+    "name": "Kreisarchiv Schw\u00e4bisch Hall, Bibliothek",
+    "location": "Schw\u00e4bisch Hall",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAW"
+}

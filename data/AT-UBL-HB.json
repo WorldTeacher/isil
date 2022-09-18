@@ -1,0 +1,227 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/AT-UBL-HB.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:29-11-04"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:16-11-20"
+                ],
+                {
+                    "t": "11:14:42.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "026770644"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "030008-1"
+                },
+                {
+                    "b": "AT411"
+                },
+                {
+                    "c": "15.214.0000-3"
+                },
+                {
+                    "d": "AT-UBL-HB"
+                },
+                {
+                    "e": "AT-UBL-HB"
+                },
+                {
+                    "f": "UBLI"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.bibliothek.jku.at"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://aleph.jku.at"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Johannes Kepler Universit\u00e4t Linz, Universit\u00e4tsbibliothek, Hauptbibliothek"
+                },
+                {
+                    "4": "a"
+                }
+            ],
+            [
+                {
+                    "a": "Linz UB HB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Universit\u00e4t Linz, Universit\u00e4tsbibliothek, Hauptbibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Altenberger Str. 69"
+                },
+                {
+                    "b": "Linz"
+                },
+                {
+                    "d": "AT"
+                },
+                {
+                    "e": "A-4040"
+                },
+                {
+                    "f": "\u00d6sterreich"
+                },
+                {
+                    "h": "OT Auhof"
+                },
+                {
+                    "k": "14.32127"
+                },
+                {
+                    "l": "48.33807"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "43"
+                },
+                {
+                    "e": "732"
+                },
+                {
+                    "f": "24 68-9380 und 9394"
+                },
+                {
+                    "g": "43"
+                },
+                {
+                    "h": "732"
+                },
+                {
+                    "i": "24 68-8680"
+                },
+                {
+                    "k": "bibliothek@jku.at"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "c": "0157"
+                },
+                {
+                    "e": "\u00d6BV"
+                },
+                {
+                    "f": "60"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "WEU"
+                },
+                {
+                    "c": "\u00d6BV"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ],
+        "047A": [
+            [
+                {
+                    "a": "Allgemein (\u00f6ffentlich) zug\u00e4nglich"
+                }
+            ]
+        ]
+    },
+    "_id": "AT-UBL-HB",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/AT-UBL-HB",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/AT-UBL-HB",
+    "identifier": "AT-UBL-HB",
+    "name": "Universit\u00e4t Linz, Universit\u00e4tsbibliothek, Hauptbibliothek",
+    "location": "Linz",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "WEU"
+}

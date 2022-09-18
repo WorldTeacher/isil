@@ -1,0 +1,131 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-MUS-138110.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:04-01-12"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:12-10-20"
+                ],
+                {
+                    "t": "10:06:15.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:04-01-12"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "101850124X"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "e": "DE-MUS-138110"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.museen-in-deutschland.de/singleview.php?muges=138110"
+                },
+                {
+                    "x": "Weitere Informationen"
+                },
+                {
+                    "z": "W"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Schelfenhaus"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Schelfengasse 1"
+                },
+                {
+                    "b": "Volkach"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "97332"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "k": "10.22675"
+                },
+                {
+                    "l": "49.86656"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "m"
+                },
+                {
+                    "f": "86"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-MUS-138110",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-MUS-138110",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-MUS-138110",
+    "identifier": "DE-MUS-138110",
+    "name": "Schelfenhaus",
+    "location": "Volkach",
+    "type": [
+        "Organization",
+        "Museum"
+    ]
+}

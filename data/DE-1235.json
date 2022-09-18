@@ -1,0 +1,220 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-1235.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:13-10-04"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:03-06-21"
+                ],
+                {
+                    "t": "15:11:38.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "026561867"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "WA984"
+                },
+                {
+                    "d": "1235"
+                },
+                {
+                    "e": "DE-1235"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.bibliothek.apolda.info"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Apolda StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtbibliothek Apolda"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Dornburger Str. 14"
+                },
+                {
+                    "b": "Apolda"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "99510"
+                },
+                {
+                    "f": "Th\u00fcringen"
+                },
+                {
+                    "i": "Mo, Fr 9-12.30 und 13.30-16 und Di, Do 9-12.30 und 13.30-18"
+                },
+                {
+                    "k": "11.51880"
+                },
+                {
+                    "l": "51.02467"
+                },
+                {
+                    "n": "16071001"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "3644"
+                },
+                {
+                    "f": "65 03 32"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "3644"
+                },
+                {
+                    "i": "65 03 35"
+                },
+                {
+                    "k": "bibliothek@apolda.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "07"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Apolda <Stadtgeschichte>"
+                },
+                {
+                    "a": "Weimarer Land <Region>"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "THU"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "GBV"
+                },
+                {
+                    "d": "\u00d6VK"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-1235",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-1235",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-1235",
+    "identifier": "DE-1235",
+    "name": "Stadtbibliothek Apolda",
+    "location": "Apolda",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "THU"
+}

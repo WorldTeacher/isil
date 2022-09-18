@@ -1,0 +1,232 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-2799.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:18-06-19"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:19-06-19"
+                ],
+                {
+                    "t": "09:16:45.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:18-06-19"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1188650084"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "WA893"
+                },
+                {
+                    "d": "2799"
+                },
+                {
+                    "e": "DE-2799"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.bibliothek-nebra.de/"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Bibliothek Nebra"
+                },
+                {
+                    "4": "a"
+                }
+            ],
+            [
+                {
+                    "a": "Nebra StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtbibliothek Nebra"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Breite Stra\u00dfe 19"
+                },
+                {
+                    "b": "Nebra/Unstrut"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "06642"
+                },
+                {
+                    "f": "Sachsen-Anhalt"
+                },
+                {
+                    "i": "Mo 13.30-16.30, Di 10.00-12.00 und 13.30-16.30, Do 10.00-12.00, Fr 15.00-18.00"
+                },
+                {
+                    "k": "12.24326"
+                },
+                {
+                    "l": "51.83125"
+                },
+                {
+                    "n": "15084360"
+                },
+                {
+                    "o": "nicht barrierefrei"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "34461"
+                },
+                {
+                    "f": "2 22 16"
+                },
+                {
+                    "k": "Bibliothek.nebra@verbgem-unstruttal.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "07"
+                },
+                {
+                    "h": "06"
+                },
+                {
+                    "i": "P"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "SAA"
+                },
+                {
+                    "c": "GBV"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "b"
+                },
+                {
+                    "d": "Bibliothek.nebra@verbgem-unstruttal.de"
+                }
+            ],
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "Bibliothek.nebra@verbgem-unstruttal.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "Bibliothek.nebra@verbgem-unstruttal.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-2799",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-2799",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-2799",
+    "identifier": "DE-2799",
+    "name": "Stadtbibliothek Nebra",
+    "location": "Nebra/Unstrut",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "SAA"
+}

@@ -1,0 +1,238 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-67.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:18-11-99"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:26-05-17"
+                ],
+                {
+                    "t": "14:10:17.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:27-05-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "009014551"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "AC067"
+                },
+                {
+                    "d": "67"
+                },
+                {
+                    "e": "DE-67"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.bad-homburg.de/stadtbibliothek"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://wwwopac.bad-homburg.de/"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Bad Homburg StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtbibliothek Bad Homburg"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Dorotheenstr. 24"
+                },
+                {
+                    "b": "Bad Homburg vor der H\u00f6he"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "61348"
+                },
+                {
+                    "f": "Hessen"
+                },
+                {
+                    "i": "Di-Fr 11.00-18.00, Sa 11.00-14.00"
+                },
+                {
+                    "k": "8.61416"
+                },
+                {
+                    "l": "50.22637"
+                },
+                {
+                    "n": "06434001"
+                },
+                {
+                    "o": "barrierefrei"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "6172"
+                },
+                {
+                    "f": "9 21 36-0 (Zentrale) und -12 (Fernleihe)"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "6172"
+                },
+                {
+                    "i": "9 21 36-99"
+                },
+                {
+                    "k": "fernleihe@bad-homburg.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "07"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "HES"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "HeBIS"
+                },
+                {
+                    "d": "Kalliope"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035K": [
+            [
+                {
+                    "b": "A"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "fernleihe@bad-homburg.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-67",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-67",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-67",
+    "identifier": "DE-67",
+    "name": "Stadtbibliothek Bad Homburg",
+    "location": "Bad Homburg vor der H\u00f6he",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "HES"
+}

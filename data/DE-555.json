@@ -1,0 +1,212 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-555.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:14-03-16"
+                ],
+                {
+                    "t": "07:42:05.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020585020"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "MB506"
+                },
+                {
+                    "d": "555"
+                },
+                {
+                    "e": "DE-555"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.kmz-nwm.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://kmz-nwm.dyndns.org/webopac/index.asp"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Grevesm\u00fchlen KrsB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Kreismedienzentrum Nordwestmecklenburg"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Rehnaer Str. 51"
+                },
+                {
+                    "b": "Grevesm\u00fchlen"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "23936"
+                },
+                {
+                    "f": "Mecklenburg-Vorpommern"
+                },
+                {
+                    "i": "Mo und Do 9.00-12.00 und 13.00-16.00, Di 9.00-12.00 und 13.00-18.00"
+                },
+                {
+                    "j": "weitere Termine nach Vereinbarung m\u00f6glich"
+                },
+                {
+                    "k": "11.18228"
+                },
+                {
+                    "l": "53.85119"
+                },
+                {
+                    "n": "13058034"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "3881"
+                },
+                {
+                    "f": "71 03 50"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "3881"
+                },
+                {
+                    "i": "7 58 97 11"
+                },
+                {
+                    "k": "info@kmz-nwm.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "03"
+                },
+                {
+                    "h": "06"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "HAM"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "e": "l"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-555",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-555",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-555",
+    "identifier": "DE-555",
+    "name": "Kreismedienzentrum Nordwestmecklenburg",
+    "location": "Grevesm\u00fchlen",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "HAM"
+}

@@ -1,0 +1,256 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-B1577.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:02-07-08"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:08-07-22"
+                ],
+                {
+                    "t": "13:56:07.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:02-07-08"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "989448355"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "918047-3"
+                },
+                {
+                    "b": "AR532"
+                },
+                {
+                    "d": "B 1577"
+                },
+                {
+                    "e": "DE-B1577"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.mfk-berlin.de/bibliothek/"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://bibliothek.mspt.de/webopac/index.asp?DB=web_biblio"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Berlin Mus.Kommunikation"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Museum f\u00fcr Kommunikation Berlin, Bibliothek"
+                }
+            ]
+        ],
+        "029R": [
+            [
+                {
+                    "9": "1168936942"
+                },
+                {
+                    "7": "Tw"
+                },
+                {
+                    "a": "Museumsstiftung Post und Telekommunikation"
+                },
+                {
+                    "e": "DE-MUS-024511"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Leipziger Str. 16"
+                },
+                {
+                    "b": "Berlin"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "10117"
+                },
+                {
+                    "f": "Berlin"
+                },
+                {
+                    "h": "Eingang Mauerstr. 69"
+                },
+                {
+                    "i": "Di und Do 11.00- 13.00 und 14.00 -16.00"
+                },
+                {
+                    "j": "nach Terminvereinbarung und ausgenommen Feiertage"
+                },
+                {
+                    "k": "13.38725"
+                },
+                {
+                    "l": "52.50993"
+                },
+                {
+                    "n": "11000000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "30"
+                },
+                {
+                    "f": "2 02 94-303"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "30"
+                },
+                {
+                    "i": "2 02 94-111"
+                },
+                {
+                    "k": "bibliothek.mfk-berlin@mspt.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0331"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "07"
+                },
+                {
+                    "h": "07"
+                },
+                {
+                    "i": "P"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Post- und Fernmeldegeschichte"
+                },
+                {
+                    "a": "Kommunikationsgeschichte"
+                },
+                {
+                    "a": "Philatelie"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BER"
+                },
+                {
+                    "e": "n"
+                },
+                {
+                    "f": "x"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-B1577",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-B1577",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-B1577",
+    "identifier": "DE-B1577",
+    "name": "Museum f\u00fcr Kommunikation Berlin, Bibliothek",
+    "location": "Berlin",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BER"
+}

@@ -1,0 +1,230 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-288.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:18-06-21"
+                ],
+                {
+                    "t": "14:11:22.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020583583"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "AJ288"
+                },
+                {
+                    "d": "288"
+                },
+                {
+                    "e": "DE-288"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.bibliothek-freiberg.de"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Freiberg/S. StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtbibliothek Freiberg"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Korngasse 14"
+                },
+                {
+                    "b": "Freiberg/Sachsen"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "09599"
+                },
+                {
+                    "f": "Sachsen"
+                },
+                {
+                    "i": "Mo und Do-Fr 10.00-18.00, Di 10.00-19.00, Sa 10.00-13.00"
+                },
+                {
+                    "k": "13.34228"
+                },
+                {
+                    "l": "50.91755"
+                },
+                {
+                    "n": "14522180"
+                },
+                {
+                    "o": "barrierefrei"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Freiberg/Sachsen"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "09584"
+                },
+                {
+                    "f": "Sachsen"
+                },
+                {
+                    "g": "14 52"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "3731"
+                },
+                {
+                    "f": "2 34 77"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "3731"
+                },
+                {
+                    "i": "20 23 40"
+                },
+                {
+                    "k": "info@bibliothek-freiberg.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "06"
+                },
+                {
+                    "h": "07"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "SAX"
+                },
+                {
+                    "d": "SAX-OPC; \u00d6VK"
+                },
+                {
+                    "e": "n"
+                },
+                {
+                    "g": "R"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-288",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-288",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-288",
+    "identifier": "DE-288",
+    "name": "Stadtbibliothek Freiberg",
+    "location": "Freiberg/Sachsen",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "SAX"
+}

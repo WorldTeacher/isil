@@ -1,0 +1,248 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-1299.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:05-06-07"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:28-01-16"
+                ],
+                {
+                    "t": "16:04:56.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:05-06-07"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "984510842"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "HQ451"
+                },
+                {
+                    "d": "1299"
+                },
+                {
+                    "e": "DE-1299"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.bibliothek-gruenwald.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://gruenwald.internetopac.de/"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Gr\u00fcnwald GB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Gemeindebibliothek Gr\u00fcnwald"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "S\u00fcdliche M\u00fcnchner Str. 7"
+                },
+                {
+                    "b": "Gr\u00fcnwald"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "82031"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "i": "Mo und Di 10.00-13.00 und 14.00-18.30, Mi 10.00-13.00, Do 10.00-13.00 und 14.00 -19.30, Fr 10.00-13.00 und 14.00-17.00"
+                },
+                {
+                    "k": "11.52450"
+                },
+                {
+                    "l": "48.04086"
+                },
+                {
+                    "n": "09184122"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Gr\u00fcnwald"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "82027"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "g": "13 08"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "89"
+                },
+                {
+                    "f": "6 41 24 70"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "89"
+                },
+                {
+                    "i": "6 41 08 17"
+                },
+                {
+                    "k": "info@bibliothek-gruenwald.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "07"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAY"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "BVB"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "info@bibliothek-gruenwald.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-1299",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-1299",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-1299",
+    "identifier": "DE-1299",
+    "name": "Gemeindebibliothek Gr\u00fcnwald",
+    "location": "Gr\u00fcnwald",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAY"
+}

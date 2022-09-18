@@ -1,0 +1,247 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-920.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:01-07-21"
+                ],
+                {
+                    "t": "17:24:32.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020586922"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "KN349"
+                },
+                {
+                    "d": "920"
+                },
+                {
+                    "e": "DE-920"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "https://steinhagen.bibliotheca-open.de"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Steinhagen GB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Gemeindebibliothek Steinhagen"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Kirchplatz 26a"
+                },
+                {
+                    "b": "Steinhagen"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "33803"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "i": "Mo 14.00-19.00, Di und Fr 14.00-18.00 , Mi 10.00-13.00, Do 10.00-18.00"
+                },
+                {
+                    "k": "8.41334"
+                },
+                {
+                    "l": "52.00533"
+                },
+                {
+                    "n": "05754040"
+                },
+                {
+                    "o": "barrierefrei"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "5204"
+                },
+                {
+                    "f": "9 97-160"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "5204"
+                },
+                {
+                    "i": "9 97-225"
+                },
+                {
+                    "k": "fernleihe@steinhagen.de"
+                }
+            ],
+            [
+                {
+                    "a": "W"
+                },
+                {
+                    "b": "Weitere E-Mail"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "k": "gemeindebibliothek@steinhagen.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "06"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "e": "k"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "b"
+                },
+                {
+                    "d": "fernleihe@steinhagen.de"
+                }
+            ],
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "fernleihe@steinhagen.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "fernleihe@steinhagen.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-920",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-920",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-920",
+    "identifier": "DE-920",
+    "name": "Gemeindebibliothek Steinhagen",
+    "location": "Steinhagen",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NRW"
+}

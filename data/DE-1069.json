@@ -1,0 +1,215 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-1069.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:01-11-17"
+                ],
+                {
+                    "t": "11:45:42.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020588062"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "HX957"
+                },
+                {
+                    "d": "1069"
+                },
+                {
+                    "e": "DE-1069"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.wetzlar.de/stadtbibliothek"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://webopac.wetzlar.de/webopac/index.asp?DB=web_biblio"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Wetzlar StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtbibliothek Wetzlar"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Bahnhofstr. 6"
+                },
+                {
+                    "b": "Wetzlar"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "35576"
+                },
+                {
+                    "f": "Hessen"
+                },
+                {
+                    "i": "Di 10.00-18.00, Mi-Fr.12.00-18.00, Sa 10.00-13.00"
+                },
+                {
+                    "k": "8.50264"
+                },
+                {
+                    "l": "50.56157"
+                },
+                {
+                    "n": "06532023"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "6441"
+                },
+                {
+                    "f": "99-4111 (Auskunft) und -4116 (Fernleihe)"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "6441"
+                },
+                {
+                    "i": "99-4114"
+                },
+                {
+                    "k": "stadtbibliothek@wetzlar.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "07"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "HES"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "HeBIS"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-1069",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-1069",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-1069",
+    "identifier": "DE-1069",
+    "name": "Stadtbibliothek Wetzlar",
+    "location": "Wetzlar",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "HES"
+}

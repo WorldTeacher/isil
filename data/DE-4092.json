@@ -1,0 +1,260 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-4092.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:21-06-22"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:21-06-22"
+                ],
+                {
+                    "t": "13:21:54.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:21-06-22"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1260511944"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "d": "4092"
+                },
+                {
+                    "e": "DE-4092"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "https://webopac.itk-rheinland.de/aDISWeb/app?service=direct/0/Home/%24DirectLink&amp;sp=SOPAC08"
+                },
+                {
+                    "z": "B"
+                }
+            ],
+            [
+                {
+                    "u": "https://www.duesseldorf.de/restaurierungszentrum.html"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://www.duesseldorf.de/gdk/bibliothek-des-restaurierungszentrums.html"
+                },
+                {
+                    "x": "Bibliothek"
+                },
+                {
+                    "z": "W"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "D\u00fcsseldorf Conservation Center"
+                },
+                {
+                    "4": "d"
+                }
+            ],
+            [
+                {
+                    "a": "RED"
+                },
+                {
+                    "4": "b"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Restaurierungszentrum D\u00fcsseldorf, Bibliothek"
+                }
+            ]
+        ],
+        "029R": [
+            [
+                {
+                    "9": "1029261733"
+                },
+                {
+                    "7": "Tw"
+                },
+                {
+                    "a": "Restaurierungszentrum der Landeshauptstadt D\u00fcsseldorf / Schenkung Henkel"
+                },
+                {
+                    "e": "DE-MUS-042722"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Ehrenhof 3A"
+                },
+                {
+                    "b": "D\u00fcsseldorf"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "40267"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "i": "Nach Vereinbarung"
+                },
+                {
+                    "k": "6.77280"
+                },
+                {
+                    "l": "51.23444"
+                },
+                {
+                    "o": "Nein"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "0049"
+                },
+                {
+                    "e": "0211"
+                },
+                {
+                    "f": "8926096"
+                },
+                {
+                    "k": "restaurierungszentrum@duesseldorf.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "03"
+                },
+                {
+                    "i": "P"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Restaurierung"
+                },
+                {
+                    "a": "Konservierung"
+                },
+                {
+                    "a": "Kunsttechnologie"
+                },
+                {
+                    "a": "D\u00fcsseldorfer Kunst- und Kulturszene"
+                },
+                {
+                    "a": "Restaurierungethik"
+                },
+                {
+                    "a": "Restaurierungsgeschichte"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "d": "GDK"
+                },
+                {
+                    "e": "n"
+                },
+                {
+                    "f": "x"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-4092",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-4092",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-4092",
+    "identifier": "DE-4092",
+    "name": "Restaurierungszentrum D\u00fcsseldorf, Bibliothek",
+    "location": "D\u00fcsseldorf",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NRW"
+}

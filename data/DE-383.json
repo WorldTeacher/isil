@@ -1,0 +1,238 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-383.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:24-03-16"
+                ],
+                {
+                    "t": "17:45:59.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020583818"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "AG383"
+                },
+                {
+                    "d": "383"
+                },
+                {
+                    "e": "DE-383"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.erbach.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://stadtbuecherei.erbach.de"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Erbach/Odw StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtb\u00fccherei Erbach"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Hauptstr. 56"
+                },
+                {
+                    "b": "Erbach/Odenwald"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "64711"
+                },
+                {
+                    "f": "Hessen"
+                },
+                {
+                    "i": "Mo und Fr 15.00-18.00, Mi 10.00-12.00 und 15.00-18.00"
+                },
+                {
+                    "k": "8.99308"
+                },
+                {
+                    "l": "49.66035"
+                },
+                {
+                    "n": "06437006"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Erbach/Odenwald"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "64703"
+                },
+                {
+                    "f": "Hessen"
+                },
+                {
+                    "g": "13 62"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "6062"
+                },
+                {
+                    "f": "8 09 35-1"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "6062"
+                },
+                {
+                    "i": "8 09 35-2"
+                },
+                {
+                    "k": "stadtbuecherei@erbach.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "06"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "HES"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "HeBIS"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-383",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-383",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-383",
+    "identifier": "DE-383",
+    "name": "Stadtb\u00fccherei Erbach",
+    "location": "Erbach/Odenwald",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "HES"
+}

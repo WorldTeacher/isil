@@ -1,0 +1,231 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-1602.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:01-02-08"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:17-02-16"
+                ],
+                {
+                    "t": "14:18:57.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:01-02-08"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "987400053"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "QX145"
+                },
+                {
+                    "d": "1602"
+                },
+                {
+                    "e": "DE-1602"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.seeshaupt.de/"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Seeshaupt GB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Gemeindeb\u00fccherei Seeshaupt"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Pettenkoferallee 15"
+                },
+                {
+                    "b": "Seeshaupt"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "82402"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "k": "11.29837"
+                },
+                {
+                    "l": "47.82423"
+                },
+                {
+                    "n": "09190152"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "z": "B\u00fccherei"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "a": "Hauptstr. 10"
+                },
+                {
+                    "b": "Seeshaupt"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "82402"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "z": "Fernleihe"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "8801"
+                },
+                {
+                    "f": "14 51 (Auskunft) und 5 60 (Fernleihe)"
+                },
+                {
+                    "k": "gemeindebuecherei@onlinehome.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "04"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAY"
+                },
+                {
+                    "c": "BVB"
+                },
+                {
+                    "e": "n"
+                },
+                {
+                    "g": "R"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "gemeindebuecherei@onlinehome.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-1602",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-1602",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-1602",
+    "identifier": "DE-1602",
+    "name": "Gemeindeb\u00fccherei Seeshaupt",
+    "location": "Seeshaupt",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAY"
+}

@@ -1,0 +1,240 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-868.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:17-02-16"
+                ],
+                {
+                    "t": "13:48:21.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020586469"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "GN643"
+                },
+                {
+                    "d": "868"
+                },
+                {
+                    "e": "DE-868"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.stadtbuecherei-marktoberdorf.de/"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Marktoberdorf StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtb\u00fccherei Marktoberdorf"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Kemptener Str. 8"
+                },
+                {
+                    "b": "Marktoberdorf"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "87616"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "i": "Mo und Fr 10.00-18.00, Di und Do 14.00-19.00, Mi 14.00-18.00"
+                },
+                {
+                    "k": "10.61517"
+                },
+                {
+                    "l": "47.77702"
+                },
+                {
+                    "n": "09777151"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Marktoberdorf"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "87616"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "h": "Richard-Wengenmeier-Pl.1"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "8342"
+                },
+                {
+                    "f": "40 08-39"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "8342"
+                },
+                {
+                    "i": "40 08 95"
+                },
+                {
+                    "k": "buecherei@marktoberdorf.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "07"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAY"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "BVB"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "buecherei@marktoberdorf.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-868",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-868",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-868",
+    "identifier": "DE-868",
+    "name": "Stadtb\u00fccherei Marktoberdorf",
+    "location": "Marktoberdorf",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAY"
+}

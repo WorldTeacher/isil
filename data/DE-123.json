@@ -1,0 +1,274 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-123.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "0292:15-10-19"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:29-10-19"
+                ],
+                {
+                    "t": "17:10:34.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "0292:15-10-19"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1197084355"
+                ]
+            ]
+        ],
+        "007N": [
+            [
+                [
+                    "009014659"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "655100-2"
+                },
+                {
+                    "b": "AF123"
+                },
+                {
+                    "d": "123"
+                },
+                {
+                    "e": "DE-123"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.stadtbibliothek-worms.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://opac.ulb.tu-darmstadt.de/opac/opac"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Worms StBi"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtbibliothek Worms"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Marktplatz 10"
+                },
+                {
+                    "b": "Worms"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "67547"
+                },
+                {
+                    "f": "Rheinland-Pfalz"
+                },
+                {
+                    "i": "Mo-Di und Do-Fr 10.00-12.00 und 14.00-18.00, Mi 10.00-12.00, Sa 10.00-13.00"
+                },
+                {
+                    "k": "8.36172"
+                },
+                {
+                    "l": "49.62984"
+                },
+                {
+                    "n": "07319000"
+                },
+                {
+                    "o": "barrierefrei"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Worms"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "67510"
+                },
+                {
+                    "f": "Rheinland-Pfalz"
+                },
+                {
+                    "g": "20 65"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "6241"
+                },
+                {
+                    "f": "8 53-4208 (Fernleihe) und -4209 (Auskunft)"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "6241"
+                },
+                {
+                    "i": "8 53-4299"
+                },
+                {
+                    "k": "stb.fernleihe@worms.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0049"
+                },
+                {
+                    "e": "HBV"
+                },
+                {
+                    "f": "21"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "08"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "HES"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "HeBIS"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035K": [
+            [
+                {
+                    "b": "A"
+                }
+            ]
+        ],
+        "035O": [
+            [
+                {
+                    "a": "FZL DE-620"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-123",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-123",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-123",
+    "identifier": "DE-123",
+    "name": "Stadtbibliothek Worms",
+    "location": "Worms",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "HES"
+}

@@ -1,0 +1,180 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Bop1.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:09-02-10"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:12-05-22"
+                ],
+                {
+                    "t": "11:18:24.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:09-02-10"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1000112551"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "101269-1"
+                },
+                {
+                    "d": "Bop 1"
+                },
+                {
+                    "e": "DE-Bop1"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "https://www.bottrop.de/vv/produkte/dezernat2/41/Stadtarchiv.php"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Bottrop Stadtarchiv"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtarchiv Bottrop"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Blumenstr. 12-14"
+                },
+                {
+                    "b": "Bottrop"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "46215"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "k": "6.92209"
+                },
+                {
+                    "l": "51.52280"
+                },
+                {
+                    "n": "05512000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "k": "stadtarchiv@bottrop.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0367"
+                },
+                {
+                    "f": "52"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "01"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Bop1",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Bop1",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Bop1",
+    "identifier": "DE-Bop1",
+    "name": "Stadtarchiv Bottrop",
+    "location": "Bottrop",
+    "type": [
+        "Organization",
+        "Archive"
+    ],
+    "addressRegion": "NRW"
+}

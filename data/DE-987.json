@@ -1,0 +1,269 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-987.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "0292:05-04-22"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "0292:07-04-22"
+                ],
+                {
+                    "t": "06:51:16.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "0292:05-04-22"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "125481650X"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "548987-8"
+                },
+                {
+                    "b": "BD739"
+                },
+                {
+                    "d": "987"
+                },
+                {
+                    "e": "DE-987"
+                },
+                {
+                    "f": "HKRMC"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.hs-koblenz.de/rmc/bibliothek/bibliothek-koblenz/"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://www.hs-koblenz.de/rmc/bibliothek/literatursucheopac/"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Koblenz HS"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Hochschule Koblenz, Bibliothek RheinMoselCampus"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Konrad-Zuse Str. 1"
+                },
+                {
+                    "b": "Koblenz"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "56075"
+                },
+                {
+                    "f": "Rheinland-Pfalz"
+                },
+                {
+                    "i": "Mo-Fr 8.00-20.00, Sa 11.00-18.00"
+                },
+                {
+                    "j": "vorlesungsfreie Zeit: Mo-Do 9.00-16.00, Fr 9.00-13.00"
+                },
+                {
+                    "k": "7.56971"
+                },
+                {
+                    "l": "50.33600"
+                },
+                {
+                    "n": "07111000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "261"
+                },
+                {
+                    "f": "95 28-270"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "261"
+                },
+                {
+                    "i": "95 28-278"
+                },
+                {
+                    "k": "fernleihe@hs-koblenz.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0365"
+                },
+                {
+                    "d": "HBZ"
+                },
+                {
+                    "f": "70"
+                },
+                {
+                    "g": "02"
+                },
+                {
+                    "h": "07"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "HBZ"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "b"
+                },
+                {
+                    "d": "fernleihe@hs-koblenz.de"
+                }
+            ],
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "fernleihe@hs-koblenz.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "fernleihe@hs-koblenz.de"
+                }
+            ]
+        ],
+        "035O": [
+            [
+                {
+                    "a": "ISIL DE-929; FZL DE-621"
+                },
+                {
+                    "b": "CONTAINER"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-987",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-987",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-987",
+    "identifier": "DE-987",
+    "name": "Hochschule Koblenz, Bibliothek RheinMoselCampus",
+    "location": "Koblenz",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NRW"
+}

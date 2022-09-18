@@ -1,0 +1,282 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-352.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:18-11-99"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:24-09-21"
+                ],
+                {
+                    "t": "09:54:29.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "009022074"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "771000-8"
+                },
+                {
+                    "b": "AL352"
+                },
+                {
+                    "d": "352"
+                },
+                {
+                    "e": "DE-352"
+                },
+                {
+                    "f": "UBKO"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "https://www.kim.uni-konstanz.de/"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://libero.ub.uni-konstanz.de/libero/WebOpac.cls?DATA=KON"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Konstanz Universit\u00e4t KIM"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Universit\u00e4t Konstanz, Kommunikations-, Informations-, Medienzentrum (KIM)"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Universit\u00e4tsstr. 10"
+                },
+                {
+                    "b": "Konstanz"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "78464"
+                },
+                {
+                    "f": "Baden-W\u00fcrttemberg"
+                },
+                {
+                    "i": "Mo-So 0.00-24.00"
+                },
+                {
+                    "j": "eingeschr\u00e4nkte \u00d6ffnungszeiten im August und September"
+                },
+                {
+                    "k": "9.18772"
+                },
+                {
+                    "l": "47.68994"
+                },
+                {
+                    "n": "08335043"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Konstanz"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "78457"
+                },
+                {
+                    "f": "Baden-W\u00fcrttemberg"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "7531"
+                },
+                {
+                    "f": "88-2800 und -2824 (Dokumentlieferdienst)"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "7531"
+                },
+                {
+                    "i": "88-2809"
+                },
+                {
+                    "k": "dokumentlieferung.kim@uni-konstanz.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0074"
+                },
+                {
+                    "d": "SWB"
+                },
+                {
+                    "f": "60"
+                },
+                {
+                    "g": "02"
+                },
+                {
+                    "h": "10"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "SWB"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035K": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "b": "A"
+                }
+            ]
+        ],
+        "035O": [
+            [
+                {
+                    "a": "FZL DE-623"
+                }
+            ],
+            [
+                {
+                    "a": "FZL DE-621"
+                }
+            ]
+        ],
+        "035Q": [
+            [
+                {
+                    "a": "j"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-352",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-352",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-352",
+    "identifier": "DE-352",
+    "name": "Universit\u00e4t Konstanz, Kommunikations-, Informations-, Medienzentrum (KIM)",
+    "location": "Konstanz",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAW"
+}

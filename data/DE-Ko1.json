@@ -1,0 +1,225 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Ko1.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:20-09-21"
+                ],
+                {
+                    "t": "12:56:53.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020594682"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "GC726"
+                },
+                {
+                    "d": "Ko 1"
+                },
+                {
+                    "e": "DE-Ko1"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://p578be374.dip0.t-ipconnect.de/allegrooeb/webopac/"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://www.bibliothek.stadt-kloetze.de"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Kl\u00f6tze StuKrsB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadt- und Kreisbibliothek Kl\u00f6tze"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Breite Stra\u00dfe 12"
+                },
+                {
+                    "b": "Kl\u00f6tze"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "38486"
+                },
+                {
+                    "f": "Sachsen-Anhalt"
+                },
+                {
+                    "i": "Mo und Fr 10.00-16.00, Di und Do 10.00-12.00 und 13.00-18.00"
+                },
+                {
+                    "j": "Jeden 1. und 3. Sa 10.00-12.00"
+                },
+                {
+                    "k": "11.16450"
+                },
+                {
+                    "l": "52.62543"
+                },
+                {
+                    "n": "15081280"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "3909"
+                },
+                {
+                    "f": "21 78"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "3909"
+                },
+                {
+                    "i": "4 73 27 16"
+                },
+                {
+                    "k": "bibliothek@stadt-kloetze.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "07"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Stadtbibliothek"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "SAA"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "GBV"
+                },
+                {
+                    "d": "\u00d6VK"
+                },
+                {
+                    "e": "k"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Ko1",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Ko1",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Ko1",
+    "identifier": "DE-Ko1",
+    "name": "Stadt- und Kreisbibliothek Kl\u00f6tze",
+    "location": "Kl\u00f6tze",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "SAA"
+}

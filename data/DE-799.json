@@ -1,0 +1,258 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-799.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9042:28-01-20"
+                ],
+                {
+                    "t": "10:02:00.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020585934"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "KS793"
+                },
+                {
+                    "d": "799"
+                },
+                {
+                    "e": "DE-799"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.sankt-augustin.de/home/page_sta_290.html"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://biblio.sankt-augustin.de/wopac123/"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Sankt Augustin StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtb\u00fccherei Sankt Augustin"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Markt 1"
+                },
+                {
+                    "b": "Sankt Augustin"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "53757"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "i": "Mo und Do 13.00-19.00, Di-Mi und Fr 10.00-13.00 und 15.00-18.00"
+                },
+                {
+                    "k": "7.18632"
+                },
+                {
+                    "l": "50.77686"
+                },
+                {
+                    "n": "05382056"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Sankt Augustin"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "53754"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "2241"
+                },
+                {
+                    "f": "2 43-351"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "2241"
+                },
+                {
+                    "i": "2 43-405"
+                },
+                {
+                    "k": "buecherei@sankt-augustin.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "07"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "b"
+                },
+                {
+                    "d": "fernleihe@sankt-augustin.de"
+                }
+            ],
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "fernleihe@sankt-augustin.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "fernleihe@sankt-augustin.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-799",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-799",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-799",
+    "identifier": "DE-799",
+    "name": "Stadtb\u00fccherei Sankt Augustin",
+    "location": "Sankt Augustin",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NRW"
+}

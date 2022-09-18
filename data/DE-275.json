@@ -1,0 +1,244 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-275.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:28-01-16"
+                ],
+                {
+                    "t": "16:26:29.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020583524"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "AF275"
+                },
+                {
+                    "d": "275"
+                },
+                {
+                    "e": "DE-275"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.salzgitter.de/rathaus/fachdienstuebersicht/stadtbibliothek/index.php"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Salzgitter StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtbibliothek Salzgitter"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Joachim-Campe-Str. 4"
+                },
+                {
+                    "b": "Salzgitter"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "38226"
+                },
+                {
+                    "f": "Niedersachsen"
+                },
+                {
+                    "i": "Di-Fr 10.00-19.00, Sa 10.00-14.00"
+                },
+                {
+                    "k": "10.37169"
+                },
+                {
+                    "l": "52.04668"
+                },
+                {
+                    "n": "03102000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Salzgitter"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "38206"
+                },
+                {
+                    "f": "Niedersachsen"
+                },
+                {
+                    "g": "10 06 80"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "5341"
+                },
+                {
+                    "f": "8 39-3987"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "5341"
+                },
+                {
+                    "i": "8 39-4942"
+                },
+                {
+                    "k": "stabi@stadt.salzgitter.de"
+                }
+            ]
+        ],
+        "035D": [
+            [
+                {
+                    "b": "GySalS (fr\u00fcherer MARC Code)"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "08"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NIE"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "GBV"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035O": [
+            [
+                {
+                    "a": "FZL DE-622"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-275",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-275",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-275",
+    "identifier": "DE-275",
+    "name": "Stadtbibliothek Salzgitter",
+    "location": "Salzgitter",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NIE"
+}

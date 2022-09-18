@@ -1,0 +1,259 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-228.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:03-06-21"
+                ],
+                {
+                    "t": "15:12:18.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020583303"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "AA228"
+                },
+                {
+                    "d": "228"
+                },
+                {
+                    "e": "DE-228"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.hameln.de/stadtbuecherei"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://www.stadtbuecherei.hameln.de"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Hameln StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtb\u00fccherei in der Pfortm\u00fchle"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Sudetenstr. 1"
+                },
+                {
+                    "b": "Hameln"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "31785"
+                },
+                {
+                    "f": "Niedersachsen"
+                },
+                {
+                    "i": "Di und Fr 12.00-18.00, Mi 10.00-16.00, Do 12.00-16.00 Sa 10.00-13.00"
+                },
+                {
+                    "k": "9.35367"
+                },
+                {
+                    "l": "52.10455"
+                },
+                {
+                    "n": "03252006"
+                },
+                {
+                    "o": "barrierefrei"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "5151"
+                },
+                {
+                    "f": "2 02-1397"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "5151"
+                },
+                {
+                    "i": "2 02-1637"
+                },
+                {
+                    "k": "stadtbuecherei@hameln.de"
+                }
+            ],
+            [
+                {
+                    "a": "W"
+                },
+                {
+                    "b": "Fernleihe"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "5151"
+                },
+                {
+                    "f": "202-1624"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "08"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NIE"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "GBV"
+                },
+                {
+                    "d": "\u00d6VK"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "stadtbuecherei@hameln.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "stadtbuecherei@hameln.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-228",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-228",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-228",
+    "identifier": "DE-228",
+    "name": "Stadtb\u00fccherei in der Pfortm\u00fchle",
+    "location": "Hameln",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NIE"
+}

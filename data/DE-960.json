@@ -1,0 +1,199 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-960.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:29-03-12"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:09-11-20"
+                ],
+                {
+                    "t": "13:24:54.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:29-03-12"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1021229059"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "d": "960"
+                },
+                {
+                    "e": "DE-960"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "https://hs-h.de/bibl"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://opac.tib.eu/DB=4/LNG=DU/"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "ehem. FH Hannover"
+                },
+                {
+                    "4": "a"
+                }
+            ],
+            [
+                {
+                    "a": "Hannover HS"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Bibliothek der Hochschule Hannover"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Ricklinger Stadtweg 118"
+                },
+                {
+                    "b": "Hannover"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "30459"
+                },
+                {
+                    "f": "Niedersachsen"
+                },
+                {
+                    "k": "9.72266"
+                },
+                {
+                    "l": "52.35375"
+                },
+                {
+                    "n": "03241001"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "511"
+                },
+                {
+                    "f": "92 96-1093 (Leitung)"
+                },
+                {
+                    "k": "bibliothek@hs-hannover.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "70"
+                },
+                {
+                    "g": "02"
+                },
+                {
+                    "h": "08"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NIE"
+                },
+                {
+                    "c": "GBV"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-960",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-960",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-960",
+    "identifier": "DE-960",
+    "name": "Bibliothek der Hochschule Hannover",
+    "location": "Hannover",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NIE"
+}

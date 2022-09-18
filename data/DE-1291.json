@@ -1,0 +1,225 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-1291.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:31-05-07"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:16-11-20"
+                ],
+                {
+                    "t": "11:07:51.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:31-05-07"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "984461973"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "QJ141"
+                },
+                {
+                    "d": "1291"
+                },
+                {
+                    "e": "DE-1291"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.erding.de/stadtbuecherei"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://erding-opac.customer.findus-internet-opac.de/cgi-bin/findus.fcgi.pl?customer=erding"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Erding StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtb\u00fccherei Erding"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Aeferleinweg 1"
+                },
+                {
+                    "b": "Erding"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "85435"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "i": "Di und Mi 10.00-18.00, Do und Fr 10.00-19.00, Sa 10.00-13.00"
+                },
+                {
+                    "k": "11.90934"
+                },
+                {
+                    "l": "48.30725"
+                },
+                {
+                    "n": "09177117"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "8122"
+                },
+                {
+                    "f": "8 80 99-90"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "8122"
+                },
+                {
+                    "i": "8 80 99-97"
+                },
+                {
+                    "k": "stadtbuecherei@erding.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "07"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAY"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "BVB"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "stadtbuecherei@erding.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-1291",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-1291",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-1291",
+    "identifier": "DE-1291",
+    "name": "Stadtb\u00fccherei Erding",
+    "location": "Erding",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAY"
+}

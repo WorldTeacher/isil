@@ -1,0 +1,265 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-146.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:18-11-99"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:19-01-16"
+                ],
+                {
+                    "t": "18:17:39.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "009061754"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "778146-5"
+                },
+                {
+                    "b": "AC146"
+                },
+                {
+                    "d": "146"
+                },
+                {
+                    "e": "DE-146"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.ub.uni-konstanz.de/region/wessenberg-bibliothek.html"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Konstanz WessenbergB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Wessenberg-Bibliothek c/o Universit\u00e4t Konstanz, Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Universit\u00e4tsstr. 10"
+                },
+                {
+                    "b": "Konstanz"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "78464"
+                },
+                {
+                    "f": "Baden-W\u00fcrttemberg"
+                },
+                {
+                    "k": "9.18772"
+                },
+                {
+                    "l": "47.68994"
+                },
+                {
+                    "n": "08335043"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Konstanz"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "78457"
+                },
+                {
+                    "f": "Baden-W\u00fcrttemberg"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "7531"
+                },
+                {
+                    "f": "88-2800"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "7531"
+                },
+                {
+                    "i": "88-2809"
+                },
+                {
+                    "k": "information.ub@uni-konstanz.de"
+                }
+            ],
+            [
+                {
+                    "a": "W"
+                },
+                {
+                    "b": "Dokumentlieferdienst"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "7531"
+                },
+                {
+                    "f": "88-2824"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "7531"
+                },
+                {
+                    "i": "88-3082"
+                },
+                {
+                    "k": "dokumentlieferung.ub@uni-konstanz.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0128"
+                },
+                {
+                    "d": "SWB"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "07"
+                },
+                {
+                    "i": "P"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAW"
+                },
+                {
+                    "c": "SWB"
+                },
+                {
+                    "e": "l"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-146",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-146",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-146",
+    "identifier": "DE-146",
+    "name": "Wessenberg-Bibliothek c/o Universit\u00e4t Konstanz, Bibliothek",
+    "location": "Konstanz",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAW"
+}

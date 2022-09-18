@@ -1,0 +1,131 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-MUS-130418.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:04-01-12"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:12-10-20"
+                ],
+                {
+                    "t": "09:56:15.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:04-01-12"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "101850060X"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "e": "DE-MUS-130418"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.museen-in-deutschland.de/singleview.php?muges=130418"
+                },
+                {
+                    "x": "Weitere Informationen"
+                },
+                {
+                    "z": "W"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtmuseum"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Neustadt 14-16"
+                },
+                {
+                    "b": "Sulzbach-Rosenberg"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "92237"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "k": "11.74111"
+                },
+                {
+                    "l": "49.50578"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "m"
+                },
+                {
+                    "f": "86"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-MUS-130418",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-MUS-130418",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-MUS-130418",
+    "identifier": "DE-MUS-130418",
+    "name": "Stadtmuseum",
+    "location": "Sulzbach-Rosenberg",
+    "type": [
+        "Organization",
+        "Museum"
+    ]
+}

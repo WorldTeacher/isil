@@ -1,0 +1,235 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-B458.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:18-11-99"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:05-05-22"
+                ],
+                {
+                    "t": "11:04:03.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "009058338"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "MB038"
+                },
+                {
+                    "d": "B 458"
+                },
+                {
+                    "e": "DE-B458"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.stadtbibliothek-FK.berlin.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://www.voebb.de/"
+                },
+                {
+                    "z": "B"
+                }
+            ],
+            [
+                {
+                    "u": "http://www.berlin.de/stadtbibliothek-friedrichshain-kreuzberg/bibliotheken/bezirkszentralbibliothek-frankfurter-allee/"
+                },
+                {
+                    "x": "Standort"
+                },
+                {
+                    "z": "W"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Stadtbibliothek Friedrichshain-Kreuzberg"
+                },
+                {
+                    "4": "a"
+                }
+            ],
+            [
+                {
+                    "a": "Berlin-Friedrichsh. ZentralBib"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Bezirkszentralbibliothek Friedrichshain-Kreuzberg"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Frankfurter Allee 14a"
+                },
+                {
+                    "b": "Berlin"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "10247"
+                },
+                {
+                    "f": "Berlin"
+                },
+                {
+                    "i": "Mo-Do 11.00-19.00, Fr 11.00-17.00, Sa 11.00-16.00"
+                },
+                {
+                    "k": "13.45726"
+                },
+                {
+                    "l": "52.51463"
+                },
+                {
+                    "n": "11000000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "30"
+                },
+                {
+                    "f": "90 29-85711 und -85717 (Sekretariat)"
+                },
+                {
+                    "k": "info@stadtbibliothek-fk.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "06"
+                },
+                {
+                    "h": "08"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Berlin-Friedrichshain-Kreuzberg"
+                },
+                {
+                    "a": "Kunst- und Musikbibliothek"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BER"
+                },
+                {
+                    "c": "KOBV"
+                },
+                {
+                    "d": "V\u00d6BB"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-B458",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-B458",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-B458",
+    "identifier": "DE-B458",
+    "name": "Bezirkszentralbibliothek Friedrichshain-Kreuzberg",
+    "location": "Berlin",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BER"
+}

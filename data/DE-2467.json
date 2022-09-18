@@ -1,0 +1,232 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-2467.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:30-01-17"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:12-10-20"
+                ],
+                {
+                    "t": "09:41:08.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:30-01-17"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1124404007"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "GX198"
+                },
+                {
+                    "d": "2467"
+                },
+                {
+                    "e": "DE-2467"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.geisenfeld.de/index.php?id=0,243"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://webopac.winbiap.de/geisenfeld/index.aspx"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Geisenfeld StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtb\u00fccherei Geisenfeld"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Forstamtstr. 9"
+                },
+                {
+                    "b": "Geisenfeld"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "85290"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "h": "Im Geb\u00e4ude der Grund- und Mittelschule"
+                },
+                {
+                    "i": "Di, Do-Fr 10.00-13.30 und 15.00-18.00, Mi 15.00-18.00, Sa 10.00-12.00"
+                },
+                {
+                    "k": "11.60781"
+                },
+                {
+                    "l": "48.68124"
+                },
+                {
+                    "n": "09186122"
+                },
+                {
+                    "o": "barrierefrei"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "8452"
+                },
+                {
+                    "f": "7 06 64"
+                },
+                {
+                    "k": "buecherei@geisenfeld.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "07"
+                },
+                {
+                    "h": "06"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAY"
+                },
+                {
+                    "c": "BVB"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "b"
+                },
+                {
+                    "d": "buecherei@geisenfeld.de"
+                }
+            ],
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "buecherei@geisenfeld.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "buecherei@geisenfeld.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-2467",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-2467",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-2467",
+    "identifier": "DE-2467",
+    "name": "Stadtb\u00fccherei Geisenfeld",
+    "location": "Geisenfeld",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAY"
+}

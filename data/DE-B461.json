@@ -1,0 +1,228 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-B461.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:18-11-99"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:05-05-22"
+                ],
+                {
+                    "t": "11:06:18.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "009058362"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "d": "B 461"
+                },
+                {
+                    "e": "DE-B461"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.berlin.de/ba-pankow/stadtbibliothek/wolfdietrich-schnurre/index.html"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://www.voebb.de"
+                },
+                {
+                    "z": "B"
+                }
+            ],
+            [
+                {
+                    "u": "http://www.berlin.de/stadtbibliothek-pankow/bibliotheken/wolfdietrich-schnurre-bibliothek/"
+                },
+                {
+                    "x": "Standort"
+                },
+                {
+                    "z": "W"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Berlin Wei\u00dfensee, Bibliothek"
+                },
+                {
+                    "4": "a"
+                }
+            ],
+            [
+                {
+                    "a": "Berlin-Pankow Wd.-Schnurre-B"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtbibliothek Pankow, Wolfdietrich-Schnurre-Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Bizetstr. 41"
+                },
+                {
+                    "b": "Berlin"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "13088"
+                },
+                {
+                    "f": "Berlin"
+                },
+                {
+                    "i": "Mo 10.00-20.00 Uhr Di, Do-Fr 10.00-19.00, Mi 15.00-19.00"
+                },
+                {
+                    "k": "13.45283"
+                },
+                {
+                    "l": "52.54773"
+                },
+                {
+                    "n": "11000000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "30"
+                },
+                {
+                    "f": "92 09 09 78"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "30"
+                },
+                {
+                    "i": "92 09 09 83"
+                },
+                {
+                    "k": "wolfdietrich-schnurre-bibliothek@ba-pankow.verwalt-berlin.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "06"
+                },
+                {
+                    "h": "07"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BER"
+                },
+                {
+                    "c": "KOBV"
+                },
+                {
+                    "d": "V\u00d6BB"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-B461",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-B461",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-B461",
+    "identifier": "DE-B461",
+    "name": "Stadtbibliothek Pankow, Wolfdietrich-Schnurre-Bibliothek",
+    "location": "Berlin",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BER"
+}

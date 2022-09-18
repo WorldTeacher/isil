@@ -1,0 +1,261 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-413.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:28-11-18"
+                ],
+                {
+                    "t": "16:38:57.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020583958"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "AG413"
+                },
+                {
+                    "d": "413"
+                },
+                {
+                    "e": "DE-413"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.dorsten.de/Kultur/Stadtbibliothek/Startseite.htm"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://www.dorsten.de/Kultur/Stadtbibliothek/OnlineKatalog.htm"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Dorsten StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtbibliothek Dorsten"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Im Werth 6 (Bildungszentrum Maria Lindenhof)"
+                },
+                {
+                    "b": "Dorsten"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "46282"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "i": "Di und Do 11.00-13.00 und 15.00-19.00, Mi und Fr 11.00-13.00 und 15.00-17.00, Sa 10.00-13.00"
+                },
+                {
+                    "k": "6.96364"
+                },
+                {
+                    "l": "51.66588"
+                },
+                {
+                    "n": "05562012"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Dorsten"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "46269"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "g": "21 02 65"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "2362"
+                },
+                {
+                    "f": "66-4100 (Leitung) und -4102 (Fernleihe"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "2362"
+                },
+                {
+                    "i": "66-5713"
+                },
+                {
+                    "k": "stadtbibliothek@dorsten.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "07"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "b"
+                },
+                {
+                    "d": "stadtbibliothek@dorsten.de"
+                }
+            ],
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "stadtbibliothek@dorsten.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "stadtbibliothek@dorsten.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-413",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-413",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-413",
+    "identifier": "DE-413",
+    "name": "Stadtbibliothek Dorsten",
+    "location": "Dorsten",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NRW"
+}

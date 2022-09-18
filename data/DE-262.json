@@ -1,0 +1,285 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-262.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:18-11-99"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:28-11-18"
+                ],
+                {
+                    "t": "16:40:19.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "00900596X"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "AC262"
+                },
+                {
+                    "d": "262"
+                },
+                {
+                    "e": "DE-262"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://bibliothek.oberhausen.de"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Oberhausen StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtbibliothek Oberhausen, Zentralbibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Langemarkstr. 19/21"
+                },
+                {
+                    "b": "Oberhausen"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "46045"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "i": "Mo-Fr 11.00-19.00, Sa 10.30-13.30"
+                },
+                {
+                    "k": "6.85240"
+                },
+                {
+                    "l": "51.47057"
+                },
+                {
+                    "n": "05119000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Oberhausen"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "46042"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "g": "10 14 40"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "208"
+                },
+                {
+                    "f": "8 25-2574"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "208"
+                },
+                {
+                    "i": "8 25-5433"
+                },
+                {
+                    "k": "medien@oberhausen.de"
+                }
+            ],
+            [
+                {
+                    "a": "W"
+                },
+                {
+                    "b": "Fernleihe"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "208"
+                },
+                {
+                    "f": "8 25-2017"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "208"
+                },
+                {
+                    "i": "8 25-5414"
+                },
+                {
+                    "k": "fernleihe@oberhausen.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "08"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "b"
+                },
+                {
+                    "d": "fernleihe@oberhausen.de"
+                }
+            ],
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "fernleihe@oberhausen.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "fernleihe@oberhausen.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-262",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-262",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-262",
+    "identifier": "DE-262",
+    "name": "Stadtbibliothek Oberhausen, Zentralbibliothek",
+    "location": "Oberhausen",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NRW"
+}

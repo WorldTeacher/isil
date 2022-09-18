@@ -1,0 +1,209 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-H107.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:28-09-20"
+                ],
+                {
+                    "t": "09:50:54.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020591934"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "GC520"
+                },
+                {
+                    "d": "H 107"
+                },
+                {
+                    "e": "DE-H107"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.buecherhallen.de"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "B\u00fccherhallen Hamburg, Abteilung Musik & Tanz"
+                },
+                {
+                    "4": "a"
+                }
+            ],
+            [
+                {
+                    "a": "Hamburg H\u00d6B/ZB Musik"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "B\u00fccherhallen Hamburg, Zentralbibliothek, Abteilung Musik & Tanz"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "H\u00fchnerposten 1"
+                },
+                {
+                    "b": "Hamburg"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "20097"
+                },
+                {
+                    "f": "Hamburg"
+                },
+                {
+                    "i": "Mo-Sa 10.00-19.00"
+                },
+                {
+                    "k": "10.01262"
+                },
+                {
+                    "l": "53.55382"
+                },
+                {
+                    "n": "02000000"
+                },
+                {
+                    "o": "barrierefrei"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "z": "Eingang: Arno Schmidt-Platz"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "40"
+                },
+                {
+                    "f": "4 26 06"
+                },
+                {
+                    "k": "service@buecherhallen.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "36"
+                },
+                {
+                    "g": "08"
+                },
+                {
+                    "h": "08"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "HAM"
+                },
+                {
+                    "c": "GBV"
+                },
+                {
+                    "d": "Kalliope"
+                },
+                {
+                    "e": "l"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-H107",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-H107",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-H107",
+    "identifier": "DE-H107",
+    "name": "B\u00fccherhallen Hamburg, Zentralbibliothek, Abteilung Musik & Tanz",
+    "location": "Hamburg",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "HAM"
+}

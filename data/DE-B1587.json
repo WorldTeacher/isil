@@ -1,0 +1,258 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-B1587.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:25-01-10"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:27-05-21"
+                ],
+                {
+                    "t": "14:30:45.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:25-01-10"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "999768506"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "181587-8"
+                },
+                {
+                    "b": "BE105"
+                },
+                {
+                    "d": "B 1587"
+                },
+                {
+                    "e": "DE-B1587"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "https://www.srh-berlin.de/hochschule/services-einrichtungen/bibliothek/"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://webopac.srh-hochschulen.de/vopac/index.asp?DB=BIBB"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Berlin SRH"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "SRH Berlin University of Applied Sciences, Hochschulbibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Ernst-Reuter-Platz 10"
+                },
+                {
+                    "b": "Berlin"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "10587"
+                },
+                {
+                    "f": "Berlin"
+                },
+                {
+                    "h": "Seminargeb\u00e4ude, EG, Raum S.005/006"
+                },
+                {
+                    "i": "Mo-Mi 10.00-19.00, Do-Fr 10.00-18.00"
+                },
+                {
+                    "j": "nicht \u00f6ffentlich zug\u00e4nglich"
+                },
+                {
+                    "k": "13.32135"
+                },
+                {
+                    "l": "52.51421"
+                },
+                {
+                    "n": "11000000"
+                },
+                {
+                    "o": "barrierefrei"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "30"
+                },
+                {
+                    "f": "37 43 74-170"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "30"
+                },
+                {
+                    "i": "37 43 74-376"
+                },
+                {
+                    "k": "library.hsbe@srh.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0101"
+                },
+                {
+                    "f": "70"
+                },
+                {
+                    "g": "08"
+                },
+                {
+                    "h": "04"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Betriebswirtschaftslehre"
+                },
+                {
+                    "a": "Recht"
+                },
+                {
+                    "a": "Soziologie"
+                },
+                {
+                    "a": "Psychologie"
+                },
+                {
+                    "a": "Volkswirtschaftslehre"
+                },
+                {
+                    "a": "TourisVolkswirtschaftslehre"
+                },
+                {
+                    "a": "Engineering"
+                },
+                {
+                    "a": "Volkswirtschaftslehre"
+                },
+                {
+                    "a": "Engineering"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BER"
+                },
+                {
+                    "e": "n"
+                },
+                {
+                    "f": "x"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-B1587",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-B1587",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-B1587",
+    "identifier": "DE-B1587",
+    "name": "SRH Berlin University of Applied Sciences, Hochschulbibliothek",
+    "location": "Berlin",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BER"
+}

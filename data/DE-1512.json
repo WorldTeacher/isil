@@ -1,0 +1,201 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-1512.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:17-12-07"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:14-03-16"
+                ],
+                {
+                    "t": "07:47:33.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:17-12-07"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "986872962"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "KY195"
+                },
+                {
+                    "d": "1512"
+                },
+                {
+                    "e": "DE-1512"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Bad K\u00f6nigshofen StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtbibliothek Bad K\u00f6nigshofen"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Am Kurzentrum 1"
+                },
+                {
+                    "b": "Bad K\u00f6nigshofen"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "97631"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "k": "10.47560"
+                },
+                {
+                    "l": "50.30096"
+                },
+                {
+                    "n": "09673141"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "9761"
+                },
+                {
+                    "f": "91 20-19"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "9761"
+                },
+                {
+                    "i": "91 20-40"
+                },
+                {
+                    "k": "bibliothek@bad-koenigshofen.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "06"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAY"
+                },
+                {
+                    "c": "BVB"
+                },
+                {
+                    "e": "n"
+                },
+                {
+                    "g": "R"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "bibliothek@bad-koenigshofen.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-1512",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-1512",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-1512",
+    "identifier": "DE-1512",
+    "name": "Stadtbibliothek Bad K\u00f6nigshofen",
+    "location": "Bad K\u00f6nigshofen",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAY"
+}

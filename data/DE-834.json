@@ -1,0 +1,270 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-834.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:18-11-99"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:30-11-17"
+                ],
+                {
+                    "t": "14:15:33.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "009004513"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "335100-2"
+                },
+                {
+                    "b": "AY285"
+                },
+                {
+                    "d": "834"
+                },
+                {
+                    "e": "DE-834"
+                },
+                {
+                    "f": "HBKBS"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.hbk-bs.de/einrichtungen/bibliothek/"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://opac.lbs-braunschweig.gbv.de/DB=3/LNG=DU/"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Braunschweig HSKunst"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Hochschule f\u00fcr Bildende K\u00fcnste Braunschweig, Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Johannes-Selenka-Pl. 1"
+                },
+                {
+                    "b": "Braunschweig"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "38118"
+                },
+                {
+                    "f": "Niedersachsen"
+                },
+                {
+                    "i": "Mo-Fr 9.00-20.00"
+                },
+                {
+                    "j": "Ausleihe: Mo-Do 9.00-18.00, Fr 9.00-16.00, Sa 10.00-13.00; w\u00e4hrend der vorlesungsfreien Zeit: Mo-Do 10.00-16.00, Fr 10.00-13.00"
+                },
+                {
+                    "k": "10.50287"
+                },
+                {
+                    "l": "52.25773"
+                },
+                {
+                    "n": "03101000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Braunschweig"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "38015"
+                },
+                {
+                    "f": "Niedersachsen"
+                },
+                {
+                    "g": "25 38"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "531"
+                },
+                {
+                    "f": "3 91-9243 (Leitung), -9244 (Ausleihe) und -9277 (Fernleihe)"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "531"
+                },
+                {
+                    "i": "3 91-9357"
+                },
+                {
+                    "k": "bibliothek@hbk-bs.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0111"
+                },
+                {
+                    "e": "GBV"
+                },
+                {
+                    "f": "70"
+                },
+                {
+                    "g": "02"
+                },
+                {
+                    "h": "07"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NIE"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "GBV"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035K": [
+            [
+                {
+                    "b": "A"
+                }
+            ]
+        ],
+        "035O": [
+            [
+                {
+                    "a": "FZL DE-622"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-834",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-834",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-834",
+    "identifier": "DE-834",
+    "name": "Hochschule f\u00fcr Bildende K\u00fcnste Braunschweig, Bibliothek",
+    "location": "Braunschweig",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NIE"
+}

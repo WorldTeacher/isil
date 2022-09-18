@@ -1,0 +1,202 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-603.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:04-09-07"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:25-02-22"
+                ],
+                {
+                    "t": "09:13:52.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:04-09-07"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "985575484"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "d": "603"
+                },
+                {
+                    "e": "DE-603"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.hebis.de"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Frankfurt/M hebis"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Hessisches BibliotheksInformationsSystem hebis"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Bockenheimer Landstr. 134-138"
+                },
+                {
+                    "b": "Frankfurt/Main"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "60325"
+                },
+                {
+                    "f": "Hessen"
+                },
+                {
+                    "k": "8.65307"
+                },
+                {
+                    "l": "50.12029"
+                },
+                {
+                    "n": "06412000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "k": "auskunft@hebis.de"
+                }
+            ]
+        ],
+        "035D": [
+            [
+                {
+                    "b": "GyFmHBV (fr\u00fcherer MARC Code)"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "96"
+                },
+                {
+                    "g": "02"
+                },
+                {
+                    "h": "11"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "HES"
+                },
+                {
+                    "c": "HeBIS"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "hebisfernleihe@ub.uni-frankfurt.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "hebisfernleihe@ub.uni-frankfurt.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-603",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-603",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-603",
+    "identifier": "DE-603",
+    "name": "Hessisches BibliotheksInformationsSystem hebis",
+    "location": "Frankfurt/Main",
+    "type": [
+        "Organization",
+        "Organization"
+    ],
+    "addressRegion": "HES"
+}

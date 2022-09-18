@@ -1,0 +1,206 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-1808.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:06-02-09"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:31-03-16"
+                ],
+                {
+                    "t": "08:43:36.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:06-02-09"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "992535387"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "d": "1808"
+                },
+                {
+                    "e": "DE-1808"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Teuschnitz StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Bibliothek im Alten Torhaus"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Hauptstr. 42"
+                },
+                {
+                    "b": "Teuschnitz"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "96385"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "k": "11.38113"
+                },
+                {
+                    "l": "50.39813"
+                },
+                {
+                    "n": "09476180"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "a": "Hauptstr. 40"
+                },
+                {
+                    "b": "Teuschnitz"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "96358"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "z": "Kath. Pfarramt Teuschnitz f\u00fcr Bibliothek im Alten Torhaus"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "k": "bibliothek.teuschnitz@gmx.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "10"
+                },
+                {
+                    "h": "05"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAY"
+                },
+                {
+                    "c": "BVB"
+                },
+                {
+                    "e": "n"
+                },
+                {
+                    "g": "R"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "bibliothek.teuschnitz@gmx.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-1808",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-1808",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-1808",
+    "identifier": "DE-1808",
+    "name": "Bibliothek im Alten Torhaus",
+    "location": "Teuschnitz",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAY"
+}

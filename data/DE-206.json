@@ -1,0 +1,281 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-206.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:18-11-99"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:11-07-19"
+                ],
+                {
+                    "t": "15:43:59.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "009003169"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "231206-2"
+                },
+                {
+                    "b": "AG206"
+                },
+                {
+                    "d": "206"
+                },
+                {
+                    "e": "DE-206"
+                },
+                {
+                    "f": "ZBW"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.zbw.eu"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://www.econbiz.de/"
+                },
+                {
+                    "z": "B"
+                }
+            ],
+            [
+                {
+                    "u": "http://sru.gbv.de/opac-de-206"
+                },
+                {
+                    "x": "SRU"
+                },
+                {
+                    "z": "W"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Kiel ZBW"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "ZBW - Leibniz-Informationszentrum Wirtschaft, Standort Kiel"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "D\u00fcsternbrooker Weg 120"
+                },
+                {
+                    "b": "Kiel"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "24105"
+                },
+                {
+                    "f": "Schleswig-Holstein"
+                },
+                {
+                    "i": "Mo-Fr 9.00-19.00"
+                },
+                {
+                    "k": "10.15620"
+                },
+                {
+                    "l": "54.33903"
+                },
+                {
+                    "n": "01002000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "431"
+                },
+                {
+                    "f": "88 14-383 und -555"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "431"
+                },
+                {
+                    "i": "88 14-520"
+                },
+                {
+                    "k": "info@zbw.eu"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0067"
+                },
+                {
+                    "d": "WGL"
+                },
+                {
+                    "e": "GBV"
+                },
+                {
+                    "f": "15"
+                },
+                {
+                    "g": "07"
+                },
+                {
+                    "h": "10"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Alle Gebiete der Wirtschaftswissenschaft und Wirtschaftspraxis"
+                }
+            ]
+        ],
+        "035H": [
+            [
+                {
+                    "a": "SSG 3,1 / Volkswirtschaft und Weltwirtschaft (bis einschlie\u00dflich 2015)"
+                },
+                {
+                    "a": "SSG 3,2 / Betriebswirtschaft (von 2013 bis einschlie\u00dflich 2015)"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "HAM"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "GBV"
+                },
+                {
+                    "d": "WGL"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035K": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "b": "A"
+                }
+            ]
+        ],
+        "035O": [
+            [
+                {
+                    "a": "FZL DE-622"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-206",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-206",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-206",
+    "identifier": "DE-206",
+    "name": "ZBW - Leibniz-Informationszentrum Wirtschaft, Standort Kiel",
+    "location": "Kiel",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "HAM"
+}

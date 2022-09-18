@@ -1,0 +1,301 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-447.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:18-11-99"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:22-08-19"
+                ],
+                {
+                    "t": "14:28:18.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "009007717"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "447000-X"
+                },
+                {
+                    "b": "AA447"
+                },
+                {
+                    "d": "447"
+                },
+                {
+                    "e": "DE-447"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.muenster.de/stadt/buecherei"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://open.stadt-muenster.de/"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "M\u00fcnster StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtb\u00fccherei M\u00fcnster"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Alter Steinweg 11"
+                },
+                {
+                    "b": "M\u00fcnster"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "48143"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "i": "Mo-Fr 10.00-19.00, Sa 10.00-18.00"
+                },
+                {
+                    "k": "7.63119"
+                },
+                {
+                    "l": "51.96271"
+                },
+                {
+                    "n": "05515000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "M\u00fcnster"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "48135"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "g": "59 45"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "251"
+                },
+                {
+                    "f": "4 92-4281 und 4201"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "251"
+                },
+                {
+                    "i": "4 92-7724"
+                },
+                {
+                    "k": "buecherei@stadt-muenster.de"
+                }
+            ],
+            [
+                {
+                    "a": "W"
+                },
+                {
+                    "b": "Fernleihe"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "k": "fernleihe@stadt-muenster.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0126"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "08"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035K": [
+            [
+                {
+                    "b": "A"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "b"
+                },
+                {
+                    "d": "fernleihe@stadt-muenster.de"
+                }
+            ],
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "fernleihe@stadt-muenster.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "fernleihe@stadt-muenster.de"
+                }
+            ]
+        ],
+        "035O": [
+            [
+                {
+                    "a": "FZL DE-621"
+                },
+                {
+                    "b": "CONTAINER"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-447",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-447",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-447",
+    "identifier": "DE-447",
+    "name": "Stadtb\u00fccherei M\u00fcnster",
+    "location": "M\u00fcnster",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NRW"
+}

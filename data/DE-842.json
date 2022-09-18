@@ -1,0 +1,204 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-842.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:28-01-16"
+                ],
+                {
+                    "t": "16:33:17.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020586264"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "HE200"
+                },
+                {
+                    "d": "842"
+                },
+                {
+                    "e": "DE-842"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.stadtbibliothek-tuttlingen.de"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Tuttlingen StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtbibliothek Tuttlingen"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Schulstr. 6"
+                },
+                {
+                    "b": "Tuttlingen"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "78532"
+                },
+                {
+                    "f": "Baden-W\u00fcrttemberg"
+                },
+                {
+                    "i": "Di-Do 10.00-13.30 und 14.30-18.00,  Fr 9.00-13.30 und 14.30-18.00, Sa 10.00-13.00"
+                },
+                {
+                    "k": "8.81696"
+                },
+                {
+                    "l": "47.98349"
+                },
+                {
+                    "n": "08327050"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "7461"
+                },
+                {
+                    "f": "16 12 46"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "7461"
+                },
+                {
+                    "i": "16 12 37"
+                },
+                {
+                    "k": "info@stadtbibliothek-tuttlingen.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "07"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-842",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-842",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-842",
+    "identifier": "DE-842",
+    "name": "Stadtbibliothek Tuttlingen",
+    "location": "Tuttlingen",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAW"
+}

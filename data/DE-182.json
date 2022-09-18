@@ -1,0 +1,210 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-182.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:17-02-16"
+                ],
+                {
+                    "t": "13:31:00.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020583125"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "AL182"
+                },
+                {
+                    "d": "182"
+                },
+                {
+                    "e": "DE-182"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://bibliothek.arnstadt.de"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Arnstadt StuKrsB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadt- und Kreisbibliothek Arnstadt"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "An der Liebfrauenkirche 2"
+                },
+                {
+                    "b": "Arnstadt"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "99310"
+                },
+                {
+                    "f": "Th\u00fcringen"
+                },
+                {
+                    "i": "Mo und Do-Fr 13.00-18.00, Di 10.00-12.00 und 14.00-19.00"
+                },
+                {
+                    "k": "10.94172"
+                },
+                {
+                    "l": "50.83323"
+                },
+                {
+                    "n": "16070004"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "3628"
+                },
+                {
+                    "f": "64 07 18"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "3628"
+                },
+                {
+                    "i": "58 47 45"
+                },
+                {
+                    "k": "bibliothek@kulturbetrieb.arnstadt.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "06"
+                },
+                {
+                    "h": "07"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "THU"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "GBV"
+                },
+                {
+                    "d": "\u00d6VK"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-182",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-182",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-182",
+    "identifier": "DE-182",
+    "name": "Stadt- und Kreisbibliothek Arnstadt",
+    "location": "Arnstadt",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "THU"
+}

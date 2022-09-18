@@ -1,0 +1,182 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-82-790.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:16-05-18"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:13-11-19"
+                ],
+                {
+                    "t": "16:38:00.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:16-05-18"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1159652716"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "511790-2"
+                },
+                {
+                    "d": "82/790"
+                },
+                {
+                    "e": "DE-82-790"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Aachen UB Computat. Genomics"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Institute for Computational Genomics, Bibliothek"
+                }
+            ]
+        ],
+        "029R": [
+            [
+                {
+                    "9": "009010416"
+                },
+                {
+                    "7": "Tw"
+                },
+                {
+                    "a": "Universit\u00e4tsbibliothek der RWTH Aachen"
+                },
+                {
+                    "e": "DE-82"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Pauwelsstr. 19"
+                },
+                {
+                    "b": "Aachen"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "52074"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "h": "MTZ"
+                },
+                {
+                    "k": "6.04808"
+                },
+                {
+                    "l": "50.77554"
+                },
+                {
+                    "n": "05334002"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "c": "0050"
+                },
+                {
+                    "d": "HBZ"
+                },
+                {
+                    "f": "65"
+                },
+                {
+                    "g": "02"
+                },
+                {
+                    "i": "P"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "c": "HBZ"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-82-790",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-82-790",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-82-790",
+    "identifier": "DE-82-790",
+    "name": "Institute for Computational Genomics, Bibliothek",
+    "location": "Aachen",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NRW"
+}

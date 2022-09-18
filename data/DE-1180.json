@@ -1,0 +1,230 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-1180.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:03-05-04"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:28-11-18"
+                ],
+                {
+                    "t": "16:30:31.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "025940953"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "PL739"
+                },
+                {
+                    "d": "1180"
+                },
+                {
+                    "e": "DE-1180"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.buecherei-overath.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://webopac.buecherei-overath.de"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Overath K\u00d6B"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtb\u00fccherei St. Walburga"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Steinhofpl."
+                },
+                {
+                    "b": "Overath"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "51491"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "i": "Mo und Fr 15.00-19.00, Di und Do 10.00-12.00 und 15.00-18.00, Mi 15.00-18.00"
+                },
+                {
+                    "k": "7.28395"
+                },
+                {
+                    "l": "50.93229"
+                },
+                {
+                    "n": "05378024"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "2206"
+                },
+                {
+                    "f": "57 57"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "2206"
+                },
+                {
+                    "i": "86 97 12"
+                },
+                {
+                    "k": "info@buecherei-overath.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "10"
+                },
+                {
+                    "h": "06"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "info@buecherei-overath.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "info@buecherei-overath.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-1180",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-1180",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-1180",
+    "identifier": "DE-1180",
+    "name": "Stadtb\u00fccherei St. Walburga",
+    "location": "Overath",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NRW"
+}

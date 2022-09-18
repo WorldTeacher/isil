@@ -1,0 +1,201 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-1199.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:13-05-04"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:03-06-21"
+                ],
+                {
+                    "t": "15:11:42.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "025982877"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "KB234"
+                },
+                {
+                    "d": "1199"
+                },
+                {
+                    "e": "DE-1199"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.norden.de/stadtbibliothek"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Norden StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtbibliothek Norden Im Vossenhus"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Am Markt 8"
+                },
+                {
+                    "b": "Norden"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "26506"
+                },
+                {
+                    "f": "Niedersachsen"
+                },
+                {
+                    "i": "Mo 10.00-13.00, Di-Mi und Fr 15.00-18.00, Do 17.00-20.00"
+                },
+                {
+                    "k": "7.20623"
+                },
+                {
+                    "l": "53.59554"
+                },
+                {
+                    "n": "03452019"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "4931"
+                },
+                {
+                    "f": "92 33 53"
+                },
+                {
+                    "k": "bibliothek@norden.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "06"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NIE"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "GBV"
+                },
+                {
+                    "d": "\u00d6VK"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-1199",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-1199",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-1199",
+    "identifier": "DE-1199",
+    "name": "Stadtbibliothek Norden Im Vossenhus",
+    "location": "Norden",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NIE"
+}

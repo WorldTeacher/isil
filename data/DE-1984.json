@@ -1,0 +1,216 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-1984.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:15-10-13"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:29-03-16"
+                ],
+                {
+                    "t": "08:37:18.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:15-10-13"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1042980497"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "JC051"
+                },
+                {
+                    "d": "1984"
+                },
+                {
+                    "e": "DE-1984"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.mertingen.de/index.php/mertingen/Rathaus-Verwaltung/Buecherei"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://webopac.winbiap.de/mertingen/index.aspx"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Mertingen StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Gemeindeb\u00fccherei Mertingen"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Dr.-Streichele-Str. 26"
+                },
+                {
+                    "b": "Mertingen"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "86690"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "i": "Di 15.00-18.00, Do 9.00-11.00, Fr 17.00-20.00"
+                },
+                {
+                    "k": "10.78330"
+                },
+                {
+                    "l": "48.65000"
+                },
+                {
+                    "n": "09779181"
+                },
+                {
+                    "o": "nicht barrierefrei"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "9078"
+                },
+                {
+                    "f": "96 80 00"
+                },
+                {
+                    "k": "buecherei@mertingen.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "06"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAY"
+                },
+                {
+                    "c": "BVB"
+                },
+                {
+                    "e": "n"
+                },
+                {
+                    "g": "R"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "buecherei@mertingen.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-1984",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-1984",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-1984",
+    "identifier": "DE-1984",
+    "name": "Gemeindeb\u00fccherei Mertingen",
+    "location": "Mertingen",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAY"
+}

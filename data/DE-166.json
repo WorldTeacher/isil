@@ -1,0 +1,225 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-166.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:28-11-18"
+                ],
+                {
+                    "t": "16:39:15.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020583052"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "AB166"
+                },
+                {
+                    "d": "166"
+                },
+                {
+                    "e": "DE-166"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.stadtbibliothek-diez.de"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Diez StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtbibliothek Diez"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Wilhelmstr. 48"
+                },
+                {
+                    "b": "Diez"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "65582"
+                },
+                {
+                    "f": "Rheinland-Pfalz"
+                },
+                {
+                    "i": "Mo und Mi 14.00-18.00, Do 14.00-19.00, Fr 11.00-18.00"
+                },
+                {
+                    "j": "1. Sa im Monat 10.00-13.00"
+                },
+                {
+                    "k": "8.01475"
+                },
+                {
+                    "l": "50.37026"
+                },
+                {
+                    "n": "07141029"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "6432"
+                },
+                {
+                    "f": "9 54 33-0"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "6432"
+                },
+                {
+                    "i": "9 54 33-19"
+                },
+                {
+                    "k": "info@stadtbibliothek-diez.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "06"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "info@stadtbibliothek-diez.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "info@stadtbibliothek-diez.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-166",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-166",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-166",
+    "identifier": "DE-166",
+    "name": "Stadtbibliothek Diez",
+    "location": "Diez",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NRW"
+}

@@ -1,0 +1,233 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-249.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:28-11-18"
+                ],
+                {
+                    "t": "16:39:10.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020583400"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "AC249"
+                },
+                {
+                    "d": "249"
+                },
+                {
+                    "e": "DE-249"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.stadtbibliothek.minden.de"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Minden StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtbibliothek Minden"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "K\u00f6nigswall 99"
+                },
+                {
+                    "b": "Minden"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "32423"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "i": "Mo-Di und Do-Fr 11.00-18.30, Sa 10.00-13.00"
+                },
+                {
+                    "k": "8.90904"
+                },
+                {
+                    "l": "52.28606"
+                },
+                {
+                    "n": "05770024"
+                },
+                {
+                    "o": "teilweise barrierefrei"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "571"
+                },
+                {
+                    "f": "8 37 91-0"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "571"
+                },
+                {
+                    "i": "8 37 91-30"
+                },
+                {
+                    "k": "stadtbibliothek@minden.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "08"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "b"
+                },
+                {
+                    "d": "stadtbibliothek-fernleihe@minden.de"
+                }
+            ],
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "stadtbibliothek-fernleihe@minden.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "stadtbibliothek-fernleihe@minden.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-249",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-249",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-249",
+    "identifier": "DE-249",
+    "name": "Stadtbibliothek Minden",
+    "location": "Minden",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NRW"
+}

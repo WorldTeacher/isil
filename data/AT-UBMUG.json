@@ -1,0 +1,261 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/AT-UBMUG.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:15-06-05"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:15-02-17"
+                ],
+                {
+                    "t": "17:08:23.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:15-06-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "975296221"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "030056-1"
+                },
+                {
+                    "c": "15.246.0000-3"
+                },
+                {
+                    "d": "AT-UBMUG"
+                },
+                {
+                    "e": "AT-UBMUG"
+                },
+                {
+                    "f": "MEDUG"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "https://bibliothek.medunigraz.at/"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://aleph.medunigraz.at/F?local_base=MUG50"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Graz Med UB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Medizinische Universit\u00e4t Graz, Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Stiftingtalstrasse 24"
+                },
+                {
+                    "b": "Graz"
+                },
+                {
+                    "d": "AT"
+                },
+                {
+                    "e": "A-8010"
+                },
+                {
+                    "f": "\u00d6sterreich"
+                },
+                {
+                    "i": "Mo-Fr 8.00-22.00, Sa 9.00-13.00"
+                },
+                {
+                    "j": "Bibliothek/Lernrzentrum; Lernzenturm: 9.00-22.00;  w\u00e4hrend der Ferien ge\u00e4nderte \u00d6ffnungszeiten"
+                },
+                {
+                    "k": "15.46792"
+                },
+                {
+                    "l": "47.08125"
+                },
+                {
+                    "o": "barrierefrei"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "43"
+                },
+                {
+                    "e": "316"
+                },
+                {
+                    "f": "3 85-73050"
+                },
+                {
+                    "g": "43"
+                },
+                {
+                    "h": "316"
+                },
+                {
+                    "i": "3 85-73059"
+                },
+                {
+                    "k": "bibliothek@medunigraz.at"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "c": "0157"
+                },
+                {
+                    "e": "\u00d6BV"
+                },
+                {
+                    "f": "60"
+                },
+                {
+                    "h": "04"
+                },
+                {
+                    "k": "AT-UBMEDG"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Medizin und verwandte Forschungsgebiete"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "WEU"
+                },
+                {
+                    "c": "\u00d6BV"
+                },
+                {
+                    "e": "k"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "b"
+                },
+                {
+                    "d": "literaturservice@medunigraz.at"
+                }
+            ],
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "literaturservice@medunigraz.at"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "literaturservice@medunigraz.at"
+                }
+            ]
+        ],
+        "047A": [
+            [
+                {
+                    "a": "Allgemein (\u00f6ffentlich) zug\u00e4nglich; Teilnahme am Fernleihverkehr (bei Zeitschriften nur Kopie)"
+                }
+            ]
+        ]
+    },
+    "_id": "AT-UBMUG",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/AT-UBMUG",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/AT-UBMUG",
+    "identifier": "AT-UBMUG",
+    "name": "Medizinische Universit\u00e4t Graz, Bibliothek",
+    "location": "Graz",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "WEU"
+}

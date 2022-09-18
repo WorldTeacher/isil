@@ -1,0 +1,205 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Lfn1.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:03-05-05"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:23-05-18"
+                ],
+                {
+                    "t": "18:35:18.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:27-05-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "027431363"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "d": "Lfn 1"
+                },
+                {
+                    "e": "DE-Lfn1"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.anl.bayern.de"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Laufen ANL"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Bayerische Akademie f\u00fcr Naturschutz und Landschaftspflege, Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Seethalerstr. 6"
+                },
+                {
+                    "b": "Laufen/Salzach"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "83410"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "k": "12.92339"
+                },
+                {
+                    "l": "47.93661"
+                },
+                {
+                    "n": "09172122"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "8682"
+                },
+                {
+                    "f": "89 63 56"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "8682"
+                },
+                {
+                    "i": "89 63 16"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "02"
+                },
+                {
+                    "h": "06"
+                },
+                {
+                    "i": "P"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Naturschutz"
+                },
+                {
+                    "a": "Landschaftspflege"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAY"
+                },
+                {
+                    "c": "BVB"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Lfn1",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Lfn1",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Lfn1",
+    "identifier": "DE-Lfn1",
+    "name": "Bayerische Akademie f\u00fcr Naturschutz und Landschaftspflege, Bibliothek",
+    "location": "Laufen/Salzach",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAY"
+}

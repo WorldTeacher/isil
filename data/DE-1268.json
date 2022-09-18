@@ -1,0 +1,220 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-1268.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:31-01-06"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:06-10-21"
+                ],
+                {
+                    "t": "15:34:26.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:31-01-06"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "978346211"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "WC941"
+                },
+                {
+                    "d": "1268"
+                },
+                {
+                    "e": "DE-1268"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "https://bibliothek.gb-m.de//"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://bibliothek.gb-m.de/"
+                },
+                {
+                    "z": "B"
+                }
+            ],
+            [
+                {
+                    "u": "http://www.blankenfelde-mahlow.de/media/custom/2407_111_1.PDF?1403698182"
+                },
+                {
+                    "x": "Nutzung"
+                },
+                {
+                    "z": "W"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Blankenfelde-Mahlow GB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Gemeindebibliothek Blankenfelde-Mahlow"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Luisenstr. 4"
+                },
+                {
+                    "b": "Blankenfelde-Mahlow"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "15831"
+                },
+                {
+                    "f": "Brandenburg"
+                },
+                {
+                    "i": "Di und Do 12.00-18.00, Mi und Fr 09.00-15.00, Sa 09.00-14.00"
+                },
+                {
+                    "k": "13.41003"
+                },
+                {
+                    "l": "52.36190"
+                },
+                {
+                    "n": "12072017"
+                },
+                {
+                    "o": "barrierefrei"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "3379"
+                },
+                {
+                    "f": "33 39 42"
+                },
+                {
+                    "k": "fernleihe@blankenfelde-mahlow.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "07"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BER"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "KOBV"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-1268",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-1268",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-1268",
+    "identifier": "DE-1268",
+    "name": "Gemeindebibliothek Blankenfelde-Mahlow",
+    "location": "Blankenfelde-Mahlow",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BER"
+}

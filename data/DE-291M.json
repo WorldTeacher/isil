@@ -1,0 +1,260 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-291M.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:18-11-99"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:22-02-21"
+                ],
+                {
+                    "t": "15:52:36.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:27-05-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "009014705"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "661001-8"
+                },
+                {
+                    "d": "291 M"
+                },
+                {
+                    "e": "DE-291M"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.uniklinikum-saarland.de/de/einrichtungen/bibliothek"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://opac.sulb.uni-saarland.de/libero/WebOpac.cls"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Homburg/Saar UuLB Saarbr.Med."
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Saarl\u00e4ndische Universit\u00e4ts- und Landesbibliothek, Medizinische Abteilung"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Geb\u00e4ude 34"
+                },
+                {
+                    "b": "Homburg/Saar"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "66424"
+                },
+                {
+                    "f": "Saarland"
+                },
+                {
+                    "i": "Mo-Fr 8.00-20.00, Sa 9.00-13.00"
+                },
+                {
+                    "k": "7.34510"
+                },
+                {
+                    "l": "49.30837"
+                },
+                {
+                    "n": "10045114"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "6841"
+                },
+                {
+                    "f": "16-26059 und -26008"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "6841"
+                },
+                {
+                    "i": "16-26033 und -26239"
+                },
+                {
+                    "k": "madok@sulb.uni-saarland.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0072"
+                },
+                {
+                    "d": "SWB"
+                },
+                {
+                    "f": "65"
+                },
+                {
+                    "g": "02"
+                },
+                {
+                    "h": "08"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Medizin"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "SWB"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035K": [
+            [
+                {
+                    "a": "S"
+                }
+            ]
+        ],
+        "035O": [
+            [
+                {
+                    "a": "ISIL DE-291; FZL DE-617"
+                }
+            ],
+            [
+                {
+                    "a": "ISIL DE-291; FZL DE-621"
+                }
+            ],
+            [
+                {
+                    "a": "ISIL DE-291; FZL DE-622"
+                }
+            ],
+            [
+                {
+                    "a": "ISIL DE-291; FZL DE-623"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-291M",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-291M",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-291M",
+    "identifier": "DE-291M",
+    "name": "Saarl\u00e4ndische Universit\u00e4ts- und Landesbibliothek, Medizinische Abteilung",
+    "location": "Homburg/Saar",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAW"
+}

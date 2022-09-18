@@ -1,0 +1,180 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Dkh1.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:03-02-10"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:12-05-22"
+                ],
+                {
+                    "t": "11:18:40.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:03-02-10"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "999988581"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "101272-1"
+                },
+                {
+                    "d": "Dkh 1"
+                },
+                {
+                    "e": "DE-Dkh1"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.bad-duerkheim.de/"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Bad D\u00fcrkheim Stadtarchiv"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtarchiv Bad D\u00fcrkheim"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Mannheimer Str. 24"
+                },
+                {
+                    "b": "Bad D\u00fcrkheim"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "67098"
+                },
+                {
+                    "f": "Rheinland-Pfalz"
+                },
+                {
+                    "k": "8.17267"
+                },
+                {
+                    "l": "49.46239"
+                },
+                {
+                    "n": "07332002"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "k": "stadtarchiv@bad-duerkheim.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0367"
+                },
+                {
+                    "f": "52"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "01"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Dkh1",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Dkh1",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Dkh1",
+    "identifier": "DE-Dkh1",
+    "name": "Stadtarchiv Bad D\u00fcrkheim",
+    "location": "Bad D\u00fcrkheim",
+    "type": [
+        "Organization",
+        "Archive"
+    ],
+    "addressRegion": "NRW"
+}

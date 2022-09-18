@@ -1,0 +1,200 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/AT-IMP.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:18-11-13"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:19-10-16"
+                ],
+                {
+                    "t": "14:11:44.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:18-11-13"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1044242507"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "030063-9"
+                },
+                {
+                    "d": "AT-IMP"
+                },
+                {
+                    "e": "AT-IMP"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://imp.ac.at"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Wien Max Perutz Library"
+                },
+                {
+                    "4": "c"
+                }
+            ],
+            [
+                {
+                    "a": "Research Institute of Molecular Pathology / Max Perutz Library"
+                },
+                {
+                    "4": "d"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Max Perutz Library"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Dr. Bohr-Gasse 7"
+                },
+                {
+                    "b": "Wien"
+                },
+                {
+                    "d": "AT"
+                },
+                {
+                    "e": "A-1030"
+                },
+                {
+                    "f": "\u00d6sterreich"
+                },
+                {
+                    "k": "16.40073"
+                },
+                {
+                    "l": "48.18866"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "43"
+                },
+                {
+                    "e": "1"
+                },
+                {
+                    "f": "7 97 30-3690"
+                },
+                {
+                    "g": "43"
+                },
+                {
+                    "h": "1"
+                },
+                {
+                    "i": "7 98 71 53"
+                },
+                {
+                    "k": "library@imp.ac.at"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "c": "0157"
+                },
+                {
+                    "e": "\u00d6BV"
+                },
+                {
+                    "f": "81"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "WEU"
+                },
+                {
+                    "c": "\u00d6BV"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "AT-IMP",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/AT-IMP",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/AT-IMP",
+    "identifier": "AT-IMP",
+    "name": "Max Perutz Library",
+    "location": "Wien",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "WEU"
+}

@@ -1,0 +1,221 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-825.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:29-01-16"
+                ],
+                {
+                    "t": "10:49:18.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020586175"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "LC505"
+                },
+                {
+                    "d": "825"
+                },
+                {
+                    "e": "DE-825"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.stadtbibliothek-kassel.de"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Kassel StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtbibliothek Kassel"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Rathaus"
+                },
+                {
+                    "b": "Kassel"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "34117"
+                },
+                {
+                    "f": "Hessen"
+                },
+                {
+                    "i": "Mo-Di und Do-Fr 11.00-18.00, Mi und Sa 10.00-13.00"
+                },
+                {
+                    "k": "9.49299"
+                },
+                {
+                    "l": "51.31139"
+                },
+                {
+                    "n": "06611000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Kassel"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "34112"
+                },
+                {
+                    "f": "Hessen"
+                },
+                {
+                    "g": "10 26 60"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "561"
+                },
+                {
+                    "f": "7 87-4013"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "561"
+                },
+                {
+                    "i": "7 87-4024"
+                },
+                {
+                    "k": "stadtbibliothek@stadt-kassel.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "08"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "HES"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-825",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-825",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-825",
+    "identifier": "DE-825",
+    "name": "Stadtbibliothek Kassel",
+    "location": "Kassel",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "HES"
+}

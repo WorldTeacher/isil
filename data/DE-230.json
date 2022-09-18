@@ -1,0 +1,238 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-230.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:28-03-19"
+                ],
+                {
+                    "t": "13:46:39.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020583311"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "AD230"
+                },
+                {
+                    "d": "230"
+                },
+                {
+                    "e": "DE-230"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.bibliothek.herford.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://webopac.herford.de/index.aspx"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Herford StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtbibliothek Herford"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Linnenbauerpl. 6"
+                },
+                {
+                    "b": "Herford"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "32052"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "i": "Di-Fr 11.00-18.00, Sa 10.00-14.00"
+                },
+                {
+                    "k": "8.67283"
+                },
+                {
+                    "l": "52.11590"
+                },
+                {
+                    "n": "05758012"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "5221"
+                },
+                {
+                    "f": "1 89-8040 (Ausleihe) und -8044 (Auskunft/Fernleihe)"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "5221"
+                },
+                {
+                    "i": "1 89-8048"
+                },
+                {
+                    "k": "bibliothek@herford.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "07"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "b"
+                },
+                {
+                    "d": "bibliothek.fernleihe@herford.de"
+                }
+            ],
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "bibliothek.fernleihe@herford.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "bibliothek.fernleihe@herford.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-230",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-230",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-230",
+    "identifier": "DE-230",
+    "name": "Stadtbibliothek Herford",
+    "location": "Herford",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NRW"
+}

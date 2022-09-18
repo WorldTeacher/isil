@@ -1,0 +1,274 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-217.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:18-11-99"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:28-07-21"
+                ],
+                {
+                    "t": "09:51:54.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "009024522"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "AD217"
+                },
+                {
+                    "d": "217"
+                },
+                {
+                    "e": "DE-217"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.stadtbibliothek-neuss.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://opac-neuss.itk-rheinland.de"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Neuss StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtbibliothek Neuss"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Neumarkt 10"
+                },
+                {
+                    "b": "Neuss"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "41460"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "i": "Di - Do 11-18 Uhr; Fr 11-22 Uhr; Sa 11-18 Uhr; So 13-17 Uhr"
+                },
+                {
+                    "k": "6.69142"
+                },
+                {
+                    "l": "51.20126"
+                },
+                {
+                    "n": "05162024"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "z": "Servicezeiten: Di-Fr 11-18 Uhr; Sa 11-14 Uhr"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "2131"
+                },
+                {
+                    "f": "90-4201"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "2131"
+                },
+                {
+                    "i": "90-2471"
+                },
+                {
+                    "k": "bibliothek@stadt.neuss.de"
+                }
+            ],
+            [
+                {
+                    "a": "W"
+                },
+                {
+                    "b": "Fernleihe"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "2131"
+                },
+                {
+                    "f": "90-4215"
+                },
+                {
+                    "k": "fernleihe.stadtbibliothek@stadt.neuss.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "08"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Psychologie"
+                },
+                {
+                    "a": "Esoterik"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "b"
+                },
+                {
+                    "d": "fernleihe.stadtbibliothek@stadt.neuss.de"
+                }
+            ],
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "fernleihe.stadtbibliothek@stadt.neuss.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "fernleihe.stadtbibliothek@stadt.neuss.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-217",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-217",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-217",
+    "identifier": "DE-217",
+    "name": "Stadtbibliothek Neuss",
+    "location": "Neuss",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NRW"
+}

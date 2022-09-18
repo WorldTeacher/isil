@@ -1,0 +1,205 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-1440.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:16-11-07"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:28-11-16"
+                ],
+                {
+                    "t": "11:08:16.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:16-11-07"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "986427446"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "SM003"
+                },
+                {
+                    "d": "1440"
+                },
+                {
+                    "e": "DE-1440"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.buecherei-muenztor.de/"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Schongau StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "B\u00fccherei am M\u00fcnztor Schongau"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Blumenstr. 2"
+                },
+                {
+                    "b": "Schongau"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "86956"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "i": "Mo 10.00-12.00 und 15.00-18.00, Di 10.00-18.00, Do 14.00-15.30, Fr 10.00-12.00 und 13.30-15.00, Sa (2.u. 4. im Monat) 10.00-12.00"
+                },
+                {
+                    "k": "10.89863"
+                },
+                {
+                    "l": "47.81774"
+                },
+                {
+                    "n": "09190148"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "8861"
+                },
+                {
+                    "f": "9 37 86"
+                },
+                {
+                    "k": "buecherei_muenztor@web.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "06"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAY"
+                },
+                {
+                    "c": "BVB"
+                },
+                {
+                    "e": "n"
+                },
+                {
+                    "g": "R"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "buecherei_muenztor@web.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-1440",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-1440",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-1440",
+    "identifier": "DE-1440",
+    "name": "B\u00fccherei am M\u00fcnztor Schongau",
+    "location": "Schongau",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAY"
+}

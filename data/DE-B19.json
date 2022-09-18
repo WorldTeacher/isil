@@ -1,0 +1,272 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-B19.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:18-11-99"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:11-05-22"
+                ],
+                {
+                    "t": "14:27:10.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "009013407"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "101260-5"
+                },
+                {
+                    "b": "CZ264"
+                },
+                {
+                    "d": "B 19"
+                },
+                {
+                    "e": "DE-B19"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Berlin Ausw\u00e4rtiges Amt"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Ausw\u00e4rtiges Amt, Referat 116, Bibliothek, Informationsvermittlung"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Werderscher Markt 1"
+                },
+                {
+                    "b": "Berlin"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "10117"
+                },
+                {
+                    "f": "Berlin"
+                },
+                {
+                    "j": "eingeschr\u00e4nkt und nur nach Anmeldung \u00f6ffentlich zug\u00e4nglich"
+                },
+                {
+                    "k": "13.39907"
+                },
+                {
+                    "l": "52.51513"
+                },
+                {
+                    "n": "11000000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "a": "Kurstr. 36"
+                },
+                {
+                    "b": "Berlin"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "10117"
+                },
+                {
+                    "f": "Berlin"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "18"
+                },
+                {
+                    "f": "17-2202"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "18"
+                },
+                {
+                    "i": "17-52202"
+                },
+                {
+                    "k": "116-s@auswaertiges-amt.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0367"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "01"
+                },
+                {
+                    "h": "08"
+                },
+                {
+                    "i": "P"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Recht"
+                },
+                {
+                    "a": "V\u00f6lkerrecht"
+                },
+                {
+                    "a": "Internationales Privatrecht"
+                },
+                {
+                    "a": "Staatsrecht"
+                },
+                {
+                    "a": "Verwaltungsrecht"
+                },
+                {
+                    "a": "Diplomatie"
+                },
+                {
+                    "a": "Gesandtschaftswesen"
+                },
+                {
+                    "a": "Politik"
+                },
+                {
+                    "a": "Au\u00dfenpolitik"
+                },
+                {
+                    "a": "Internationale Politik"
+                },
+                {
+                    "a": "Internationale Organisationen"
+                },
+                {
+                    "a": "Geschichte <seit 1870>"
+                },
+                {
+                    "a": "Wirtschaft"
+                },
+                {
+                    "a": "Landeskunde"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BER"
+                },
+                {
+                    "c": "SWB"
+                },
+                {
+                    "d": "Kalliope"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-B19",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-B19",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-B19",
+    "identifier": "DE-B19",
+    "name": "Ausw\u00e4rtiges Amt, Referat 116, Bibliothek, Informationsvermittlung",
+    "location": "Berlin",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BER"
+}

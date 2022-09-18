@@ -1,0 +1,218 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-2024.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:02-12-13"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:13-01-15"
+                ],
+                {
+                    "t": "17:03:45.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:02-12-13"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1044843586"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "KN258"
+                },
+                {
+                    "d": "2024"
+                },
+                {
+                    "e": "DE-2024"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.stadtbuecherei-brackenheim.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://www.bibliotheken.bw-online.de/wwwopac-brackenheim/index.asp?DB=Brackenheim"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Brackenheim StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtb\u00fccherei Brackenheim"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Heilbronner Str. 36"
+                },
+                {
+                    "b": "Brackenheim"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "74336"
+                },
+                {
+                    "f": "Baden-W\u00fcrttemberg"
+                },
+                {
+                    "i": "Mo und Fr 15.00-18.00, Di 10.00-12.00 und 15.00-18.00, Do 15.00-19.00, Sa 10.00-13.00"
+                },
+                {
+                    "k": "9.06783"
+                },
+                {
+                    "l": "49.07881"
+                },
+                {
+                    "n": "08125013"
+                },
+                {
+                    "o": "barrierefrei"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "7135"
+                },
+                {
+                    "f": "39 70"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "7135"
+                },
+                {
+                    "i": "96 51 21"
+                },
+                {
+                    "k": "stadtbuecherei@brackenheim.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "06"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "SWB"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-2024",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-2024",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-2024",
+    "identifier": "DE-2024",
+    "name": "Stadtb\u00fccherei Brackenheim",
+    "location": "Brackenheim",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAW"
+}

@@ -1,0 +1,209 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-2822.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:19-09-19"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:20-09-19"
+                ],
+                {
+                    "t": "08:44:43.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:19-09-19"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1195158548"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "HP562"
+                },
+                {
+                    "d": "2822"
+                },
+                {
+                    "e": "DE-2822"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "https://www.pfungstadt.de/freizeit-tourismus/stadtbibliothek.html"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://buecherei.pfungstadt.de/libero/WebOpac.cls/"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Pfungstadt StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtbibliothek Pfungstadt"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Borngasse 7"
+                },
+                {
+                    "b": "Pfungstadt"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "64319"
+                },
+                {
+                    "f": "Hessen"
+                },
+                {
+                    "i": "Mo und Mi 14.00-18.00, Do 16.00-20.00, Fr 10.00-14.00"
+                },
+                {
+                    "k": "8.59661"
+                },
+                {
+                    "l": "49.80243"
+                },
+                {
+                    "n": "06432018"
+                },
+                {
+                    "o": "nicht barrierefrei"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "6157"
+                },
+                {
+                    "f": "9 88-1500"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "6157"
+                },
+                {
+                    "i": "9 88-1313"
+                },
+                {
+                    "k": "buecherei@pfungstadt.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "HES"
+                },
+                {
+                    "d": "OnleiheVerbundHessen"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-2822",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-2822",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-2822",
+    "identifier": "DE-2822",
+    "name": "Stadtbibliothek Pfungstadt",
+    "location": "Pfungstadt",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "HES"
+}

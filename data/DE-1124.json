@@ -1,0 +1,212 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-1124.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:26-09-01"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:20-09-21"
+                ],
+                {
+                    "t": "13:02:51.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "022608540"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "KJ344"
+                },
+                {
+                    "d": "1124"
+                },
+                {
+                    "e": "DE-1124"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.sande.de/bibliothek"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://bibkataloge.de/sande"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Sande GB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Gemeindebibliothek Sande"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Hauptstr. 68"
+                },
+                {
+                    "b": "Sande"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "26452"
+                },
+                {
+                    "f": "Niedersachsen"
+                },
+                {
+                    "i": "Di-Mi und Fr 14.30-18.30, Do 10.00-12.00 und 14.30-18.30, Sa 10.00-12.00"
+                },
+                {
+                    "k": "8.01372"
+                },
+                {
+                    "l": "53.50082"
+                },
+                {
+                    "n": "03455014"
+                },
+                {
+                    "o": "Barrierefrei"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "4422"
+                },
+                {
+                    "f": "99 86 42"
+                },
+                {
+                    "k": "bibliothek-sande@ewetel.net"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "06"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NIE"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "GBV"
+                },
+                {
+                    "d": "\u00d6VK"
+                },
+                {
+                    "e": "n"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-1124",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-1124",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-1124",
+    "identifier": "DE-1124",
+    "name": "Gemeindebibliothek Sande",
+    "location": "Sande",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NIE"
+}

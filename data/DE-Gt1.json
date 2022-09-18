@@ -1,0 +1,277 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Gt1.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:09-04-21"
+                ],
+                {
+                    "t": "13:34:25.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020591772"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "208001-1"
+                },
+                {
+                    "b": "CQ551"
+                },
+                {
+                    "d": "Gt 1"
+                },
+                {
+                    "e": "DE-Gt1"
+                },
+                {
+                    "f": "GKSS"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "https://www.hereon.de/"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://www.hereon.de/central_units/library/index.php.de"
+                },
+                {
+                    "x": "Bibliothek"
+                },
+                {
+                    "z": "W"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Hereon"
+                },
+                {
+                    "4": "b"
+                }
+            ],
+            [
+                {
+                    "a": "Geesthacht Hereon"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Helmholtz-Zentrum hereon GmbH, Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Max-Planck-Str. 1"
+                },
+                {
+                    "b": "Geesthacht"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "21502"
+                },
+                {
+                    "f": "Schleswig-Holstein"
+                },
+                {
+                    "i": "Mo-Fr 8.30-16.00"
+                },
+                {
+                    "k": "10.42420"
+                },
+                {
+                    "l": "53.40606"
+                },
+                {
+                    "n": "01053032"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Geesthacht"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "21494"
+                },
+                {
+                    "f": "Schleswig-Holstein"
+                },
+                {
+                    "g": "11 60"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "4152"
+                },
+                {
+                    "f": "87-1690"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "4152"
+                },
+                {
+                    "i": "87-41717"
+                },
+                {
+                    "k": "bibliothek@hereon.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0101"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "08"
+                },
+                {
+                    "h": "07"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Werkstoffforschung"
+                },
+                {
+                    "a": "K\u00fcstenforschung"
+                },
+                {
+                    "a": "Regenerative Medizin"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "HAM"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "GBV"
+                },
+                {
+                    "d": "AMB"
+                },
+                {
+                    "e": "k"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Gt1",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Gt1",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Gt1",
+    "identifier": "DE-Gt1",
+    "name": "Helmholtz-Zentrum hereon GmbH, Bibliothek",
+    "location": "Geesthacht",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "HAM"
+}

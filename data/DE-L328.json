@@ -1,0 +1,263 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-L328.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:03-03-08"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:28-01-16"
+                ],
+                {
+                    "t": "16:37:38.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:03-03-08"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "987783718"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "d": "L 328"
+                },
+                {
+                    "e": "DE-L328"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.halle14.org"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://swb.bsz-bw.de/DB=2.320/?COOKIE=U998,Pbszgast,I17,B0728+,SY,NRecherche-DB,D2.320,E1df6a368-0,A,H,R217.234.205.243,FY"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Leipzig KunstB HALLE 14"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "HALLE 14 - Kunstbibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Spinnereistrasse 7"
+                },
+                {
+                    "b": "Leipzig"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "04179"
+                },
+                {
+                    "f": "Sachsen"
+                },
+                {
+                    "h": "HALLE 14, Gel\u00e4nde d. Leipziger Baumwollspinnerei"
+                },
+                {
+                    "i": "Di-Fr 11.00-18.00"
+                },
+                {
+                    "k": "12.31781"
+                },
+                {
+                    "l": "51.32638"
+                },
+                {
+                    "n": "14713000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Leipzig"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "04179"
+                },
+                {
+                    "f": "Sachsen"
+                },
+                {
+                    "g": "6 08"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "341"
+                },
+                {
+                    "f": "4 92 42 02"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "341"
+                },
+                {
+                    "i": "4 92 47 29"
+                },
+                {
+                    "k": "bibliothek@halle14.org"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "08"
+                },
+                {
+                    "h": "06"
+                },
+                {
+                    "i": "P"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Monographien zeitgen\u00f6ssischer internationaler K\u00fcnstler"
+                },
+                {
+                    "a": "seltene internationale Ausstellungs- und Gruppenkataloge"
+                },
+                {
+                    "a": "Bestandskataloge von internationalen Museen, Galerien und Sammlungen"
+                },
+                {
+                    "a": "alle Publikationen der HALLE 14 und Stiftung Federkiel f\u00fcr zeitgen\u00f6ssische Kunst"
+                },
+                {
+                    "a": "Publikationen der K\u00fcnstler und Galerien auf dem Gel\u00e4nde der Leipziger Baumwollspinnerei"
+                },
+                {
+                    "a": "audiovisuelle Aufzeichnungen von internationalen interdisziplin\u00e4ren Kunstaktionen"
+                },
+                {
+                    "a": "Plakate, Postkarten, Ex-libris, Zeitschriften"
+                },
+                {
+                    "a": "Konvolute k\u00fcnstlerischer Offerten"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "SAX"
+                },
+                {
+                    "c": "SWB"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-L328",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-L328",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-L328",
+    "identifier": "DE-L328",
+    "name": "HALLE 14 - Kunstbibliothek",
+    "location": "Leipzig",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "SAX"
+}

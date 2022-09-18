@@ -1,0 +1,218 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-1819.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:01-03-10"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:17-02-16"
+                ],
+                {
+                    "t": "14:01:46.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:01-03-10"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1000512010"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "KR016"
+                },
+                {
+                    "d": "1819"
+                },
+                {
+                    "e": "DE-1819"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.stadtbuecherei.waiblingen.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://www.stabue-online.waiblingen.de/opac/de/qsim_frm.html.S"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Waiblingen StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtb\u00fccherei Waiblingen"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Kurze Str. 24"
+                },
+                {
+                    "b": "Waiblingen"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "71332"
+                },
+                {
+                    "f": "Baden-W\u00fcrttemberg"
+                },
+                {
+                    "i": "Di-Fr 10.00-18.30  Sa 9.00-14.00"
+                },
+                {
+                    "k": "9.31753"
+                },
+                {
+                    "l": "48.83260"
+                },
+                {
+                    "n": "08119079"
+                },
+                {
+                    "o": "barrierefrei"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "7151"
+                },
+                {
+                    "f": "50 01-322"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "7151"
+                },
+                {
+                    "i": "50 01-408"
+                },
+                {
+                    "k": "stadtbuecherei@waiblingen.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "08"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "SWB"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-1819",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-1819",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-1819",
+    "identifier": "DE-1819",
+    "name": "Stadtb\u00fccherei Waiblingen",
+    "location": "Waiblingen",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAW"
+}

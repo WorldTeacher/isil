@@ -1,0 +1,228 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-866.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:31-10-16"
+                ],
+                {
+                    "t": "12:38:44.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020586442"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "HP069"
+                },
+                {
+                    "d": "866"
+                },
+                {
+                    "e": "DE-866"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.stadtbib-neumarkt.de/"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://www.neumarkt.de/buch"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Neumarkt StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtbibliothek Neumarkt"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Weiherstra\u00dfe 7"
+                },
+                {
+                    "b": "Neumarkt/Oberpfalz"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "92318"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "h": "Martin-Schrettinger-Haus"
+                },
+                {
+                    "i": "Di-Fr 10.00-18.00, Sa 10.00-12.00"
+                },
+                {
+                    "k": "11.46281"
+                },
+                {
+                    "l": "49.28136"
+                },
+                {
+                    "n": "09373147"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "9181"
+                },
+                {
+                    "f": "4 00 03-0"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "9181"
+                },
+                {
+                    "i": "4 00 03-21"
+                },
+                {
+                    "k": "stadtbibliothek@neumarkt.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "07"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAY"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "BVB"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "fernleihe-stadtbibliothek@neumarkt.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-866",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-866",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-866",
+    "identifier": "DE-866",
+    "name": "Stadtbibliothek Neumarkt",
+    "location": "Neumarkt/Oberpfalz",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAY"
+}

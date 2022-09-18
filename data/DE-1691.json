@@ -1,0 +1,183 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-1691.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:17-01-08"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:28-01-16"
+                ],
+                {
+                    "t": "16:17:29.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:17-01-08"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "987185861"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "SW103"
+                },
+                {
+                    "d": "1691"
+                },
+                {
+                    "e": "DE-1691"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Massing GB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Gemeindeb\u00fccherei Massing"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Marktplatz 22"
+                },
+                {
+                    "b": "Massing"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "84323"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "k": "12.60806"
+                },
+                {
+                    "l": "48.39173"
+                },
+                {
+                    "n": "09277133"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "k": "buecherei@massing.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "06"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAY"
+                },
+                {
+                    "c": "BVB"
+                },
+                {
+                    "e": "n"
+                },
+                {
+                    "g": "R"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "buecherei@massing.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-1691",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-1691",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-1691",
+    "identifier": "DE-1691",
+    "name": "Gemeindeb\u00fccherei Massing",
+    "location": "Massing",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAY"
+}

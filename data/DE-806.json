@@ -1,0 +1,238 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-806.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:28-11-18"
+                ],
+                {
+                    "t": "16:38:15.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:27-05-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020586000"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "QF577"
+                },
+                {
+                    "d": "806"
+                },
+                {
+                    "e": "DE-806"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.buecherei-telgte.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://www.bibliothek-im-netz.de"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Telgte K\u00d6B"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtb\u00fccherei Telgte"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Kapellenstr. 2"
+                },
+                {
+                    "b": "Telgte"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "48291"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "i": "Mo-Di und Do-Fr 10.00-12.00 und 15.00-17.30, Sa 10.00-12.00"
+                },
+                {
+                    "k": "7.78584"
+                },
+                {
+                    "l": "51.98453"
+                },
+                {
+                    "n": "05570044"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "2504"
+                },
+                {
+                    "f": "69 01 10"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "2504"
+                },
+                {
+                    "i": "69 01 19"
+                },
+                {
+                    "k": "stadtbuecherei@telgte.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "06"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "b"
+                },
+                {
+                    "d": "stadtbuecherei@telgte.de"
+                }
+            ],
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "stadtbuecherei@telgte.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "stadtbuecherei@telgte.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-806",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-806",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-806",
+    "identifier": "DE-806",
+    "name": "Stadtb\u00fccherei Telgte",
+    "location": "Telgte",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NRW"
+}

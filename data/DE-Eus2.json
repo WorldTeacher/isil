@@ -1,0 +1,277 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Eus2.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:12-05-22"
+                ],
+                {
+                    "t": "11:35:59.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020590903"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "101307-5"
+                },
+                {
+                    "b": "GR425"
+                },
+                {
+                    "d": "Eus 2"
+                },
+                {
+                    "e": "DE-Eus2"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.kreis-euskirchen.de/kreishaus/historische_kreisbibliothek/historische_kreisbibliothek.php"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://www.kreis-euskirchen.de/kreishaus/historische_kreisbibliothek/buecher.php"
+                },
+                {
+                    "z": "B"
+                }
+            ],
+            [
+                {
+                    "u": "http://www.kreis-euskirchen.de/kreishaus/historische_kreisbibliothek/jahrbuch.php"
+                },
+                {
+                    "x": "Aufs\u00e4tze"
+                },
+                {
+                    "z": "W"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Euskirchen Historische KrsB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Historische Kreisbibliothek Euskirchen"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "J\u00fclicher Ring 32"
+                },
+                {
+                    "b": "Euskirchen"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "53879"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "i": "Mi 8.30-12.30 und 13.30-17.00, Do 8.30-12.30 und 13.30-16.00, Fr 8.30-12.30"
+                },
+                {
+                    "k": "6.78388"
+                },
+                {
+                    "l": "50.66946"
+                },
+                {
+                    "n": "05366016"
+                },
+                {
+                    "o": "barrierefrei"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "2251"
+                },
+                {
+                    "f": "15-1313, -507 und -441"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "2251"
+                },
+                {
+                    "i": "15-1330"
+                },
+                {
+                    "k": "archiv@kreis-euskirchen.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0367"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "03"
+                },
+                {
+                    "h": "06"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Kreis Euskirchen"
+                },
+                {
+                    "a": "Eifel"
+                },
+                {
+                    "a": "Rheinland"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "d": "Archivportal-D"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "b"
+                },
+                {
+                    "d": "archiv@kreis-euskirchen.de"
+                }
+            ],
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "archiv@kreis-euskirchen.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "archiv@kreis-euskirchen.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Eus2",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Eus2",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Eus2",
+    "identifier": "DE-Eus2",
+    "name": "Historische Kreisbibliothek Euskirchen",
+    "location": "Euskirchen",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NRW"
+}

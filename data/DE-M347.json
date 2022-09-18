@@ -1,0 +1,292 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-M347.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "1220:21-01-04"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:24-09-21"
+                ],
+                {
+                    "t": "09:53:24.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "025525719"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "805200-1"
+                },
+                {
+                    "b": "BR586"
+                },
+                {
+                    "d": "M 347"
+                },
+                {
+                    "e": "DE-M347"
+                },
+                {
+                    "f": "FHM"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.hm.edu/bib"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://www.hm.edu/bib/webopac"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "University of Applied Sciences - M\u00fcnchen"
+                },
+                {
+                    "4": "a"
+                }
+            ],
+            [
+                {
+                    "a": "M\u00fcnchen HMB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Hochschule M\u00fcnchen, Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Lothstr. 13 d"
+                },
+                {
+                    "b": "M\u00fcnchen"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "80335"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "k": "11.55241"
+                },
+                {
+                    "l": "48.15384"
+                },
+                {
+                    "n": "09162000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "M\u00fcnchen"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "80323"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "89"
+                },
+                {
+                    "f": "12 65-1202"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "89"
+                },
+                {
+                    "i": "12 65-1187"
+                },
+                {
+                    "k": "bib-fernleihe@hm.edu"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0026"
+                },
+                {
+                    "d": "BVB"
+                },
+                {
+                    "f": "70"
+                },
+                {
+                    "g": "02"
+                },
+                {
+                    "h": "07"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAY"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "BVB"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "bib-fernleihe@hm.edu"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "bib-fernleihe@hm.edu"
+                }
+            ]
+        ],
+        "035O": [
+            [
+                {
+                    "a": "ISIL DE-12; AUTO DE-618"
+                }
+            ],
+            [
+                {
+                    "a": "ISIL DE-12; FZL DE-617"
+                }
+            ]
+        ],
+        "035Q": [
+            [
+                {
+                    "a": "j"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-M347",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-M347",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-M347",
+    "identifier": "DE-M347",
+    "name": "Hochschule M\u00fcnchen, Bibliothek",
+    "location": "M\u00fcnchen",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAY"
+}

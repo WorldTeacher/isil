@@ -1,0 +1,266 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-991.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:24-09-21"
+                ],
+                {
+                    "t": "09:53:45.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020587449"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "745500-8"
+                },
+                {
+                    "b": "DY186"
+                },
+                {
+                    "d": "991"
+                },
+                {
+                    "e": "DE-991"
+                },
+                {
+                    "f": "HSASI"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.hs-albsig.de/bib"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://bsz.ibs-bw.de/opac08"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Sigmaringen HS Albstadt-Sigmar"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Hochschule Albstadt-Sigmaringen, Bibliothek Sigmaringen"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Anton-G\u00fcnther-Str. 51"
+                },
+                {
+                    "b": "Sigmaringen"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "72488"
+                },
+                {
+                    "f": "Baden-W\u00fcrttemberg"
+                },
+                {
+                    "h": "Geb\u00e4ude 8"
+                },
+                {
+                    "i": "Mo-Do 9.00-19.30, Fr 9.00-14.00"
+                },
+                {
+                    "j": "vorlesungsfreie Zeit: Mo und Do 14.00-17.00, Di und Mi 9.00-12.30"
+                },
+                {
+                    "k": "9.23985"
+                },
+                {
+                    "l": "48.08744"
+                },
+                {
+                    "n": "08437104"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Sigmaringen"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "72481"
+                },
+                {
+                    "f": "Baden-W\u00fcrttemberg"
+                },
+                {
+                    "g": "12 54"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "7571"
+                },
+                {
+                    "f": "7 32-8342"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "7571"
+                },
+                {
+                    "i": "7 32-8341"
+                },
+                {
+                    "k": "fernleihe@hs-albsig.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0128"
+                },
+                {
+                    "d": "SWB"
+                },
+                {
+                    "f": "70"
+                },
+                {
+                    "g": "02"
+                },
+                {
+                    "h": "07"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "SWB"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035Q": [
+            [
+                {
+                    "a": "j"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-991",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-991",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-991",
+    "identifier": "DE-991",
+    "name": "Hochschule Albstadt-Sigmaringen, Bibliothek Sigmaringen",
+    "location": "Sigmaringen",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAW"
+}

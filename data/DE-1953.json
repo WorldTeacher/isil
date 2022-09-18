@@ -1,0 +1,233 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-1953.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:03-07-13"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:01-09-17"
+                ],
+                {
+                    "t": "13:42:50.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:03-07-13"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1036717771"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "JP476"
+                },
+                {
+                    "d": "1953"
+                },
+                {
+                    "e": "DE-1953"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.mediathek.kehl.de"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Kehl Mediathek"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Mediathek Kehl"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Marktstr. 9"
+                },
+                {
+                    "b": "Kehl"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "77694"
+                },
+                {
+                    "f": "Baden-W\u00fcrttemberg"
+                },
+                {
+                    "i": "Di und Fr 10.00-12.00 und 12.30-18.00, Mi 12.30-18.00, Sa 10.00-14.00"
+                },
+                {
+                    "k": "7.81004"
+                },
+                {
+                    "l": "48.57172"
+                },
+                {
+                    "n": "08317057"
+                },
+                {
+                    "o": "nicht barrierefrei"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "z": "Direkt am Rhein gelegen"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "7851"
+                },
+                {
+                    "f": "88-1288"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "7851"
+                },
+                {
+                    "i": "88-1294"
+                },
+                {
+                    "k": "mediathek@stadt-kehl.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "07"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAW"
+                },
+                {
+                    "e": "l"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "b"
+                },
+                {
+                    "d": "mediathek@stadt-kehl.de"
+                }
+            ],
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "mediathek@stadt-kehl.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "mediathek@stadt-kehl.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-1953",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-1953",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-1953",
+    "identifier": "DE-1953",
+    "name": "Mediathek Kehl",
+    "location": "Kehl",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAW"
+}

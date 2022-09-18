@@ -1,0 +1,247 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-476.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:12-05-22"
+                ],
+                {
+                    "t": "11:27:58.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020584369"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "101297-6"
+                },
+                {
+                    "b": "BE987"
+                },
+                {
+                    "d": "476"
+                },
+                {
+                    "e": "DE-476"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.stadtarchiv-kiel.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://katalog-stadtarchiv.kiel.de"
+                },
+                {
+                    "z": "B"
+                }
+            ],
+            [
+                {
+                    "u": "http://vzlbs2.gbv.de/DB=59/LNG=DU/"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "StadtAKiel"
+                },
+                {
+                    "4": "a"
+                }
+            ],
+            [
+                {
+                    "a": "Kiel Stadtarchiv"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Landeshauptstadt Kiel, Stadtarchiv"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Fleeth\u00f6rn 9"
+                },
+                {
+                    "b": "Kiel"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "24103"
+                },
+                {
+                    "f": "Schleswig-Holstein"
+                },
+                {
+                    "h": "Rathaus"
+                },
+                {
+                    "i": "Mo-Di 8.30-16.00, Do 8.30-18.00"
+                },
+                {
+                    "k": "10.13265"
+                },
+                {
+                    "l": "54.32225"
+                },
+                {
+                    "n": "01002000"
+                },
+                {
+                    "o": "nicht barrierefrei"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "z": "Lesesaal im Zimmer 515"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "431"
+                },
+                {
+                    "f": "9 01-3422"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "431"
+                },
+                {
+                    "i": "6 34 23"
+                },
+                {
+                    "k": "stadtarchiv@kiel.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0367"
+                },
+                {
+                    "f": "52"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "i": "P"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Kiel <Geschichte>"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "HAM"
+                },
+                {
+                    "c": "GBV"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-476",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-476",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-476",
+    "identifier": "DE-476",
+    "name": "Landeshauptstadt Kiel, Stadtarchiv",
+    "location": "Kiel",
+    "type": [
+        "Organization",
+        "Archive"
+    ],
+    "addressRegion": "HAM"
+}

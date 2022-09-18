@@ -1,0 +1,249 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-B1509.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "4002:27-01-03"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:30-11-18"
+                ],
+                {
+                    "t": "15:37:13.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "024248223"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "181509-X"
+                },
+                {
+                    "b": "CQ733"
+                },
+                {
+                    "d": "B 1509"
+                },
+                {
+                    "e": "DE-B1509"
+                },
+                {
+                    "f": "BIB"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.bibb.de"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "BIBB"
+                },
+                {
+                    "4": "a"
+                }
+            ],
+            [
+                {
+                    "a": "Bonn BI f. Berufsbildung"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Bundesinstitut f\u00fcr Berufsbildung, Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Robert-Schuman-Platz 3"
+                },
+                {
+                    "b": "Bonn"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "53175"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "i": "Mo-Do 9.30-12.00 und 13.00-15.00"
+                },
+                {
+                    "k": "7.13914"
+                },
+                {
+                    "l": "50.70698"
+                },
+                {
+                    "n": "05314000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "228"
+                },
+                {
+                    "f": "1 07-2101"
+                },
+                {
+                    "k": "bibliothek@bibb.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0014"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "01"
+                },
+                {
+                    "h": "07"
+                },
+                {
+                    "i": "P"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Berufsbildungsforschung"
+                },
+                {
+                    "a": "Berufsbildung"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "d": "BRB"
+                },
+                {
+                    "e": "k"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "b"
+                },
+                {
+                    "d": "fernleihe@bibb.de"
+                }
+            ],
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "fernleihe@bibb.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-B1509",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-B1509",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-B1509",
+    "identifier": "DE-B1509",
+    "name": "Bundesinstitut f\u00fcr Berufsbildung, Bibliothek",
+    "location": "Bonn",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NRW"
+}

@@ -1,0 +1,173 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-1609.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:01-02-08"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:30-04-18"
+                ],
+                {
+                    "t": "15:11:48.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:01-02-08"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "987399489"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "SK752"
+                },
+                {
+                    "d": "1609"
+                },
+                {
+                    "e": "DE-1609"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://theilheim.koeb-unterfranken.de/"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Theilheim K\u00d6B"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Katholische \u00d6ffentliche B\u00fccherei Theilheim"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Bachstra\u00dfe 15"
+                },
+                {
+                    "b": "Theilheim"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "97288"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "i": "Di 15.00-16.00, Do 19.00-20.00, So 10.00-11.00"
+                },
+                {
+                    "k": "10.03067"
+                },
+                {
+                    "l": "49.75460"
+                },
+                {
+                    "n": "09679193"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "06"
+                },
+                {
+                    "h": "05"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAY"
+                },
+                {
+                    "c": "BVB"
+                },
+                {
+                    "e": "n"
+                },
+                {
+                    "g": "R"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-1609",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-1609",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-1609",
+    "identifier": "DE-1609",
+    "name": "Katholische \u00d6ffentliche B\u00fccherei Theilheim",
+    "location": "Theilheim",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAY"
+}

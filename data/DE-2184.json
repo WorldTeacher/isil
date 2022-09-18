@@ -1,0 +1,253 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-2184.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:09-07-14"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:13-03-19"
+                ],
+                {
+                    "t": "11:00:49.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:09-07-14"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "105344267X"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "d": "2184"
+                },
+                {
+                    "e": "DE-2184"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.fmg.hmtm-hannover.de/de/bibliothek/"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://opac.tib.uni-hannover.de/DB=8/LNG=DU/"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "fmg"
+                },
+                {
+                    "4": "b"
+                }
+            ],
+            [
+                {
+                    "a": "Hannover FMG"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Forschungszentrum Musik und Gender, Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Seelhorststra\u00dfe 3"
+                },
+                {
+                    "b": "Hannover"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "30175"
+                },
+                {
+                    "f": "Niedersachsen"
+                },
+                {
+                    "i": "Mo-Do 10.00-14.00, Fr nach Vereinbarung"
+                },
+                {
+                    "j": "vorlesungsfreie Zeit: nach Vereinbarung"
+                },
+                {
+                    "k": "9.75846"
+                },
+                {
+                    "l": "52.37733"
+                },
+                {
+                    "n": "03241001"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "a": "Neues Haus 1"
+                },
+                {
+                    "b": "Hannover"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "30175"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "511"
+                },
+                {
+                    "f": "31 00-7334"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "511"
+                },
+                {
+                    "i": "31 00-7330"
+                },
+                {
+                    "k": "fmg@hmtm-hannover.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "08"
+                },
+                {
+                    "h": "05"
+                },
+                {
+                    "i": "P"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Genderforschung in Musikwissenschaft und Kulturwissenschaft"
+                },
+                {
+                    "a": "Materialien zu Komponistinnen und Interpretinnen"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NIE"
+                },
+                {
+                    "c": "GBV"
+                },
+                {
+                    "d": "Kalliope"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-2184",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-2184",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-2184",
+    "identifier": "DE-2184",
+    "name": "Forschungszentrum Musik und Gender, Bibliothek",
+    "location": "Hannover",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NIE"
+}

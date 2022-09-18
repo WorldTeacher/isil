@@ -1,0 +1,244 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-431.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:08-08-19"
+                ],
+                {
+                    "t": "14:03:15.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020584091"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "AL431"
+                },
+                {
+                    "d": "431"
+                },
+                {
+                    "e": "DE-431"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "https://www.ennepetal.de/stadtbuecherei"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://sb-ennepetal.lmscloud.net/"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Ennepetal StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtb\u00fccherei Ennepetal"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Voerder Str. 39"
+                },
+                {
+                    "b": "Ennepetal"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "58256"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "i": "Mo-Di 14.00-19.00, Do 10.00-13.00 und 14.00-19.00, Fr und Sa 10.00-13.00"
+                },
+                {
+                    "k": "7.34778"
+                },
+                {
+                    "l": "51.29991"
+                },
+                {
+                    "n": "05954008"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Ennepetal"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "58244"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "g": "15 43 und 15 44"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "2333"
+                },
+                {
+                    "f": "97 92 41"
+                },
+                {
+                    "k": "buecherei@ennepetal.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "07"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "buecherei@ennepetal.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "buecherei@ennepetal.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-431",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-431",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-431",
+    "identifier": "DE-431",
+    "name": "Stadtb\u00fccherei Ennepetal",
+    "location": "Ennepetal",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NRW"
+}

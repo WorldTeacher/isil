@@ -1,0 +1,227 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-2629.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:29-08-18"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:08-07-21"
+                ],
+                {
+                    "t": "10:12:11.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:29-08-18"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1165691353"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "JS465"
+                },
+                {
+                    "d": "2629"
+                },
+                {
+                    "e": "DE-2629"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "https://www.buehl.de/de/Kultur-Freizeit/Kulturelle-Einrichtungen/Mediathek"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://bibliotheken.kivbf.de/buehl/"
+                },
+                {
+                    "z": "B"
+                }
+            ],
+            [
+                {
+                    "u": "http://www.onleihe.de/more"
+                },
+                {
+                    "x": "Onleihe Verbund"
+                },
+                {
+                    "z": "W"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "B\u00fchl Mediathek"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Mediathek B\u00fchl"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Platz Vilafranca 3a"
+                },
+                {
+                    "b": "B\u00fchl"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "77815"
+                },
+                {
+                    "f": "Baden-W\u00fcrttemberg"
+                },
+                {
+                    "g": "7 78 06"
+                },
+                {
+                    "i": "Di und Do 10.00-18.00, Mi 14.00-18.00, Fr 12.00-18.00, Sa 10.00-13.00"
+                },
+                {
+                    "k": "8.13289"
+                },
+                {
+                    "l": "48.69774"
+                },
+                {
+                    "n": "08216007"
+                },
+                {
+                    "o": "barrierefrei"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "7223"
+                },
+                {
+                    "f": "91 11 53"
+                },
+                {
+                    "k": "mediathek@buehl.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "07"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAW"
+                },
+                {
+                    "c": "SWB"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "mediathek@buehl.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-2629",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-2629",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-2629",
+    "identifier": "DE-2629",
+    "name": "Mediathek B\u00fchl",
+    "location": "B\u00fchl",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAW"
+}

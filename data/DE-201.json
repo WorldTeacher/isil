@@ -1,0 +1,299 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-201.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "0292:04-02-21"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:21-01-22"
+                ],
+                {
+                    "t": "08:05:13.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "0292:04-02-21"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1226335055"
+                ]
+            ]
+        ],
+        "007N": [
+            [
+                [
+                    "009023836"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "808201-7"
+                },
+                {
+                    "b": "AC201"
+                },
+                {
+                    "d": "201"
+                },
+                {
+                    "e": "DE-201"
+                },
+                {
+                    "f": "DPMA"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.dpma.de/"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://dpma-primo.hosted.exlibrisgroup.com/primo-explore/search?vid=49DPMA_PUBLIC"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "M\u00fcnchen PatAmt"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Deutsches Patent- und Markenamt, Ref. 2.2.4, Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Zweibr\u00fcckenstr. 12"
+                },
+                {
+                    "b": "M\u00fcnchen"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "80331"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "i": "Mo-Mi 7.30-17.00, Do 7.30-18.00, Fr 7.30-15.00"
+                },
+                {
+                    "k": "11.58423"
+                },
+                {
+                    "l": "48.13247"
+                },
+                {
+                    "n": "09162000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "M\u00fcnchen"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "80297"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "89"
+                },
+                {
+                    "f": "21 95-2437 und -2231 (Fernleihe)"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "89"
+                },
+                {
+                    "i": "21 95-3153 (Fernleihe)"
+                },
+                {
+                    "k": "bibliothek@dpma.de"
+                }
+            ]
+        ],
+        "035D": [
+            [
+                {
+                    "a": "201a"
+                },
+                {
+                    "b": "DE-201a"
+                }
+            ],
+            [
+                {
+                    "a": "B 473"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0345"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "01"
+                },
+                {
+                    "h": "10"
+                },
+                {
+                    "i": "P"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Technik"
+                },
+                {
+                    "a": "gewerblicher Rechtsschutz"
+                },
+                {
+                    "a": "Patentwesen <In- und Ausland>"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAY"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "e": "k"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "bibliothek@dpma.de"
+                }
+            ]
+        ],
+        "035Q": [
+            [
+                {
+                    "a": "j"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-201",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-201",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-201",
+    "identifier": "DE-201",
+    "name": "Deutsches Patent- und Markenamt, Ref. 2.2.4, Bibliothek",
+    "location": "M\u00fcnchen",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAY"
+}

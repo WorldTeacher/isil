@@ -1,0 +1,213 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-1425.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:14-11-07"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:17-02-16"
+                ],
+                {
+                    "t": "14:11:26.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:14-11-07"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "986395056"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "JC154"
+                },
+                {
+                    "d": "1425"
+                },
+                {
+                    "e": "DE-1425"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.koenigsbrunn.de/index.php?id=0,318"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://www.koenigsbrunn.de/index.php?id=0,322"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "K\u00f6nigsbrunn StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtb\u00fccherei K\u00f6nigsbrunn"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Schwabenstr. 43"
+                },
+                {
+                    "b": "K\u00f6nigsbrunn"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "86343"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "i": "Mo und Fr 14.00-18.00, Di und Do 10.00-12.00 und 14.00-18.00"
+                },
+                {
+                    "k": "10.89240"
+                },
+                {
+                    "l": "48.27236"
+                },
+                {
+                    "n": "09772163"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "8231"
+                },
+                {
+                    "f": "6 06-255"
+                },
+                {
+                    "k": "stadtbuecherei@koenigsbrunn.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "07"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAY"
+                },
+                {
+                    "c": "BVB"
+                },
+                {
+                    "e": "n"
+                },
+                {
+                    "g": "R"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "stadtbuecherei@koenigsbrunn.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-1425",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-1425",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-1425",
+    "identifier": "DE-1425",
+    "name": "Stadtb\u00fccherei K\u00f6nigsbrunn",
+    "location": "K\u00f6nigsbrunn",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAY"
+}

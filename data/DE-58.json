@@ -1,0 +1,242 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-58.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:28-11-16"
+                ],
+                {
+                    "t": "11:34:01.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020582439"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "AA058"
+                },
+                {
+                    "d": "58"
+                },
+                {
+                    "e": "DE-58"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.nla.niedersachsen.de"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "B\u00fcckeburg HofB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "F\u00fcrstlich Schaumburg-Lippische Hofbibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Schlossplatz 2"
+                },
+                {
+                    "b": "B\u00fcckeburg"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "31675"
+                },
+                {
+                    "f": "Niedersachsen"
+                },
+                {
+                    "h": "c/o Nieders\u00e4chsisches Landesarchiv, Standort B\u00fcckeburg"
+                },
+                {
+                    "i": "Mo-Di und Do 9.00-16.00, Mi 9.00-18.00, Fr 9.00-13.00"
+                },
+                {
+                    "k": "9.04481"
+                },
+                {
+                    "l": "52.25896"
+                },
+                {
+                    "n": "03257009"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "5722"
+                },
+                {
+                    "f": "96 77-30"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "5722"
+                },
+                {
+                    "i": "12 89"
+                },
+                {
+                    "k": "bueckeburg@nla.niedersachsen.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "21"
+                },
+                {
+                    "g": "12"
+                },
+                {
+                    "h": "07"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Schaumburgensia"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NIE"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "GBV"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "bueckeburg@nla.niedersachsen.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "bueckeburg@nla.niedersachsen.de"
+                }
+            ]
+        ],
+        "047A": [
+            [
+                {
+                    "a": "Die Bibliothek wird vom Nieders\u00e4chsisches Landesarchiv verwaltet"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-58",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-58",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-58",
+    "identifier": "DE-58",
+    "name": "F\u00fcrstlich Schaumburg-Lippische Hofbibliothek",
+    "location": "B\u00fcckeburg",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NIE"
+}

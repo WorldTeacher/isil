@@ -1,0 +1,285 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-1090.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:24-09-21"
+                ],
+                {
+                    "t": "09:53:44.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020588275"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "745450-8"
+                },
+                {
+                    "d": "1090"
+                },
+                {
+                    "e": "DE-1090"
+                },
+                {
+                    "f": "HFWU"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.hfwu.de/bibliothek"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://bsz.ibs-bw.de/opac05"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Geislingen HS Wirtsch.N\u00fcrt.-G."
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Hochschule f\u00fcr Wirtschaft und Umwelt N\u00fcrtingen-Geislingen, Bibliothek Geislingen,"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Bahnhofstr. 62"
+                },
+                {
+                    "b": "Geislingen an der Steige"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "73312"
+                },
+                {
+                    "f": "Baden-W\u00fcrttemberg"
+                },
+                {
+                    "i": "Mo-Do 9.00-20.00, Fr 9.00-18.00, Sa 10.00-15.00"
+                },
+                {
+                    "j": "w\u00e4hrend der vorlesungsfreien Zeit: s. Homepage"
+                },
+                {
+                    "k": "9.84028"
+                },
+                {
+                    "l": "48.62182"
+                },
+                {
+                    "n": "08117024"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Geislingen an der Steige"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "73302"
+                },
+                {
+                    "f": "Baden-W\u00fcrttemberg"
+                },
+                {
+                    "g": "12 51"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "7331"
+                },
+                {
+                    "f": "22-495"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "7331"
+                },
+                {
+                    "i": "22-590"
+                },
+                {
+                    "k": "bibliothek-geislingen@hfwu.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0128"
+                },
+                {
+                    "d": "SWB"
+                },
+                {
+                    "f": "70"
+                },
+                {
+                    "g": "02"
+                },
+                {
+                    "h": "06"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Betriebswirtschaft"
+                },
+                {
+                    "a": "Automobilwirtschaft"
+                },
+                {
+                    "a": "Immobilienwirtschaft"
+                },
+                {
+                    "a": "Wirtschaftsrecht"
+                },
+                {
+                    "a": "Energiemanagement"
+                },
+                {
+                    "a": "Tourismus"
+                },
+                {
+                    "a": "Gesundheitsmanagement"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "SWB"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035Q": [
+            [
+                {
+                    "a": "j"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-1090",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-1090",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-1090",
+    "identifier": "DE-1090",
+    "name": "Hochschule f\u00fcr Wirtschaft und Umwelt N\u00fcrtingen-Geislingen, Bibliothek Geislingen,",
+    "location": "Geislingen an der Steige",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAW"
+}

@@ -1,0 +1,179 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Hil3.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:17-02-16"
+                ],
+                {
+                    "t": "13:44:28.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020592655"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "d": "Hil 3"
+                },
+                {
+                    "e": "DE-Hil3"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.hawk-hhg.de/bibliothek/default.php"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://opac.lbs-hildesheim.gbv.de/DB=2/LNG=DU/"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Hildesheim HAWK Bibliothek"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "HAWK Hochschule f\u00fcr angewandte Wissenschaft und Kunst Hildesheim/Holzminden/G\u00f6ttingen, Bibliothek, Elektronische Ressourcen"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Hohnsen 4"
+                },
+                {
+                    "b": "Hildesheim"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "31134"
+                },
+                {
+                    "f": "Niedersachsen"
+                },
+                {
+                    "k": "9.95797"
+                },
+                {
+                    "l": "52.14240"
+                },
+                {
+                    "n": "03254021"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "k": "bibliothek.bib@hawk-hhg.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "f": "73"
+                },
+                {
+                    "g": "02"
+                },
+                {
+                    "h": "01"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NIE"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Hil3",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Hil3",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Hil3",
+    "identifier": "DE-Hil3",
+    "name": "HAWK Hochschule f\u00fcr angewandte Wissenschaft und Kunst Hildesheim/Holzminden/G\u00f6ttingen, Bibliothek, Elektronische Ressourcen",
+    "location": "Hildesheim",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NIE"
+}

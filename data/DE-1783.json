@@ -1,0 +1,195 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-1783.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:04-01-08"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:28-01-16"
+                ],
+                {
+                    "t": "16:17:53.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:04-01-08"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "987018647"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "SA050"
+                },
+                {
+                    "d": "1783"
+                },
+                {
+                    "e": "DE-1783"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Burgkirchen GB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Gemeindebibliothek Burgkirchen"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Max-Planck-Platz 11"
+                },
+                {
+                    "b": "Burgkirchen/Alz"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "84508"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "k": "12.72986"
+                },
+                {
+                    "l": "48.16751"
+                },
+                {
+                    "n": "09171113"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "8679"
+                },
+                {
+                    "f": "91 50 35 11"
+                },
+                {
+                    "k": "bibliothek.burgkirchen@buergerzentrum.net"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "06"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAY"
+                },
+                {
+                    "c": "BVB"
+                },
+                {
+                    "d": "biblio18"
+                },
+                {
+                    "e": "n"
+                },
+                {
+                    "g": "R"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "bibliothek.burgkirchen@buergerzentrum.net"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-1783",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-1783",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-1783",
+    "identifier": "DE-1783",
+    "name": "Gemeindebibliothek Burgkirchen",
+    "location": "Burgkirchen/Alz",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAY"
+}

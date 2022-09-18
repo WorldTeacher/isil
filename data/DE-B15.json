@@ -1,0 +1,288 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-B15.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:18-11-99"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9041:13-04-17"
+                ],
+                {
+                    "t": "12:35:44.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "009025758"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "978201-1"
+                },
+                {
+                    "b": "EE396"
+                },
+                {
+                    "d": "B 15"
+                },
+                {
+                    "e": "DE-B15"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.senckenberg.de/root/index.php?page_id=12900"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://lbsopac.rz.uni-frankfurt.de/DB=70/SET=2/TTL=1/START_WELCOME"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Spezialbibliothek f\u00fcr Entomologie"
+                },
+                {
+                    "4": "a"
+                }
+            ],
+            [
+                {
+                    "a": "SDEI"
+                },
+                {
+                    "4": "a"
+                }
+            ],
+            [
+                {
+                    "a": "M\u00fcncheberg SDEI WGL"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Senckenberg Deutsches Entomologisches Institut, Entomologische Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Eberswalder Str. 90"
+                },
+                {
+                    "b": "M\u00fcncheberg"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "15374"
+                },
+                {
+                    "f": "Brandenburg"
+                },
+                {
+                    "i": "Mo-Do  9.00-12.00 und 12.30-15.00, Fr 9.00 -12.30"
+                },
+                {
+                    "j": "erweiterte \u00d6ffnungszeiten nach Absprache m\u00f6glich"
+                },
+                {
+                    "k": "14.11543"
+                },
+                {
+                    "l": "52.51528"
+                },
+                {
+                    "n": "12064317"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "33432"
+                },
+                {
+                    "f": "7 36 98-3720"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "33432"
+                },
+                {
+                    "i": "7 36 98-3706"
+                },
+                {
+                    "k": "bibliothek-sdei@senckenberg.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0178"
+                },
+                {
+                    "d": "WGL"
+                },
+                {
+                    "e": "HBV"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "06"
+                },
+                {
+                    "h": "07"
+                },
+                {
+                    "i": "P"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Entomologie"
+                },
+                {
+                    "a": "Pflanzenschutz"
+                },
+                {
+                    "a": "Naturwissenschaften"
+                },
+                {
+                    "a": "Tiere <Zoologie>"
+                },
+                {
+                    "a": "Taxonomie"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BER"
+                },
+                {
+                    "c": "HeBIS"
+                },
+                {
+                    "d": "WGL; Kalliope; KOBV"
+                },
+                {
+                    "e": "k"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035J": [
+            [
+                {
+                    "a": "Leihverkehr erfolgt \u00fcber: Mun 1"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "bibliothek-sdei@senckenberg.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-B15",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-B15",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-B15",
+    "identifier": "DE-B15",
+    "name": "Senckenberg Deutsches Entomologisches Institut, Entomologische Bibliothek",
+    "location": "M\u00fcncheberg",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BER"
+}

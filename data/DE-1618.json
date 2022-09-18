@@ -1,0 +1,222 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-1618.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:30-01-08"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:28-01-16"
+                ],
+                {
+                    "t": "16:17:13.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:30-01-08"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "987360922"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "GM001"
+                },
+                {
+                    "d": "1618"
+                },
+                {
+                    "e": "DE-1618"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://webopac.winbiap.de/wartenberg/index.aspx"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Gemeindeb\u00fccherei Wartenberg"
+                },
+                {
+                    "4": "a"
+                }
+            ],
+            [
+                {
+                    "a": "Wartenberg StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Medienzentrum Wartenberg"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Marktplatz 10"
+                },
+                {
+                    "b": "Wartenberg"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "85456"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "i": "Di-Mi 15.00-18.00, Do 15.00-19.00, Fr 10.00-12.00 und 15.00-18.00, Sa 10.00-13.00"
+                },
+                {
+                    "k": "11.98857"
+                },
+                {
+                    "l": "48.40467"
+                },
+                {
+                    "n": "09177143"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "8762"
+                },
+                {
+                    "f": "72 62 46"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "8762"
+                },
+                {
+                    "i": "72 62 47"
+                },
+                {
+                    "k": "buecherei@buecherei-wartenberg.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "06"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAY"
+                },
+                {
+                    "c": "BVB"
+                },
+                {
+                    "e": "n"
+                },
+                {
+                    "g": "R"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "buecherei@buecherei-wartenberg.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-1618",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-1618",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-1618",
+    "identifier": "DE-1618",
+    "name": "Medienzentrum Wartenberg",
+    "location": "Wartenberg",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAY"
+}

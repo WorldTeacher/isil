@@ -1,0 +1,271 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Hed2-2.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-06-10"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:30-10-19"
+                ],
+                {
+                    "t": "09:40:41.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:11-06-10"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1003432573"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "797202-7"
+                },
+                {
+                    "d": "Hed 2/2"
+                },
+                {
+                    "e": "DE-Hed2-2"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.dhbw-heidenheim.de/Bibliothek.55.0.html"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://bsz.ibs-bw.de/opac09"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Heidenheim DHBW Zweigbib."
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Duale Hochschule Baden-W\u00fcrttemberg Heidenheim, Zweigbibliothek"
+                }
+            ]
+        ],
+        "029R": [
+            [
+                {
+                    "9": "023468645"
+                },
+                {
+                    "7": "Tw"
+                },
+                {
+                    "a": "Duale Hochschule Baden-W\u00fcrttemberg Heidenheim, Bibliothek"
+                },
+                {
+                    "e": "DE-Hed2"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Wilhelmstr. 10"
+                },
+                {
+                    "b": "Heidenheim/Brenz"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "89518"
+                },
+                {
+                    "f": "Baden-W\u00fcrttemberg"
+                },
+                {
+                    "i": "Mo-Di und Do 10.00-13.00 und 14.00-17.00, Mi 10.00-13.00 und 14.00-18.00, Fr. 10.00-13.30"
+                },
+                {
+                    "k": "10.15009"
+                },
+                {
+                    "l": "48.67950"
+                },
+                {
+                    "n": "08135019"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Heidenheim/Brenz"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "89501"
+                },
+                {
+                    "f": "Baden-W\u00fcrttemberg"
+                },
+                {
+                    "g": "11 30"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "7321"
+                },
+                {
+                    "f": "27 22-150"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "7321"
+                },
+                {
+                    "i": "27 22-159"
+                },
+                {
+                    "k": "bibliothek@dhbw-heidenheim.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "c": "0070"
+                },
+                {
+                    "d": "SWB"
+                },
+                {
+                    "f": "73"
+                },
+                {
+                    "g": "02"
+                },
+                {
+                    "h": "06"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Sozialwissenschaften"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAW"
+                },
+                {
+                    "c": "SWB"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "bibliothek@dhbw-heidenheim.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Hed2-2",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Hed2-2",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Hed2-2",
+    "identifier": "DE-Hed2-2",
+    "name": "Duale Hochschule Baden-W\u00fcrttemberg Heidenheim, Zweigbibliothek",
+    "location": "Heidenheim/Brenz",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAW"
+}

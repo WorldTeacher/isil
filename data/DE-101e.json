@@ -1,0 +1,262 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-101e.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:16-05-08"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:03-01-22"
+                ],
+                {
+                    "t": "14:22:50.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:16-05-08"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "988738074"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "d": "101e"
+                },
+                {
+                    "e": "DE-101e"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "https://www.dnb.de/dea"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://portal.dnb.de"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Frankfurt/M DNB Exilarchiv"
+                },
+                {
+                    "4": "a"
+                }
+            ],
+            [
+                {
+                    "a": "Frankfurt/M DNB Exilarchiv"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Deutsche Nationalbibliothek, Deutsches Exilarchiv 1933-1945"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Adickesallee 1"
+                },
+                {
+                    "b": "Frankfurt/Main"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "60322"
+                },
+                {
+                    "f": "Hessen"
+                },
+                {
+                    "i": "Mo-Fr 10.00-18.00"
+                },
+                {
+                    "k": "8.68314"
+                },
+                {
+                    "l": "50.13129"
+                },
+                {
+                    "n": "06412000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "69"
+                },
+                {
+                    "f": "15 25-1900"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "69"
+                },
+                {
+                    "i": "15 25-1959"
+                },
+                {
+                    "k": "exil@dnb.de"
+                }
+            ],
+            [
+                {
+                    "a": "W"
+                },
+                {
+                    "b": "Fernleihe"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "341"
+                },
+                {
+                    "f": "22 71-567"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "341"
+                },
+                {
+                    "i": "22 71-444"
+                },
+                {
+                    "k": "fernleihe@dnb.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "11"
+                },
+                {
+                    "g": "01"
+                },
+                {
+                    "h": "08"
+                },
+                {
+                    "i": "P"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "1933-1950 im Ausland erschienene Publikationen deutschsprachiger Emigranten"
+                },
+                {
+                    "a": "Nachl\u00e4sse und Teilnachl\u00e4sse deutschsprachiger Emigranten"
+                },
+                {
+                    "a": "Archive von Exilorganisationen"
+                },
+                {
+                    "a": "Sammlungen von Exilforschern"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "HES"
+                },
+                {
+                    "e": "k"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-101e",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-101e",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-101e",
+    "identifier": "DE-101e",
+    "name": "Deutsche Nationalbibliothek, Deutsches Exilarchiv 1933-1945",
+    "location": "Frankfurt/Main",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "HES"
+}

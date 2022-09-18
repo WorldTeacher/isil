@@ -1,0 +1,279 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-De15.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:21-03-18"
+                ],
+                {
+                    "t": "14:15:55.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020590245"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "EK321"
+                },
+                {
+                    "d": "De 15"
+                },
+                {
+                    "e": "DE-De15"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.bauhaus-dessau.de"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Dessau-R. Bauhaus"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stiftung Bauhaus Dessau, Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Gropiusallee 34"
+                },
+                {
+                    "b": "Dessau-Ro\u00dflau"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "06846"
+                },
+                {
+                    "f": "Sachsen-Anhalt"
+                },
+                {
+                    "h": "Post an: Gropiusallee 38"
+                },
+                {
+                    "i": "Mo-Do 9.30-17.00, Fr 9.30-15.00"
+                },
+                {
+                    "k": "12.22761"
+                },
+                {
+                    "l": "51.83866"
+                },
+                {
+                    "n": "15001000"
+                },
+                {
+                    "o": "barrierefrei"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "z": "Bibliothek befindet sich in Gropiusallee 34 zusammen mit Bibliothek der HS Anhalt, T\u00fcrschild \"Bibliotheken am Bauhaus\""
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Dessau-Ro\u00dflau"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "06813"
+                },
+                {
+                    "f": "Sachsen-Anhalt"
+                },
+                {
+                    "g": "14 05"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "340"
+                },
+                {
+                    "f": "65 08-217 und -216"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "340"
+                },
+                {
+                    "i": "65 08-226"
+                },
+                {
+                    "k": "bibliothek@bauhaus-dessau.de"
+                }
+            ],
+            [
+                {
+                    "a": "W"
+                },
+                {
+                    "b": "Weitere E-Mail"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "k": "bibliothek@bauhaus-dessau.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "07"
+                },
+                {
+                    "h": "07"
+                },
+                {
+                    "i": "P"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Architektur"
+                },
+                {
+                    "a": "St\u00e4dtebau"
+                },
+                {
+                    "a": "Bauhaus"
+                },
+                {
+                    "a": "Kunst"
+                },
+                {
+                    "a": "Design"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "SAA"
+                },
+                {
+                    "c": "GBV"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "b"
+                },
+                {
+                    "d": "bibliothek@bauhaus-dessau.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-De15",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-De15",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-De15",
+    "identifier": "DE-De15",
+    "name": "Stiftung Bauhaus Dessau, Bibliothek",
+    "location": "Dessau-Ro\u00dflau",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "SAA"
+}

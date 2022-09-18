@@ -1,0 +1,220 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Alg1.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:03-06-21"
+                ],
+                {
+                    "t": "15:12:03.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020588569"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "WD602"
+                },
+                {
+                    "d": "Alg 1"
+                },
+                {
+                    "e": "DE-Alg1"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.bibliothek-altenberg.de/"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Altenberg StuSchulB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadt- und Schulbibliothek Altenberg"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Platz des Bergmanns 2"
+                },
+                {
+                    "b": "Altenberg"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "01773"
+                },
+                {
+                    "f": "Sachsen"
+                },
+                {
+                    "i": "Mo und Fr 9.00-17.00, Di 9.00-18.00, Mi 12.00-17.00"
+                },
+                {
+                    "k": "13.76060"
+                },
+                {
+                    "l": "50.76391"
+                },
+                {
+                    "n": "14628010"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "35056"
+                },
+                {
+                    "f": "3 33-25 und -26"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "35056"
+                },
+                {
+                    "i": "3 33-18"
+                },
+                {
+                    "j": "35056/33318"
+                },
+                {
+                    "k": "bibliothek@altenberg.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "06"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Bergbau <Erzgebirge>"
+                },
+                {
+                    "a": "Regionalliteratur <Osterzgebirge>"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "SAX"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "d": "\u00d6VK"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Alg1",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Alg1",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Alg1",
+    "identifier": "DE-Alg1",
+    "name": "Stadt- und Schulbibliothek Altenberg",
+    "location": "Altenberg",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "SAX"
+}

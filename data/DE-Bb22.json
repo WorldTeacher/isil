@@ -1,0 +1,257 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Bb22.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:17-01-05"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:20-08-20"
+                ],
+                {
+                    "t": "10:04:10.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "026958864"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "868022-X"
+                },
+                {
+                    "b": "DR196"
+                },
+                {
+                    "d": "Bb 22"
+                },
+                {
+                    "e": "DE-Bb22"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.olg-bamberg.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://sdvoz2.bib-bvb.de"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Bamberg Oberlandesgericht"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Oberlandesgericht Bamberg, Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Wilhelmsplatz 1"
+                },
+                {
+                    "b": "Bamberg"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "96047"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "i": "Mo-Do 8.00-12.00 und 13.00-15.00, Fr 8.00-12.00"
+                },
+                {
+                    "j": "f\u00fcr externe Besucher; eingeschr\u00e4nkt \u00f6ffentlich zug\u00e4nglich"
+                },
+                {
+                    "k": "10.89669"
+                },
+                {
+                    "l": "49.89162"
+                },
+                {
+                    "n": "09461000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Bamberg"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "96045"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "951"
+                },
+                {
+                    "f": "8 33-1150"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "951"
+                },
+                {
+                    "i": "8 33-1230"
+                },
+                {
+                    "k": "Bibliothek@olg-ba.bayern.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0085"
+                },
+                {
+                    "d": "BVB"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "02"
+                },
+                {
+                    "h": "06"
+                },
+                {
+                    "i": "P"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Zivilrecht"
+                },
+                {
+                    "a": "Handelsrecht"
+                },
+                {
+                    "a": "Strafrecht"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAY"
+                },
+                {
+                    "c": "BVB"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Bb22",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Bb22",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Bb22",
+    "identifier": "DE-Bb22",
+    "name": "Oberlandesgericht Bamberg, Bibliothek",
+    "location": "Bamberg",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAY"
+}

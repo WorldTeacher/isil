@@ -1,0 +1,243 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-1305.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:07-06-07"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:22-10-20"
+                ],
+                {
+                    "t": "13:23:44.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:07-06-07"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "984544321"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "GN175"
+                },
+                {
+                    "d": "1305"
+                },
+                {
+                    "e": "DE-1305"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "https://opac.winbiap.net/mainburg/index.aspx"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Mainburg StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtbibliothek Mainburg"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Abensberger Str. 15"
+                },
+                {
+                    "b": "Mainburg"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "84048"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "i": "Di 14.00-19.00, Mi 9.00-13.00, Do 14.00-18.00, Fr 9.00-12.00 und 14.00-18.00"
+                },
+                {
+                    "k": "11.78663"
+                },
+                {
+                    "l": "48.64282"
+                },
+                {
+                    "n": "09273147"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "a": "Marktpl. 1-4"
+                },
+                {
+                    "b": "Mainburg"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "84048"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "h": "abzugeben bei der Stadt Mainburg"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "8751"
+                },
+                {
+                    "f": "26 62"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "8751"
+                },
+                {
+                    "i": "7 04 25"
+                },
+                {
+                    "k": "stadtbibliothek@hallertau.net"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "06"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAY"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "BVB"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "stadtbibliothek@hallertau.net"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-1305",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-1305",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-1305",
+    "identifier": "DE-1305",
+    "name": "Stadtbibliothek Mainburg",
+    "location": "Mainburg",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAY"
+}

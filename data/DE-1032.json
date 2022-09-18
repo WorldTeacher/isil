@@ -1,0 +1,286 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-1032.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9042:03-08-22"
+                ],
+                {
+                    "t": "16:53:43.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020587775"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "506000-X"
+                },
+                {
+                    "b": "BP966"
+                },
+                {
+                    "d": "1032"
+                },
+                {
+                    "e": "DE-1032"
+                },
+                {
+                    "f": "KHN"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.katho-nrw.de/katho-nrw/studium-lehre/hochschulbibliothek/"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://alephino.katho-nrw.de:8060/ALEPH/"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "K\u00f6ln Kath. HS"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Katholische Hochschule Nordrhein-Westfalen (katho), Hochschulbibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "W\u00f6rthstr. 10"
+                },
+                {
+                    "b": "K\u00f6ln"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "50668"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "i": "s. Homepage"
+                },
+                {
+                    "k": "6.96426"
+                },
+                {
+                    "l": "50.95327"
+                },
+                {
+                    "n": "05315000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "221"
+                },
+                {
+                    "f": "77 57-150"
+                },
+                {
+                    "k": "bibliothek@katho-nrw.de"
+                }
+            ],
+            [
+                {
+                    "a": "W"
+                },
+                {
+                    "b": "Fernleihe"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "k": "fernleihe@katho-nrw.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0126"
+                },
+                {
+                    "d": "HBZ"
+                },
+                {
+                    "f": "70"
+                },
+                {
+                    "g": "08"
+                },
+                {
+                    "h": "08"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Sozialarbeit"
+                },
+                {
+                    "a": "Sozialp\u00e4dagogik"
+                },
+                {
+                    "a": "Sozialmanagement"
+                },
+                {
+                    "a": "Pflegewissenschaft"
+                },
+                {
+                    "a": "Theologie"
+                },
+                {
+                    "a": "Sonderp\u00e4dagogik"
+                },
+                {
+                    "a": "Management"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "HBZ"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "b"
+                },
+                {
+                    "d": "fernleihe@katho-nrw.de"
+                }
+            ],
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "fernleihe@katho-nrw.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "fernleihe@katho-nrw.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-1032",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-1032",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-1032",
+    "identifier": "DE-1032",
+    "name": "Katholische Hochschule Nordrhein-Westfalen (katho), Hochschulbibliothek",
+    "location": "K\u00f6ln",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NRW"
+}

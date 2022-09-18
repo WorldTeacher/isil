@@ -1,0 +1,249 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-L249.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:18-11-99"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:16-11-20"
+                ],
+                {
+                    "t": "11:42:34.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "009031839"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "958499-7"
+                },
+                {
+                    "b": "WF283"
+                },
+                {
+                    "d": "L 249"
+                },
+                {
+                    "e": "DE-L249"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Wermsdorf Fachkrankenhaus"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Fachkrankenhaus Hubertusburg gGmbH, Zentralbibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Hubertusburg 63"
+                },
+                {
+                    "b": "Wermsdorf"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "04779"
+                },
+                {
+                    "f": "Sachsen"
+                },
+                {
+                    "i": "Mo 9.00-12.00 und 13.00-18.00, Di 10.00-14.00, Do 10.00-12.00 und 13.00-17.00, Fr 10.00-13.00"
+                },
+                {
+                    "k": "12.93859"
+                },
+                {
+                    "l": "51.27759"
+                },
+                {
+                    "n": "14730330"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Wermsdorf"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "04777"
+                },
+                {
+                    "f": "Sachsen"
+                },
+                {
+                    "g": "13"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "34364"
+                },
+                {
+                    "f": "6 22 51"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "34364"
+                },
+                {
+                    "i": "6 26 30"
+                },
+                {
+                    "j": "517170"
+                },
+                {
+                    "k": "bibliothek_wermsdorf@kh-hubertusburg.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0101"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "06"
+                },
+                {
+                    "h": "06"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Neurologie"
+                },
+                {
+                    "a": "P\u00e4diatrie"
+                },
+                {
+                    "a": "Psychiatrie"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "SAX"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "047A": [
+            [
+                {
+                    "a": "Zentralbibliothek Wermsdorf = 1. Krankenhausbibliothek: Medizinische Fachbibliothek und Patientenbibliothek, 2. \u00d6ffentliche Bibliothek"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-L249",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-L249",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-L249",
+    "identifier": "DE-L249",
+    "name": "Fachkrankenhaus Hubertusburg gGmbH, Zentralbibliothek",
+    "location": "Wermsdorf",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "SAX"
+}

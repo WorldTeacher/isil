@@ -1,0 +1,222 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-1493.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:10-12-07"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:28-01-16"
+                ],
+                {
+                    "t": "16:07:13.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:10-12-07"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "986764760"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "JP464"
+                },
+                {
+                    "d": "1493"
+                },
+                {
+                    "e": "DE-1493"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.karlstadt.de/sites/gensite.asp?SID=cms200120121210307351953&Art=035:379&C=3"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://webopac.winbiap.de/karlstadt/index.aspx"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Karlstadt StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtbibliothek Karlstadt in der Hohen Kemenate"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Hauptstr. 56"
+                },
+                {
+                    "b": "Karlstadt"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "97753"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "i": "Di-Mi und Fr 10.00-18.00, Do 13.00-18.00, Sa 10.00-13.00"
+                },
+                {
+                    "k": "9.76451"
+                },
+                {
+                    "l": "49.96018"
+                },
+                {
+                    "n": "09677148"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "9353"
+                },
+                {
+                    "f": "98 13 45"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "9353"
+                },
+                {
+                    "i": "98 13 46"
+                },
+                {
+                    "k": "stadtbibliothek@karlstadt.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "06"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAY"
+                },
+                {
+                    "c": "BVB"
+                },
+                {
+                    "e": "n"
+                },
+                {
+                    "g": "R"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "stadtbibliothek@karlstadt.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-1493",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-1493",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-1493",
+    "identifier": "DE-1493",
+    "name": "Stadtbibliothek Karlstadt in der Hohen Kemenate",
+    "location": "Karlstadt",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAY"
+}

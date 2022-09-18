@@ -1,0 +1,215 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-1121.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:28-06-01"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:28-01-16"
+                ],
+                {
+                    "t": "16:03:19.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "021984085"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "KN040"
+                },
+                {
+                    "d": "1121"
+                },
+                {
+                    "e": "DE-1121"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.gemeindeganderkesee.de/gemeindebuecherei.html"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://ganderkesee-opac.customer.findus-internet-opac.de/cgi-bin/findus.fcgi.pl?customer=ganderkesee"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Ganderkesee GB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Gemeindeb\u00fccherei Ganderkesee"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Habbr\u00fcgger Weg 2"
+                },
+                {
+                    "b": "Ganderkesee"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "27777"
+                },
+                {
+                    "f": "Niedersachsen"
+                },
+                {
+                    "i": "Mo und Fr 9.00-18.00, Di und Do 15.00-19.00"
+                },
+                {
+                    "k": "8.54103"
+                },
+                {
+                    "l": "53.03538"
+                },
+                {
+                    "n": "03458005"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "4222"
+                },
+                {
+                    "f": "93 14 24"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "4222"
+                },
+                {
+                    "i": "93 14 23"
+                },
+                {
+                    "k": "gemeindebuecherei@ganderkesee.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "06"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NIE"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "GBV"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-1121",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-1121",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-1121",
+    "identifier": "DE-1121",
+    "name": "Gemeindeb\u00fccherei Ganderkesee",
+    "location": "Ganderkesee",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NIE"
+}

@@ -1,0 +1,234 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-178.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:18-11-99"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:14-03-19"
+                ],
+                {
+                    "t": "15:42:35.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "009015388"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "665000-4"
+                },
+                {
+                    "b": "AB178"
+                },
+                {
+                    "d": "178"
+                },
+                {
+                    "e": "DE-178"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.bibliothek.saarbruecken.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://opac.saarbruecken.de"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Saarbr\u00fccken StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtbibliothek Saarbr\u00fccken"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Gustav-Regler-Pl. 1"
+                },
+                {
+                    "b": "Saarbr\u00fccken"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "66111"
+                },
+                {
+                    "f": "Saarland"
+                },
+                {
+                    "i": "Di-Fr 10.00-19.00, Sa 10.00-14.00"
+                },
+                {
+                    "k": "6.99575"
+                },
+                {
+                    "l": "49.23432"
+                },
+                {
+                    "n": "10041100"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "681"
+                },
+                {
+                    "f": "9 05-1335 und -1344"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "681"
+                },
+                {
+                    "i": "9 05-1265"
+                },
+                {
+                    "k": "fernleihe@saarbruecken.de"
+                }
+            ]
+        ],
+        "035D": [
+            [
+                {
+                    "a": "895"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0072"
+                },
+                {
+                    "d": "SWB"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "08"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "SWB"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-178",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-178",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-178",
+    "identifier": "DE-178",
+    "name": "Stadtbibliothek Saarbr\u00fccken",
+    "location": "Saarbr\u00fccken",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAW"
+}

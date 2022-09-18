@@ -1,0 +1,246 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-B1536.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:26-07-01"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:24-09-21"
+                ],
+                {
+                    "t": "09:53:29.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "022095187"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "181536-2"
+                },
+                {
+                    "d": "B 1536"
+                },
+                {
+                    "e": "DE-B1536"
+                },
+                {
+                    "f": "ZUSE"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.zib.de/institute/administration/library"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://bibnts1.zib.de:8080/alipac/"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Zuse-Institut Berlin, Bibliothek; ZIB, Bibliothek"
+                },
+                {
+                    "4": "a"
+                }
+            ],
+            [
+                {
+                    "a": "Berlin ZIB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Zuse Institute Berlin (ZIB), Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Takustr. 7"
+                },
+                {
+                    "b": "Berlin"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "14195"
+                },
+                {
+                    "f": "Berlin"
+                },
+                {
+                    "i": "Mo-Fr 10.00-16.00"
+                },
+                {
+                    "j": "um Anmeldung wird gebeten"
+                },
+                {
+                    "k": "13.29834"
+                },
+                {
+                    "l": "52.45601"
+                },
+                {
+                    "n": "11000000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "30"
+                },
+                {
+                    "f": "8 41 85-233"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "30"
+                },
+                {
+                    "i": "8 41 85-125"
+                },
+                {
+                    "k": "bibliothek@zib.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0100"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "07"
+                },
+                {
+                    "h": "06"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Mathematik"
+                },
+                {
+                    "a": "Informatik"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BER"
+                },
+                {
+                    "c": "KOBV"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ],
+        "035Q": [
+            [
+                {
+                    "a": "j"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-B1536",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-B1536",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-B1536",
+    "identifier": "DE-B1536",
+    "name": "Zuse Institute Berlin (ZIB), Bibliothek",
+    "location": "Berlin",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BER"
+}

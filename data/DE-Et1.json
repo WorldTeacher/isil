@@ -1,0 +1,229 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Et1.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:18-11-99"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:19-11-15"
+                ],
+                {
+                    "t": "13:50:02.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "00902400X"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "818001-5"
+                },
+                {
+                    "b": "DA373"
+                },
+                {
+                    "d": "Et 1"
+                },
+                {
+                    "e": "DE-Et1"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Ettal Abtei"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Benediktinerabtei Ettal, Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Kaiser-Ludwig-Pl. 1"
+                },
+                {
+                    "b": "Ettal"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "82488"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "i": "Mo-FR 8.30-11.50 und 14.00-17.00"
+                },
+                {
+                    "k": "11.09398"
+                },
+                {
+                    "l": "47.56899"
+                },
+                {
+                    "n": "09180115"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "8822"
+                },
+                {
+                    "f": "74-265"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "8822"
+                },
+                {
+                    "i": "74-268"
+                },
+                {
+                    "k": "bibliothek@kloster-ettal.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0100"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "07"
+                },
+                {
+                    "h": "08"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Patrologie"
+                },
+                {
+                    "a": "Byzantinistik"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAY"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "BVB"
+                },
+                {
+                    "d": "Kalliope"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "bibliothek@kloster-ettal.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Et1",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Et1",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Et1",
+    "identifier": "DE-Et1",
+    "name": "Benediktinerabtei Ettal, Bibliothek",
+    "location": "Ettal",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAY"
+}

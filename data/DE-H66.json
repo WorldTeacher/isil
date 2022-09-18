@@ -1,0 +1,265 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-H66.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:29-10-19"
+                ],
+                {
+                    "t": "14:47:04.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "02059190X"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "BS931"
+                },
+                {
+                    "d": "H 66"
+                },
+                {
+                    "e": "DE-H66"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.asklepios.com/ams/"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Hamburg Asklepios Med.School"
+                },
+                {
+                    "4": "c"
+                }
+            ],
+            [
+                {
+                    "a": "Semmelweis Universit\u00e4t, Medizinsche Fakult\u00e4t, Asklepios Campus Hamburg"
+                },
+                {
+                    "4": "a"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Asklepios Medical School, Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Lohm\u00fchlenstr. 5"
+                },
+                {
+                    "b": "Hamburg"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "20099"
+                },
+                {
+                    "f": "Hamburg"
+                },
+                {
+                    "h": "Haus P"
+                },
+                {
+                    "i": "Mo-Do 9.00-17.00"
+                },
+                {
+                    "j": "Servicezeiten; \u00d6ffnungszeiten Analog zu den variierenden \u00d6ffnungszeiten des Asklepios Campus Hamburg"
+                },
+                {
+                    "k": "10.01982"
+                },
+                {
+                    "l": "53.55863"
+                },
+                {
+                    "n": "02000000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "40"
+                },
+                {
+                    "f": "18 18-852784"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "40"
+                },
+                {
+                    "i": "18 18-852789"
+                },
+                {
+                    "k": "bibliothek.ach@asklepios.com"
+                }
+            ]
+        ],
+        "035D": [
+            [
+                {
+                    "a": "H 151"
+                },
+                {
+                    "b": "DE-H151"
+                }
+            ],
+            [
+                {
+                    "a": "H 152"
+                }
+            ],
+            [
+                {
+                    "a": "H 153"
+                },
+                {
+                    "b": "DE-H153"
+                }
+            ],
+            [
+                {
+                    "a": "H 165"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "65"
+                },
+                {
+                    "g": "08"
+                },
+                {
+                    "h": "04"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Medizin"
+                },
+                {
+                    "a": "Geschichte des Allgemeinen Krankenhauses St. Georg"
+                }
+            ],
+            [
+                {
+                    "a": "Medizinstudium, klinischer Teil"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "HAM"
+                },
+                {
+                    "c": "GBV"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ],
+        "047A": [
+            [
+                {
+                    "a": "Asklepios Campus Hamburg der Fakult\u00e4t f\u00fcr Medizin der Semmelweis Universit\u00e4t Budapest"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-H66",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-H66",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-H66",
+    "identifier": "DE-H66",
+    "name": "Asklepios Medical School, Bibliothek",
+    "location": "Hamburg",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "HAM"
+}

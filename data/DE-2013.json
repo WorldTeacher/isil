@@ -1,0 +1,213 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-2013.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:22-11-13"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:14-03-16"
+                ],
+                {
+                    "t": "07:48:34.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:22-11-13"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1044495901"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "KR314"
+                },
+                {
+                    "d": "2013"
+                },
+                {
+                    "e": "DE-2013"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.schwieberdingen.de/bibliothek.htm"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Schwieberdingen StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Bibliothek Schwieberdingen"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Bahnhofstr. 14"
+                },
+                {
+                    "b": "Schwieberdingen"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "71701"
+                },
+                {
+                    "f": "Baden-W\u00fcrttemberg"
+                },
+                {
+                    "h": "B\u00fcrgerhaus"
+                },
+                {
+                    "i": "Di 10.00-12.00 und 14.30-18.30, Mi-Fr 14.30-18.30, Sa 10.00-12.00"
+                },
+                {
+                    "k": "9.07375"
+                },
+                {
+                    "l": "48.87588"
+                },
+                {
+                    "n": "08118067"
+                },
+                {
+                    "o": "barrierefrei"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "7150"
+                },
+                {
+                    "f": "30 52 50"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "7150"
+                },
+                {
+                    "i": "30 52 55"
+                },
+                {
+                    "k": "bibliothek@schwieberdingen.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "06"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "SWB"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-2013",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-2013",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-2013",
+    "identifier": "DE-2013",
+    "name": "Bibliothek Schwieberdingen",
+    "location": "Schwieberdingen",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAW"
+}

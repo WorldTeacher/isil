@@ -1,0 +1,268 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Bo110.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:18-02-20"
+                ],
+                {
+                    "t": "13:22:35.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020589425"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "538110-1"
+                },
+                {
+                    "b": "CU003"
+                },
+                {
+                    "d": "Bo 110"
+                },
+                {
+                    "e": "DE-Bo110"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.bmvg.de/"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Bundesministerium der Verteidigung, Bibliothek"
+                },
+                {
+                    "4": "a"
+                }
+            ],
+            [
+                {
+                    "a": "Bonn BMVg"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "BM Verteidigung, Bibliothek - Ausleihservice Liegenschaft Hardth\u00f6he"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Fontainengraben 150"
+                },
+                {
+                    "b": "Bonn"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "53123"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "i": "Mo-Do 9.00-15.30, Fr 9.00-12.00"
+                },
+                {
+                    "k": "7.04604"
+                },
+                {
+                    "l": "50.70517"
+                },
+                {
+                    "n": "05314000"
+                },
+                {
+                    "o": "barrierefrei"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Bonn"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "53003"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "g": "13 28"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "228"
+                },
+                {
+                    "f": "99-99-2410000"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "228"
+                },
+                {
+                    "i": "99-2445762"
+                },
+                {
+                    "k": "BMVgbibliothek@bmvg.bund.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0313"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "01"
+                },
+                {
+                    "h": "08"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "d": "IVBB"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "FIZBwDoku@bundeswehr.org"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "FIZBwDoku@bundeswehr.org"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Bo110",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Bo110",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Bo110",
+    "identifier": "DE-Bo110",
+    "name": "BM Verteidigung, Bibliothek - Ausleihservice Liegenschaft Hardth\u00f6he",
+    "location": "Bonn",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NRW"
+}

@@ -1,0 +1,221 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-915.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:14-03-16"
+                ],
+                {
+                    "t": "07:52:12.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020586892"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "JP063"
+                },
+                {
+                    "d": "915"
+                },
+                {
+                    "e": "DE-915"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.herdecke.de/bildung-kultur/stadtbuecherei.html"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Herdecke StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtb\u00fccherei Herdecke"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Hauptstr. 43"
+                },
+                {
+                    "b": "Herdecke"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "58313"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "i": "Mo-Di und Do 10.00-12.00 und 15.00-18.00, Mi und Fr 10.00-12.00"
+                },
+                {
+                    "k": "7.43287"
+                },
+                {
+                    "l": "51.40065"
+                },
+                {
+                    "n": "05954020"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Herdecke"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "58313"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "g": "15 61"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "2330"
+                },
+                {
+                    "f": "61 12 71"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "2330"
+                },
+                {
+                    "i": "61 13 66"
+                },
+                {
+                    "k": "buecherei@herdecke.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "06"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-915",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-915",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-915",
+    "identifier": "DE-915",
+    "name": "Stadtb\u00fccherei Herdecke",
+    "location": "Herdecke",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NRW"
+}

@@ -1,0 +1,257 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-21-108.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:18-11-99"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:22-02-21"
+                ],
+                {
+                    "t": "15:48:33.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "009019979"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "741170-4"
+                },
+                {
+                    "d": "21/108"
+                },
+                {
+                    "e": "DE-21-108"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.bbb.uni-tuebingen.de"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Fakult\u00e4tsbibliothek Neuphilologie"
+                },
+                {
+                    "4": "a"
+                }
+            ],
+            [
+                {
+                    "a": "T\u00fcbingen BrechtbauBibl"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Brechtbau-Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Wilhelmstr. 50"
+                },
+                {
+                    "b": "T\u00fcbingen"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "72074"
+                },
+                {
+                    "f": "Baden-W\u00fcrttemberg"
+                },
+                {
+                    "i": "Mo-Do 8.00-20.45, Fr 8.00-19.45, Sa 10.00-17.45, So 12.00-17.45"
+                },
+                {
+                    "j": "in den Semesterferien teilweise reduzierte \u00d6ffnungszeiten; Angaben s.Homepage"
+                },
+                {
+                    "k": "9.06330"
+                },
+                {
+                    "l": "48.52712"
+                },
+                {
+                    "n": "08416041"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "7071"
+                },
+                {
+                    "f": "29-74329 und -74330"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "7071"
+                },
+                {
+                    "i": "29-5811"
+                },
+                {
+                    "k": "auskunft@bbb.uni-tuebingen.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "c": "0120"
+                },
+                {
+                    "d": "SWB"
+                },
+                {
+                    "f": "65"
+                },
+                {
+                    "g": "02"
+                },
+                {
+                    "h": "09"
+                },
+                {
+                    "k": "T\u00fc 108"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Neuere Philologien"
+                },
+                {
+                    "a": "Rhetorik"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAW"
+                },
+                {
+                    "c": "SWB"
+                },
+                {
+                    "e": "l"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "b"
+                },
+                {
+                    "d": "auskunft@bbb.uni-tuebingen.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "auskunft@bbb.uni-tuebingen.de"
+                }
+            ],
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "auskunft@bbb.uni-tuebingen.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-21-108",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-21-108",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-21-108",
+    "identifier": "DE-21-108",
+    "name": "Brechtbau-Bibliothek",
+    "location": "T\u00fcbingen",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAW"
+}

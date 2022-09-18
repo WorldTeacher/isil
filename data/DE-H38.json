@@ -1,0 +1,235 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-H38.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:28-01-16"
+                ],
+                {
+                    "t": "16:36:42.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:27-05-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020591845"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "208038-2"
+                },
+                {
+                    "b": "CW573"
+                },
+                {
+                    "d": "H 38"
+                },
+                {
+                    "e": "DE-H38"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.hamburg-port-authority.de/"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Hamburg Port Authority"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Hamburg Port Authority, Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Neuer Wandrahm 4"
+                },
+                {
+                    "b": "Hamburg"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "20457"
+                },
+                {
+                    "f": "Hamburg"
+                },
+                {
+                    "i": "Mo-Fr 9.00-15.00"
+                },
+                {
+                    "j": "F\u00fcr externe Besucher vorherige Terminvereinbarung empfohlen"
+                },
+                {
+                    "k": "9.99543"
+                },
+                {
+                    "l": "53.54494"
+                },
+                {
+                    "n": "02000000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "40"
+                },
+                {
+                    "f": "4 28 47-2077"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "40"
+                },
+                {
+                    "i": "4 28 47-2881"
+                },
+                {
+                    "k": "Bibliothek@hpa.hamburg.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0025"
+                },
+                {
+                    "e": "GBV"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "02"
+                },
+                {
+                    "h": "07"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Wasserbau (Hafen- und Strombau)"
+                },
+                {
+                    "a": "Hafenausr\u00fcstung"
+                },
+                {
+                    "a": "Hafenbetrieb"
+                },
+                {
+                    "a": "Baggergut"
+                },
+                {
+                    "a": "Bautechnik"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "HAM"
+                },
+                {
+                    "c": "GBV"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-H38",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-H38",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-H38",
+    "identifier": "DE-H38",
+    "name": "Hamburg Port Authority, Bibliothek",
+    "location": "Hamburg",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "HAM"
+}

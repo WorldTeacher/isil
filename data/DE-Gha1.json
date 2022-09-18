@@ -1,0 +1,218 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Gha1.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:23-06-21"
+                ],
+                {
+                    "t": "10:25:12.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020591543"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "WB502"
+                },
+                {
+                    "d": "Gha 1"
+                },
+                {
+                    "e": "DE-Gha1"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.bibo-geithain.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://opac.bibo-geithain.de/opax/de/index.html.S"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Geithain StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtbibliothek Geithain"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Leipziger Str. 17"
+                },
+                {
+                    "b": "Geithain"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "04643"
+                },
+                {
+                    "f": "Sachsen"
+                },
+                {
+                    "i": "Di und Do 10.00-12.00 und 13.00-18.00, Mi und Fr 10.00-12.00 und 13.00-16.00, Sa 9.00-12.00"
+                },
+                {
+                    "k": "12.69287"
+                },
+                {
+                    "l": "51.05462"
+                },
+                {
+                    "n": "14729150"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "34341"
+                },
+                {
+                    "f": "4 31 68"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "34341"
+                },
+                {
+                    "i": "4 31 08"
+                },
+                {
+                    "k": "bibo-geithain@t-online.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "06"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "SAX"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "SWB"
+                },
+                {
+                    "d": "\u00d6VK"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Gha1",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Gha1",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Gha1",
+    "identifier": "DE-Gha1",
+    "name": "Stadtbibliothek Geithain",
+    "location": "Geithain",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "SAX"
+}

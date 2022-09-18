@@ -1,0 +1,233 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Db7.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:14-03-16"
+                ],
+                {
+                    "t": "07:54:29.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020590229"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "DP345"
+                },
+                {
+                    "d": "Db 7"
+                },
+                {
+                    "e": "DE-Db7"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.ims.fraunhofer.de/"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Fraunhofer-Institut / IMS"
+                },
+                {
+                    "4": "a"
+                }
+            ],
+            [
+                {
+                    "a": "Duisburg FI Mikroelektronik"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Fraunhofer-Institut f\u00fcr Mikroelektronische Schaltungen und Systeme, Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Finkenstr. 61"
+                },
+                {
+                    "b": "Duisburg"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "47057"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "i": "nicht \u00f6ffentlich zug\u00e4nglich"
+                },
+                {
+                    "k": "6.79725"
+                },
+                {
+                    "l": "51.42850"
+                },
+                {
+                    "n": "05112000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "203"
+                },
+                {
+                    "f": "37 83-161"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "203"
+                },
+                {
+                    "i": "37 83-266"
+                },
+                {
+                    "k": "bibl@ims.fraunhofer.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "07"
+                },
+                {
+                    "h": "06"
+                },
+                {
+                    "i": "P"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "bibl@ims.fraunhofer.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "bibl@ims.fraunhofer.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Db7",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Db7",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Db7",
+    "identifier": "DE-Db7",
+    "name": "Fraunhofer-Institut f\u00fcr Mikroelektronische Schaltungen und Systeme, Bibliothek",
+    "location": "Duisburg",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NRW"
+}

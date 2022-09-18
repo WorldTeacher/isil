@@ -1,0 +1,230 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-1270.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:01-02-06"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:29-03-16"
+                ],
+                {
+                    "t": "08:19:44.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:01-02-06"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "97836497X"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "WA625"
+                },
+                {
+                    "d": "1270"
+                },
+                {
+                    "e": "DE-1270"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.bibliothek-seelow.de"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Seelow StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtbibliothek \"Ulrich Plenzdorf\" Seelow"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Bertolt-Brecht-Str. 1"
+                },
+                {
+                    "b": "Seelow"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "15306"
+                },
+                {
+                    "f": "Brandenburg"
+                },
+                {
+                    "i": "Mo und Fr 11.00-16.00, Di und Do 13.00-19.00"
+                },
+                {
+                    "k": "14.32090"
+                },
+                {
+                    "l": "52.42910"
+                },
+                {
+                    "n": "12064448"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Seelow"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "15301"
+                },
+                {
+                    "f": "Brandenburg"
+                },
+                {
+                    "g": "43"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "3346"
+                },
+                {
+                    "f": "2 79"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "3346"
+                },
+                {
+                    "i": "84 67 44"
+                },
+                {
+                    "k": "info@bibliothek-seelow.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "06"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BER"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "KOBV"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-1270",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-1270",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-1270",
+    "identifier": "DE-1270",
+    "name": "Stadtbibliothek \"Ulrich Plenzdorf\" Seelow",
+    "location": "Seelow",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BER"
+}

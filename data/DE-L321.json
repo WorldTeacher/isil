@@ -1,0 +1,287 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-L321.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:27-02-19"
+                ],
+                {
+                    "t": "10:37:38.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "02059500X"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "958321-X"
+                },
+                {
+                    "d": "L 321"
+                },
+                {
+                    "e": "DE-L321"
+                },
+                {
+                    "f": "MPIEA"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.eva.mpg.de/service/library.html"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://biblio.eva.mpg.de"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Leipzig MPI Anthropologie"
+                },
+                {
+                    "4": "c"
+                }
+            ],
+            [
+                {
+                    "a": "Max Planck Institute for Evolutionary Anthropology"
+                },
+                {
+                    "4": "d"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Max-Planck-Institut f\u00fcr evolution\u00e4re Anthropologie, Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Deutscher Platz 6"
+                },
+                {
+                    "b": "Leipzig"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "04103"
+                },
+                {
+                    "f": "Sachsen"
+                },
+                {
+                    "i": "MMo-Do 11.00-15.00, Fr 11.00-13.00"
+                },
+                {
+                    "k": "12.39459"
+                },
+                {
+                    "l": "51.32143"
+                },
+                {
+                    "n": "14713000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "341"
+                },
+                {
+                    "f": "35 50-142"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "341"
+                },
+                {
+                    "i": "35 50-119"
+                },
+                {
+                    "k": "library@eva.mpg.de"
+                },
+                {
+                    "l": "Leitung"
+                }
+            ],
+            [
+                {
+                    "a": "W"
+                },
+                {
+                    "b": "Fernleihe"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "341"
+                },
+                {
+                    "f": "35 50-141"
+                },
+                {
+                    "k": "library@eva.mpg.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0148"
+                },
+                {
+                    "d": "SWB"
+                },
+                {
+                    "d": "MPG"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "07"
+                },
+                {
+                    "h": "07"
+                },
+                {
+                    "i": "P"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Anthropologie"
+                },
+                {
+                    "a": "Entwicklungspsychologie"
+                },
+                {
+                    "a": "Biologie"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "SAX"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "SWB"
+                },
+                {
+                    "e": "k"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035K": [
+            [
+                {
+                    "b": "A"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-L321",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-L321",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-L321",
+    "identifier": "DE-L321",
+    "name": "Max-Planck-Institut f\u00fcr evolution\u00e4re Anthropologie, Bibliothek",
+    "location": "Leipzig",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "SAX"
+}

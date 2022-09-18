@@ -1,0 +1,227 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Kam1.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:03-06-21"
+                ],
+                {
+                    "t": "15:11:54.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020593759"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "WB381"
+                },
+                {
+                    "d": "Kam 1"
+                },
+                {
+                    "e": "DE-Kam1"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://kamenz.bibliotheca-open.de"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Kamenz StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtbibliothek Kamenz"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Lessingplatz 3"
+                },
+                {
+                    "b": "Kamenz"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "01917"
+                },
+                {
+                    "f": "Sachsen"
+                },
+                {
+                    "i": "Mo-Di und Do-Fr 10.00-18.00"
+                },
+                {
+                    "k": "14.09512"
+                },
+                {
+                    "l": "51.27204"
+                },
+                {
+                    "n": "14625250"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Kamenz"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "01911"
+                },
+                {
+                    "f": "Sachsen"
+                },
+                {
+                    "g": "1 27"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "3578"
+                },
+                {
+                    "f": "37 92 88"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "3578"
+                },
+                {
+                    "i": "37 92 89"
+                },
+                {
+                    "k": "bibliothek@stadt.kamenz.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "07"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "SAX"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "d": "SAX-OPC; \u00d6VK"
+                },
+                {
+                    "e": "l"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Kam1",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Kam1",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Kam1",
+    "identifier": "DE-Kam1",
+    "name": "Stadtbibliothek Kamenz",
+    "location": "Kamenz",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "SAX"
+}

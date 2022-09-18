@@ -1,0 +1,263 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-2785.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:15-05-19"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:04-02-21"
+                ],
+                {
+                    "t": "11:17:40.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:15-05-19"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1186153342"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "708785-8"
+                },
+                {
+                    "d": "2785"
+                },
+                {
+                    "e": "DE-2785"
+                },
+                {
+                    "f": "KLIS"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "https://www.klinikum-stuttgart.de/leistungsspektrum/leistungen-im-ueberblick/wissenschaft-und-lehre/fachbibliotheken/"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://ezb.uni-regensburg.de/detail.phtml?bibid=KLIS&jour_id=4395&lang=de"
+                },
+                {
+                    "x": "Elektronische Zeitschriftenbibliothek"
+                },
+                {
+                    "z": "W"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Stuttgart Klinikum gKA\u00f6R"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Klinikum der Landeshauptstadt Stuttgart gKA\u00f6R, Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Kriegsbergstr. 60"
+                },
+                {
+                    "b": "Stuttgart"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "70174"
+                },
+                {
+                    "f": "Baden-W\u00fcrttemberg"
+                },
+                {
+                    "h": "VZD-2-5/Bibliothek Katharinenhospital Haus A, EG, Zi. 0.005"
+                },
+                {
+                    "i": "Mo-Fr 9.00-12.00"
+                },
+                {
+                    "k": "9.17288"
+                },
+                {
+                    "l": "48.78379"
+                },
+                {
+                    "n": "08111000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "a": "Prie\u00dfnitzweg 24"
+                },
+                {
+                    "b": "Stuttgart"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "70374"
+                },
+                {
+                    "f": "Baden-W\u00fcrttemberg"
+                },
+                {
+                    "h": "Krankenhaus Bad Cannstatt Haus 2, Eb. 2, Zi. 2120"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "711"
+                },
+                {
+                    "f": "27 83 28 30"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "711"
+                },
+                {
+                    "i": "27 85 60 20"
+                },
+                {
+                    "k": "bibliothek@klinikum-stuttgart.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0331"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "07"
+                },
+                {
+                    "h": "07"
+                },
+                {
+                    "i": "P"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Medizin"
+                },
+                {
+                    "a": "Pflege"
+                },
+                {
+                    "a": "Krankenhausmanagement"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAW"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-2785",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-2785",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-2785",
+    "identifier": "DE-2785",
+    "name": "Klinikum der Landeshauptstadt Stuttgart gKA\u00f6R, Bibliothek",
+    "location": "Stuttgart",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAW"
+}

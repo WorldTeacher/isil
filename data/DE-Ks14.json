@@ -1,0 +1,273 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Ks14.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:17-12-15"
+                ],
+                {
+                    "t": "13:23:41.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020594828"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "358014-3"
+                },
+                {
+                    "b": "DB869"
+                },
+                {
+                    "d": "Ks 14"
+                },
+                {
+                    "e": "DE-Ks14"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.museum-kassel.de"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Kassel MHK-Bibliothek"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Museumslandschaft Hessen Kassel, Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Schlosspark 1"
+                },
+                {
+                    "b": "Kassel"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "34131"
+                },
+                {
+                    "f": "Hessen"
+                },
+                {
+                    "h": "Schloss Wilhelmsh\u00f6he"
+                },
+                {
+                    "i": "Di-Do 9.00-13.00"
+                },
+                {
+                    "k": "9.41560"
+                },
+                {
+                    "l": "51.31563"
+                },
+                {
+                    "n": "06611000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Kassel"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "34066"
+                },
+                {
+                    "f": "Hessen"
+                },
+                {
+                    "g": "41 04 20"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "561"
+                },
+                {
+                    "f": "3 16 80-144"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "561"
+                },
+                {
+                    "i": "3 16 80-111"
+                },
+                {
+                    "k": "bibliothek@museum-kassel.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0040"
+                },
+                {
+                    "e": "HBV"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "02"
+                },
+                {
+                    "h": "08"
+                },
+                {
+                    "i": "P"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Kunstgeschichte"
+                },
+                {
+                    "a": "Europ\u00e4ische Malerei"
+                },
+                {
+                    "a": "Klassische Arch\u00e4ologie"
+                },
+                {
+                    "a": "Kunsthandwerk"
+                },
+                {
+                    "a": "Plastik"
+                },
+                {
+                    "a": "Volkskunde"
+                },
+                {
+                    "a": "Vor- u. Fr\u00fchgeschichte"
+                },
+                {
+                    "a": "Technikgeschichte"
+                },
+                {
+                    "a": "Tapeten"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "HES"
+                },
+                {
+                    "c": "HeBIS"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Ks14",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Ks14",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Ks14",
+    "identifier": "DE-Ks14",
+    "name": "Museumslandschaft Hessen Kassel, Bibliothek",
+    "location": "Kassel",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "HES"
+}

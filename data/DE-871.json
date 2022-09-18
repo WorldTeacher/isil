@@ -1,0 +1,231 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-871.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:28-01-16"
+                ],
+                {
+                    "t": "16:33:28.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020586493"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "JB125"
+                },
+                {
+                    "d": "871"
+                },
+                {
+                    "e": "DE-871"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.schwabach.de/de/schwabach-erleben/kultur/einrichtungen/bibliothek.html"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Schwabach StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtbibliothek Schwabach"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "K\u00f6nigspl. 29 A"
+                },
+                {
+                    "b": "Schwabach"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "91126"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "i": "Di und Do-Fr 10.00-18.00, Mi und Sa 10.00-13.00"
+                },
+                {
+                    "k": "11.02010"
+                },
+                {
+                    "l": "49.32811"
+                },
+                {
+                    "n": "09565000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Schwabach"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "91124"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "g": "21 20"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "9122"
+                },
+                {
+                    "f": "8 60-289"
+                },
+                {
+                    "k": "stadtbibliothek@schwabach.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "07"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAY"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "BVB"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "stadtbibliothek@schwabach.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-871",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-871",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-871",
+    "identifier": "DE-871",
+    "name": "Stadtbibliothek Schwabach",
+    "location": "Schwabach",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAY"
+}

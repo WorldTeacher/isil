@@ -1,0 +1,212 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-1891.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:08-05-12"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:06-05-13"
+                ],
+                {
+                    "t": "12:28:46.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:08-05-12"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1022094904"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "KR211"
+                },
+                {
+                    "d": "1891"
+                },
+                {
+                    "e": "DE-1891"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.cwb-rutesheim.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://www.cwb-rutesheim.de/service/katalog-opac/index.html"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Rutesheim StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Christian-Wagner-Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Pforzheimer Str. 1"
+                },
+                {
+                    "b": "Rutesheim"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "71277"
+                },
+                {
+                    "f": "Baden-W\u00fcrttemberg"
+                },
+                {
+                    "i": "Mo 17.00-20.00, Di 9.00-11.00 und 17.00-19.00, Mi 15.00-18.00, Do 9.00-11.00 und 16.00-20.00, Fr 9.00-11.00 und 15.00-19.00, Sa 10.00-13.00"
+                },
+                {
+                    "k": "8.94515"
+                },
+                {
+                    "l": "48.80807"
+                },
+                {
+                    "n": "08115042"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "7152"
+                },
+                {
+                    "f": "90 57 67"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "7152"
+                },
+                {
+                    "i": "7 64 54 22"
+                },
+                {
+                    "k": "buecherei@rutesheim.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "06"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "SWB"
+                },
+                {
+                    "e": "l"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-1891",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-1891",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-1891",
+    "identifier": "DE-1891",
+    "name": "Christian-Wagner-Bibliothek",
+    "location": "Rutesheim",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAW"
+}

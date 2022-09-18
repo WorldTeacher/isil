@@ -1,0 +1,224 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-1031.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:28-11-18"
+                ],
+                {
+                    "t": "16:37:46.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020587767"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "KN337"
+                },
+                {
+                    "d": "1031"
+                },
+                {
+                    "e": "DE-1031"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.versmold.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://versmold.bibliotheken-in-owl.de"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Versmold StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtbibliothek Versmold"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Ravensberger Str. 19"
+                },
+                {
+                    "b": "Versmold"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "33775"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "i": "Mo 15.00-20.00, Di 9.00-13.00, Mi-Fr 14.00-18.00"
+                },
+                {
+                    "k": "8.15533"
+                },
+                {
+                    "l": "52.04213"
+                },
+                {
+                    "n": "05754048"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "5423"
+                },
+                {
+                    "f": "4 97 76"
+                },
+                {
+                    "k": "stadtbibliothek@versmold.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "06"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "d": "Kalliope"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "stadtbibliothek@versmold.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "stadtbibliothek@versmold.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-1031",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-1031",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-1031",
+    "identifier": "DE-1031",
+    "name": "Stadtbibliothek Versmold",
+    "location": "Versmold",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NRW"
+}

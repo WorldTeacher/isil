@@ -1,0 +1,309 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Bm40.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "1210:22-02-01"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:16-09-20"
+                ],
+                {
+                    "t": "09:01:55.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "02148869X"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "462000-8"
+                },
+                {
+                    "b": "CY491"
+                },
+                {
+                    "d": "Bm 40"
+                },
+                {
+                    "e": "DE-Bm40"
+                },
+                {
+                    "f": "FHBO"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.hochschule-bochum.de/bib"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://opac.hs-bochum.de/libero/WebOpac.cls"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Bochum HSB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Hochschule Bochum, Hochschulbibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Am Hochschulcampus 1"
+                },
+                {
+                    "b": "Bochum"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "44801"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "i": "s. Homepage"
+                },
+                {
+                    "k": "7.27122"
+                },
+                {
+                    "l": "51.44743"
+                },
+                {
+                    "n": "05911000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "a": "Standort Campus Velbert/Heiligenhaus; Kettwiger Str. 20"
+                },
+                {
+                    "b": "Heiligenhaus"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "42579"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "W"
+                },
+                {
+                    "3": "Weitere Adresse"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "234"
+                },
+                {
+                    "f": "32 10-770 und -760"
+                },
+                {
+                    "k": "hochschulbibliothek@hs-bochum.de"
+                },
+                {
+                    "l": "Ausleihe"
+                }
+            ],
+            [
+                {
+                    "a": "W"
+                },
+                {
+                    "b": "Fernleihe"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "234"
+                },
+                {
+                    "f": "32 10-753"
+                },
+                {
+                    "k": "fernleihe@hs-bochum.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0135"
+                },
+                {
+                    "d": "HBZ"
+                },
+                {
+                    "f": "70"
+                },
+                {
+                    "g": "02"
+                },
+                {
+                    "h": "07"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "HBZ"
+                },
+                {
+                    "e": "k"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "b"
+                },
+                {
+                    "d": "fernleihe@hs-bochum.de"
+                }
+            ],
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "fernleihe@hs-bochum.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "fernleihe@hs-bochum.de"
+                }
+            ]
+        ],
+        "035O": [
+            [
+                {
+                    "a": "ISIL DE-294; FZL DE-621"
+                },
+                {
+                    "b": "CONTAINER"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Bm40",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Bm40",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Bm40",
+    "identifier": "DE-Bm40",
+    "name": "Hochschule Bochum, Hochschulbibliothek",
+    "location": "Bochum",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NRW"
+}

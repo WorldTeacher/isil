@@ -1,0 +1,222 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-770.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:28-01-16"
+                ],
+                {
+                    "t": "16:29:35.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020585683"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "JB666"
+                },
+                {
+                    "d": "770"
+                },
+                {
+                    "e": "DE-770"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.gemeindebibliothek-eitorf.de"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Eitorf GB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Gemeindebibliothek Eitorf"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Siegstr. 63"
+                },
+                {
+                    "b": "Eitorf"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "53783"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "i": "Mo 15.00-19.00, Di 10.00-12.00 und 15.00-19.00, Do 15.00-19.00, Fr 10.00-12.00 und 15.00-18.00, Sa 11.00-13.00"
+                },
+                {
+                    "k": "7.45533"
+                },
+                {
+                    "l": "50.77097"
+                },
+                {
+                    "n": "05382016"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "2243"
+                },
+                {
+                    "f": "8 03 79"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "2243"
+                },
+                {
+                    "i": "8 03 79"
+                },
+                {
+                    "k": "bibliothek@eitorf.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "06"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "bibliothek@eitorf.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "bibliothek@eitorf.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-770",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-770",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-770",
+    "identifier": "DE-770",
+    "name": "Gemeindebibliothek Eitorf",
+    "location": "Eitorf",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NRW"
+}

@@ -1,0 +1,241 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-856.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:28-01-16"
+                ],
+                {
+                    "t": "16:33:24.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "02058640X"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "JC737"
+                },
+                {
+                    "d": "856"
+                },
+                {
+                    "e": "DE-856"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.bibliothekszentrum.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://bibliothekszentrum-mediensuche.lra-ab.de/index.aspx"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Bibliotheks- und Informationszentrum des Landkreises Aschaffenburg"
+                },
+                {
+                    "4": "a"
+                }
+            ],
+            [
+                {
+                    "a": "Bibliothekszentrum in H\u00f6sbach"
+                },
+                {
+                    "4": "a"
+                }
+            ],
+            [
+                {
+                    "a": "H\u00f6sbach KrsB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Bibliotheks- und Informationszentrum des Landkreises in H\u00f6sbach (Schulzentrum)"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "An der Maas 2"
+                },
+                {
+                    "b": "H\u00f6sbach"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "63768"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "i": "Mo und Fr 8.00-16.00, Di 14.00-20.00, Mi 8.00-12.00, Do 8.00-19.00"
+                },
+                {
+                    "k": "9.20807"
+                },
+                {
+                    "l": "50.00939"
+                },
+                {
+                    "n": "09671130"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "6021"
+                },
+                {
+                    "f": "5 33 84"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "6021"
+                },
+                {
+                    "i": "45 82 63"
+                },
+                {
+                    "k": "bibliothekszentrum@lra-ab.bayern.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "03"
+                },
+                {
+                    "h": "06"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAY"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "BVB"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "bibliothekszentrum@lra-ab.bayern.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-856",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-856",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-856",
+    "identifier": "DE-856",
+    "name": "Bibliotheks- und Informationszentrum des Landkreises in H\u00f6sbach (Schulzentrum)",
+    "location": "H\u00f6sbach",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAY"
+}

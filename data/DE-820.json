@@ -1,0 +1,201 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-820.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:01-02-16"
+                ],
+                {
+                    "t": "11:23:40.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020586140"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "HH614"
+                },
+                {
+                    "d": "820"
+                },
+                {
+                    "e": "DE-820"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.badsegeberg.de"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Bad Segeberg StuKrsB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtb\u00fccherei Bad Segeberg"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Oldesloer Str. 20"
+                },
+                {
+                    "b": "Bad Segeberg"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "23795"
+                },
+                {
+                    "f": "Schleswig-Holstein"
+                },
+                {
+                    "i": "Mo 13.00-18.00, Di und Fr 10.00-18.00, Do 10.00-19.00, Sa 10.00-12.00"
+                },
+                {
+                    "k": "10.31017"
+                },
+                {
+                    "l": "53.93540"
+                },
+                {
+                    "n": "01060005"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "4551"
+                },
+                {
+                    "f": "9 65 60"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "4551"
+                },
+                {
+                    "i": "9 65 69j"
+                },
+                {
+                    "k": "stadtbuecherei@badsegeberg.landsh.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "06"
+                },
+                {
+                    "h": "07"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "HAM"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "e": "l"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-820",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-820",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-820",
+    "identifier": "DE-820",
+    "name": "Stadtb\u00fccherei Bad Segeberg",
+    "location": "Bad Segeberg",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "HAM"
+}

@@ -1,0 +1,207 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-548.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:03-06-21"
+                ],
+                {
+                    "t": "15:12:14.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020584954"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "WB459"
+                },
+                {
+                    "d": "548"
+                },
+                {
+                    "e": "DE-548"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.bibliothek-oschatz.de"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Oschatz StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtbibliothek Oschatz"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Rudolf-Breitscheid-Str. 1"
+                },
+                {
+                    "b": "Oschatz"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "04758"
+                },
+                {
+                    "f": "Sachsen"
+                },
+                {
+                    "i": "Mo und Fr 13.00-18.00, Di und Do 10.00-18.00, Sa 9.00-12.00"
+                },
+                {
+                    "k": "13.10793"
+                },
+                {
+                    "l": "51.29450"
+                },
+                {
+                    "n": "14730230"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "3435"
+                },
+                {
+                    "f": "93 15 16"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "3435"
+                },
+                {
+                    "i": "93 98 05"
+                },
+                {
+                    "k": "bibliothek@oschatz-erleben.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "07"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "SAX"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "d": "\u00d6VK"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-548",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-548",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-548",
+    "identifier": "DE-548",
+    "name": "Stadtbibliothek Oschatz",
+    "location": "Oschatz",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "SAX"
+}

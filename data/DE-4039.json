@@ -1,0 +1,241 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-4039.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:16-03-22"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:16-03-22"
+                ],
+                {
+                    "t": "15:47:28.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:16-03-22"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1253550883"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "e": "DE-4039"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "https://www.berlin.de/stadtbibliothek-friedrichshain-kreuzberg/bibliotheken/schulbibliothek/"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://www.voebb.de"
+                },
+                {
+                    "z": "B"
+                }
+            ],
+            [
+                {
+                    "u": "https://www.cvo-berlin.de/carl-von-ossietzky-schule/mediothek/"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Mediothek Carl-von-Ossietzky Schule"
+                },
+                {
+                    "4": "a"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Schulbibliothek Bl\u00fccherstr."
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Bl\u00fccherstr. 46-47"
+                },
+                {
+                    "b": "Berlin"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "10961"
+                },
+                {
+                    "f": "Berlin"
+                },
+                {
+                    "i": "Mo-Di, Fr 9-11.40; 12.25-15.00, Do 9-11.40; 12.25-16.00"
+                },
+                {
+                    "k": "13.40557"
+                },
+                {
+                    "l": "52.49208"
+                },
+                {
+                    "n": "11000000"
+                },
+                {
+                    "o": "nicht barrierefrei"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "Sj"
+                },
+                {
+                    "d": "+49"
+                },
+                {
+                    "e": "30"
+                },
+                {
+                    "f": "2250 277136"
+                },
+                {
+                    "k": "mediothek@cvo-berlin.de"
+                }
+            ],
+            [
+                {
+                    "a": "W"
+                },
+                {
+                    "b": "Auskunft"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "k": "info-stadtbibliothek@ba-fk.berlin.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "f": "36"
+                },
+                {
+                    "g": "02"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BER"
+                },
+                {
+                    "c": "KOBV"
+                },
+                {
+                    "d": "VOBB"
+                },
+                {
+                    "e": "n"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "c"
+                },
+                {
+                    "d": "info-stadtbibliothek@ba-fk.berlin.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "info-stadtbibliothek@ba-fk.berlin.de"
+                }
+            ]
+        ],
+        "047A": [
+            [
+                {
+                    "a": "Die Bibliothek ist nicht \u00f6ffentlich. Der Zutritt ist f\u00fcr schulfremde Personen nicht gestattet."
+                }
+            ]
+        ]
+    },
+    "_id": "DE-4039",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-4039",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-4039",
+    "identifier": "DE-4039",
+    "name": "Schulbibliothek Bl\u00fccherstr.",
+    "location": "Berlin",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BER"
+}

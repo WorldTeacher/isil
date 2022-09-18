@@ -1,0 +1,231 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-876.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:17-02-16"
+                ],
+                {
+                    "t": "14:24:52.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "02058654X"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "GC507"
+                },
+                {
+                    "d": "876"
+                },
+                {
+                    "e": "DE-876"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.eggenfelden.de/index.php/de/buergerinfo/bildung/buecherei"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Eggenfelden StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtbibliothek Eggenfelden"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Schulstr. 5"
+                },
+                {
+                    "b": "Eggenfelden"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "84307"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "i": "Mo-Fr 9.30-14.00 und 16.00-18.00"
+                },
+                {
+                    "k": "12.76617"
+                },
+                {
+                    "l": "48.40319"
+                },
+                {
+                    "n": "09277116"
+                },
+                {
+                    "o": "Rollstuhlgerechte Zufahrt"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Eggenfelden"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "84302"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "g": "12 20"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "8721"
+                },
+                {
+                    "f": "64 53"
+                },
+                {
+                    "k": "stabi@eggenfelden.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "07"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAY"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "stabi@eggenfelden.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-876",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-876",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-876",
+    "identifier": "DE-876",
+    "name": "Stadtbibliothek Eggenfelden",
+    "location": "Eggenfelden",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAY"
+}

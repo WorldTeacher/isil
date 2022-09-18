@@ -1,0 +1,230 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-428.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:28-11-18"
+                ],
+                {
+                    "t": "16:38:52.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020584075"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "AE428"
+                },
+                {
+                    "d": "428"
+                },
+                {
+                    "e": "DE-428"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.ahaus.de"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Ahaus StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtbibliothek Ahaus"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "W\u00fcllener Str. 18"
+                },
+                {
+                    "b": "Ahaus"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "48683"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "i": "Di 11.00-13.00 und 14.30-18.30, Mi-Fr 10.00-13.00 und 14.30-17.30, Sa 10.00-13.00"
+                },
+                {
+                    "k": "7.00282"
+                },
+                {
+                    "l": "52.07612"
+                },
+                {
+                    "n": "05554004"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "2561"
+                },
+                {
+                    "f": "72-900"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "2561"
+                },
+                {
+                    "i": "72-901"
+                },
+                {
+                    "k": "stadtbibliothek@ahaus.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "07"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "b"
+                },
+                {
+                    "d": "stadtbibliothek@ahaus.de"
+                }
+            ],
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "stadtbibliothek@ahaus.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "stadtbibliothek@ahaus.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-428",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-428",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-428",
+    "identifier": "DE-428",
+    "name": "Stadtbibliothek Ahaus",
+    "location": "Ahaus",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NRW"
+}

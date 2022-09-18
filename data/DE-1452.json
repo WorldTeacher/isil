@@ -1,0 +1,222 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-1452.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:21-11-07"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:28-11-16"
+                ],
+                {
+                    "t": "11:46:48.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:21-11-07"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "986483966"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "JP543"
+                },
+                {
+                    "d": "1452"
+                },
+                {
+                    "e": "DE-1452"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.bibliothek-zeil.de/"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://www.datronic.de/cgi-bin/findus.fcgi.pl?customer=zeil"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Zeil/Main StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtbibliothek Zeil am Main"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Schulring 3"
+                },
+                {
+                    "b": "Zeil/Main"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "97475"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "i": "Di-Mi und Fr 11.00-13.00 und 15.00-18.00, Do 11.00-13.00 und 15.00-19.00, Sa 10.00-12.00"
+                },
+                {
+                    "k": "10.59340"
+                },
+                {
+                    "l": "50.01096"
+                },
+                {
+                    "n": "09674221"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "9524"
+                },
+                {
+                    "f": "9 49-88"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "9524"
+                },
+                {
+                    "i": "9 49-49"
+                },
+                {
+                    "k": "bibliothek@zeil-am-main.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "06"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAY"
+                },
+                {
+                    "c": "BVB"
+                },
+                {
+                    "e": "n"
+                },
+                {
+                    "g": "R"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "bibliothek@zeil-am-main.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-1452",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-1452",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-1452",
+    "identifier": "DE-1452",
+    "name": "Stadtbibliothek Zeil am Main",
+    "location": "Zeil/Main",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAY"
+}

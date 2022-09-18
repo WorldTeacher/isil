@@ -1,0 +1,260 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-2223.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:23-09-14"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:10-02-22"
+                ],
+                {
+                    "t": "14:29:07.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:23-09-14"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1058619527"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "d": "2223"
+                },
+                {
+                    "e": "DE-2223"
+                },
+                {
+                    "f": "FLIHS"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://fliedner-fachhochschule.de/"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://fliedner-fhs.bibdia-hosts.de/opax/de/index.html.S"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "D\u00fcsseldorf Fliedner FHS"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Fliedner Fachhochschule, Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Geschwister-Aufricht-Str. 9"
+                },
+                {
+                    "b": "D\u00fcsseldorf"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "40489"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "i": "Mo-Fr 8.30-17.00, Sa 9.00-12.00 oder 12.00-15.00"
+                },
+                {
+                    "j": "im Semester langer Donnerstag bis 20.00"
+                },
+                {
+                    "k": "6.74801"
+                },
+                {
+                    "l": "51.29920"
+                },
+                {
+                    "n": "05111000"
+                },
+                {
+                    "o": "barrierefrei"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "a": "Alte Landstr. 179"
+                },
+                {
+                    "b": "D\u00fcsseldorf"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "40489"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "211"
+                },
+                {
+                    "f": "4 09 32 38"
+                },
+                {
+                    "k": "bibliothek@fliedner-fachhochschule.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "70"
+                },
+                {
+                    "g": "12"
+                },
+                {
+                    "h": "05"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Pflege"
+                },
+                {
+                    "a": "Medizin"
+                },
+                {
+                    "a": "P\u00e4dagogik"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "e": "l"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "bibliothek@fliedner-fachhochschule.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "bibliothek@fliedner-fachhochschule.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-2223",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-2223",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-2223",
+    "identifier": "DE-2223",
+    "name": "Fliedner Fachhochschule, Bibliothek",
+    "location": "D\u00fcsseldorf",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NRW"
+}

@@ -1,0 +1,209 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-1823.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:08-03-10"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:07-06-17"
+                ],
+                {
+                    "t": "09:10:40.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:08-03-10"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1000689875"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "WA194"
+                },
+                {
+                    "d": "1823"
+                },
+                {
+                    "e": "DE-1823"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.stadtbibliothek.greifswald.de/"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://opac.greifswald.de/wwwopac/index.asp?DB=w_biblio"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Greifswald StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtbibliothek Hans Fallada"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Knopfstr. 18-20"
+                },
+                {
+                    "b": "Greifswald"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "17489"
+                },
+                {
+                    "f": "Mecklenburg-Vorpommern"
+                },
+                {
+                    "i": "Mo-Di und Fr 10.00-18.00, Do 10.00-20.00, Sa 10.00-13.00"
+                },
+                {
+                    "k": "13.38252"
+                },
+                {
+                    "l": "54.09677"
+                },
+                {
+                    "n": "13001000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "3834"
+                },
+                {
+                    "f": "85 36-4477"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "3834"
+                },
+                {
+                    "i": "85 36-4462"
+                },
+                {
+                    "k": "stadtbibliothek@greifswald.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "07"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "HAM"
+                },
+                {
+                    "c": "GBV"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-1823",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-1823",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-1823",
+    "identifier": "DE-1823",
+    "name": "Stadtbibliothek Hans Fallada",
+    "location": "Greifswald",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "HAM"
+}

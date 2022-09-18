@@ -1,0 +1,230 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-411.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:30-03-16"
+                ],
+                {
+                    "t": "13:07:02.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020583931"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "AA411"
+                },
+                {
+                    "d": "411"
+                },
+                {
+                    "e": "DE-411"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.stadtbuecherei-coesfeld.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://www.coesfeld.de/buecherei"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Coesfeld StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtb\u00fccherei Coesfeld"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Walkenbr\u00fcckenstr. 25"
+                },
+                {
+                    "b": "Coesfeld"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "48653"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "i": "Di und Do 10.00-13.00 und 15.00-18.00, Mi 15.00-18.00, Fr. 9.00-13.00 und 15.00-18.00, Sa 10.00-13.00"
+                },
+                {
+                    "k": "7.17065"
+                },
+                {
+                    "l": "51.94680"
+                },
+                {
+                    "n": "05558012"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "2541"
+                },
+                {
+                    "f": "9 39-3100"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "2541"
+                },
+                {
+                    "i": "9 39-4100"
+                },
+                {
+                    "k": "fernleihe@coesfeld.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "07"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "fernleihe@coesfeld.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "fernleihe@coesfeld.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-411",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-411",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-411",
+    "identifier": "DE-411",
+    "name": "Stadtb\u00fccherei Coesfeld",
+    "location": "Coesfeld",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NRW"
+}

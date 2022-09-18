@@ -1,0 +1,280 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-H2.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:06-07-15"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:25-10-21"
+                ],
+                {
+                    "t": "11:49:02.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:06-07-15"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1073320111"
+                ]
+            ]
+        ],
+        "007N": [
+            [
+                [
+                    "009002936"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "208002-3"
+                },
+                {
+                    "b": "DB067"
+                },
+                {
+                    "d": "H 2"
+                },
+                {
+                    "e": "DE-H2"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "https://www.bsh.de/bibliothek"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://bibliothek.bsh.de/webOPACClient/start.do"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Hamburg BA Seeschifffahrt"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Bundesamt f\u00fcr Seeschifffahrt und Hydrographie, Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Bernhard-Nocht-Str. 78"
+                },
+                {
+                    "b": "Hamburg"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "20359"
+                },
+                {
+                    "f": "Hamburg"
+                },
+                {
+                    "i": "Mo und Mi-Do 9.00-15.00, Di 9.00-16.00, Fr 9.00-14.30"
+                },
+                {
+                    "k": "9.96724"
+                },
+                {
+                    "l": "53.54696"
+                },
+                {
+                    "n": "02000000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Hamburg"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "20305"
+                },
+                {
+                    "f": "Hamburg"
+                },
+                {
+                    "g": "30 12 20"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "40"
+                },
+                {
+                    "f": "31 90-2626 (Auskunft), -2600 (Ausleihe)"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "40"
+                },
+                {
+                    "i": "31 90-5000"
+                },
+                {
+                    "k": "bibliothek@bsh.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0211"
+                },
+                {
+                    "d": "GBV"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "01"
+                },
+                {
+                    "h": "08"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Schifffahrt"
+                },
+                {
+                    "a": "Navigation"
+                }
+            ]
+        ],
+        "035H": [
+            [
+                {
+                    "a": "SSG 16,15 / Physikalische Ozeanographie (bis einschlie\u00dflich 2015)"
+                },
+                {
+                    "a": "SSG 28,3 / Seekarten (bis einschlie\u00dflich 2015)"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "HAM"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "GBV"
+                },
+                {
+                    "d": "BRB"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-H2",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-H2",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-H2",
+    "identifier": "DE-H2",
+    "name": "Bundesamt f\u00fcr Seeschifffahrt und Hydrographie, Bibliothek",
+    "location": "Hamburg",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "HAM"
+}

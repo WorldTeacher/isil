@@ -1,0 +1,267 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-430.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:17-02-16"
+                ],
+                {
+                    "t": "14:17:11.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020584083"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "AH430"
+                },
+                {
+                    "d": "430"
+                },
+                {
+                    "e": "DE-430"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.dormagen.de/879.html"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Dormagen StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtbibliothek Dormagen"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Marktpl. 1"
+                },
+                {
+                    "b": "Dormagen"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "41539"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "i": "Mo und Fr 10.00-18.00, Di 10.00-20.00, Do 14.00-20.00, Sa 10.00-14.00"
+                },
+                {
+                    "k": "6.83737"
+                },
+                {
+                    "l": "51.09396"
+                },
+                {
+                    "n": "05162004"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Dormagen"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "41519"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "g": "10 01 60"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "2133"
+                },
+                {
+                    "f": "2 57-212"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "2133"
+                },
+                {
+                    "i": "2 57-360"
+                },
+                {
+                    "k": "bib@stadt-dormagen.de"
+                }
+            ],
+            [
+                {
+                    "a": "W"
+                },
+                {
+                    "b": "Fernleihe"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "k": "bib.fernleihe@stadt-dormagen.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "07"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "b"
+                },
+                {
+                    "d": "bib.fernleihe@stadt-dormagen.de"
+                }
+            ],
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "bib.fernleihe@stadt-dormagen.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "bib.fernleihe@stadt-dormagen.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-430",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-430",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-430",
+    "identifier": "DE-430",
+    "name": "Stadtbibliothek Dormagen",
+    "location": "Dormagen",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NRW"
+}

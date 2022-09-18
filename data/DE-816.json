@@ -1,0 +1,229 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-816.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:07-09-22"
+                ],
+                {
+                    "t": "09:51:59.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020586108"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "JB708"
+                },
+                {
+                    "d": "816"
+                },
+                {
+                    "e": "DE-816"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Wipperf\u00fcrth StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtbibliothek Wipperf\u00fcrth"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Marktplatz 9"
+                },
+                {
+                    "b": "Wipperf\u00fcrth"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "51688"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "i": "Mo und Mi 10.00-13.00 und 14.00-17.00, Do 10.00-13.00 und 14.00-18.00, Fr 9.00-13.00"
+                },
+                {
+                    "j": "jeden ersten Samstag im Monat 10.00-13.00"
+                },
+                {
+                    "k": "7.39902"
+                },
+                {
+                    "l": "51.11753"
+                },
+                {
+                    "n": "05374052"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Wipperf\u00fcrth"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "51678"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "g": "14 60"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "2267"
+                },
+                {
+                    "f": "8623980"
+                },
+                {
+                    "k": "stadtbibliothek@wipperfuerth.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "06"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "stadtbibliothek@wipperfuerth.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "stadtbibliothek@wipperfuerth.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-816",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-816",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-816",
+    "identifier": "DE-816",
+    "name": "Stadtbibliothek Wipperf\u00fcrth",
+    "location": "Wipperf\u00fcrth",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NRW"
+}

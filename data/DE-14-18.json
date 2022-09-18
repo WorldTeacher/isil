@@ -1,0 +1,285 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-14-18.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:18-11-99"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:22-02-21"
+                ],
+                {
+                    "t": "15:45:53.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "009035028"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "951018-7"
+                },
+                {
+                    "d": "14/18"
+                },
+                {
+                    "e": "DE-14-18"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.slub-dresden.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://www.slub-dresden.de/recherche"
+                },
+                {
+                    "z": "B"
+                }
+            ],
+            [
+                {
+                    "u": "http://www.slub-dresden.de/schreiben-sie-uns"
+                },
+                {
+                    "z": "D"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Dresden SLUB, ZB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "S\u00e4chsische Landesbibliothek - Staats- und Universit\u00e4tsbibliothek Dresden, (ehem. Zweigbibliothek Architektur)"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Zellescher Weg 18"
+                },
+                {
+                    "b": "Dresden"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "01069"
+                },
+                {
+                    "f": "Sachsen"
+                },
+                {
+                    "k": "13.73659"
+                },
+                {
+                    "l": "51.02830"
+                },
+                {
+                    "n": "14612000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Dresden"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "01054"
+                },
+                {
+                    "f": "Sachsen"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "351"
+                },
+                {
+                    "f": "46 77-379, 390"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "351"
+                },
+                {
+                    "i": "46 77-723"
+                },
+                {
+                    "k": "Information@slub-dresden.de"
+                },
+                {
+                    "l": "Information"
+                }
+            ],
+            [
+                {
+                    "a": "W"
+                },
+                {
+                    "b": "Fernleihe"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "351"
+                },
+                {
+                    "f": "46 77-430"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "351"
+                },
+                {
+                    "i": "46 77-427"
+                },
+                {
+                    "k": "Fernleihe@slub-dresden.de"
+                }
+            ]
+        ],
+        "035D": [
+            [
+                {
+                    "a": "88/36"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "c": "0021"
+                },
+                {
+                    "d": "SWB"
+                },
+                {
+                    "f": "65"
+                },
+                {
+                    "g": "02"
+                },
+                {
+                    "h": "07"
+                },
+                {
+                    "k": "88/18"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "SAX"
+                },
+                {
+                    "c": "SWB"
+                },
+                {
+                    "e": "l"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-14-18",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-14-18",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-14-18",
+    "identifier": "DE-14-18",
+    "name": "S\u00e4chsische Landesbibliothek - Staats- und Universit\u00e4tsbibliothek Dresden, (ehem. Zweigbibliothek Architektur)",
+    "location": "Dresden",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "SAX"
+}

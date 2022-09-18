@@ -1,0 +1,258 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-1303.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:07-06-07"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:05-03-18"
+                ],
+                {
+                    "t": "09:08:21.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:07-06-07"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "984544267"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "GA900"
+                },
+                {
+                    "d": "1303"
+                },
+                {
+                    "e": "DE-1303"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.stadtbibliothek-landsberg.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://webopac.winbiap.de/landsberg"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Landsberg a. Lech StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtbibliothek Landsberg im Lechstadel"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Lechstr. 132 1/2"
+                },
+                {
+                    "b": "Landsberg/Lech"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "86899"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "i": "Mo, Di und Fr 11.00-18.00, Mi 10.00-13.00, Do 13.00-19.00"
+                },
+                {
+                    "j": "1. Sa im Monat 10.00-13.00"
+                },
+                {
+                    "k": "10.87452"
+                },
+                {
+                    "l": "48.05147"
+                },
+                {
+                    "n": "09181130"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "a": "Katharinenstr. 1"
+                },
+                {
+                    "b": "Landsberg/Lech"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "86899"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "8191"
+                },
+                {
+                    "f": "1 28-565"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "8191"
+                },
+                {
+                    "i": "1 28-560"
+                },
+                {
+                    "k": "stadtbibliothek@landsberg.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "07"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAY"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "BVB"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "stadtbibliothek@landsberg.de"
+                }
+            ]
+        ],
+        "047A": [
+            [
+                {
+                    "a": "In der Stadtbibliothek befindet sich die Bibliothek des Historischen Vereins f\u00fcr Stadt und Kreis Landsberg am Lech e.V. mit Sammelschwerpunkt Landsberg und Landkreis, deren Bestand im Web-Opac der Stadtb\u00fccherei nachgewiesen ist"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-1303",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-1303",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-1303",
+    "identifier": "DE-1303",
+    "name": "Stadtbibliothek Landsberg im Lechstadel",
+    "location": "Landsberg/Lech",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAY"
+}

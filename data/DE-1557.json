@@ -1,0 +1,183 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-1557.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:04-02-08"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:17-02-16"
+                ],
+                {
+                    "t": "13:30:01.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:04-02-08"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "987414348"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "PQ927"
+                },
+                {
+                    "d": "1557"
+                },
+                {
+                    "e": "DE-1557"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Leinach K\u00d6B"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Katholische \u00d6ffentliche B\u00fccherei Leinach"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Am Lengfelder 16"
+                },
+                {
+                    "b": "Leinach"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "97274"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "k": "9.79800"
+                },
+                {
+                    "l": "49.87113"
+                },
+                {
+                    "n": "09679200"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "k": "buecherei.leinach@freenet.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "10"
+                },
+                {
+                    "h": "05"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAY"
+                },
+                {
+                    "c": "BVB"
+                },
+                {
+                    "e": "n"
+                },
+                {
+                    "g": "R"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "buecherei.leinach@freenet.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-1557",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-1557",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-1557",
+    "identifier": "DE-1557",
+    "name": "Katholische \u00d6ffentliche B\u00fccherei Leinach",
+    "location": "Leinach",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAY"
+}

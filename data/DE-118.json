@@ -1,0 +1,225 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-118.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:03-06-21"
+                ],
+                {
+                    "t": "15:12:21.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020582889"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "AE118"
+                },
+                {
+                    "d": "118"
+                },
+                {
+                    "e": "DE-118"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.lueneburg.de/"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://www.stadt.lueneburg.de/ratsbuecherei/WebOPAC/"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "L\u00fcneburg RatsB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Ratsb\u00fccherei der Hansestadt L\u00fcneburg"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Am Marienpl. 3"
+                },
+                {
+                    "b": "L\u00fcneburg"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "21335"
+                },
+                {
+                    "f": "Niedersachsen"
+                },
+                {
+                    "i": "Di 10.00-19.00, Mi und Sa 10.00-13.00, Do 11.00-18.00, Fr 10.00-18.00"
+                },
+                {
+                    "k": "10.40563"
+                },
+                {
+                    "l": "53.25075"
+                },
+                {
+                    "n": "03355022"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "4131"
+                },
+                {
+                    "f": "3 09-3619 und -3609"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "4131"
+                },
+                {
+                    "i": "3 09-3507"
+                },
+                {
+                    "k": "Ratsbuecherei@Lueneburg.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "08"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Neben dem modernen Bestand 697 Handschriften, 1331 Inkunabeln, 20.000 Drucke 16.-18. Jahrhundert"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NIE"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "GBV"
+                },
+                {
+                    "d": "Kalliope; \u00d6VK"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-118",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-118",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-118",
+    "identifier": "DE-118",
+    "name": "Ratsb\u00fccherei der Hansestadt L\u00fcneburg",
+    "location": "L\u00fcneburg",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NIE"
+}

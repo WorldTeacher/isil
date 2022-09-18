@@ -1,0 +1,230 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-E12.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:19-05-18"
+                ],
+                {
+                    "t": "14:27:30.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020590687"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "DA324"
+                },
+                {
+                    "d": "E 12"
+                },
+                {
+                    "e": "DE-E12"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.tuev-nord.de"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Hamburg T\u00dcV NORD"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "T\u00dcV NORD Service GmbH, Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Grosse Bahnstr. 31"
+                },
+                {
+                    "b": "Hamburg"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "22525"
+                },
+                {
+                    "f": "Hamburg"
+                },
+                {
+                    "i": "Mo-Fr 08.00-16.00"
+                },
+                {
+                    "j": "nicht \u00f6ffentlich zug\u00e4nglich"
+                },
+                {
+                    "k": "9.93796"
+                },
+                {
+                    "l": "53.57366"
+                },
+                {
+                    "n": "02000000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "40"
+                },
+                {
+                    "f": "85 57-2294"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "40"
+                },
+                {
+                    "i": "85 57-2972"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "08"
+                },
+                {
+                    "h": "11"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Technik"
+                },
+                {
+                    "a": "Naturwissenschaften"
+                },
+                {
+                    "a": "Energietechnik"
+                },
+                {
+                    "a": "Anlagentechnik"
+                },
+                {
+                    "a": "Fahrzeugtechnik"
+                },
+                {
+                    "a": "Umweltschutz"
+                },
+                {
+                    "a": "Zertifizierung"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "HAM"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ],
+        "047A": [
+            [
+                {
+                    "a": "Weitere Standorte (ohne Sigel) in Essen und Hannover"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-E12",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-E12",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-E12",
+    "identifier": "DE-E12",
+    "name": "T\u00dcV NORD Service GmbH, Bibliothek",
+    "location": "Hamburg",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "HAM"
+}

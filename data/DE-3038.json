@@ -1,0 +1,200 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-3038.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-05-21"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:18-06-21"
+                ],
+                {
+                    "t": "14:10:40.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:11-05-21"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1233328506"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "WM832"
+                },
+                {
+                    "d": "3038"
+                },
+                {
+                    "e": "DE-3038"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "https://wilsdruff.bbopac.de/index"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://wilsdruff.bbopac.de/index"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Wilsdruff StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtbibliothek Wilsdruff"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Nossener Str. 21a"
+                },
+                {
+                    "b": "Wilsdruff"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "01723"
+                },
+                {
+                    "f": "Sachsen"
+                },
+                {
+                    "i": "Mo 09.00-11:30 und 12.00-17.00, Di 13.00-18.00, Do 09.00-11:30 und 12.00-19.00"
+                },
+                {
+                    "k": "13.53344"
+                },
+                {
+                    "l": "51.05099"
+                },
+                {
+                    "o": "nicht barrierefrei"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "35204"
+                },
+                {
+                    "f": "46 38 00"
+                },
+                {
+                    "k": "bibliothek@wilsdruff.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "SAX"
+                },
+                {
+                    "d": "\u00d6VK; BIBO-SAX"
+                },
+                {
+                    "e": "n"
+                },
+                {
+                    "f": "x"
+                },
+                {
+                    "g": "R"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-3038",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-3038",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-3038",
+    "identifier": "DE-3038",
+    "name": "Stadtbibliothek Wilsdruff",
+    "location": "Wilsdruff",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "SAX"
+}

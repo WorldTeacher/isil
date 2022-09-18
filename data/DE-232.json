@@ -1,0 +1,230 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-232.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:28-11-18"
+                ],
+                {
+                    "t": "16:39:12.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "02058332X"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "AK232"
+                },
+                {
+                    "d": "232"
+                },
+                {
+                    "e": "DE-232"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.glashaus-herten.de"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Herten StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtbibliothek im Glashaus Herten"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Hermannstr. 16"
+                },
+                {
+                    "b": "Herten"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "45699"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "i": "Di-Mi und Fr 10.00-18.00, Do 10.00-20.30, Sa 10.00-13.00"
+                },
+                {
+                    "k": "7.13821"
+                },
+                {
+                    "l": "51.59397"
+                },
+                {
+                    "n": "05562020"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "2366"
+                },
+                {
+                    "f": "30 36 50 und 30 36 75"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "2366"
+                },
+                {
+                    "i": "30 36 67"
+                },
+                {
+                    "k": "stadtbibliothek.leihverkehr@herten.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "07"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "b"
+                },
+                {
+                    "d": "stadtbibliothek.leihverkehr@herten.de"
+                }
+            ],
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "stadtbibliothek.leihverkehr@herten.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "stadtbibliothek.leihverkehr@herten.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-232",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-232",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-232",
+    "identifier": "DE-232",
+    "name": "Stadtbibliothek im Glashaus Herten",
+    "location": "Herten",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NRW"
+}

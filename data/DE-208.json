@@ -1,0 +1,281 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-208.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "1200:26-07-02"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:03-06-21"
+                ],
+                {
+                    "t": "15:11:46.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "023734183"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "758000-9"
+                },
+                {
+                    "b": "BJ208"
+                },
+                {
+                    "d": "208"
+                },
+                {
+                    "e": "DE-208"
+                },
+                {
+                    "f": "BGH"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.bundesgerichtshof.de/bibliothek"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://www.bundesgerichtshof.de/katalog"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Karlsruhe BGH"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Bibliothek des Bundesgerichtshofs"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Herrenstr. 45 a"
+                },
+                {
+                    "b": "Karlsruhe"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "76133"
+                },
+                {
+                    "f": "Baden-W\u00fcrttemberg"
+                },
+                {
+                    "i": "Mo-Do 8.30-15.00, Fr 8.30-14.00"
+                },
+                {
+                    "k": "8.39655"
+                },
+                {
+                    "l": "49.00715"
+                },
+                {
+                    "n": "08212000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "721"
+                },
+                {
+                    "f": "1 59-5000"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "721"
+                },
+                {
+                    "i": "1 59-5612"
+                },
+                {
+                    "j": "7825828 bgh d"
+                },
+                {
+                    "k": "bibliothek@bgh.bund.de"
+                }
+            ],
+            [
+                {
+                    "a": "W"
+                },
+                {
+                    "b": "Fernleihe"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "k": "bibliothek-information@bgh.bund.de"
+                }
+            ]
+        ],
+        "035D": [
+            [
+                {
+                    "a": "208a"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0154"
+                },
+                {
+                    "d": "SWB"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "01"
+                },
+                {
+                    "h": "09"
+                },
+                {
+                    "i": "P"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Rechtswissenschaft"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "SWB"
+                },
+                {
+                    "d": "\u00d6VK"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035K": [
+            [
+                {
+                    "b": "A"
+                }
+            ]
+        ],
+        "035O": [
+            [
+                {
+                    "a": "ISIL DE-31; AUTO DE-624"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-208",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-208",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-208",
+    "identifier": "DE-208",
+    "name": "Bibliothek des Bundesgerichtshofs",
+    "location": "Karlsruhe",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAW"
+}

@@ -1,0 +1,263 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-36.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:18-11-99"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:19-12-19"
+                ],
+                {
+                    "t": "08:56:08.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "009014640"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "655000-9"
+                },
+                {
+                    "b": "AG036"
+                },
+                {
+                    "d": "36"
+                },
+                {
+                    "e": "DE-36"
+                },
+                {
+                    "f": "SBM"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.bibliothek.mainz.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://pica1l.lhb.tu-darmstadt.de/IMPLAND=Y/SRT=YOP/LNG=DU////DB=STBMZ/"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Mainz StBi"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Wissenschaftliche Stadtbibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Rheinallee 3 B"
+                },
+                {
+                    "b": "Mainz"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "55116"
+                },
+                {
+                    "f": "Rheinland-Pfalz"
+                },
+                {
+                    "i": "Ausleihe: Mo und Mi 10.00-12.30 und 14.00-18.00, Fr 10.00-13.00"
+                },
+                {
+                    "j": "Lesesaal: Mo und Mi 10.00-18.00, Fr 10.00-13.00"
+                },
+                {
+                    "k": "8.26950"
+                },
+                {
+                    "l": "50.00839"
+                },
+                {
+                    "n": "07315000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "6131"
+                },
+                {
+                    "f": "12-2649 (Direktion) und -2929 (Fernleihe)"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "6131"
+                },
+                {
+                    "i": "12-3570"
+                },
+                {
+                    "k": "stb.fernleihe@stadt.mainz.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0042"
+                },
+                {
+                    "e": "HBV"
+                },
+                {
+                    "f": "21"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "09"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Mainz"
+                },
+                {
+                    "a": "Rheinhessen"
+                },
+                {
+                    "a": "Deutsche Stadt- und Landesgeschichte"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "HES"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "HeBIS"
+                },
+                {
+                    "d": "Kalliope"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035K": [
+            [
+                {
+                    "b": "A"
+                }
+            ]
+        ],
+        "035O": [
+            [
+                {
+                    "a": "FZL DE-620"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-36",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-36",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-36",
+    "identifier": "DE-36",
+    "name": "Wissenschaftliche Stadtbibliothek",
+    "location": "Mainz",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "HES"
+}

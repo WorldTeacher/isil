@@ -1,0 +1,227 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-557.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:03-06-21"
+                ],
+                {
+                    "t": "15:12:13.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020585047"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "WB198"
+                },
+                {
+                    "d": "557"
+                },
+                {
+                    "e": "DE-557"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://opac.badsalzungen.de/webopac/index.asp?DB=web_biblio"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Bad Salzungen StuKrsB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadt- und Kreisbibliothek Bad Salzungen"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Kurhausstr. 12"
+                },
+                {
+                    "b": "Bad Salzungen"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "36433"
+                },
+                {
+                    "f": "Th\u00fcringen"
+                },
+                {
+                    "i": "Mo 13.00-18.00, Di 10.00-13.00 und 14.00-17.00, Mi und Fr 10.00-13.00, Do 10.00-13.00 und 14.00-18.00, Sa 10.00-12.00"
+                },
+                {
+                    "k": "10.23355"
+                },
+                {
+                    "l": "50.81124"
+                },
+                {
+                    "n": "16063003"
+                },
+                {
+                    "o": "barrierefrei"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "3695"
+                },
+                {
+                    "f": "67 16 71"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "3695"
+                },
+                {
+                    "i": "67 16 77"
+                },
+                {
+                    "k": "bibliothek@badsalzungen.de"
+                }
+            ],
+            [
+                {
+                    "a": "W"
+                },
+                {
+                    "b": "Fernleihe"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "k": "fernleihe@badsalzungen.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "07"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "THU"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "GBV"
+                },
+                {
+                    "d": "\u00d6VK"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-557",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-557",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-557",
+    "identifier": "DE-557",
+    "name": "Stadt- und Kreisbibliothek Bad Salzungen",
+    "location": "Bad Salzungen",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "THU"
+}

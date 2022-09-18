@@ -1,0 +1,293 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Goe116.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:18-11-99"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:09-12-15"
+                ],
+                {
+                    "t": "14:06:11.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "009004963"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "348116-5"
+                },
+                {
+                    "b": "CY144"
+                },
+                {
+                    "d": "G\u00f6 116"
+                },
+                {
+                    "e": "DE-Goe116"
+                },
+                {
+                    "f": "MPIBP"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.mpibpc.mpg.de/de/ohb/"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://vzopc4.gbv.de:8080/DB=3/LNG=DU/"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "G\u00f6ttingen Otto-Hahn-B"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Otto-Hahn-Bibliothek des Max-Planck-Instituts f\u00fcr biophysikalische Chemie"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Am Fassberg 11"
+                },
+                {
+                    "b": "G\u00f6ttingen"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "37077"
+                },
+                {
+                    "f": "Niedersachsen"
+                },
+                {
+                    "i": "Mo-Fr 9.00-19.00"
+                },
+                {
+                    "k": "9.96733"
+                },
+                {
+                    "l": "51.56136"
+                },
+                {
+                    "n": "03152012"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "G\u00f6ttingen"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "37070"
+                },
+                {
+                    "f": "Niedersachsen"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "551"
+                },
+                {
+                    "f": "2 01-1349"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "551"
+                },
+                {
+                    "i": "2 01-1782"
+                },
+                {
+                    "k": "ohbmail@gwdg.de"
+                }
+            ]
+        ],
+        "035D": [
+            [
+                {
+                    "a": "G\u00f6 69"
+                },
+                {
+                    "b": "DE-Goe69"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0111"
+                },
+                {
+                    "d": "MPG"
+                },
+                {
+                    "e": "GBV"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "08"
+                },
+                {
+                    "h": "08"
+                },
+                {
+                    "i": "P"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Physikalische Chemie"
+                },
+                {
+                    "a": "Biochemie"
+                },
+                {
+                    "a": "Neurowissenschaften"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NIE"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "GBV"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035K": [
+            [
+                {
+                    "b": "A"
+                }
+            ]
+        ],
+        "035O": [
+            [
+                {
+                    "a": "FZL DE-622"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Goe116",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Goe116",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Goe116",
+    "identifier": "DE-Goe116",
+    "name": "Otto-Hahn-Bibliothek des Max-Planck-Instituts f\u00fcr biophysikalische Chemie",
+    "location": "G\u00f6ttingen",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NIE"
+}

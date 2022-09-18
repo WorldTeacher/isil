@@ -1,0 +1,250 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-1156b.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:12-12-14"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:04-08-17"
+                ],
+                {
+                    "t": "13:50:24.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:12-12-14"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1063826268"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "433003-1"
+                },
+                {
+                    "d": "1156b"
+                },
+                {
+                    "e": "DE-1156b"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.folkwang-uni.de/bibliothek"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://www.dshs-koeln.de/mhe"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Duisburg Folkwang Univ. K\u00fcnste"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Folkwang Universit\u00e4t der K\u00fcnste, Standort Duisburg, Bibliothek"
+                }
+            ]
+        ],
+        "029R": [
+            [
+                {
+                    "9": "025538470"
+                },
+                {
+                    "7": "Tw"
+                },
+                {
+                    "a": "Folkwang Universit\u00e4t der K\u00fcnste, Bibliothek"
+                },
+                {
+                    "e": "DE-1156"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "D\u00fcsseldorfer Str. 19"
+                },
+                {
+                    "b": "Duisburg"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "47051"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "k": "6.76606"
+                },
+                {
+                    "l": "51.43202"
+                },
+                {
+                    "n": "05112000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "203"
+                },
+                {
+                    "f": "2 95 88 13"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0126"
+                },
+                {
+                    "d": "HBZ"
+                },
+                {
+                    "f": "73"
+                },
+                {
+                    "g": "02"
+                },
+                {
+                    "h": "06"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Alte Musik"
+                },
+                {
+                    "a": "Kammermusik"
+                },
+                {
+                    "a": "Klaviermusik"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "c": "HBZ"
+                },
+                {
+                    "e": "l"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "fernleihe@folkwang-uni.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "fernleihe@folkwang-uni.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-1156b",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-1156b",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-1156b",
+    "identifier": "DE-1156b",
+    "name": "Folkwang Universit\u00e4t der K\u00fcnste, Standort Duisburg, Bibliothek",
+    "location": "Duisburg",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NRW"
+}

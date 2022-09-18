@@ -1,0 +1,266 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-B1582.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:14-09-09"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:20-08-20"
+                ],
+                {
+                    "t": "10:03:33.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:14-09-09"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "996740902"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "BE106"
+                },
+                {
+                    "d": "B 1582"
+                },
+                {
+                    "e": "DE-B1582"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.bdk-berlin.org"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://www.bdk-berlin.org/bibliothek/katalog/"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "F\u00f6rderstiftung Konservative Bildung und Forschung, Bibliothek"
+                },
+                {
+                    "4": "a"
+                }
+            ],
+            [
+                {
+                    "a": "BdK Berlin"
+                },
+                {
+                    "4": "a"
+                }
+            ],
+            [
+                {
+                    "a": "Berlin BdK"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Bibliothek des Konservatismus"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Fasanenstra\u00dfe 4"
+                },
+                {
+                    "b": "Berlin"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "10623"
+                },
+                {
+                    "f": "Berlin"
+                },
+                {
+                    "i": "Mo-Mi und Fr 10.00-15.00, Do 10.00-18.00"
+                },
+                {
+                    "j": "und nach Vereinbarung"
+                },
+                {
+                    "k": "13.32781"
+                },
+                {
+                    "l": "52.50735"
+                },
+                {
+                    "n": "11000000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "30"
+                },
+                {
+                    "f": "3 15 17 37-0"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "30"
+                },
+                {
+                    "i": "3 15 17 37-21"
+                },
+                {
+                    "k": "info@bdk-berlin.org"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "08"
+                },
+                {
+                    "h": "07"
+                },
+                {
+                    "i": "P"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Konservatismus seit der Gegenaufkl\u00e4rung <1789 ff.>"
+                },
+                {
+                    "a": "Konservatismus <19. Jh.>"
+                },
+                {
+                    "a": "Konservatismus <20. Jh.>"
+                },
+                {
+                    "a": "Konservatismus in der Gegenwart"
+                },
+                {
+                    "a": "Konservatismus im internationalen Vergleich"
+                },
+                {
+                    "a": "Konservative Revolution <1918-1932>"
+                },
+                {
+                    "a": "Periodika"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BER"
+                },
+                {
+                    "c": "GBV"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ],
+        "047A": [
+            [
+                {
+                    "a": "Zahlr. solit\u00e4re Best\u00e4nde; Autographen; Archiv politischer Plakate (seit 1848); Bildarchiv"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-B1582",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-B1582",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-B1582",
+    "identifier": "DE-B1582",
+    "name": "Bibliothek des Konservatismus",
+    "location": "Berlin",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BER"
+}

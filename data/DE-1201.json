@@ -1,0 +1,201 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-1201.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:14-05-04"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:19-05-21"
+                ],
+                {
+                    "t": "11:12:51.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "025990144"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "HD608"
+                },
+                {
+                    "d": "1201"
+                },
+                {
+                    "e": "DE-1201"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.ebstorf.de"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Ebstorf SamtGB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Samtgemeindeb\u00fccherei Ebstorf"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Hauptstr. 30"
+                },
+                {
+                    "b": "Ebstorf"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "29574"
+                },
+                {
+                    "f": "Niedersachsen"
+                },
+                {
+                    "i": "Mo 14.00-17.00, Mi 8.00-12.00, Do 14.00-18.00"
+                },
+                {
+                    "k": "10.41321"
+                },
+                {
+                    "l": "53.02874"
+                },
+                {
+                    "n": "03360006"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "5822"
+                },
+                {
+                    "f": "42-219"
+                },
+                {
+                    "k": "buecherei.ebstorf@bevensen-ebstorf.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "05"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NIE"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "GBV"
+                },
+                {
+                    "e": "k"
+                },
+                {
+                    "f": "x"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-1201",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-1201",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-1201",
+    "identifier": "DE-1201",
+    "name": "Samtgemeindeb\u00fccherei Ebstorf",
+    "location": "Ebstorf",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NIE"
+}

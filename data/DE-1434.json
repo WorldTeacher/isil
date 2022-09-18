@@ -1,0 +1,265 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-1434.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:16-11-07"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:23-07-20"
+                ],
+                {
+                    "t": "13:21:06.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:16-11-07"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "986423904"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "HX854"
+                },
+                {
+                    "d": "1434"
+                },
+                {
+                    "e": "DE-1434"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.buecherei-poecking.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://webopac.winbiap.net/poecking/"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "B\u00fccherei im Alten Pfarrhaus P\u00f6cking"
+                },
+                {
+                    "4": "a"
+                }
+            ],
+            [
+                {
+                    "a": "P\u00f6cking B\u00fccherei"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Gemeindeb\u00fccherei P\u00f6cking"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Hauptstr. 8"
+                },
+                {
+                    "b": "P\u00f6cking"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "82343"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "h": "Im alten Pfarrhaus"
+                },
+                {
+                    "i": "Di 14.30-19.00, Mi 10.00-13.00, Do 10.00-13.00 und 14.00-18.00, Fr 15.00-20.00"
+                },
+                {
+                    "k": "11.30107"
+                },
+                {
+                    "l": "47.96728"
+                },
+                {
+                    "n": "09188137"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "a": "Feldafinger Str. 4"
+                },
+                {
+                    "b": "P\u00f6cking"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "82343"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "h": "Gemeindeverwaltung/Rathaus"
+                },
+                {
+                    "i": "Mo-Mi und Fr 8.00-12.00, Do 8.00-12.00 und 16.00-18.00"
+                },
+                {
+                    "o": "nicht barrierefrei"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "8157"
+                },
+                {
+                    "f": "48 71"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "8157"
+                },
+                {
+                    "i": "99 70 52"
+                },
+                {
+                    "k": "buecherei@poecking.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "06"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAY"
+                },
+                {
+                    "c": "BVB"
+                },
+                {
+                    "e": "n"
+                },
+                {
+                    "g": "R"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "buecherei@poecking.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-1434",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-1434",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-1434",
+    "identifier": "DE-1434",
+    "name": "Gemeindeb\u00fccherei P\u00f6cking",
+    "location": "P\u00f6cking",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAY"
+}

@@ -1,0 +1,201 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Gar1.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:21-10-16"
+                ],
+                {
+                    "t": "10:48:41.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020591500"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "DA786"
+                },
+                {
+                    "d": "Gar 1"
+                },
+                {
+                    "e": "DE-Gar1"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.klostergars.de/Bibliothek.html"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Gars B d.Redemptoristen"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Bibliothek der Redemptoristen"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Kirchpl. 10"
+                },
+                {
+                    "b": "Gars/Inn"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "83536"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "i": "Mo, Mi und Fr 8.30-11.30"
+                },
+                {
+                    "j": "bitte Voranmeldung per Telefon oder E-Mail"
+                },
+                {
+                    "k": "12.27628"
+                },
+                {
+                    "l": "48.15674"
+                },
+                {
+                    "n": "09183118"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "8073"
+                },
+                {
+                    "f": "3 88-227"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "8073"
+                },
+                {
+                    "i": "3 88-300"
+                },
+                {
+                    "k": "bibliothek.gars@gmx.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "07"
+                },
+                {
+                    "h": "08"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAY"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Gar1",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Gar1",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Gar1",
+    "identifier": "DE-Gar1",
+    "name": "Bibliothek der Redemptoristen",
+    "location": "Gars/Inn",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAY"
+}

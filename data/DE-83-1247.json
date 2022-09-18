@@ -1,0 +1,272 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-83-1247.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:18-11-99"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:14-03-22"
+                ],
+                {
+                    "t": "13:36:42.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:27-05-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "009001336"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "111247-8"
+                },
+                {
+                    "d": "83/1247"
+                },
+                {
+                    "e": "DE-83-1247"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "https://www.zems.tu-berlin.de/bibliothek//"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://tu-berlin.hosted.exlibrisgroup.com/primo-explore/search?vid=TUB&lang=de_DE"
+                },
+                {
+                    "z": "B"
+                }
+            ],
+            [
+                {
+                    "u": "http://www.ub.tu-berlin.de/index.php?id=32#content1853"
+                },
+                {
+                    "x": "\u00d6ffnungszeiten"
+                },
+                {
+                    "z": "W"
+                }
+            ],
+            [
+                {
+                    "u": "http://www.ub.tu-berlin.de/ueber-uns/die-bibliothek/bestimmungen-ordnungen/rahmenbenutzungsordnung/"
+                },
+                {
+                    "x": "Nutzung"
+                },
+                {
+                    "z": "W"
+                }
+            ],
+            [
+                {
+                    "u": "http://www.ub.tu-berlin.de/ueber-uns/die-bibliothek/bestimmungen-ordnungen/gebuehrenordnung/"
+                },
+                {
+                    "x": "Geb\u00fchren"
+                },
+                {
+                    "z": "W"
+                }
+            ],
+            [
+                {
+                    "u": "http://www.ub.tu-berlin.de/bibliothek-benutzen/ausleihen-bestellen/gebuehren/"
+                },
+                {
+                    "x": "Ausleihe"
+                },
+                {
+                    "z": "W"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Berlin UBTU ZEMS"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "TU Berlin, Zentraleinrichtung Moderne Sprachen (ZEMS), Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Hardenbergstr. 16-18 (Sekr. HBS 3)"
+                },
+                {
+                    "b": "Berlin"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "10623"
+                },
+                {
+                    "f": "Berlin"
+                },
+                {
+                    "k": "13.32830"
+                },
+                {
+                    "l": "52.50817"
+                },
+                {
+                    "n": "11000000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "30"
+                },
+                {
+                    "f": "3 14-24817  (Bibliothek) und 73282 (Mediothek)"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "30"
+                },
+                {
+                    "i": "3 14-21617"
+                },
+                {
+                    "k": "bibliothek@zems.tu-berlin.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "c": "0051"
+                },
+                {
+                    "d": "BVB"
+                },
+                {
+                    "f": "65"
+                },
+                {
+                    "g": "07"
+                },
+                {
+                    "h": "06"
+                },
+                {
+                    "k": "B 1247"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Moderne Sprachen"
+                },
+                {
+                    "a": "Sprachunterricht"
+                },
+                {
+                    "a": "Angewandte Linguistik"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BER"
+                },
+                {
+                    "c": "KOBV"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-83-1247",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-83-1247",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-83-1247",
+    "identifier": "DE-83-1247",
+    "name": "TU Berlin, Zentraleinrichtung Moderne Sprachen (ZEMS), Bibliothek",
+    "location": "Berlin",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BER"
+}

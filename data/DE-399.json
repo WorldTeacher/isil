@@ -1,0 +1,260 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-399.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:28-11-18"
+                ],
+                {
+                    "t": "16:38:58.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020583893"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "AH399"
+                },
+                {
+                    "d": "399"
+                },
+                {
+                    "e": "DE-399"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.bad-honnef.de/service/buecherei"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://www.bad-honnef.de/service/buecherei/webopac"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Bad Honnef StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtb\u00fccherei Bad Honnef"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Rathauspl. 1"
+                },
+                {
+                    "b": "Bad Honnef"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "53604"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "i": "Di-Do 10.00-12.00 und 14.00-18.00, Fr 10.00-14.00, Sa 9.00-13.00"
+                },
+                {
+                    "k": "7.22903"
+                },
+                {
+                    "l": "50.64449"
+                },
+                {
+                    "n": "05382008"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Bad Honnef"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "53587"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "g": "17 40"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "2224"
+                },
+                {
+                    "f": "1 84-172"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "2224"
+                },
+                {
+                    "i": "1 84-4172"
+                },
+                {
+                    "k": "buecherei@bad-honnef.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "06"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Bad Honnef"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "buecherei@bad-honnef.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "buecherei@bad-honnef.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-399",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-399",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-399",
+    "identifier": "DE-399",
+    "name": "Stadtb\u00fccherei Bad Honnef",
+    "location": "Bad Honnef",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NRW"
+}

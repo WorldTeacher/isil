@@ -1,0 +1,296 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-101d.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:18-11-99"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:03-01-22"
+                ],
+                {
+                    "t": "14:27:06.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "009033645"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "958544-8"
+                },
+                {
+                    "b": "EG666"
+                },
+                {
+                    "d": "101d"
+                },
+                {
+                    "e": "DE-101d"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "https://www.dnb.de/dbsm"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://portal.dnb.de"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Leipzig DNB Buch- u. Schriftmus."
+                },
+                {
+                    "4": "a"
+                }
+            ],
+            [
+                {
+                    "a": "Leipzig DNB Buch-u.Schriftmus."
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Deutsche Nationalbibliothek, Deutsches Buch- und Schriftmuseum"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Deutscher Platz 1"
+                },
+                {
+                    "b": "Leipzig"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "04103"
+                },
+                {
+                    "f": "Sachsen"
+                },
+                {
+                    "i": "Di-Mi und Fr-So 10.00-18.00, Do 10.00-20.00"
+                },
+                {
+                    "j": "Feiertage (au\u00dfer montags) 10.00-18.00"
+                },
+                {
+                    "k": "12.39710"
+                },
+                {
+                    "l": "51.32202"
+                },
+                {
+                    "n": "14713000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "341"
+                },
+                {
+                    "f": "22 71-318"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "341"
+                },
+                {
+                    "i": "22 71-240"
+                },
+                {
+                    "k": "dbsm@dnb.de"
+                }
+            ],
+            [
+                {
+                    "a": "W"
+                },
+                {
+                    "b": "Fernleihe"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "341"
+                },
+                {
+                    "f": "22 71-567"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "341"
+                },
+                {
+                    "i": "22 71-444"
+                },
+                {
+                    "k": "fernleihe@dnb.de"
+                }
+            ]
+        ],
+        "035D": [
+            [
+                {
+                    "a": "L 60"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0001"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "01"
+                },
+                {
+                    "h": "07"
+                },
+                {
+                    "i": "P"
+                },
+                {
+                    "k": "L 60"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Buchgeschichte"
+                },
+                {
+                    "a": "Schriftgeschichte"
+                },
+                {
+                    "a": "Druckgeschichte"
+                },
+                {
+                    "a": "Papiergeschichte"
+                },
+                {
+                    "a": "Buchhandelsgeschichte"
+                },
+                {
+                    "a": "Buchkunst"
+                },
+                {
+                    "a": "Buchgestaltung"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "SAX"
+                },
+                {
+                    "e": "k"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-101d",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-101d",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-101d",
+    "identifier": "DE-101d",
+    "name": "Deutsche Nationalbibliothek, Deutsches Buch- und Schriftmuseum",
+    "location": "Leipzig",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "SAX"
+}

@@ -1,0 +1,200 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-2206.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:07-08-14"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:28-01-16"
+                ],
+                {
+                    "t": "16:25:54.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:07-08-14"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1054771952"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "HA863"
+                },
+                {
+                    "d": "2206"
+                },
+                {
+                    "e": "DE-2206"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.emmendingen.de/de/stadtbibliothek/"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://wwwopac.rz-kiru.de/emmendingen/index.asp?DB=emmendingen"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Emmendingen StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtbibliothek Emmendingen"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Landvogtei 8"
+                },
+                {
+                    "b": "Emmendingen"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "79312"
+                },
+                {
+                    "f": "Baden-W\u00fcrttemberg"
+                },
+                {
+                    "i": "Di, Do und Fr 11.00-18.00, Mi 15.00-19.00, Sa 10.00-14.00"
+                },
+                {
+                    "k": "7.84753"
+                },
+                {
+                    "l": "48.12125"
+                },
+                {
+                    "n": "08316011"
+                },
+                {
+                    "o": "barrierefrei"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "7641"
+                },
+                {
+                    "f": "4 52-712"
+                },
+                {
+                    "k": "stadtbibliothek@emmendingen.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "34"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "07"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAW"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-2206",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-2206",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-2206",
+    "identifier": "DE-2206",
+    "name": "Stadtbibliothek Emmendingen",
+    "location": "Emmendingen",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAW"
+}

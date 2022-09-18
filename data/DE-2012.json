@@ -1,0 +1,215 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-2012.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:22-11-13"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:28-01-16"
+                ],
+                {
+                    "t": "16:25:26.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:22-11-13"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1044471441"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "LA971"
+                },
+                {
+                    "d": "2012"
+                },
+                {
+                    "e": "DE-2012"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.schwaebisch-gmuend.de/39-Stadtbibliothek.html"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://stb.schwaebisch-gmuend.de"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Schw\u00e4bisch Gm\u00fcnd StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtbibliothek Schw\u00e4bisch Gm\u00fcnd"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Spitalhof 1"
+                },
+                {
+                    "b": "Schw\u00e4bisch Gm\u00fcnd"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "73525"
+                },
+                {
+                    "f": "Baden-W\u00fcrttemberg"
+                },
+                {
+                    "i": "Di-Fr 10.00-18.00 und Sa 9.30-14.00"
+                },
+                {
+                    "k": "9.79681"
+                },
+                {
+                    "l": "48.80168"
+                },
+                {
+                    "n": "08136065"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "7171"
+                },
+                {
+                    "f": "6 03-4466"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "7171"
+                },
+                {
+                    "i": "6 03-4499"
+                },
+                {
+                    "k": "stb@schwaebisch-gmuend.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "07"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "SWB"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-2012",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-2012",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-2012",
+    "identifier": "DE-2012",
+    "name": "Stadtbibliothek Schw\u00e4bisch Gm\u00fcnd",
+    "location": "Schw\u00e4bisch Gm\u00fcnd",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAW"
+}

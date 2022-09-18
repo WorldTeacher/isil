@@ -1,0 +1,273 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-943.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:18-11-99"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:24-09-21"
+                ],
+                {
+                    "t": "09:53:58.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "00905281X"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "793000-8"
+                },
+                {
+                    "b": "BK043"
+                },
+                {
+                    "d": "943"
+                },
+                {
+                    "e": "DE-943"
+                },
+                {
+                    "f": "FHUL"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "https://studium.hs-ulm.de/de/org/IMZ/Seiten/Bibliothek.aspx"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://bsz.ibs-bw.de/opac32"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Ulm Hochschule"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Technische Hochschule Ulm, Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Prittwitzstr. 10"
+                },
+                {
+                    "b": "Ulm"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "89075"
+                },
+                {
+                    "f": "Baden-W\u00fcrttemberg"
+                },
+                {
+                    "i": "Mo-Do 8.00-18.00, Fr 8.00-14.00"
+                },
+                {
+                    "k": "9.99762"
+                },
+                {
+                    "l": "48.40847"
+                },
+                {
+                    "n": "08421000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Ulm/Donau"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "89028"
+                },
+                {
+                    "f": "Baden-W\u00fcrttemberg"
+                },
+                {
+                    "g": "38 60"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "731"
+                },
+                {
+                    "f": "50-28113"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "731"
+                },
+                {
+                    "i": "50-28270"
+                },
+                {
+                    "k": "bibliothek@hs-ulm.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0070"
+                },
+                {
+                    "d": "SWB"
+                },
+                {
+                    "f": "70"
+                },
+                {
+                    "g": "02"
+                },
+                {
+                    "h": "07"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Ingenieurwissenschaften"
+                },
+                {
+                    "a": "Informatik"
+                },
+                {
+                    "a": "Mediendesign"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "SWB"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035Q": [
+            [
+                {
+                    "a": "j"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-943",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-943",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-943",
+    "identifier": "DE-943",
+    "name": "Technische Hochschule Ulm, Bibliothek",
+    "location": "Ulm",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAW"
+}

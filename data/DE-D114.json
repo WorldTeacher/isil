@@ -1,0 +1,242 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-D114.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:20-11-15"
+                ],
+                {
+                    "t": "10:16:06.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020590067"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "MC754"
+                },
+                {
+                    "d": "D 114"
+                },
+                {
+                    "e": "DE-D114"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.bibo-dresden.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://www.bibo-dresden.de/1/1_04_00.htm"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Dresden StB/MB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "St\u00e4dtische Bibliotheken Dresden, Musikbibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Freiberger Str. 33"
+                },
+                {
+                    "b": "Dresden"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "01067"
+                },
+                {
+                    "f": "Sachsen"
+                },
+                {
+                    "i": "Mo-Fr 11.00-19.00, Sa 10.00-14.00"
+                },
+                {
+                    "k": "13.72160"
+                },
+                {
+                    "l": "51.04935"
+                },
+                {
+                    "n": "14612000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Dresden"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "01008"
+                },
+                {
+                    "f": "Sachsen"
+                },
+                {
+                    "g": "12 07 37"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "351"
+                },
+                {
+                    "f": "8 64 82 55"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "351"
+                },
+                {
+                    "i": "8 64 81 02"
+                },
+                {
+                    "k": "mail@bibo-dresden.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "36"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "07"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Musik"
+                },
+                {
+                    "a": "Stadtbibliothek"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "SAX"
+                },
+                {
+                    "c": "SWB"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-D114",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-D114",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-D114",
+    "identifier": "DE-D114",
+    "name": "St\u00e4dtische Bibliotheken Dresden, Musikbibliothek",
+    "location": "Dresden",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "SAX"
+}

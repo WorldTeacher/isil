@@ -1,0 +1,225 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-1421.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:14-11-07"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:01-10-19"
+                ],
+                {
+                    "t": "12:29:57.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:14-11-07"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "986394505"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "HQ426"
+                },
+                {
+                    "d": "1421"
+                },
+                {
+                    "e": "DE-1421"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.bibliothek.ismaning.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://88.79.173.27:6567/web-opac/app/pages/webopac/index.aspx"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Ismaning GB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Gemeindebibliothek Ismaning"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "M\u00fchlenstr. 17"
+                },
+                {
+                    "b": "Ismaning"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "85737"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "i": "Mo, Mi-Do 14.00-18.00, Di 14.00-20.00, Fr 10.00-18.00, Sa 10.00-13.00"
+                },
+                {
+                    "k": "11.67726"
+                },
+                {
+                    "l": "48.22233"
+                },
+                {
+                    "n": "09184130"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "89"
+                },
+                {
+                    "f": "96 20 92 41"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "89"
+                },
+                {
+                    "i": "96 20 92 43"
+                },
+                {
+                    "k": "bibliothek@ismaning.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "07"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAY"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "BVB"
+                },
+                {
+                    "e": "n"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "bibliothek@ismaning.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-1421",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-1421",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-1421",
+    "identifier": "DE-1421",
+    "name": "Gemeindebibliothek Ismaning",
+    "location": "Ismaning",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAY"
+}

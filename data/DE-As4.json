@@ -1,0 +1,215 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-As4.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:27-09-17"
+                ],
+                {
+                    "t": "12:46:06.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "02058864X"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "WA790"
+                },
+                {
+                    "d": "As 4"
+                },
+                {
+                    "e": "DE-As4"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.salzlandkreis.de/bildungkultur/kreisbibliothek/"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Aschersleben KrsB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Kreisbibliothek Aschersleben"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Breite Str. 22"
+                },
+                {
+                    "b": "Aschersleben"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "06449"
+                },
+                {
+                    "f": "Sachsen-Anhalt"
+                },
+                {
+                    "i": "Mo 14.00-17.00, Di und Do 9.30-12.00 und 14.00-17.30, Mi 13.00-16.00, Fr-Sa 9.30-12.00"
+                },
+                {
+                    "k": "11.45842"
+                },
+                {
+                    "l": "51.75364"
+                },
+                {
+                    "n": "15089015"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Aschersleben"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "06431"
+                },
+                {
+                    "f": "Sachsen-Anhalt"
+                },
+                {
+                    "g": "17 53"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "3473"
+                },
+                {
+                    "f": "34 87"
+                },
+                {
+                    "k": "bibliothek@kreis-slk.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "03"
+                },
+                {
+                    "h": "07"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "SAA"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "e": "l"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-As4",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-As4",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-As4",
+    "identifier": "DE-As4",
+    "name": "Kreisbibliothek Aschersleben",
+    "location": "Aschersleben",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "SAA"
+}

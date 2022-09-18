@@ -1,0 +1,289 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-69.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:18-11-99"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9042:31-01-20"
+                ],
+                {
+                    "t": "11:15:59.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:27-05-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "009013601"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "545000-7"
+                },
+                {
+                    "b": "AJ069"
+                },
+                {
+                    "d": "69"
+                },
+                {
+                    "e": "DE-69"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.stb.koblenz.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://opac.stb.koblenz.de"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Koblenz StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtbibliothek Koblenz"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Zentralpl. 1"
+                },
+                {
+                    "b": "Koblenz"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "56068"
+                },
+                {
+                    "f": "Rheinland-Pfalz"
+                },
+                {
+                    "i": "Mo-Mi und Fr 10.00-18.00, Do 10.00-19.00, Sa 10.00-15.00"
+                },
+                {
+                    "k": "7.59619"
+                },
+                {
+                    "l": "50.35885"
+                },
+                {
+                    "n": "07111000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Koblenz"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "56014"
+                },
+                {
+                    "f": "Rheinland-Pfalz"
+                },
+                {
+                    "g": "20 14 50"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "261"
+                },
+                {
+                    "f": "1 29-2626"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "261"
+                },
+                {
+                    "i": "1 29-2600"
+                },
+                {
+                    "k": "stb@stadt.koblenz.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0098"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "08"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Mittelrhein <Landeskunde>"
+                },
+                {
+                    "a": "Historischer Altbestand"
+                },
+                {
+                    "a": "Nachl\u00e4sse von Edmund Dondelinger u. Alexander Baldus"
+                },
+                {
+                    "a": "Teilnachl\u00e4sse von Dr. Fritz Michel, Fritz von Unruh und Hanns Maria Lux"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "d": "Kalliope"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "b"
+                },
+                {
+                    "d": "stb@stadt.koblenz.de"
+                }
+            ],
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "stb@stadt.koblenz.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "stb@stadt.koblenz.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-69",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-69",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-69",
+    "identifier": "DE-69",
+    "name": "Stadtbibliothek Koblenz",
+    "location": "Koblenz",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NRW"
+}

@@ -1,0 +1,274 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-95.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:18-11-99"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:19-04-21"
+                ],
+                {
+                    "t": "11:36:54.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "009003355"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "305100-6"
+                },
+                {
+                    "b": "AA095"
+                },
+                {
+                    "d": "95"
+                },
+                {
+                    "e": "DE-95"
+                },
+                {
+                    "f": "TIHO"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "https://www.tiho-hannover.de/universitaet/bibliothek"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://opac.tib.uni-hannover.de/DB=5/LNG=DU/"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Hannover TierHS"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stiftung Tier\u00e4rztliche Hochschule Hannover, Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "B\u00fcnteweg 2"
+                },
+                {
+                    "b": "Hannover"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "30559"
+                },
+                {
+                    "f": "Niedersachsen"
+                },
+                {
+                    "h": "Haus 262"
+                },
+                {
+                    "k": "9.79759"
+                },
+                {
+                    "l": "52.35457"
+                },
+                {
+                    "n": "03241001"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Hannover"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "30545"
+                },
+                {
+                    "f": "Niedersachsen"
+                },
+                {
+                    "g": "71 11 80"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "511"
+                },
+                {
+                    "f": "9 53-7110 und -7100"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "511"
+                },
+                {
+                    "i": "9 53-7119 und -7118 (Fernleihe)"
+                },
+                {
+                    "k": "biblio@tiho-hannover.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0058"
+                },
+                {
+                    "e": "GBV"
+                },
+                {
+                    "f": "70"
+                },
+                {
+                    "g": "07"
+                },
+                {
+                    "h": "08"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035H": [
+            [
+                {
+                    "a": "SSG 22 / Veterin\u00e4rmedizin, Allgemeine Parasitologie (bis 13.04.2016)"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NIE"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "GBV"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035K": [
+            [
+                {
+                    "a": "S"
+                }
+            ]
+        ],
+        "035O": [
+            [
+                {
+                    "a": "FZL DE-622"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-95",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-95",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-95",
+    "identifier": "DE-95",
+    "name": "Stiftung Tier\u00e4rztliche Hochschule Hannover, Bibliothek",
+    "location": "Hannover",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NIE"
+}

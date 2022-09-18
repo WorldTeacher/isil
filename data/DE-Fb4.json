@@ -1,0 +1,214 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Fb4.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:20-10-16"
+                ],
+                {
+                    "t": "12:39:12.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020591233"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "EZ986"
+                },
+                {
+                    "d": "Fb 4"
+                },
+                {
+                    "e": "DE-Fb4"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.gfe.com/"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Freiberg FNE"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "FNE Forschungsinstitut f\u00fcr Nichteisen-Metalle GmbH, Wissenschaftliche Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Lessingstr. 41"
+                },
+                {
+                    "b": "Freiberg/Sachsen"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "09599"
+                },
+                {
+                    "f": "Sachsen"
+                },
+                {
+                    "i": "nicht \u00f6ffentlich zug\u00e4nglich"
+                },
+                {
+                    "k": "13.33302"
+                },
+                {
+                    "l": "50.91848"
+                },
+                {
+                    "n": "14522180"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "3731"
+                },
+                {
+                    "f": "3 75-283"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "3731"
+                },
+                {
+                    "i": "3 75-209"
+                },
+                {
+                    "k": "fne@gfe.com"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "08"
+                },
+                {
+                    "h": "07"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Analytische Chemie"
+                },
+                {
+                    "a": "Nichteisenmetall"
+                },
+                {
+                    "a": "Metallkunde"
+                },
+                {
+                    "a": "Oberfl\u00e4chentechnik"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "SAX"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Fb4",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Fb4",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Fb4",
+    "identifier": "DE-Fb4",
+    "name": "FNE Forschungsinstitut f\u00fcr Nichteisen-Metalle GmbH, Wissenschaftliche Bibliothek",
+    "location": "Freiberg/Sachsen",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "SAX"
+}

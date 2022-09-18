@@ -1,0 +1,233 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-1323.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-12-06"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:28-11-18"
+                ],
+                {
+                    "t": "16:30:13.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:11-12-06"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "982298153"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "HT257"
+                },
+                {
+                    "d": "1323"
+                },
+                {
+                    "e": "DE-1323"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.kandel.de/sv_kandel/St%C3%A4dtische%20Einrichtungen/Stadtb%C3%BCcherei/"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://www.onleihe-rlp.de"
+                },
+                {
+                    "x": "Onleihe RLP"
+                },
+                {
+                    "z": "W"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Kandel StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtb\u00fccherei Kandel"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Hauptstr. 61"
+                },
+                {
+                    "b": "Kandel"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "76870"
+                },
+                {
+                    "f": "Rheinland-Pfalz"
+                },
+                {
+                    "i": "Mo, Mi und Fr 15.00-19.00, Di und Sa 9.00-13.00"
+                },
+                {
+                    "k": "8.19413"
+                },
+                {
+                    "l": "49.08185"
+                },
+                {
+                    "n": "07334013"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "7275"
+                },
+                {
+                    "f": "91 98 17"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "7275"
+                },
+                {
+                    "i": "91 98 26"
+                },
+                {
+                    "k": "buecherei@vg-kandel.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "06"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "Buecherei@vg-kandel.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "Buecherei@vg-kandel.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-1323",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-1323",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-1323",
+    "identifier": "DE-1323",
+    "name": "Stadtb\u00fccherei Kandel",
+    "location": "Kandel",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NRW"
+}

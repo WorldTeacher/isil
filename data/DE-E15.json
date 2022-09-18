@@ -1,0 +1,255 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-E15.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:30-06-09"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:28-05-19"
+                ],
+                {
+                    "t": "14:19:35.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:30-06-09"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "995032041"
+                ]
+            ]
+        ],
+        "007N": [
+            [
+                [
+                    "982588607"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "CW500"
+                },
+                {
+                    "d": "E 15"
+                },
+                {
+                    "e": "DE-E15"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "https://www.rvr.ruhr/service/bibliothek-online-shop/"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://rvr.bibdia-hosts.de/opax/de/index.S"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Essen Regionalverband Ruhr"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Regionalverband Ruhr, Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Kronprinzenstr. 6"
+                },
+                {
+                    "b": "Essen"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "45128"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "i": "Mo-Do 9.00-16.00, Fr 9.00-14.00"
+                },
+                {
+                    "k": "7.01660"
+                },
+                {
+                    "l": "51.44471"
+                },
+                {
+                    "n": "05113000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "201"
+                },
+                {
+                    "f": "20 69-206"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "201"
+                },
+                {
+                    "i": "20 69-369"
+                },
+                {
+                    "k": "bibliothek@rvr.ruhr"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "06"
+                },
+                {
+                    "h": "07"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Ruhrgebiet"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "b"
+                },
+                {
+                    "d": "bibliothek@rvr.ruhr"
+                }
+            ],
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "bibliothek@rvr.ruhr"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "bibliothek@rvr.ruhr"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-E15",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-E15",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-E15",
+    "identifier": "DE-E15",
+    "name": "Regionalverband Ruhr, Bibliothek",
+    "location": "Essen",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NRW"
+}

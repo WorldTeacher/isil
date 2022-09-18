@@ -1,0 +1,225 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-E10.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:13-07-22"
+                ],
+                {
+                    "t": "15:31:25.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020590660"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "438010-1"
+                },
+                {
+                    "b": "DA336"
+                },
+                {
+                    "d": "E 10"
+                },
+                {
+                    "e": "DE-E10"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "https://www.museum-folkwang.de/de/bibliothek"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://okeanos-www.hbz-nrw.de/F?func=file&file_name=login&local_base=folkw"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Essen Museum Folkwang"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Museum Folkwang, Museumsbibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Museumsplatz 1"
+                },
+                {
+                    "b": "Essen"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "45128"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "i": "Di-Fr 10.00-18.00 Uhr"
+                },
+                {
+                    "k": "7.00458"
+                },
+                {
+                    "l": "51.44264"
+                },
+                {
+                    "n": "05113000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "201"
+                },
+                {
+                    "f": "88 45 312"
+                },
+                {
+                    "k": "bibliothek@museum-folkwang.essen.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0126"
+                },
+                {
+                    "d": "HBZ"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "05"
+                },
+                {
+                    "h": "07"
+                },
+                {
+                    "i": "P"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Kunstgeschichte"
+                },
+                {
+                    "a": "Fotografie"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "c": "HBZ"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-E10",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-E10",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-E10",
+    "identifier": "DE-E10",
+    "name": "Museum Folkwang, Museumsbibliothek",
+    "location": "Essen",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NRW"
+}

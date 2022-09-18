@@ -1,0 +1,131 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-MUS-201010.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:06-01-12"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:12-10-20"
+                ],
+                {
+                    "t": "09:58:12.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:06-01-12"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1018564977"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "e": "DE-MUS-201010"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.museen-in-deutschland.de/singleview.php?muges=201010"
+                },
+                {
+                    "x": "Weitere Informationen"
+                },
+                {
+                    "z": "W"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Burgmuseum"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Burggasse 1"
+                },
+                {
+                    "b": "Wolfsegg"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "93195"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "k": "11.98330"
+                },
+                {
+                    "l": "49.10000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "m"
+                },
+                {
+                    "f": "86"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-MUS-201010",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-MUS-201010",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-MUS-201010",
+    "identifier": "DE-MUS-201010",
+    "name": "Burgmuseum",
+    "location": "Wolfsegg",
+    "type": [
+        "Organization",
+        "Museum"
+    ]
+}

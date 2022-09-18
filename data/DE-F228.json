@@ -1,0 +1,209 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-F228.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:09-03-10"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:11-05-22"
+                ],
+                {
+                    "t": "12:56:11.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:09-03-10"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "100072414X"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "101140-6"
+                },
+                {
+                    "d": "F 228"
+                },
+                {
+                    "e": "DE-F228"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.dra.de"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "DRA"
+                },
+                {
+                    "4": "a"
+                }
+            ],
+            [
+                {
+                    "a": "Frankfurt/M. Dt.Rundfunkarchiv"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stiftung Deutsches Rundfunkarchiv Frankfurt/Main"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Bertramstr. 8"
+                },
+                {
+                    "b": "Frankfurt/Main"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "60320"
+                },
+                {
+                    "f": "Hessen"
+                },
+                {
+                    "k": "8.67610"
+                },
+                {
+                    "l": "50.13439"
+                },
+                {
+                    "n": "06412000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "69"
+                },
+                {
+                    "f": "1 56 87-0"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "69"
+                },
+                {
+                    "i": "1 56 87-100"
+                },
+                {
+                    "k": "dra-frankfurt@dra.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0367"
+                },
+                {
+                    "f": "57"
+                },
+                {
+                    "g": "06"
+                },
+                {
+                    "h": "06"
+                },
+                {
+                    "i": "P"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "HES"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-F228",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-F228",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-F228",
+    "identifier": "DE-F228",
+    "name": "Stiftung Deutsches Rundfunkarchiv Frankfurt/Main",
+    "location": "Frankfurt/Main",
+    "type": [
+        "Organization",
+        "Archive"
+    ],
+    "addressRegion": "HES"
+}

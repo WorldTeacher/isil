@@ -1,0 +1,206 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-1192.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-05-04"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:28-01-16"
+                ],
+                {
+                    "t": "16:03:59.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "02597372X"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "HN016"
+                },
+                {
+                    "d": "1192"
+                },
+                {
+                    "e": "DE-1192"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.twistringen.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://www.twistringen.de/p/d2.asp?artikel_id=1084&liste=&tmpl_typ=Detail&lp=1992"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Twistringen StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtb\u00fccherei Twistringen"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Brunnenstr. 5a"
+                },
+                {
+                    "b": "Twistringen"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "27239"
+                },
+                {
+                    "f": "Niedersachsen"
+                },
+                {
+                    "i": "Mo 15.00-18.00, Di 10.00-12.00 und 15.00-18.00, Do 15.00-19.00, Fr 9.00-13.00"
+                },
+                {
+                    "k": "8.63562"
+                },
+                {
+                    "l": "52.79850"
+                },
+                {
+                    "n": "03251042"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "4243"
+                },
+                {
+                    "f": "41 31 46"
+                },
+                {
+                    "k": "buecherei@twistringen.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "06"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NIE"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "GBV"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-1192",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-1192",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-1192",
+    "identifier": "DE-1192",
+    "name": "Stadtb\u00fccherei Twistringen",
+    "location": "Twistringen",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NIE"
+}

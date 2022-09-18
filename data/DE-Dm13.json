@@ -1,0 +1,286 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Dm13.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:18-11-99"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:10-01-19"
+                ],
+                {
+                    "t": "09:40:45.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "009061940"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "464000-7"
+                },
+                {
+                    "b": "BQ004"
+                },
+                {
+                    "d": "Dm 13"
+                },
+                {
+                    "e": "DE-Dm13"
+                },
+                {
+                    "f": "FHBDO"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.fh-dortmund.de/bibliothek"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://www.fh-dortmund.de/rio"
+                },
+                {
+                    "z": "B"
+                }
+            ],
+            [
+                {
+                    "u": "https://www.fh-dortmund.de/bibmail"
+                },
+                {
+                    "z": "D"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Dortmund FH"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Fachhochschule Dortmund, Hochschulbibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Emil-Figge-Str. 44"
+                },
+                {
+                    "b": "Dortmund"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "44227"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "k": "7.41898"
+                },
+                {
+                    "l": "51.49360"
+                },
+                {
+                    "n": "05913000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Dortmund"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "44047"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "g": "10 50 18"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "231"
+                },
+                {
+                    "f": "91 12-6297"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "231"
+                },
+                {
+                    "i": "91 12-4922"
+                },
+                {
+                    "k": "bib@fh-dortmund.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0125"
+                },
+                {
+                    "d": "HBZ"
+                },
+                {
+                    "f": "70"
+                },
+                {
+                    "g": "07"
+                },
+                {
+                    "h": "08"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "HBZ"
+                },
+                {
+                    "e": "k"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "bib@fh-dortmund.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "bib@fh-dortmund.de"
+                }
+            ]
+        ],
+        "035O": [
+            [
+                {
+                    "a": "ISIL DE-290; FZL DE-621"
+                },
+                {
+                    "b": "CONTAINER"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Dm13",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Dm13",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Dm13",
+    "identifier": "DE-Dm13",
+    "name": "Fachhochschule Dortmund, Hochschulbibliothek",
+    "location": "Dortmund",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NRW"
+}

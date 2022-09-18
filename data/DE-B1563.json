@@ -1,0 +1,254 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-B1563.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:03-05-04"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:12-01-18"
+                ],
+                {
+                    "t": "14:30:30.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:27-05-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "025933310"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "181563-5"
+                },
+                {
+                    "d": "B 1563"
+                },
+                {
+                    "e": "DE-B1563"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.polnischekultur.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://szukamksi\u0105\u017cki.pl/SzukamKsiazki/katalog/index.html?selectedBib=523000960"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Instytut Polski w Berlinie"
+                },
+                {
+                    "4": "a"
+                }
+            ],
+            [
+                {
+                    "a": "Berlin Poln. Inst."
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Polnisches Institut Berlin, Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Burgstr. 27"
+                },
+                {
+                    "b": "Berlin"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "10178"
+                },
+                {
+                    "f": "Berlin"
+                },
+                {
+                    "i": "Di und Fr 12.00-16.00, Do 14.00-18.00"
+                },
+                {
+                    "k": "13.40081"
+                },
+                {
+                    "l": "52.52156"
+                },
+                {
+                    "n": "11000000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "30"
+                },
+                {
+                    "f": "24 75 81-26"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "30"
+                },
+                {
+                    "i": "24 75 81-30"
+                },
+                {
+                    "k": "bibliothek@polnischekultur.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0102"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "13"
+                },
+                {
+                    "h": "07"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Polonistik"
+                },
+                {
+                    "a": "Polnische Literatur"
+                },
+                {
+                    "a": "Deutsch-Polnische Beziehungen"
+                },
+                {
+                    "a": "Polen <Geschichte>"
+                },
+                {
+                    "a": "Polen <Kultur>"
+                },
+                {
+                    "a": "Polen <Landeskunde>"
+                },
+                {
+                    "a": "Polen <Kunst>"
+                },
+                {
+                    "a": "Polnisch als Fremdsprache"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BER"
+                },
+                {
+                    "c": "KOBV"
+                },
+                {
+                    "d": "V\u00d6E"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-B1563",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-B1563",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-B1563",
+    "identifier": "DE-B1563",
+    "name": "Polnisches Institut Berlin, Bibliothek",
+    "location": "Berlin",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BER"
+}

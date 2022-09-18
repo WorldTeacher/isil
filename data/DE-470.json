@@ -1,0 +1,271 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-470.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:11-04-22"
+                ],
+                {
+                    "t": "11:02:21.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020584350"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "AF470"
+                },
+                {
+                    "d": "470"
+                },
+                {
+                    "e": "DE-470"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.stadtbuecherei-gl.de"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Bergisch Gladbach StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtb\u00fccherei Bergisch Gladbach"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Hauptstr. 250"
+                },
+                {
+                    "b": "Bergisch Gladbach"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "51465"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "i": "Mo, Di, Do, Fr. 12.00-19.00, Mi 09.00-13.00, Sa 10.00-13.00"
+                },
+                {
+                    "k": "7.14222"
+                },
+                {
+                    "l": "50.99243"
+                },
+                {
+                    "n": "05378004"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "2202"
+                },
+                {
+                    "f": "14 22 58"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "2202"
+                },
+                {
+                    "i": "14 22 70"
+                },
+                {
+                    "k": "info@stadtbuecherei-gl.de"
+                }
+            ],
+            [
+                {
+                    "a": "W"
+                },
+                {
+                    "b": "Fernleihe"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "2202"
+                },
+                {
+                    "f": "14 22 70"
+                },
+                {
+                    "k": "fernleihe@stadtbuecherei-gl.de"
+                }
+            ]
+        ],
+        "035D": [
+            [
+                {
+                    "a": "429"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "08"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "HBZ"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "a"
+                },
+                {
+                    "d": "fernleihe@stadtbuecherei-gl.de"
+                }
+            ],
+            [
+                {
+                    "a": "b"
+                },
+                {
+                    "d": "fernleihe@stadtbuecherei-gl.de"
+                }
+            ],
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "fernleihe@stadtbuecherei-gl.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "fernleihe@stadtbuecherei-gl.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-470",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-470",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-470",
+    "identifier": "DE-470",
+    "name": "Stadtb\u00fccherei Bergisch Gladbach",
+    "location": "Bergisch Gladbach",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NRW"
+}

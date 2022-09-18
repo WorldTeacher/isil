@@ -1,0 +1,250 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-2488.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-04-17"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:28-02-18"
+                ],
+                {
+                    "t": "15:12:02.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:11-04-17"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1129719936"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "d": "2488"
+                },
+                {
+                    "e": "DE-2488"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "LVR-Klinik K\u00f6ln, Akademisches Lehrkrankenhaus der Universit\u00e4t zu K\u00f6ln - Bibliothek"
+                },
+                {
+                    "4": "a"
+                }
+            ],
+            [
+                {
+                    "a": "K\u00f6ln LVR-Klinik"
+                },
+                {
+                    "4": "c"
+                }
+            ],
+            [
+                {
+                    "a": "Cologne LVR-Clinic - Library"
+                },
+                {
+                    "4": "d"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Landschaftsverband Rheinland, Bibliothek der LVR-Klinik K\u00f6ln"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Wilhelm-Griesinger-Str. 23"
+                },
+                {
+                    "b": "K\u00f6ln"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "51109"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "h": "im Sozialzentrum der Klinik"
+                },
+                {
+                    "i": "Mo-Fr 12.00-18.00, Sa 10.00-14.00"
+                },
+                {
+                    "j": "nicht \u00f6ffentlich zug\u00e4nglich; an offiziellen Feiertagen in Nordrhein-Westfalen geschlossen"
+                },
+                {
+                    "k": "7.05342"
+                },
+                {
+                    "l": "50.93506"
+                },
+                {
+                    "n": "05315000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "221"
+                },
+                {
+                    "f": "89 93-605"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "221"
+                },
+                {
+                    "i": "82 84-3174"
+                },
+                {
+                    "k": "klinikbibliothek-koeln@lvr.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "07"
+                },
+                {
+                    "h": "06"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Psychiatrie und Psychotherapie"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "c": "GBV"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "b"
+                },
+                {
+                    "d": "klinikbibliothek-koeln@lvr.de"
+                }
+            ],
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "klinikbibliothek-koeln@lvr.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "klinikbibliothek-koeln@lvr.de"
+                }
+            ]
+        ],
+        "047A": [
+            [
+                {
+                    "a": "Der Bestand der Klinikbibliothek teilt sich in zwei Bereiche auf: Fachbibliothek und Patientenbibliothek. Der Zugang zu den Best\u00e4nden ist auf Mitarbeiter der Klinik und/oder Patienten der Klinik beschr\u00e4nkt. Aktive Fernleihe kann im Einzelfall nur dann erfolgen, wenn der betriebliche Ablauf bzw. die Versorgung der Patienten mit behandlungsrelevanten Informationen gew\u00e4hrleistet ist"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-2488",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-2488",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-2488",
+    "identifier": "DE-2488",
+    "name": "Landschaftsverband Rheinland, Bibliothek der LVR-Klinik K\u00f6ln",
+    "location": "K\u00f6ln",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NRW"
+}

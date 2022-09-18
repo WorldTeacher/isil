@@ -1,0 +1,201 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-1600.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:01-02-08"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:19-02-16"
+                ],
+                {
+                    "t": "07:13:57.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:01-02-08"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "987400142"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "HZ334"
+                },
+                {
+                    "d": "1600"
+                },
+                {
+                    "e": "DE-1600"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Sch\u00f6llkrippen GB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Gemeindeb\u00fccherei Sch\u00f6llkrippen"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Lindenstr. 3"
+                },
+                {
+                    "b": "Sch\u00f6llkrippen"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "63825"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "k": "9.24602"
+                },
+                {
+                    "l": "50.08581"
+                },
+                {
+                    "n": "09671152"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "6024"
+                },
+                {
+                    "f": "81 80"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "6024"
+                },
+                {
+                    "i": "63 28 74"
+                },
+                {
+                    "k": "kontakt@buecherei-schoellkrippen.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "06"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAY"
+                },
+                {
+                    "c": "BVB"
+                },
+                {
+                    "e": "n"
+                },
+                {
+                    "g": "R"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "kontakt@buecherei-schoellkrippen.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-1600",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-1600",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-1600",
+    "identifier": "DE-1600",
+    "name": "Gemeindeb\u00fccherei Sch\u00f6llkrippen",
+    "location": "Sch\u00f6llkrippen",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAY"
+}

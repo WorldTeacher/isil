@@ -1,0 +1,239 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-H99.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:19-05-22"
+                ],
+                {
+                    "t": "13:24:33.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020591926"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "DB328"
+                },
+                {
+                    "d": "H 99"
+                },
+                {
+                    "e": "DE-H99"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "https://nkb.nordkirche.de/"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://vzopc4.gbv.de:8080/DB=26.1/LNG=DU/"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Hamburg BMZ"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Bibliotheks- und Medienzentrum der Nordkirche"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "K\u00f6nigstr. 54"
+                },
+                {
+                    "b": "Hamburg"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "22767"
+                },
+                {
+                    "f": "Hamburg"
+                },
+                {
+                    "i": "Mo, Di, Fr 10.00-15.00, Do 10.00-18.00"
+                },
+                {
+                    "k": "9.93688"
+                },
+                {
+                    "l": "53.54798"
+                },
+                {
+                    "n": "02000000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "40"
+                },
+                {
+                    "f": "3 06 20-1400"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "40"
+                },
+                {
+                    "i": "3 06 20-1409"
+                },
+                {
+                    "k": "info@nkb.nordkirche.de"
+                }
+            ],
+            [
+                {
+                    "a": "W"
+                },
+                {
+                    "b": "Weitere E-Mail-Adresse"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "k": "hamburg@bibliothek.nordkirche.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "09"
+                },
+                {
+                    "h": "09"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Predigten, Homiletik"
+                },
+                {
+                    "a": "Gesangb\u00fccher, Hymnologie"
+                },
+                {
+                    "a": "Kirchengeschichte <Hamburg, Schleswig-Holstein, n\u00f6rdliches Niedersachsen, Mecklenburg-Vorpommern>"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "HAM"
+                },
+                {
+                    "c": "GBV"
+                },
+                {
+                    "d": "Kalliope"
+                },
+                {
+                    "e": "l"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-H99",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-H99",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-H99",
+    "identifier": "DE-H99",
+    "name": "Bibliotheks- und Medienzentrum der Nordkirche",
+    "location": "Hamburg",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "HAM"
+}

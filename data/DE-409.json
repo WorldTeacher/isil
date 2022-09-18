@@ -1,0 +1,261 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-409.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:30-08-21"
+                ],
+                {
+                    "t": "10:02:10.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020583923"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "AJ409"
+                },
+                {
+                    "d": "409"
+                },
+                {
+                    "e": "DE-409"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.dinslaken.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://sb-dinslaken.lmscloud.net/"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Dinslaken StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtbibliothek Dinslaken"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Friedrich-Ebert-Str. 84"
+                },
+                {
+                    "b": "Dinslaken"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "46535"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "i": "Di-Fr 10.00-18.00, Sa 10.00-13.00"
+                },
+                {
+                    "k": "6.73506"
+                },
+                {
+                    "l": "51.56177"
+                },
+                {
+                    "n": "05170008"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Dinslaken"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "46525"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "g": "10 05 40"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "2064"
+                },
+                {
+                    "f": "66-286"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "2064"
+                },
+                {
+                    "i": "66-288"
+                },
+                {
+                    "k": "fernleihe@dinslaken.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "08"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "b"
+                },
+                {
+                    "d": "fernleihe@dinslaken.de"
+                }
+            ],
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "fernleihe@dinslaken.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "fernleihe@dinslaken.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-409",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-409",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-409",
+    "identifier": "DE-409",
+    "name": "Stadtbibliothek Dinslaken",
+    "location": "Dinslaken",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NRW"
+}

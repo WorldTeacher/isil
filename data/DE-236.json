@@ -1,0 +1,268 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-236.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:28-11-18"
+                ],
+                {
+                    "t": "16:39:12.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020583346"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "AL236"
+                },
+                {
+                    "d": "236"
+                },
+                {
+                    "e": "DE-236"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.iserlohn.de/kultur/stadtbuecherei/"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://opac.iserlohn.de/"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Iserlohn StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtb\u00fccherei Iserlohn"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Alter Rathausplatz 1"
+                },
+                {
+                    "b": "Iserlohn"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "58636"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "i": "Mo-Mi und Fr 11.00-18.00, Sa 11.00-14.00"
+                },
+                {
+                    "k": "7.69721"
+                },
+                {
+                    "l": "51.37429"
+                },
+                {
+                    "n": "05962024"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "2371"
+                },
+                {
+                    "f": "2 17-1925"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "2371"
+                },
+                {
+                    "i": "2 17-2985"
+                },
+                {
+                    "k": "stadtbuecherei@iserlohn.de"
+                }
+            ],
+            [
+                {
+                    "a": "W"
+                },
+                {
+                    "b": "Fernleihe"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "2371"
+                },
+                {
+                    "f": "2 17-1927"
+                },
+                {
+                    "k": "fernleihe@iserlohn.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "07"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035K": [
+            [
+                {
+                    "b": "A"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "b"
+                },
+                {
+                    "d": "fernleihe@iserlohn.de"
+                }
+            ],
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "fernleihe@iserlohn.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "fernleihe@iserlohn.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-236",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-236",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-236",
+    "identifier": "DE-236",
+    "name": "Stadtb\u00fccherei Iserlohn",
+    "location": "Iserlohn",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NRW"
+}

@@ -1,0 +1,283 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-174.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:18-11-99"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:30-11-18"
+                ],
+                {
+                    "t": "15:37:37.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "009008624"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "467010-3"
+                },
+                {
+                    "b": "AA174"
+                },
+                {
+                    "d": "174"
+                },
+                {
+                    "e": "DE-174"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.stadtbibliothek-ge.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://katalog.stadtbibliothek-ge.de/opac/de/user_frm.html.S"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Gelsenkirchen StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtbibliothek Gelsenkirchen"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Ebertstr. 19"
+                },
+                {
+                    "b": "Gelsenkirchen"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "45875"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "i": "Mo-Fr 11.00-20.00, Sa 10.00-13.00"
+                },
+                {
+                    "k": "7.09175"
+                },
+                {
+                    "l": "51.51255"
+                },
+                {
+                    "n": "05513000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Gelsenkirchen"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "45875"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "209"
+                },
+                {
+                    "f": "1 69-2510, -2807 (Fernleihe) und -2378 (Auskunft)"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "209"
+                },
+                {
+                    "i": "1 69-3027"
+                },
+                {
+                    "k": "fernleihe@gelsenkirchen.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0126"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "09"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Sport"
+                },
+                {
+                    "a": "Hobby"
+                },
+                {
+                    "a": "Freizeit"
+                },
+                {
+                    "a": "Fu\u00dfball"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "b"
+                },
+                {
+                    "d": "fernleihe@gelsenkirchen.de"
+                }
+            ],
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "fernleihe@gelsenkirchen.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "fernleihe@gelsenkirchen.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-174",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-174",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-174",
+    "identifier": "DE-174",
+    "name": "Stadtbibliothek Gelsenkirchen",
+    "location": "Gelsenkirchen",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NRW"
+}

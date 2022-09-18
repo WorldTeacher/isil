@@ -1,0 +1,131 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-MUS-190910.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:06-01-12"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:12-10-20"
+                ],
+                {
+                    "t": "10:00:04.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:06-01-12"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1018564209"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "e": "DE-MUS-190910"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.museen-in-deutschland.de/singleview.php?muges=190910"
+                },
+                {
+                    "x": "Weitere Informationen"
+                },
+                {
+                    "z": "W"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Freilichtmuseum Finsterau"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Museumsstra\u00dfe 51"
+                },
+                {
+                    "b": "Finsterau"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "94151"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "k": "13.56286"
+                },
+                {
+                    "l": "48.93433"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "m"
+                },
+                {
+                    "f": "86"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-MUS-190910",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-MUS-190910",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-MUS-190910",
+    "identifier": "DE-MUS-190910",
+    "name": "Freilichtmuseum Finsterau",
+    "location": "Finsterau",
+    "type": [
+        "Organization",
+        "Museum"
+    ]
+}

@@ -1,0 +1,232 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-145.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:07-04-16"
+                ],
+                {
+                    "t": "13:36:18.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020582943"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "AL145"
+                },
+                {
+                    "d": "145"
+                },
+                {
+                    "e": "DE-145"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.kempten.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://bibliothek.kempten.de"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Kempten StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtbibliothek Kempten"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Orangerieweg 20/22"
+                },
+                {
+                    "b": "Kempten"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "87439"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "i": "Di-Fr 10.00-18.00, Sa 10.00-13.00"
+                },
+                {
+                    "k": "10.31334"
+                },
+                {
+                    "l": "47.73027"
+                },
+                {
+                    "n": "09763000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "831"
+                },
+                {
+                    "f": "25 25-731"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "831"
+                },
+                {
+                    "i": "25 25-732"
+                },
+                {
+                    "k": "stadtbibliothek@kempten.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "08"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Allg\u00e4u-Literatur"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAY"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "BVB"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "stadtbibliothek@kempten.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-145",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-145",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-145",
+    "identifier": "DE-145",
+    "name": "Stadtbibliothek Kempten",
+    "location": "Kempten",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAY"
+}

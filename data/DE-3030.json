@@ -1,0 +1,185 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-3030.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-05-21"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:18-06-21"
+                ],
+                {
+                    "t": "14:10:44.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:11-05-21"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1233328131"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "WM789"
+                },
+                {
+                    "d": "3030"
+                },
+                {
+                    "e": "DE-3030"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "https://www.radeburg.de/leben-in-radeburg/oeffentliche-einrichtungen/bibliothek.html"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://radeburg.bbopac.de/index"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Radeburg StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtbibliothek Radeburg"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "b": "Radeburg"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "01471"
+                },
+                {
+                    "f": "Sachsen"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "35208"
+                },
+                {
+                    "f": "25 74"
+                },
+                {
+                    "k": "radeburg@bibliotheksmail.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "SAX"
+                },
+                {
+                    "d": "\u00d6VK"
+                },
+                {
+                    "e": "n"
+                },
+                {
+                    "f": "x"
+                },
+                {
+                    "g": "R"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-3030",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-3030",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-3030",
+    "identifier": "DE-3030",
+    "name": "Stadtbibliothek Radeburg",
+    "location": "Radeburg",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "SAX"
+}

@@ -1,0 +1,223 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-536.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:11-12-18"
+                ],
+                {
+                    "t": "15:49:24.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020584857"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "MB427"
+                },
+                {
+                    "d": "536"
+                },
+                {
+                    "e": "DE-536"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.potsdam-mittelmark.de"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Kreisbibliothek, Kreisbildstelle"
+                },
+                {
+                    "4": "a"
+                }
+            ],
+            [
+                {
+                    "a": "Kreisbibliothek, Potsdam-Mittelmark"
+                },
+                {
+                    "4": "a"
+                }
+            ],
+            [
+                {
+                    "a": "Kloster Lehnin MedienZ"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Medienzentrum Potsdam-Mittelmark Kloster Lehnin"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Goethestr. 13"
+                },
+                {
+                    "b": "Kloster Lehnin"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "14797"
+                },
+                {
+                    "f": "Brandenburg"
+                },
+                {
+                    "i": "nach Voranmeldung"
+                },
+                {
+                    "k": "12.74512"
+                },
+                {
+                    "l": "52.31767"
+                },
+                {
+                    "n": "12069306"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "3382"
+                },
+                {
+                    "f": "73 20 26 und 73 20 29"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "3382"
+                },
+                {
+                    "i": "73 20 11"
+                },
+                {
+                    "k": "medienzentrum@potsdam-mittelmark.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "03"
+                },
+                {
+                    "h": "08"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BER"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "KOBV"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-536",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-536",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-536",
+    "identifier": "DE-536",
+    "name": "Medienzentrum Potsdam-Mittelmark Kloster Lehnin",
+    "location": "Kloster Lehnin",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BER"
+}

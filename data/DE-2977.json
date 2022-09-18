@@ -1,0 +1,183 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-2977.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-03-21"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:11-03-21"
+                ],
+                {
+                    "t": "16:14:18.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:11-03-21"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1229149953"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "LB690"
+                },
+                {
+                    "d": "2977"
+                },
+                {
+                    "e": "DE-2977"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "https://www.fahrbuecherei7.de/"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Tarp KesFB 7"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Fahrb\u00fccherei 7 im Kreis Schleswig-Flensburg"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Boschstr. 9"
+                },
+                {
+                    "b": "Tarp"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "24963"
+                },
+                {
+                    "f": "Schleswig-Holstein"
+                },
+                {
+                    "k": "9.39844"
+                },
+                {
+                    "l": "54.67152"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "4638"
+                },
+                {
+                    "f": "210480"
+                },
+                {
+                    "k": "info@fahrbuecherei7.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "f": "39"
+                },
+                {
+                    "g": "06"
+                },
+                {
+                    "h": "06"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "HAM"
+                },
+                {
+                    "d": "BZSH"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-2977",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-2977",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-2977",
+    "identifier": "DE-2977",
+    "name": "Fahrb\u00fccherei 7 im Kreis Schleswig-Flensburg",
+    "location": "Tarp",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "HAM"
+}

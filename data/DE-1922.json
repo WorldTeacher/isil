@@ -1,0 +1,260 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-1922.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:21-12-12"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:19-05-21"
+                ],
+                {
+                    "t": "13:09:11.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:21-12-12"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1029268541"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "d": "1922"
+                },
+                {
+                    "e": "DE-1922"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "https://tagebucharchiv.de/"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "DTA"
+                },
+                {
+                    "4": "b"
+                }
+            ],
+            [
+                {
+                    "a": "Emmendingen Dt. Tagebucharchiv"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Deutsches Tagebucharchiv"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Marktplatz 1"
+                },
+                {
+                    "b": "Emmendingen"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "79312"
+                },
+                {
+                    "f": "Baden-W\u00fcrttemberg"
+                },
+                {
+                    "h": "Altes Rathaus 2. OG"
+                },
+                {
+                    "i": "Mo-Di und Mi 10.00-12.00 und 15.00-17.00, Do-Fr 10.00-12.00"
+                },
+                {
+                    "j": "F\u00fchrungen und Recherchen nach Vereinbarung"
+                },
+                {
+                    "k": "7.84978"
+                },
+                {
+                    "l": "48.12023"
+                },
+                {
+                    "n": "08316011"
+                },
+                {
+                    "o": "barrierefrei"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Emmendingen"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "79312"
+                },
+                {
+                    "f": "Baden-W\u00fcrttemberg"
+                },
+                {
+                    "g": "1268"
+                },
+                {
+                    "o": "barrierefrei"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "7641"
+                },
+                {
+                    "f": "57 46 59"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "7641"
+                },
+                {
+                    "i": "93 19 28"
+                },
+                {
+                    "k": "dta@tagebucharchiv.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "59"
+                },
+                {
+                    "g": "08"
+                },
+                {
+                    "h": "06"
+                },
+                {
+                    "i": "P"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "private Tageb\u00fccher"
+                },
+                {
+                    "a": "Erinnerungen"
+                },
+                {
+                    "a": "Briefwechsel"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAW"
+                },
+                {
+                    "c": "SWB"
+                },
+                {
+                    "d": "Kalliope"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-1922",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-1922",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-1922",
+    "identifier": "DE-1922",
+    "name": "Deutsches Tagebucharchiv",
+    "location": "Emmendingen",
+    "type": [
+        "Organization",
+        "Archive"
+    ],
+    "addressRegion": "BAW"
+}

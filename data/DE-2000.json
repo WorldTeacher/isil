@@ -1,0 +1,221 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-2000.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:18-11-13"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:17-02-16"
+                ],
+                {
+                    "t": "13:33:30.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:18-11-13"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1044269618"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "KQ255"
+                },
+                {
+                    "d": "2000"
+                },
+                {
+                    "e": "DE-2000"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.stabue-holzgerlingen.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://www.stabue-holzgerlingen.de/katalog/index.html"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Holzgerlingen StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtb\u00fccherei Holzgerlingen"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "B\u00f6blinger Str. 28"
+                },
+                {
+                    "b": "Holzgerlingen"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "71088"
+                },
+                {
+                    "f": "Baden-W\u00fcrttemberg"
+                },
+                {
+                    "h": "Rektor-Franke-Haus"
+                },
+                {
+                    "i": "Mo und Do-Fr 14.30-18.30, Di 10.00-12.00 und 14.30-17.30, Sa 10.00-13.00"
+                },
+                {
+                    "k": "9.01172"
+                },
+                {
+                    "l": "48.64123"
+                },
+                {
+                    "n": "08115024"
+                },
+                {
+                    "o": "barrierefrei"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "7031"
+                },
+                {
+                    "f": "6 80 85 50"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "7031"
+                },
+                {
+                    "i": "6 80 85 53"
+                },
+                {
+                    "k": "stadtbuecherei@holzgerlingen.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "06"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "SWB"
+                },
+                {
+                    "e": "a"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-2000",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-2000",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-2000",
+    "identifier": "DE-2000",
+    "name": "Stadtb\u00fccherei Holzgerlingen",
+    "location": "Holzgerlingen",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAW"
+}

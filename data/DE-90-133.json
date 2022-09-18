@@ -1,0 +1,200 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-90-133.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:18-11-99"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:22-02-21"
+                ],
+                {
+                    "t": "15:48:16.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "009021450"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "751133-4"
+                },
+                {
+                    "d": "90/133"
+                },
+                {
+                    "e": "DE-90-133"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Karlsruhe Elektrotechn.Inst."
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "KIT-Bibliothek, Bibliothek des Elektrotechnischen Instituts"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Engelbert-Arnold-Str. 5"
+                },
+                {
+                    "b": "Karlsruhe"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "76131"
+                },
+                {
+                    "f": "Baden-W\u00fcrttemberg"
+                },
+                {
+                    "h": "Geb. 11.10 / Raum Nr. 117"
+                },
+                {
+                    "k": "8.41257"
+                },
+                {
+                    "l": "49.01078"
+                },
+                {
+                    "n": "08212000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "721"
+                },
+                {
+                    "f": "6 08-43343"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "271"
+                },
+                {
+                    "i": "35 88 54"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "c": "0055"
+                },
+                {
+                    "d": "SWB"
+                },
+                {
+                    "f": "65"
+                },
+                {
+                    "g": "02"
+                },
+                {
+                    "h": "02"
+                },
+                {
+                    "i": "P"
+                },
+                {
+                    "k": "Ka 4"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAW"
+                },
+                {
+                    "c": "SWB"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-90-133",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-90-133",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-90-133",
+    "identifier": "DE-90-133",
+    "name": "KIT-Bibliothek, Bibliothek des Elektrotechnischen Instituts",
+    "location": "Karlsruhe",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAW"
+}

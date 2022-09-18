@@ -1,0 +1,201 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Hid1.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:15-03-10"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:11-05-22"
+                ],
+                {
+                    "t": "12:54:06.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:15-03-10"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1000849864"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "101121-2"
+                },
+                {
+                    "d": "Hid 1"
+                },
+                {
+                    "e": "DE-Hid1"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Hilden Stadtarchiv"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtarchiv Hilden"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Gerresheimer Stra\u00dfe 20a"
+                },
+                {
+                    "b": "Hilden"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "40721"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "i": "Di-Mi 8.00-13.30, Do 8.00-13.00 und 14.00-18.00, Fr 8.00-12.00"
+                },
+                {
+                    "k": "6.93083"
+                },
+                {
+                    "l": "51.17094"
+                },
+                {
+                    "n": "05158016"
+                },
+                {
+                    "o": "barrierefrei"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "2103"
+                },
+                {
+                    "f": "7 23 60"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "2103"
+                },
+                {
+                    "i": "7 23 56"
+                },
+                {
+                    "k": "archiv@hilden.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0367"
+                },
+                {
+                    "f": "52"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "i": "P"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Stadtgeschichte Hilden"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Hid1",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Hid1",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Hid1",
+    "identifier": "DE-Hid1",
+    "name": "Stadtarchiv Hilden",
+    "location": "Hilden",
+    "type": [
+        "Organization",
+        "Archive"
+    ],
+    "addressRegion": "NRW"
+}

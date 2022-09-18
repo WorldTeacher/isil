@@ -1,0 +1,238 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-425.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:28-11-18"
+                ],
+                {
+                    "t": "16:38:54.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:27-05-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020584059"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "AG425"
+                },
+                {
+                    "d": "425"
+                },
+                {
+                    "e": "DE-425"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "https://www.werne.de/de/leben-in-werne/bildung/stadtbuecherei.php"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://wwwopac.werne.de"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Werne StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtb\u00fccherei Werne"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Moormannpl. 12"
+                },
+                {
+                    "b": "Werne"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "59368"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "i": "Di und Do-Fr 10.00-12.00 und 14.00-18.00, Mi 14.00-18.00, Sa 10.00-12.00"
+                },
+                {
+                    "k": "7.63694"
+                },
+                {
+                    "l": "51.66366"
+                },
+                {
+                    "n": "05978040"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "2389"
+                },
+                {
+                    "f": "92 51 70 (Ausleihe) und 9 25 17 11 (Leitung)"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "2389"
+                },
+                {
+                    "i": "9 25 17 20"
+                },
+                {
+                    "k": "stadtbuecherei@werne.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "07"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "b"
+                },
+                {
+                    "d": "stadtbuecherei@werne.de"
+                }
+            ],
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "stadtbuecherei@werne.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "stadtbuecherei@werne.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-425",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-425",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-425",
+    "identifier": "DE-425",
+    "name": "Stadtb\u00fccherei Werne",
+    "location": "Werne",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NRW"
+}

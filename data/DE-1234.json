@@ -1,0 +1,206 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-1234.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:07-10-04"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:28-01-16"
+                ],
+                {
+                    "t": "16:04:23.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:27-05-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "026541041"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "GD810"
+                },
+                {
+                    "d": "1234"
+                },
+                {
+                    "e": "DE-1234"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.medienforum-bersenbrueck.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://medienforum.servebbs.org/index.asp?DB=web_biblio"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Bersenbr\u00fcck Medienforum"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Bibliothek im Medienforum Bersenbr\u00fcck"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Ravensbergstr. 15a"
+                },
+                {
+                    "b": "Bersenbr\u00fcck"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "49593"
+                },
+                {
+                    "f": "Niedersachsen"
+                },
+                {
+                    "i": "Mo und Fr 13.30-17.00, Di und Do 15.00-18.00, Mi 10.00-12.00 und 13.30-17.00"
+                },
+                {
+                    "k": "7.95650"
+                },
+                {
+                    "l": "52.54995"
+                },
+                {
+                    "n": "03459010"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "5439"
+                },
+                {
+                    "f": "6 07 59-401"
+                },
+                {
+                    "k": "bibliothek@medienforum-bersenbrueck.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "06"
+                },
+                {
+                    "h": "06"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NIE"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "GBV"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-1234",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-1234",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-1234",
+    "identifier": "DE-1234",
+    "name": "Bibliothek im Medienforum Bersenbr\u00fcck",
+    "location": "Bersenbr\u00fcck",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NIE"
+}

@@ -1,0 +1,278 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Bo1.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:23-04-21"
+                ],
+                {
+                    "t": "08:55:00.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020589379"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "538001-7"
+                },
+                {
+                    "b": "CT539"
+                },
+                {
+                    "d": "Bo 1"
+                },
+                {
+                    "e": "DE-Bo1"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "https://landesmuseum-bonn.lvr.de//de/forschung/bibliothek/bibliothek_1.html"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://vzlbs3.gbv.de/DB=15/"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Bonn LVR-LandesMuseum"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "LVR-LandesMuseum Bonn, Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Bachstr. 5-9"
+                },
+                {
+                    "b": "Bonn"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "53115"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "i": "Mo-Fr 8.00-16.00, Mi 8.00-18.00"
+                },
+                {
+                    "k": "7.09236"
+                },
+                {
+                    "l": "50.73236"
+                },
+                {
+                    "n": "05314000"
+                },
+                {
+                    "o": "barrierefrei"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "228"
+                },
+                {
+                    "f": "20 70-201"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "228"
+                },
+                {
+                    "i": "20 70-299"
+                },
+                {
+                    "k": "RLM.bibliothek@lvr.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0111"
+                },
+                {
+                    "e": "GBV"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "07"
+                },
+                {
+                    "h": "08"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Vor- und Fr\u00fchgeschichte"
+                },
+                {
+                    "a": "Provinzialr\u00f6mische Arch\u00e4ologie und Geschichte"
+                },
+                {
+                    "a": "Mittelalter"
+                },
+                {
+                    "a": "Arch\u00e4ologische Ausgrabungen"
+                },
+                {
+                    "a": "Arch\u00e4ologische Denkmalpflege"
+                },
+                {
+                    "a": "Rheinland <Kunst- und Kulturgeschichte>"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "GBV"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "b"
+                },
+                {
+                    "d": "RLM.bibliothek@lvr.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "RLM.bibliothek@lvr.de"
+                }
+            ],
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "RLM.bibliothek@lvr.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Bo1",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Bo1",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Bo1",
+    "identifier": "DE-Bo1",
+    "name": "LVR-LandesMuseum Bonn, Bibliothek",
+    "location": "Bonn",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NRW"
+}

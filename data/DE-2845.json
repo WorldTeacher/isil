@@ -1,0 +1,183 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-2845.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:07-01-20"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:13-01-20"
+                ],
+                {
+                    "t": "13:22:48.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:07-01-20"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1202482775"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "d": "2845"
+                },
+                {
+                    "e": "DE-2845"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "https://www.dhgs-hochschule.de/studienorte/berlin/"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Berlin HS Gesundheit Sport"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Deutsche Hochschule f\u00fcr Gesundheit und Sport - Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Vulkanstr. 1"
+                },
+                {
+                    "b": "Berlin"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "10367"
+                },
+                {
+                    "f": "Berlin"
+                },
+                {
+                    "i": "Mo-Fr 9.00-17.00"
+                },
+                {
+                    "k": "13.48565"
+                },
+                {
+                    "l": "52.52376"
+                },
+                {
+                    "n": "11000000"
+                },
+                {
+                    "o": "barrierefrei"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "k": "bibliothek@dhgs-hochschule.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "70"
+                },
+                {
+                    "g": "08"
+                },
+                {
+                    "h": "03"
+                },
+                {
+                    "i": "P"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BER"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-2845",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-2845",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-2845",
+    "identifier": "DE-2845",
+    "name": "Deutsche Hochschule f\u00fcr Gesundheit und Sport - Bibliothek",
+    "location": "Berlin",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BER"
+}

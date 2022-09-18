@@ -1,0 +1,253 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-F42.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:18-11-99"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:07-11-18"
+                ],
+                {
+                    "t": "17:55:56.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "009054243"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "608042-X"
+                },
+                {
+                    "b": "BK134"
+                },
+                {
+                    "d": "F 42"
+                },
+                {
+                    "e": "DE-F42"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.sankt-georgen.de/bibliothek/index.html"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://lbsopac.rz.uni-frankfurt.de/IMPLAND=Y/SRT=YOP/LNG=DU/DB=60/"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Frankfurt/M Theol.HS"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Philosophisch-Theologische Hochschule Sankt Georgen, Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Offenbacher Landstr. 224"
+                },
+                {
+                    "b": "Frankfurt/Main"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "60599"
+                },
+                {
+                    "f": "Hessen"
+                },
+                {
+                    "i": "Mo-Fr 8.30-20.00, Sa 10.00-18.00"
+                },
+                {
+                    "j": "w\u00e4hrend der vorlesungsfreien Zeit verk\u00fcrzte \u00d6ffnungszeiten"
+                },
+                {
+                    "k": "8.71281"
+                },
+                {
+                    "l": "50.09880"
+                },
+                {
+                    "n": "06412000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "69"
+                },
+                {
+                    "f": "60 61-257"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "69"
+                },
+                {
+                    "i": "60 61-332"
+                },
+                {
+                    "k": "bibliothek@sankt-georgen.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0036"
+                },
+                {
+                    "e": "HBV"
+                },
+                {
+                    "f": "70"
+                },
+                {
+                    "g": "10"
+                },
+                {
+                    "h": "09"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Theologie"
+                },
+                {
+                    "a": "Patrologie"
+                },
+                {
+                    "a": "Dogmengeschichte"
+                },
+                {
+                    "a": "Jesuitica"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "HES"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "HeBIS"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035K": [
+            [
+                {
+                    "b": "A"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-F42",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-F42",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-F42",
+    "identifier": "DE-F42",
+    "name": "Philosophisch-Theologische Hochschule Sankt Georgen, Bibliothek",
+    "location": "Frankfurt/Main",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "HES"
+}

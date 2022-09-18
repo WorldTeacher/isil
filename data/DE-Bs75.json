@@ -1,0 +1,261 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Bs75.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:18-11-99"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:28-05-21"
+                ],
+                {
+                    "t": "09:38:45.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "009004599"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "338075-0"
+                },
+                {
+                    "b": "CZ471"
+                },
+                {
+                    "d": "Bs 75"
+                },
+                {
+                    "e": "DE-Bs75"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "https://www.3landesmuseen-braunschweig.de/herzog-anton-ulrich-museum/das-museum/bibliothek"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://opac.lbs-braunschweig.gbv.de/DB=7.1/"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "HAUM"
+                },
+                {
+                    "4": "a"
+                }
+            ],
+            [
+                {
+                    "a": "Braunschweig HAUM"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Herzog Anton Ulrich-Museum, Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Museumstr. 1"
+                },
+                {
+                    "b": "Braunschweig"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "38100"
+                },
+                {
+                    "f": "Niedersachsen"
+                },
+                {
+                    "i": "Benutzung nach Absprache"
+                },
+                {
+                    "k": "10.53264"
+                },
+                {
+                    "l": "52.26361"
+                },
+                {
+                    "n": "03101000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "531"
+                },
+                {
+                    "f": "12 25-2417"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "531"
+                },
+                {
+                    "i": "12 25-2408"
+                },
+                {
+                    "k": "bibliothek.haum@3landesmuseen.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0111"
+                },
+                {
+                    "e": "GBV"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "02"
+                },
+                {
+                    "h": "07"
+                },
+                {
+                    "i": "P"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Italienische, niederl\u00e4ndische, franz\u00f6sische, deutsche, englische und spanische Kunst mit Schwerpunkt 16. bis 18. Jh."
+                },
+                {
+                    "a": "Graphik und Handzeichnungen"
+                },
+                {
+                    "a": "Au\u00dfereurop\u00e4ische Kunst"
+                },
+                {
+                    "a": "Numismatik"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NIE"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "GBV"
+                },
+                {
+                    "e": "n"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "047A": [
+            [
+                {
+                    "a": "Die Best\u00e4nde ab Erwerbungsjahr 2007 und der Zeitschriftenbestand sind vollst\u00e4ndig im Online-Katalog verzeichnet. Bis Erwerbungsjahr 2006 werden die Best\u00e4nde sukzessive nachgetragen. F\u00fcr eine vollst\u00e4ndige Recherche muss der Zettelkatalog vor Ort genutzt werden"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Bs75",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Bs75",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Bs75",
+    "identifier": "DE-Bs75",
+    "name": "Herzog Anton Ulrich-Museum, Bibliothek",
+    "location": "Braunschweig",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NIE"
+}

@@ -1,0 +1,241 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-712.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9042:30-03-22"
+                ],
+                {
+                    "t": "11:33:04.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020585233"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "LC931"
+                },
+                {
+                    "d": "712"
+                },
+                {
+                    "e": "DE-712"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "https://www.kulturhof.de/bibliothek/"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://webopac.citkomm.de/euskirchen/index.aspx"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Euskirchen StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtbibliothek Euskirchen"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Wilhelmstr. 32-34"
+                },
+                {
+                    "b": "Euskirchen"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "53879"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "i": "Mo-Di 11.00-18.00, Do 11.00-19.00, Fr 11.00-18.00, Sa 11.00-14.00"
+                },
+                {
+                    "k": "6.78914"
+                },
+                {
+                    "l": "50.65897"
+                },
+                {
+                    "n": "05366016"
+                },
+                {
+                    "o": "barrierefrei"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "2251"
+                },
+                {
+                    "f": "6 50 74 55"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "2251"
+                },
+                {
+                    "i": "6 50 74 59"
+                },
+                {
+                    "k": "fernleihe@euskirchen.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "07"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "b"
+                },
+                {
+                    "d": "fernleihe@euskirchen.de"
+                }
+            ],
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "fernleihe@euskirchen.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "fernleihe@euskirchen.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-712",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-712",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-712",
+    "identifier": "DE-712",
+    "name": "Stadtbibliothek Euskirchen",
+    "location": "Euskirchen",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NRW"
+}

@@ -1,0 +1,251 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-857.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:15-08-18"
+                ],
+                {
+                    "t": "13:42:56.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:27-05-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020586418"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "HQ505"
+                },
+                {
+                    "d": "857"
+                },
+                {
+                    "e": "DE-857"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.miesbach.de/"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://webopac.miesbach.de"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Miesbach StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtb\u00fccherei Miesbach"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Rathausstr. 2 a"
+                },
+                {
+                    "b": "Miesbach"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "83714"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "i": "Di, Mi und Fr 12.30-18.00, Do 9.00-12.00 und 13.00-16.00, Sa 9.00-12.30"
+                },
+                {
+                    "k": "11.83089"
+                },
+                {
+                    "l": "47.78874"
+                },
+                {
+                    "n": "09182125"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Miesbach"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "83711"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "g": "29"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "8025"
+                },
+                {
+                    "f": "2 83-40"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "8025"
+                },
+                {
+                    "i": "283-13"
+                },
+                {
+                    "k": "stadtbuecherei@miesbach.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "06"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAY"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "BVB"
+                },
+                {
+                    "d": "BiblioPLUS"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "ausleihe@miesbach.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-857",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-857",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-857",
+    "identifier": "DE-857",
+    "name": "Stadtb\u00fccherei Miesbach",
+    "location": "Miesbach",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAY"
+}

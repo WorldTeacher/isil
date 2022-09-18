@@ -1,0 +1,259 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-2421.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:05-08-16"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:03-01-22"
+                ],
+                {
+                    "t": "13:44:42.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:05-08-16"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1110215479"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "538421-7"
+                },
+                {
+                    "d": "2421"
+                },
+                {
+                    "e": "DE-2421"
+                },
+                {
+                    "f": "BICC"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "https://www.bicc.de/about/library/"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://bic.wissensbank.com/esearcha/browse.tt.html"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "BICC"
+                },
+                {
+                    "4": "b"
+                }
+            ],
+            [
+                {
+                    "a": "Bonn BICC"
+                },
+                {
+                    "4": "c"
+                }
+            ],
+            [
+                {
+                    "a": "Bonn International Centre for Conflict Studies, Library"
+                },
+                {
+                    "4": "d"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Bonn International Centre for Conflict Studies, Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Pfarrer-Byns-Stra\u00dfe 1"
+                },
+                {
+                    "b": "Bonn"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "53121"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "i": "Mo-Mi und Fr 9.00-16.00, Do 9.00-14.00"
+                },
+                {
+                    "j": "externe Besucher m\u00fcssen sich per E-Mail oder Telefon f\u00fcr einen Besuchstermin anmelden"
+                },
+                {
+                    "k": "7.06468"
+                },
+                {
+                    "l": "50.72410"
+                },
+                {
+                    "n": "05314000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "228"
+                },
+                {
+                    "f": "9 11 96-51"
+                },
+                {
+                    "k": "library@bicc.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0310"
+                },
+                {
+                    "d": "SWB"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "08"
+                },
+                {
+                    "h": "05"
+                },
+                {
+                    "i": "P"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Friedens- und Konfliktforschung"
+                },
+                {
+                    "a": "Konversionsforschung"
+                },
+                {
+                    "a": "Organisierte Gewalt"
+                },
+                {
+                    "a": "Mobilisierung bzw. Demobilisierung von Gewaltakteuren"
+                },
+                {
+                    "a": "R\u00fcstungsexporte und Kleinwaffenkontrolle"
+                },
+                {
+                    "a": "Organisierte Gewalt in globalen Migrationsstr\u00f6men"
+                },
+                {
+                    "a": "Gewalt und nat\u00fcrliche Ressourcen"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "c": "SWB"
+                },
+                {
+                    "d": "FIVIBLK"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-2421",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-2421",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-2421",
+    "identifier": "DE-2421",
+    "name": "Bonn International Centre for Conflict Studies, Bibliothek",
+    "location": "Bonn",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NRW"
+}

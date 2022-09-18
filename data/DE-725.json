@@ -1,0 +1,262 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-725.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:20-09-21"
+                ],
+                {
+                    "t": "12:58:53.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020585357"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "GD706"
+                },
+                {
+                    "d": "725"
+                },
+                {
+                    "e": "DE-725"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.stadtbibliothek-nordhorn.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://online-katalog.nordhorn.de"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Nordhorn StuKrsB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtbibliothek Nordhorn"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "B\u00fcchereiplatz"
+                },
+                {
+                    "b": "Nordhorn"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "48529"
+                },
+                {
+                    "f": "Niedersachsen"
+                },
+                {
+                    "i": "Di-Mi und Fr 11.00-13.00 und 14.00-18.00, Do 11.00-13.00 und 14.00-20.00, Sa 10.00-13.00"
+                },
+                {
+                    "k": "7.06783"
+                },
+                {
+                    "l": "52.43254"
+                },
+                {
+                    "n": "03456015"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Nordhorn"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "48522"
+                },
+                {
+                    "f": "Niedersachsen"
+                },
+                {
+                    "g": "24 29"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "5921"
+                },
+                {
+                    "f": "8 78-453"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "5921"
+                },
+                {
+                    "i": "8 78-454"
+                },
+                {
+                    "j": "98235"
+                },
+                {
+                    "k": "info@stadtbibliothek-nordhorn.de"
+                }
+            ],
+            [
+                {
+                    "a": "W"
+                },
+                {
+                    "b": "Fernleihe"
+                },
+                {
+                    "k": "fernleihe@stadtbibliothek-nordhorn.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "07"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Grafschaft Bentheim <Heimatkunde>"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NIE"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "GBV"
+                },
+                {
+                    "d": "\u00d6VK"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-725",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-725",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-725",
+    "identifier": "DE-725",
+    "name": "Stadtbibliothek Nordhorn",
+    "location": "Nordhorn",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NIE"
+}

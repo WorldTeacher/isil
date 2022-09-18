@@ -1,0 +1,236 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/AT-AKW.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:29-11-04"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:27-04-21"
+                ],
+                {
+                    "t": "15:04:40.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:27-05-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "026771039"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "030047-0"
+                },
+                {
+                    "b": "AT110"
+                },
+                {
+                    "c": "50.299.0000-7"
+                },
+                {
+                    "d": "AT-AKW"
+                },
+                {
+                    "e": "AT-AKW"
+                },
+                {
+                    "f": "AKW"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://wien.arbeiterkammer.at/bibliothek"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://opac.bibvb.ac.at/akw01"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Wien AK Bibliothek Sozialwiss"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "AK Bibliothek Wien f\u00fcr Sozialwissenschaften"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Prinz-Eugenstr. 20-22"
+                },
+                {
+                    "b": "Wien"
+                },
+                {
+                    "d": "AT"
+                },
+                {
+                    "e": "A-1041"
+                },
+                {
+                    "f": "\u00d6sterreich"
+                },
+                {
+                    "k": "16.37646"
+                },
+                {
+                    "l": "48.19506"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Wien"
+                },
+                {
+                    "d": "AT"
+                },
+                {
+                    "e": "A-1041"
+                },
+                {
+                    "g": "534"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "43"
+                },
+                {
+                    "e": "1"
+                },
+                {
+                    "f": "5 01 65-2452 (Sekretariat)"
+                },
+                {
+                    "g": "43"
+                },
+                {
+                    "h": "1"
+                },
+                {
+                    "i": "5 01 65-2229"
+                },
+                {
+                    "k": "bibliothek@akwien.at"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "c": "0157"
+                },
+                {
+                    "e": "\u00d6BV"
+                },
+                {
+                    "f": "81"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "WEU"
+                },
+                {
+                    "c": "\u00d6BV"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ],
+        "047A": [
+            [
+                {
+                    "a": "Allgemein (\u00f6ffentlich) zug\u00e4nglich"
+                }
+            ]
+        ]
+    },
+    "_id": "AT-AKW",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/AT-AKW",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/AT-AKW",
+    "identifier": "AT-AKW",
+    "name": "AK Bibliothek Wien f\u00fcr Sozialwissenschaften",
+    "location": "Wien",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "WEU"
+}

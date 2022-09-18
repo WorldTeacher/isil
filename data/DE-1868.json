@@ -1,0 +1,261 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-1868.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:22-09-11"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9042:18-02-21"
+                ],
+                {
+                    "t": "09:49:03.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:22-09-11"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1015445470"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "GG264"
+                },
+                {
+                    "d": "1868"
+                },
+                {
+                    "e": "DE-1868"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.hilchenbach.de/standard/page.sys/179.htm"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://www.go-libri.de/webverbund/index.asp?DB=BIBLIO-040"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Hilchenbach StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtb\u00fccherei Hilchenbach"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Im Burgweiher 1 (Wilhelmsburg)"
+                },
+                {
+                    "b": "Hilchenbach"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "57271"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "i": "Mo 14.00-19.00, Di und Do 14.00-17.00, Mi und Fr 10.00-12.00 und 14.00-17.00"
+                },
+                {
+                    "k": "8.11021"
+                },
+                {
+                    "l": "50.99668"
+                },
+                {
+                    "n": "05970020"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "a": "Markt 13"
+                },
+                {
+                    "b": "Hilchenbach"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "57271"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "2733"
+                },
+                {
+                    "f": "2 88-262"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "2733"
+                },
+                {
+                    "i": "2 88-288"
+                },
+                {
+                    "k": "buecherei@hilchenbach.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "06"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "b"
+                },
+                {
+                    "d": "buecherei@hilchenbach.de"
+                }
+            ],
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "buecherei@hilchenbach.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "buecherei@hilchenbach.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-1868",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-1868",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-1868",
+    "identifier": "DE-1868",
+    "name": "Stadtb\u00fccherei Hilchenbach",
+    "location": "Hilchenbach",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NRW"
+}

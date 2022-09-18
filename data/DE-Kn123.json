@@ -1,0 +1,277 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Kn123.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:17-02-16"
+                ],
+                {
+                    "t": "13:40:09.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020594534"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "508123-3"
+                },
+                {
+                    "b": "BY102"
+                },
+                {
+                    "d": "Kn 123"
+                },
+                {
+                    "e": "DE-Kn123"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.nf.mpg.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://aleph.mpg.de/F/PFCR5GEPYNAQ5M18LIXP83J6PTECIT36P4XIQJYU7TEA2CLTGF-03958?func=file&file_name=find-b&local_base=nfk01"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "MPIfnF"
+                },
+                {
+                    "4": "a"
+                }
+            ],
+            [
+                {
+                    "a": "K\u00f6ln MPI Neurolog. Forschung"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Max-Planck-Institut f\u00fcr neurologische Forschung mit Klaus-Joachim-Z\u00fclch-Laboratorien der Max-Planck-Gesellschaft und der Medizinischen Fakult\u00e4t der Universit\u00e4t zu K\u00f6ln, Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Gleueler Str. 50"
+                },
+                {
+                    "b": "K\u00f6ln"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "50931"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "i": "Mo-Do 8.00-17.00, Fr 8.00-12.00"
+                },
+                {
+                    "j": "nicht \u00f6ffentlich zug\u00e4nglich"
+                },
+                {
+                    "k": "6.91674"
+                },
+                {
+                    "l": "50.92574"
+                },
+                {
+                    "n": "05315000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "K\u00f6ln"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "50866"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "g": "41 06 29"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "221"
+                },
+                {
+                    "f": "47 26-236"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "221"
+                },
+                {
+                    "i": "47 26-352"
+                },
+                {
+                    "k": "Bibliothek@nf.mpg.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0148"
+                },
+                {
+                    "d": "MPG"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "01"
+                },
+                {
+                    "h": "05"
+                },
+                {
+                    "i": "P"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Neurologie"
+                },
+                {
+                    "a": "Bildgebende Verfahren"
+                },
+                {
+                    "a": "medical imaging"
+                },
+                {
+                    "a": "Hirnmetabolismus"
+                },
+                {
+                    "a": "Kognitionsforschung"
+                },
+                {
+                    "a": "Krebsgenomik"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Kn123",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Kn123",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Kn123",
+    "identifier": "DE-Kn123",
+    "name": "Max-Planck-Institut f\u00fcr neurologische Forschung mit Klaus-Joachim-Z\u00fclch-Laboratorien der Max-Planck-Gesellschaft und der Medizinischen Fakult\u00e4t der Universit\u00e4t zu K\u00f6ln, Bibliothek",
+    "location": "K\u00f6ln",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NRW"
+}

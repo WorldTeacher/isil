@@ -1,0 +1,215 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-1940.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:07-05-13"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:17-11-16"
+                ],
+                {
+                    "t": "15:45:29.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:07-05-13"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1034335995"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "KP809"
+                },
+                {
+                    "d": "1940"
+                },
+                {
+                    "e": "DE-1940"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.bibliothek-ellwangen.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://wwwopac.rz-as.de/ellwangen/index.asp?DB=ellwangen"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Ellwangen StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtbibliothek Ellwangen"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Obere Str. 6"
+                },
+                {
+                    "b": "Ellwangen/Jagst"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "73479"
+                },
+                {
+                    "f": "Baden-W\u00fcrttemberg"
+                },
+                {
+                    "i": "Di, Do und Fr 12.00-18.00, Mi und Sa 9.00-13.00"
+                },
+                {
+                    "k": "10.13434"
+                },
+                {
+                    "l": "48.96124"
+                },
+                {
+                    "n": "08136019"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "7961"
+                },
+                {
+                    "f": "8 43 51"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "7961"
+                },
+                {
+                    "i": "8 43 50"
+                },
+                {
+                    "k": "bibliothek@ellwangen.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "07"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "SWB"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-1940",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-1940",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-1940",
+    "identifier": "DE-1940",
+    "name": "Stadtbibliothek Ellwangen",
+    "location": "Ellwangen/Jagst",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAW"
+}

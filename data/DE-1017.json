@@ -1,0 +1,227 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-1017.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:28-11-18"
+                ],
+                {
+                    "t": "16:37:48.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "02058766X"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "JQ894"
+                },
+                {
+                    "d": "1017"
+                },
+                {
+                    "e": "DE-1017"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://buecherei-weilerswist.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://buecherei.weilerswist.de"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Weilerswist StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Gemeinde- und Schulbibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Martin-Luther-Str. 26a"
+                },
+                {
+                    "b": "Weilerswist"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "53919"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "k": "6.84019"
+                },
+                {
+                    "l": "50.74936"
+                },
+                {
+                    "n": "05366040"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "2254"
+                },
+                {
+                    "f": "6 01 09 26"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "2254"
+                },
+                {
+                    "i": "6 01 09 39"
+                },
+                {
+                    "k": "bibliothek@weilerswist.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "06"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "bibliothek@weilerswist.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "bibliothek@weilerswist.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-1017",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-1017",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-1017",
+    "identifier": "DE-1017",
+    "name": "Gemeinde- und Schulbibliothek",
+    "location": "Weilerswist",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NRW"
+}

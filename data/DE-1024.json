@@ -1,0 +1,221 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-1024.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:28-12-15"
+                ],
+                {
+                    "t": "08:41:38.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020587716"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "HW795"
+                },
+                {
+                    "d": "1024"
+                },
+                {
+                    "e": "DE-1024"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.langenhagen.de/index.phtml?mNavID=1620.12&sNavID=1620.66"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Langenhagen StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtbibliothek der Stadt Langenhagen"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Konrad-Adenauer-Str. 6"
+                },
+                {
+                    "b": "Langenhagen"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "30853"
+                },
+                {
+                    "f": "Niedersachsen"
+                },
+                {
+                    "i": "Di-Fr 12.00-19.00, Sa 9.00-14.00"
+                },
+                {
+                    "k": "9.73704"
+                },
+                {
+                    "l": "52.44087"
+                },
+                {
+                    "n": "03241010"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Langenhagen"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "30386"
+                },
+                {
+                    "f": "Niedersachsen"
+                },
+                {
+                    "g": "10 15 60"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "511"
+                },
+                {
+                    "f": "73 07-9770"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "511"
+                },
+                {
+                    "i": "73 07-9691"
+                },
+                {
+                    "k": "stadtbibliothek@langenhagen.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "07"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NIE"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-1024",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-1024",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-1024",
+    "identifier": "DE-1024",
+    "name": "Stadtbibliothek der Stadt Langenhagen",
+    "location": "Langenhagen",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NIE"
+}

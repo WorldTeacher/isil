@@ -1,0 +1,261 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-B1532.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:08-12-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:17-11-16"
+                ],
+                {
+                    "t": "15:40:13.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "021093539"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "181532-5"
+                },
+                {
+                    "b": "CQ708"
+                },
+                {
+                    "d": "B 1532"
+                },
+                {
+                    "e": "DE-B1532"
+                },
+                {
+                    "f": "MPIBF"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "https://www.mpib-berlin.mpg.de/de/institut/bibliothek"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://vzlbs2.gbv.de/DB=64/"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Berlin MPI Bildungsforschung"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Max-Planck-Institut f\u00fcr Bildungsforschung, Bibliothek und wissenschaftliche Information"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Lentzeallee 94"
+                },
+                {
+                    "b": "Berlin"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "14195"
+                },
+                {
+                    "f": "Berlin"
+                },
+                {
+                    "i": "Mo-Do 9.00-18.30, Fr 9.00-17.00"
+                },
+                {
+                    "k": "13.30382"
+                },
+                {
+                    "l": "52.46859"
+                },
+                {
+                    "n": "11000000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "30"
+                },
+                {
+                    "f": "8 24 06-230 und -217"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "30"
+                },
+                {
+                    "i": "8 24 99 39"
+                },
+                {
+                    "k": "ausleihe@mpib-berlin.mpg.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0111"
+                },
+                {
+                    "d": "MPG"
+                },
+                {
+                    "e": "GBV"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "07"
+                },
+                {
+                    "h": "08"
+                },
+                {
+                    "i": "P"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Bildungsforschung"
+                },
+                {
+                    "a": "Entwicklungspsychologie"
+                },
+                {
+                    "a": "Erziehungswissenschaft"
+                },
+                {
+                    "a": "Gerontologie"
+                },
+                {
+                    "a": "Geschichte"
+                },
+                {
+                    "a": "Psychologie"
+                },
+                {
+                    "a": "Schulforschung"
+                },
+                {
+                    "a": "Sozialwissenschaften"
+                },
+                {
+                    "a": "Soziologie"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BER"
+                },
+                {
+                    "c": "GBV"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-B1532",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-B1532",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-B1532",
+    "identifier": "DE-B1532",
+    "name": "Max-Planck-Institut f\u00fcr Bildungsforschung, Bibliothek und wissenschaftliche Information",
+    "location": "Berlin",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BER"
+}

@@ -1,0 +1,288 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-575.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:03-01-02"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:24-04-19"
+                ],
+                {
+                    "t": "09:19:41.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "023055561"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "492000-4"
+                },
+                {
+                    "b": "BA027"
+                },
+                {
+                    "d": "575"
+                },
+                {
+                    "e": "DE-575"
+                },
+                {
+                    "f": "HMD"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.hfm-detmold.de/bib"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://katalog.llb-detmold.de/webOPACClient_sisis/start.do"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Detmold HS Musik"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Hochschule f\u00fcr Musik Detmold, Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Hornsche Str. 39"
+                },
+                {
+                    "b": "Detmold"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "32756"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "h": "FORUM Musikbibliothek"
+                },
+                {
+                    "i": "Mo-Fr 9.00-21.00"
+                },
+                {
+                    "j": "Ausleihzeit: Mo-Fr 9.00-18.00; \u00d6ffnungszeiten in den Ferien s. Homepage"
+                },
+                {
+                    "k": "8.88156"
+                },
+                {
+                    "l": "51.93057"
+                },
+                {
+                    "n": "05766020"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "a": "Neustadt 22"
+                },
+                {
+                    "b": "Detmold"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "32756"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "5231"
+                },
+                {
+                    "f": "97 57 20"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "5231"
+                },
+                {
+                    "i": "97 57 21"
+                },
+                {
+                    "k": "bibliothek@hfm-detmold.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0126"
+                },
+                {
+                    "d": "HBZ"
+                },
+                {
+                    "f": "70"
+                },
+                {
+                    "g": "02"
+                },
+                {
+                    "h": "08"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Musik"
+                },
+                {
+                    "a": "Musikwissenschaft"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "c": "HBZ"
+                },
+                {
+                    "e": "l"
+                }
+            ]
+        ],
+        "035J": [
+            [
+                {
+                    "a": "Fernleihe \u00fcber Landesbibliothek Detmold DE-51, Email alv@llb-detmold.de, Telefon 05231 92660-34"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "alv@llb-detmold.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "alv@llb-detmold.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-575",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-575",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-575",
+    "identifier": "DE-575",
+    "name": "Hochschule f\u00fcr Musik Detmold, Bibliothek",
+    "location": "Detmold",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NRW"
+}

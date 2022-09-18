@@ -1,0 +1,274 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-70.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:28-02-05"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:24-09-21"
+                ],
+                {
+                    "t": "09:53:23.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "027152375"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "865100-0"
+                },
+                {
+                    "b": "AJ070"
+                },
+                {
+                    "d": "70"
+                },
+                {
+                    "e": "DE-70"
+                },
+                {
+                    "f": "LBCO"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.landesbibliothek-coburg.de"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Coburg LB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Landesbibliothek Coburg"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Schlossplatz 1 (Schloss Ehrenburg)"
+                },
+                {
+                    "b": "Coburg"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "96450"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "i": "Mo-Do 10.00-17.00, Fr-Sa 10.00-13.00"
+                },
+                {
+                    "j": "Ferien\u00f6ffnungszeiten s. Homepage"
+                },
+                {
+                    "k": "10.96740"
+                },
+                {
+                    "l": "50.25801"
+                },
+                {
+                    "n": "09463000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "9561"
+                },
+                {
+                    "f": "85 38-0"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "9561"
+                },
+                {
+                    "i": "85 38-201"
+                },
+                {
+                    "k": "geschaeftsstelle@landesbibliothek-coburg.de"
+                }
+            ],
+            [
+                {
+                    "a": "W"
+                },
+                {
+                    "b": "Fernleihe"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "k": "fernleihe@landesbibliothek-coburg.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0085"
+                },
+                {
+                    "d": "BVB"
+                },
+                {
+                    "f": "21"
+                },
+                {
+                    "g": "02"
+                },
+                {
+                    "h": "09"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAY"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "BVB"
+                },
+                {
+                    "d": "Kalliope"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "pfl-co@landesbibliothek-coburg.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "afl-co@landesbibliothek-coburg.de"
+                }
+            ]
+        ],
+        "035O": [
+            [
+                {
+                    "a": "FZL DE-617"
+                }
+            ]
+        ],
+        "035Q": [
+            [
+                {
+                    "a": "j"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-70",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-70",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-70",
+    "identifier": "DE-70",
+    "name": "Landesbibliothek Coburg",
+    "location": "Coburg",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAY"
+}

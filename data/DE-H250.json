@@ -1,0 +1,223 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-H250.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:18-11-99"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:04-04-18"
+                ],
+                {
+                    "t": "11:16:18.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "00907421X"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "208250-0"
+                },
+                {
+                    "b": "AP213"
+                },
+                {
+                    "d": "H 250"
+                },
+                {
+                    "e": "DE-H250"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.zeitgeschichte-hamburg.de"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Hamburg Zeitgeschichte"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Forschungsstelle f\u00fcr Zeitgeschichte in Hamburg, Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Beim Schlump 83"
+                },
+                {
+                    "b": "Hamburg"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "20144"
+                },
+                {
+                    "f": "Hamburg"
+                },
+                {
+                    "i": "Mo-Do 9.00-17.00, Fr 9.00-15.00"
+                },
+                {
+                    "k": "9.97578"
+                },
+                {
+                    "l": "53.56952"
+                },
+                {
+                    "n": "02000000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "40"
+                },
+                {
+                    "f": "43 13 97-21"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "40"
+                },
+                {
+                    "i": "43 13 97-40"
+                },
+                {
+                    "k": "bibliothek@zeitgeschichte-hamburg.de"
+                }
+            ]
+        ],
+        "035D": [
+            [
+                {
+                    "a": "H 251"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0025"
+                },
+                {
+                    "e": "GBV"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "02"
+                },
+                {
+                    "h": "07"
+                },
+                {
+                    "i": "P"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "HAM"
+                },
+                {
+                    "c": "GBV"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-H250",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-H250",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-H250",
+    "identifier": "DE-H250",
+    "name": "Forschungsstelle f\u00fcr Zeitgeschichte in Hamburg, Bibliothek",
+    "location": "Hamburg",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "HAM"
+}

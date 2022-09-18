@@ -1,0 +1,214 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Bhv1.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:04-12-01"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:29-03-16"
+                ],
+                {
+                    "t": "08:33:00.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "022874178"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "d": "Bhv 1"
+                },
+                {
+                    "e": "DE-Bhv1"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.bruchhausen-vilsen.de/"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Bruchhausen-Vilsen Archiv"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Samtgemeinde Bruchhausen-Vilsen, Archiv"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Lange Str. 11"
+                },
+                {
+                    "b": "Bruchhausen-Vilsen"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "27305"
+                },
+                {
+                    "f": "Niedersachsen"
+                },
+                {
+                    "i": "Mo-Do 8.30-12.00 und nach Vereinbarung"
+                },
+                {
+                    "k": "8.98989"
+                },
+                {
+                    "l": "52.82976"
+                },
+                {
+                    "n": "03251010"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "4252"
+                },
+                {
+                    "f": "3 91-250"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "4252"
+                },
+                {
+                    "i": "3 91-100"
+                },
+                {
+                    "k": "info@bruchhausen-vilsen.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "52"
+                },
+                {
+                    "g": "05"
+                },
+                {
+                    "h": "02"
+                },
+                {
+                    "i": "P"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Hoya und Diepholz <Grafschaften>"
+                },
+                {
+                    "a": "Diepholz und Nienburg <Landkreise>"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NIE"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "GBV"
+                },
+                {
+                    "e": "l"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Bhv1",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Bhv1",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Bhv1",
+    "identifier": "DE-Bhv1",
+    "name": "Samtgemeinde Bruchhausen-Vilsen, Archiv",
+    "location": "Bruchhausen-Vilsen",
+    "type": [
+        "Organization",
+        "Archive"
+    ],
+    "addressRegion": "NIE"
+}

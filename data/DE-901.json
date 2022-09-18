@@ -1,0 +1,218 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-901.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:08-10-16"
+                ],
+                {
+                    "t": "10:51:14.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020586760"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "HG464"
+                },
+                {
+                    "d": "901"
+                },
+                {
+                    "e": "DE-901"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.seevetal.de/buecherei"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://kataloge-bz-lueneburg.de/seevetal/webopac3/"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Seevetal GB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Gemeinde- und Zentralb\u00fccherei Seevetal-Meckelfeld"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Am Schulteich 1"
+                },
+                {
+                    "b": "Seevetal"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "21217"
+                },
+                {
+                    "f": "Niedersachsen"
+                },
+                {
+                    "h": "OT Meckelfeld"
+                },
+                {
+                    "i": "Mo 10.00-13.00 und 15.00-18.00, Di 15.00-19.00, Do 10.00-13.00 und 15.00-19.00, Fr 10.00-18.00"
+                },
+                {
+                    "k": "10.01963"
+                },
+                {
+                    "l": "53.42251"
+                },
+                {
+                    "n": "03353031"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "04105"
+                },
+                {
+                    "f": "55-2500"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "40"
+                },
+                {
+                    "i": "7 69 62 33"
+                },
+                {
+                    "k": "buecherei@seevetal.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "07"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NIE"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "GBV"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-901",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-901",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-901",
+    "identifier": "DE-901",
+    "name": "Gemeinde- und Zentralb\u00fccherei Seevetal-Meckelfeld",
+    "location": "Seevetal",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NIE"
+}

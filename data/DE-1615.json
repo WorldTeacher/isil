@@ -1,0 +1,183 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-1615.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:31-01-08"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:17-02-16"
+                ],
+                {
+                    "t": "14:11:14.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:31-01-08"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "987374532"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "RZ548"
+                },
+                {
+                    "d": "1615"
+                },
+                {
+                    "e": "DE-1615"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Waidhaus K\u00d6B"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Katholische \u00d6ffentliche B\u00fccherei Waidhaus"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Schulstr. 3"
+                },
+                {
+                    "b": "Waidhaus"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "92726"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "k": "12.49620"
+                },
+                {
+                    "l": "49.64105"
+                },
+                {
+                    "n": "09374164"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "k": "KigaSt.Emmeram@web.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "10"
+                },
+                {
+                    "h": "05"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAY"
+                },
+                {
+                    "c": "BVB"
+                },
+                {
+                    "e": "n"
+                },
+                {
+                    "g": "R"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "KigaSt.Emmeram@web.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-1615",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-1615",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-1615",
+    "identifier": "DE-1615",
+    "name": "Katholische \u00d6ffentliche B\u00fccherei Waidhaus",
+    "location": "Waidhaus",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAY"
+}

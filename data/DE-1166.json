@@ -1,0 +1,212 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-1166.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:23-04-04"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:28-11-16"
+                ],
+                {
+                    "t": "11:48:05.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "02590583X"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "HM802"
+                },
+                {
+                    "d": "1166"
+                },
+                {
+                    "e": "DE-1166"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.seelze.de/stadtbibliothek"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://www.kataloge-bz-niedersachsen.de/seelze/webopac/"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Seelze StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtbibliothek Seelze"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Goethestr. 1"
+                },
+                {
+                    "b": "Seelze"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "30926"
+                },
+                {
+                    "f": "Niedersachsen"
+                },
+                {
+                    "i": "Mo-Di und Do-Fr 9.00-12.00 und 15.00-18.00"
+                },
+                {
+                    "k": "9.59267"
+                },
+                {
+                    "l": "52.39440"
+                },
+                {
+                    "n": "03253014"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "5137"
+                },
+                {
+                    "f": "9 45 59"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "5137"
+                },
+                {
+                    "i": "12 41 07"
+                },
+                {
+                    "k": "stadtbibliothek.seelze@htp-tel.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "06"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NIE"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "GBV"
+                },
+                {
+                    "e": "l"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-1166",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-1166",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-1166",
+    "identifier": "DE-1166",
+    "name": "Stadtbibliothek Seelze",
+    "location": "Seelze",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NIE"
+}

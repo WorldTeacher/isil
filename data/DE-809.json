@@ -1,0 +1,232 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-809.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:28-11-18"
+                ],
+                {
+                    "t": "16:38:14.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020586035"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "QF334"
+                },
+                {
+                    "d": "809"
+                },
+                {
+                    "e": "DE-809"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.buecherei-vreden.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://webopac.bistum-muenster.de/vreden/woload.asp"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Vreden K\u00d6B"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "\u00d6ffentliche B\u00fccherei St. Georg"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Kirchplatz 12"
+                },
+                {
+                    "b": "Vreden"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "48691"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "i": "Di-Fr 9.00-12.00 und 14.30-18.30, Sa 17.00-18.30"
+                },
+                {
+                    "k": "6.82257"
+                },
+                {
+                    "l": "52.03500"
+                },
+                {
+                    "n": "05554068"
+                },
+                {
+                    "o": "barrierefrei"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "2564"
+                },
+                {
+                    "f": "46 83"
+                },
+                {
+                    "k": "buecherei-vreden@bistum-muenster.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "10"
+                },
+                {
+                    "h": "07"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "b"
+                },
+                {
+                    "d": "buecherei-vreden@bistum-muenster.de"
+                }
+            ],
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "buecherei-vreden@bistum-muenster.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "buecherei-vreden@bistum-muenster.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-809",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-809",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-809",
+    "identifier": "DE-809",
+    "name": "\u00d6ffentliche B\u00fccherei St. Georg",
+    "location": "Vreden",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NRW"
+}

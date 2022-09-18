@@ -1,0 +1,255 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-L92.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:18-11-99"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:11-11-16"
+                ],
+                {
+                    "t": "13:38:12.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "009034269"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "918189-1"
+                },
+                {
+                    "b": "EH555"
+                },
+                {
+                    "d": "L 92"
+                },
+                {
+                    "e": "DE-L92"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.dzb.de"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "DZB"
+                },
+                {
+                    "4": "b"
+                }
+            ],
+            [
+                {
+                    "a": "Leipzig ZB Blinde"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Deutsche Zentralb\u00fccherei f\u00fcr Blinde zu Leipzig, Wissenschaftliche Bibliothek des Blindenwesens"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Gustav-Adolf-Str. 7"
+                },
+                {
+                    "b": "Leipzig"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "04105"
+                },
+                {
+                    "f": "Sachsen"
+                },
+                {
+                    "i": "Mo-Do 9.00-12.00 und 13.00-15.30, Fr. 9.00-12.00 und 13.00-14.00"
+                },
+                {
+                    "k": "12.36654"
+                },
+                {
+                    "l": "51.34481"
+                },
+                {
+                    "n": "14713000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Leipzig"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "04002"
+                },
+                {
+                    "f": "Sachsen"
+                },
+                {
+                    "g": "10 02 45"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "341"
+                },
+                {
+                    "f": "71 13-0"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "341"
+                },
+                {
+                    "i": "71 13-125"
+                },
+                {
+                    "k": "info@dzb.de"
+                }
+            ]
+        ],
+        "035D": [
+            [
+                {
+                    "a": "B 2182"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0101"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "02"
+                },
+                {
+                    "h": "05"
+                },
+                {
+                    "i": "P"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Blindenwesen"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "SAX"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-L92",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-L92",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-L92",
+    "identifier": "DE-L92",
+    "name": "Deutsche Zentralb\u00fccherei f\u00fcr Blinde zu Leipzig, Wissenschaftliche Bibliothek des Blindenwesens",
+    "location": "Leipzig",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "SAX"
+}

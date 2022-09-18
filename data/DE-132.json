@@ -1,0 +1,274 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-132.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:18-11-99"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:30-11-18"
+                ],
+                {
+                    "t": "15:37:38.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "009008616"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "467000-0"
+                },
+                {
+                    "b": "AH132"
+                },
+                {
+                    "d": "132"
+                },
+                {
+                    "e": "DE-132"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.bochum.de/stadtbuecherei"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://www.stadtbuecherei-bochum.de"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Bochum StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtb\u00fccherei Bochum"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Gustav-Heinemann-Pl. 2/6"
+                },
+                {
+                    "b": "Bochum"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "44777"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "i": "Mo-Fr 10.00-19.00, Sa 10.00-13.00"
+                },
+                {
+                    "k": "7.21434"
+                },
+                {
+                    "l": "51.48315"
+                },
+                {
+                    "n": "05911000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "234"
+                },
+                {
+                    "f": "9 10-2485"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "234"
+                },
+                {
+                    "i": "9 10-2437"
+                },
+                {
+                    "k": "stadtbue@bochum.de"
+                }
+            ]
+        ],
+        "035D": [
+            [
+                {
+                    "a": "375"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0126"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "08"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Sprach- und Literaturwissenschaften"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "d": "Kalliope"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "b"
+                },
+                {
+                    "d": "fernleihe@bochum.de"
+                }
+            ],
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "fernleihe@bochum.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "fernleihe@bochum.de"
+                }
+            ]
+        ],
+        "035O": [
+            [
+                {
+                    "a": "ISIL DE-294; FZL DE-621"
+                },
+                {
+                    "b": "CONTAINER"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-132",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-132",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-132",
+    "identifier": "DE-132",
+    "name": "Stadtb\u00fccherei Bochum",
+    "location": "Bochum",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NRW"
+}

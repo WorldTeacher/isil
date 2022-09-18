@@ -1,0 +1,240 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-940.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:21-12-16"
+                ],
+                {
+                    "t": "10:02:56.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020587066"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "DE901"
+                },
+                {
+                    "d": "940"
+                },
+                {
+                    "e": "DE-940"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.oberlandesgericht-oldenburg.niedersachsen.de"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Oldenburg Oberlandesgericht"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Oberlandesgericht Oldenburg, Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Richard-Wagner-Platz 1"
+                },
+                {
+                    "b": "Oldenburg"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "26135"
+                },
+                {
+                    "f": "Niedersachsen"
+                },
+                {
+                    "i": "Mo-Do 7.30-15.30, Fr 7.30-13.00"
+                },
+                {
+                    "k": "8.21485"
+                },
+                {
+                    "l": "53.13370"
+                },
+                {
+                    "n": "03403000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Oldenburg"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "26014"
+                },
+                {
+                    "f": "Niedersachsen"
+                },
+                {
+                    "g": "24 51"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "441"
+                },
+                {
+                    "f": "2 20-1059"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "441"
+                },
+                {
+                    "i": "2 20-1060"
+                },
+                {
+                    "k": "olgol-bibliothek@justiz.niedersachsen.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "02"
+                },
+                {
+                    "h": "06"
+                },
+                {
+                    "i": "P"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Rechtswissenschaft"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NIE"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "GBV"
+                },
+                {
+                    "e": "k"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-940",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-940",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-940",
+    "identifier": "DE-940",
+    "name": "Oberlandesgericht Oldenburg, Bibliothek",
+    "location": "Oldenburg",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NIE"
+}

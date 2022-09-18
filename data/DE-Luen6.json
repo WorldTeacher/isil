@@ -1,0 +1,180 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Luen6.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:23-03-10"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:11-05-22"
+                ],
+                {
+                    "t": "12:52:03.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:23-03-10"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1001062035"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "101098-0"
+                },
+                {
+                    "d": "L\u00fcn 6"
+                },
+                {
+                    "e": "DE-Luen6"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.carl-schirren-gesellschaft.de/"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "L\u00fcneburg C.Schirren-Ges.Archiv"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Carl-Schirren-Gesellschaft, Archiv"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Am Berge 35"
+                },
+                {
+                    "b": "L\u00fcneburg"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "21335"
+                },
+                {
+                    "f": "Niedersachsen"
+                },
+                {
+                    "k": "10.41140"
+                },
+                {
+                    "l": "53.24939"
+                },
+                {
+                    "n": "03355022"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "k": "csg@carl-schirren-gesellschaft.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0367"
+                },
+                {
+                    "f": "59"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "01"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NIE"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Luen6",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Luen6",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Luen6",
+    "identifier": "DE-Luen6",
+    "name": "Carl-Schirren-Gesellschaft, Archiv",
+    "location": "L\u00fcneburg",
+    "type": [
+        "Organization",
+        "Archive"
+    ],
+    "addressRegion": "NIE"
+}

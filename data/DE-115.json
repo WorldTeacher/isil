@@ -1,0 +1,237 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-115.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:18-11-99"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:13-03-19"
+                ],
+                {
+                    "t": "18:38:23.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "009003363"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "308115-1"
+                },
+                {
+                    "b": "AG115"
+                },
+                {
+                    "d": "115"
+                },
+                {
+                    "e": "DE-115"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.stadtbibliothek-hannover.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://bibliothek.hannover-stadt.de/index.html"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Hannover StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtbibliothek Hannover"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Hildesheimer Str. 12"
+                },
+                {
+                    "b": "Hannover"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "30169"
+                },
+                {
+                    "f": "Niedersachsen"
+                },
+                {
+                    "i": "Mo-Sa 11.00-19.00"
+                },
+                {
+                    "k": "9.74519"
+                },
+                {
+                    "l": "52.36697"
+                },
+                {
+                    "n": "03241001"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "511"
+                },
+                {
+                    "f": "1 68-42169 (Zentralinformation), -44802 (Fernleihe) und -42167 (Direktion)"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "511"
+                },
+                {
+                    "i": "1 68-46410 (Zentralinformation, Fernleihe und Direktion)"
+                },
+                {
+                    "k": "Stadtbibliothek-Zentralinformation@Hannover-Stadt.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0111"
+                },
+                {
+                    "e": "GBV"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "09"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NIE"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "GBV"
+                },
+                {
+                    "d": "Kalliope"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035O": [
+            [
+                {
+                    "a": "FZL DE-622"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-115",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-115",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-115",
+    "identifier": "DE-115",
+    "name": "Stadtbibliothek Hannover",
+    "location": "Hannover",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NIE"
+}

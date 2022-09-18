@@ -1,0 +1,201 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-1839.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:05-10-10"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:10-12-20"
+                ],
+                {
+                    "t": "09:51:37.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:05-10-10"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1007416297"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "HN168"
+                },
+                {
+                    "d": "1839"
+                },
+                {
+                    "e": "DE-1839"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Weyhe GB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Gemeindebibliothek Weyhe"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Hauptstr. 99"
+                },
+                {
+                    "b": "Weyhe"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "28844"
+                },
+                {
+                    "f": "Niedersachsen"
+                },
+                {
+                    "i": "Mo, Di, Do 9.00-13.30 und 15.00-19.00, Mi, Fr. 9.00-13.30"
+                },
+                {
+                    "k": "8.85862"
+                },
+                {
+                    "l": "52.98077"
+                },
+                {
+                    "n": "03251047"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "4203"
+                },
+                {
+                    "f": "785768"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "4203"
+                },
+                {
+                    "i": "785769"
+                },
+                {
+                    "k": "bibliothek@gemeinde.weyhe.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "06"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NIE"
+                },
+                {
+                    "c": "GBV"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "bibliothek@gemeinde.weyhe.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-1839",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-1839",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-1839",
+    "identifier": "DE-1839",
+    "name": "Gemeindebibliothek Weyhe",
+    "location": "Weyhe",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NIE"
+}

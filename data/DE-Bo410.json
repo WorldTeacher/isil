@@ -1,0 +1,296 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Bo410.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:20-12-02"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9044:02-05-22"
+                ],
+                {
+                    "t": "10:02:46.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "024174165"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "538410-2"
+                },
+                {
+                    "d": "Bo 410"
+                },
+                {
+                    "e": "DE-Bo410"
+                },
+                {
+                    "f": "DIE"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.die-bonn.de/institut/dienstleistungen/bibliothek/"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://die-litservice.bsz-bw.de"
+                },
+                {
+                    "z": "B"
+                }
+            ],
+            [
+                {
+                    "u": "https://www.die-bonn.de/institut/dienstleistungen/bibliothek/anmeldung.aspx"
+                },
+                {
+                    "z": "D"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Deutsches Institut f\u00fcr Erwachsenenbildung"
+                },
+                {
+                    "4": "a"
+                }
+            ],
+            [
+                {
+                    "a": "Bonn DIE"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "DIE-Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Heinemannstr. 12-14"
+                },
+                {
+                    "b": "Bonn"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "53175"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "i": "Mo-Do 9.00-17.00 und Fr 9.00-13.00"
+                },
+                {
+                    "k": "7.13659"
+                },
+                {
+                    "l": "50.70246"
+                },
+                {
+                    "n": "05314000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "228"
+                },
+                {
+                    "f": "32 94-240"
+                },
+                {
+                    "k": "bibliothek@die-bonn.de"
+                }
+            ],
+            [
+                {
+                    "a": "W"
+                },
+                {
+                    "b": "Fernleihe"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "k": "fernleihe@die-bonn.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0350"
+                },
+                {
+                    "d": "SWB"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "08"
+                },
+                {
+                    "h": "07"
+                },
+                {
+                    "i": "P"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Erwachsenenbildung"
+                },
+                {
+                    "a": "Soziologie"
+                },
+                {
+                    "a": "Psychologie"
+                },
+                {
+                    "a": "Erziehungswissenschaft"
+                },
+                {
+                    "a": "Weiterbildung"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "SWB"
+                },
+                {
+                    "e": "n"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "b"
+                },
+                {
+                    "d": "fernleihe@die-bonn.de"
+                }
+            ],
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "fernleihe@die-bonn.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "fernleihe@die-bonn.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Bo410",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Bo410",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Bo410",
+    "identifier": "DE-Bo410",
+    "name": "DIE-Bibliothek",
+    "location": "Bonn",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NRW"
+}

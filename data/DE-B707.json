@@ -1,0 +1,274 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-B707.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:18-11-99"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:05-05-22"
+                ],
+                {
+                    "t": "11:46:17.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "009002332"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "LQ157"
+                },
+                {
+                    "d": "B 707"
+                },
+                {
+                    "e": "DE-B707"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.stadtbibliothek-mitte.berlin.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://www.voebb.de"
+                },
+                {
+                    "z": "B"
+                }
+            ],
+            [
+                {
+                    "u": "http://www.berlin.de/stadtbibliothek-mitte/bibliotheken/bruno-loesche-bibliothek/"
+                },
+                {
+                    "x": "Standort"
+                },
+                {
+                    "z": "W"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Berlin StB Mitte"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtbibliothek Berlin-Mitte, Mittelpunktsbibliotek Bruno L\u00f6sche"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Perleberger Str. 33"
+                },
+                {
+                    "b": "Berlin"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "10559"
+                },
+                {
+                    "f": "Berlin"
+                },
+                {
+                    "i": "Mo-Fr 10.00-19.30, Sa 10.00-14.00"
+                },
+                {
+                    "j": "Kinderbibliothek Mo-Fr 11.00-19.30, Sa 10.00-14.00"
+                },
+                {
+                    "k": "13.34756"
+                },
+                {
+                    "l": "52.53127"
+                },
+                {
+                    "n": "11000000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "a": "Havelberger Str. 2"
+                },
+                {
+                    "b": "Berlin"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "10559"
+                },
+                {
+                    "f": "Berlin"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "30"
+                },
+                {
+                    "f": "90 18-33025"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "30"
+                },
+                {
+                    "i": "90 18-33010"
+                },
+                {
+                    "k": "loesche@stb-mitte.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "07"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Krimi"
+                },
+                {
+                    "a": "Karl-May-Sammlung"
+                },
+                {
+                    "a": "Kurt-Tucholsky-Sammlung"
+                },
+                {
+                    "a": "DVD"
+                },
+                {
+                    "a": "Blue-ray Disc"
+                },
+                {
+                    "a": "Zeitschriften"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BER"
+                },
+                {
+                    "c": "KOBV"
+                },
+                {
+                    "d": "V\u00d6BB"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-B707",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-B707",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-B707",
+    "identifier": "DE-B707",
+    "name": "Stadtbibliothek Berlin-Mitte, Mittelpunktsbibliotek Bruno L\u00f6sche",
+    "location": "Berlin",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BER"
+}

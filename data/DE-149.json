@@ -1,0 +1,231 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-149.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:16-11-20"
+                ],
+                {
+                    "t": "11:08:01.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "02058296X"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "GL373"
+                },
+                {
+                    "d": "149"
+                },
+                {
+                    "e": "DE-149"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.memmingen.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://bibliothek.memmingen.de/index.aspx"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Memmingen StBi"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtbibliothek Memmingen"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Martin-Luther-Pl. 1"
+                },
+                {
+                    "b": "Memmingen"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "87700"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "h": "Antonierhaus"
+                },
+                {
+                    "i": "Di 10.00-18.00, Mi-Fr 11.00-18.00, Sa 10.00-13.00"
+                },
+                {
+                    "k": "10.17843"
+                },
+                {
+                    "l": "47.98508"
+                },
+                {
+                    "n": "09764000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "8331"
+                },
+                {
+                    "f": "8 50-156"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "8331"
+                },
+                {
+                    "i": "8 50-158"
+                },
+                {
+                    "k": "bibliothek@memmingen.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "21"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "07"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAY"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "BVB"
+                },
+                {
+                    "d": "Kalliope"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "bibliothek@memmingen.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-149",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-149",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-149",
+    "identifier": "DE-149",
+    "name": "Stadtbibliothek Memmingen",
+    "location": "Memmingen",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAY"
+}

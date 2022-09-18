@@ -1,0 +1,222 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-836S.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:02-06-10"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9042:18-01-18"
+                ],
+                {
+                    "t": "15:49:10.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:02-06-10"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1003155847"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "d": "836 S"
+                },
+                {
+                    "e": "DE-836S"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "https://www.fh-muenster.de/bibliothek/bbstf/index.php"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Steinfurt FH M\u00fcnster"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Fachhochschule M\u00fcnster, Bereichsbibliothek Steinfurt"
+                }
+            ]
+        ],
+        "029R": [
+            [
+                {
+                    "9": "021488797"
+                },
+                {
+                    "7": "Tw"
+                },
+                {
+                    "a": "FH M\u00fcnster, Hochschulbibliothek"
+                },
+                {
+                    "e": "DE-836"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Stegerwaldstr. 39"
+                },
+                {
+                    "b": "Steinfurt"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "48565"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "k": "7.32428"
+                },
+                {
+                    "l": "52.14299"
+                },
+                {
+                    "n": "05566084"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "k": "fernleihe@fh-muenster.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "73"
+                },
+                {
+                    "g": "02"
+                },
+                {
+                    "h": "07"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "HBZ"
+                },
+                {
+                    "e": "l"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "b"
+                },
+                {
+                    "d": "fernleihe@fh-muenster.de"
+                }
+            ],
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "fernleihe@fh-muenster.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "fernleihe@fh-muenster.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-836S",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-836S",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-836S",
+    "identifier": "DE-836S",
+    "name": "Fachhochschule M\u00fcnster, Bereichsbibliothek Steinfurt",
+    "location": "Steinfurt",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NRW"
+}

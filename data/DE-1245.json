@@ -1,0 +1,232 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-1245.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:25-02-05"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:17-02-16"
+                ],
+                {
+                    "t": "14:12:50.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "027140113"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "HH183"
+                },
+                {
+                    "d": "1245"
+                },
+                {
+                    "e": "DE-1245"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.stadt-blumberg.de/stadt-und-buerger/oeffentliche-einrichtungen/stadtbibliothek.html"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://217.92.83.233:6080/iopac/index.htm"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Blumberg StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtbibliothek Blumberg"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Tevesstr. 49"
+                },
+                {
+                    "b": "Blumberg"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "78176"
+                },
+                {
+                    "f": "Baden-W\u00fcrttemberg"
+                },
+                {
+                    "i": "Di-Do 14.30-18.00, Fr-Sa 10.00-12.00"
+                },
+                {
+                    "k": "8.53587"
+                },
+                {
+                    "l": "47.83907"
+                },
+                {
+                    "n": "08326005"
+                },
+                {
+                    "o": "barrierefrei"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "7702"
+                },
+                {
+                    "f": "36 36"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "7702"
+                },
+                {
+                    "i": "41 92 07"
+                },
+                {
+                    "k": "bibliothek@stadt-blumberg.com"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "06"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Dampfeisenbahn <S\u00fcddeutschland, Alpenregion>"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "SWB"
+                },
+                {
+                    "e": "a"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035K": [
+            [
+                {
+                    "b": "A"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-1245",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-1245",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-1245",
+    "identifier": "DE-1245",
+    "name": "Stadtbibliothek Blumberg",
+    "location": "Blumberg",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAW"
+}

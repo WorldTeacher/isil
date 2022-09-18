@@ -1,0 +1,256 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-406.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9042:28-01-20"
+                ],
+                {
+                    "t": "10:04:38.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020583907"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "AL406"
+                },
+                {
+                    "d": "406"
+                },
+                {
+                    "e": "DE-406"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.stadtbuecherei-ibbenbueren.de"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Ibbenb\u00fcren StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtb\u00fccherei Ibbenb\u00fcren"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Oststr. 28"
+                },
+                {
+                    "b": "Ibbenb\u00fcren"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "49477"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "i": "Di 10.00-19.00, Mi-Do 14.00-18.00, Fr 10.00-12.00 und 14.00-18.00, Sa 10.00-13.00"
+                },
+                {
+                    "k": "7.71759"
+                },
+                {
+                    "l": "52.27404"
+                },
+                {
+                    "n": "05566028"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Ibbenb\u00fcren"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "49465"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "g": "15 65"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "5451"
+                },
+                {
+                    "f": "9 31-754"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "5451"
+                },
+                {
+                    "i": "9 31-789"
+                },
+                {
+                    "j": "94560 stibbe d"
+                },
+                {
+                    "k": "stadtbuecherei@ibbenbueren.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "07"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "b"
+                },
+                {
+                    "d": "Fernleihe@ibbenbueren.de"
+                }
+            ],
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "Fernleihe@ibbenbueren.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "Fernleihe@ibbenbueren.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-406",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-406",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-406",
+    "identifier": "DE-406",
+    "name": "Stadtb\u00fccherei Ibbenb\u00fcren",
+    "location": "Ibbenb\u00fcren",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NRW"
+}

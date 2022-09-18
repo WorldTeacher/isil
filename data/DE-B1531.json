@@ -1,0 +1,229 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-B1531.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:23-10-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:14-03-16"
+                ],
+                {
+                    "t": "07:53:27.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020923007"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "181531-3"
+                },
+                {
+                    "d": "B 1531"
+                },
+                {
+                    "e": "DE-B1531"
+                },
+                {
+                    "f": "DRFZ"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.drfz.de/drfz-library/"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://libero.mpiib-berlin.mpg.de/libero/WebOpac.cls"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "DRFZ"
+                },
+                {
+                    "4": "b"
+                }
+            ],
+            [
+                {
+                    "a": "Berlin Dt. RheumaforschZ"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Deutsches Rheuma-Forschungszentrum, Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Charit\u00e9platz 1"
+                },
+                {
+                    "b": "Berlin"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "10117"
+                },
+                {
+                    "f": "Berlin"
+                },
+                {
+                    "i": "nach Vereinbarung"
+                },
+                {
+                    "k": "13.37817"
+                },
+                {
+                    "l": "52.52361"
+                },
+                {
+                    "n": "11000000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "30"
+                },
+                {
+                    "f": "2 84 60-607"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "30"
+                },
+                {
+                    "i": "2 84 60-111"
+                },
+                {
+                    "k": "library@drfz.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0148"
+                },
+                {
+                    "d": "MPG"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "07"
+                },
+                {
+                    "h": "02"
+                },
+                {
+                    "i": "P"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BER"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-B1531",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-B1531",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-B1531",
+    "identifier": "DE-B1531",
+    "name": "Deutsches Rheuma-Forschungszentrum, Bibliothek",
+    "location": "Berlin",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BER"
+}

@@ -1,0 +1,286 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Bs68.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:28-10-09"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:02-11-15"
+                ],
+                {
+                    "t": "10:41:28.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:28-10-09"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "997717602"
+                ]
+            ]
+        ],
+        "007N": [
+            [
+                [
+                    "009004564"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "338068-3"
+                },
+                {
+                    "b": "CZ434"
+                },
+                {
+                    "d": "Bs 68"
+                },
+                {
+                    "e": "DE-Bs68"
+                },
+                {
+                    "f": "PTB"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.ptb.de/de/org/q/q11/index.htm"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://vzopc4.gbv.de:8080/DB=24/LNG=DU/"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Braunschweig PTB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Physikalisch-Technische Bundesanstalt, Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Bundesallee 100"
+                },
+                {
+                    "b": "Braunschweig"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "38116"
+                },
+                {
+                    "f": "Niedersachsen"
+                },
+                {
+                    "i": "Mo-Do 8.30-15.00, Fr 8.00-14.00"
+                },
+                {
+                    "j": "nicht \u00f6ffentlich zug\u00e4nglich"
+                },
+                {
+                    "k": "10.46202"
+                },
+                {
+                    "l": "52.29509"
+                },
+                {
+                    "n": "03101000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Braunschweig"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "38023"
+                },
+                {
+                    "f": "Niedersachsen"
+                },
+                {
+                    "g": "33 45"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "531"
+                },
+                {
+                    "f": "5 92-8136"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "531"
+                },
+                {
+                    "i": "5 92-8137"
+                },
+                {
+                    "k": "Bibliothek@ptb.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0111"
+                },
+                {
+                    "e": "GBV"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "01"
+                },
+                {
+                    "h": "08"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Metrologie"
+                },
+                {
+                    "a": "Physik"
+                },
+                {
+                    "a": "Elektrotechnik"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NIE"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "GBV"
+                },
+                {
+                    "d": "BRB"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035O": [
+            [
+                {
+                    "a": "FZL DE-622"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Bs68",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Bs68",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Bs68",
+    "identifier": "DE-Bs68",
+    "name": "Physikalisch-Technische Bundesanstalt, Bibliothek",
+    "location": "Braunschweig",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NIE"
+}

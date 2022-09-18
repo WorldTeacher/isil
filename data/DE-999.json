@@ -1,0 +1,230 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-999.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:28-01-16"
+                ],
+                {
+                    "t": "16:34:17.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020587503"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "LA983"
+                },
+                {
+                    "d": "999"
+                },
+                {
+                    "e": "DE-999"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.schwaebischhall.de"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Schw\u00e4bisch Hall StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtbibliothek im Glashaus Schw\u00e4bisch Hall"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Neue Stra\u00dfe 7"
+                },
+                {
+                    "b": "Schw\u00e4bisch Hall"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "74523"
+                },
+                {
+                    "f": "Baden-W\u00fcrttemberg"
+                },
+                {
+                    "i": "Di und Fr 11.00-18.00, Mi 9.00-18.00, Do 11.00-18.00, Sa 9.00-13.00"
+                },
+                {
+                    "k": "9.73582"
+                },
+                {
+                    "l": "49.11282"
+                },
+                {
+                    "n": "08127076"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Schw\u00e4bisch Hall"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "74501"
+                },
+                {
+                    "f": "Baden-W\u00fcrttemberg"
+                },
+                {
+                    "g": "10 01 80"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "791"
+                },
+                {
+                    "f": "7 51-214"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "791"
+                },
+                {
+                    "i": "7 51-443"
+                },
+                {
+                    "k": "stadtbibliothek@schwaebischhall.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "07"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "d": "V\u00d6B-BF"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-999",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-999",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-999",
+    "identifier": "DE-999",
+    "name": "Stadtbibliothek im Glashaus Schw\u00e4bisch Hall",
+    "location": "Schw\u00e4bisch Hall",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAW"
+}

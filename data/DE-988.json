@@ -1,0 +1,227 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-988.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:18-11-99"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:22-02-21"
+                ],
+                {
+                    "t": "15:45:47.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "009035184"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "765101-6"
+                },
+                {
+                    "d": "988"
+                },
+                {
+                    "e": "DE-988"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.hs-offenburg.de/bibliothek"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://bsz.ibs-bw.de/opac02"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Gengenbach HS Offenburg"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Hochschule Offenburg, University of Applied Sciences, Bibliothek Campus Gengenbach"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Klosterstr. 9"
+                },
+                {
+                    "b": "Gengenbach"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "77723"
+                },
+                {
+                    "f": "Baden-W\u00fcrttemberg"
+                },
+                {
+                    "i": "Mo-Fr 9.00-18.00, Sa 9.00-13.00"
+                },
+                {
+                    "j": "vorlesungsfreie Zeit: ver\u00e4nderte \u00d6ffnungszeiten (s. Homepage)"
+                },
+                {
+                    "k": "9.32345"
+                },
+                {
+                    "l": "48.05378"
+                },
+                {
+                    "n": "08317034"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "7803"
+                },
+                {
+                    "f": "96 98-4413"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "7803"
+                },
+                {
+                    "i": "96 98-454413"
+                },
+                {
+                    "k": "bib-gengenbach@hs-offenburg.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0031"
+                },
+                {
+                    "d": "SWB"
+                },
+                {
+                    "f": "65"
+                },
+                {
+                    "g": "02"
+                },
+                {
+                    "h": "06"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "SWB"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-988",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-988",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-988",
+    "identifier": "DE-988",
+    "name": "Hochschule Offenburg, University of Applied Sciences, Bibliothek Campus Gengenbach",
+    "location": "Gengenbach",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAW"
+}

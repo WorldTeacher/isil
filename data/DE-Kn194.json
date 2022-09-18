@@ -1,0 +1,245 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Kn194.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:30-03-10"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:11-05-22"
+                ],
+                {
+                    "t": "12:50:07.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:30-03-10"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "100120705X"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "101072-4"
+                },
+                {
+                    "d": "Kn 194"
+                },
+                {
+                    "e": "DE-Kn194"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "https://museenkoeln.de/ns-dokumentationszentrum/"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "NSDOK"
+                },
+                {
+                    "4": "a"
+                }
+            ],
+            [
+                {
+                    "a": "K\u00f6ln NS-Dok.zentr."
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "NS-Dokumentationszentrum der Stadt K\u00f6ln, Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Appellhofplatz 23-25"
+                },
+                {
+                    "b": "K\u00f6ln"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "50667"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "i": "Di und Do 10.00-18.00, Mi 10.00-16.00, Fr 10.00-13.00"
+                },
+                {
+                    "k": "6.95025"
+                },
+                {
+                    "l": "50.94061"
+                },
+                {
+                    "n": "05315000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "221"
+                },
+                {
+                    "f": "22 12-6361"
+                },
+                {
+                    "k": "Bibliothek.nsdok@stadt-koeln.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0367"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "07"
+                },
+                {
+                    "h": "06"
+                },
+                {
+                    "i": "P"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Geschichte K\u00f6lns im Nationalsozialismus"
+                },
+                {
+                    "a": "Nationalsozialismus"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "b"
+                },
+                {
+                    "d": "bibliothek.nsdok@stadt-koeln.de"
+                }
+            ],
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "bibliothek.nsdok@stadt-koeln.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "bibliothek.nsdok@stadt-koeln.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Kn194",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Kn194",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Kn194",
+    "identifier": "DE-Kn194",
+    "name": "NS-Dokumentationszentrum der Stadt K\u00f6ln, Bibliothek",
+    "location": "K\u00f6ln",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NRW"
+}

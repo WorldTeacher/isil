@@ -1,0 +1,221 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-B747.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:28-09-18"
+                ],
+                {
+                    "t": "13:08:16.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020588887"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "CM409"
+                },
+                {
+                    "d": "B 747"
+                },
+                {
+                    "e": "DE-B747"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.berlin.de/sen/justiz/gerichte/ag/tierg/"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Bibliothek des Amtsgerichtes Tiergarten"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Turmstr. 91"
+                },
+                {
+                    "b": "Berlin"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "10559"
+                },
+                {
+                    "f": "Berlin"
+                },
+                {
+                    "i": "Mo-Di und Do 7.30-15.45, Mi 7.30-15.00, Fr 7.30-14.15"
+                },
+                {
+                    "k": "13.35428"
+                },
+                {
+                    "l": "52.52649"
+                },
+                {
+                    "n": "11000000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Berlin"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "10548"
+                },
+                {
+                    "f": "Berlin"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "30"
+                },
+                {
+                    "f": "90 14-2599"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "30"
+                },
+                {
+                    "i": "90 14-2016"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "02"
+                },
+                {
+                    "h": "07"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Strafrecht"
+                },
+                {
+                    "a": "\u00d6ffentliches Recht"
+                },
+                {
+                    "a": "Kriminologie"
+                },
+                {
+                    "a": "B\u00fcrgerliches Recht"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BER"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-B747",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-B747",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-B747",
+    "identifier": "DE-B747",
+    "name": "Bibliothek des Amtsgerichtes Tiergarten",
+    "location": "Berlin",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BER"
+}

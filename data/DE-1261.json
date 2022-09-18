@@ -1,0 +1,264 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-1261.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:21-12-05"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:08-09-20"
+                ],
+                {
+                    "t": "11:03:29.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:21-12-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "977864405"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "JB678"
+                },
+                {
+                    "d": "1261"
+                },
+                {
+                    "e": "DE-1261"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.stadtbuecherei-bornheim.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://stb-bornheim.dyndns.org/wwwopac/index.asp?"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Bornheim StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtb\u00fccherei Bornheim"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Servatiusweg 19-23"
+                },
+                {
+                    "b": "Bornheim/Rheinland"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "53332"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "i": "Mo-Di und Fr 10.00-13.00 und 15.00-18.00, Do 10.00-13.00 und 15.00-19.00"
+                },
+                {
+                    "k": "6.99038"
+                },
+                {
+                    "l": "50.76151"
+                },
+                {
+                    "n": "05382012"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "a": "Rathausstr. 2"
+                },
+                {
+                    "b": "Bornheim"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "53332"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "z": "Bitte f\u00fcr Postsendungen/Fernleihzusendungen benutzen"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "2222"
+                },
+                {
+                    "f": "93 85 65-66"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "2222"
+                },
+                {
+                    "i": "93 85 67"
+                },
+                {
+                    "k": "Stadtbuecherei@stadt-bornheim.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "06"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "b"
+                },
+                {
+                    "d": "stadtbuecherei-bornheim@web.de"
+                }
+            ],
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "stadtbuecherei-bornheim@web.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "stadtbuecherei-bornheim@web.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-1261",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-1261",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-1261",
+    "identifier": "DE-1261",
+    "name": "Stadtb\u00fccherei Bornheim",
+    "location": "Bornheim/Rheinland",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NRW"
+}

@@ -1,0 +1,256 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-1817.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:17-02-10"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:13-09-21"
+                ],
+                {
+                    "t": "17:49:18.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:17-02-10"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1000292916"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "d": "1817"
+                },
+                {
+                    "e": "DE-1817"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "https://www.ue-germany.com/de/studiere-mit-uns/wichtige-informationen/bibliothek/"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://vzlbs3.gbv.de/DB=25.3/LNG=DU/"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "UE-Bibliothek"
+                },
+                {
+                    "4": "a"
+                }
+            ],
+            [
+                {
+                    "a": "BiTS, BTK"
+                },
+                {
+                    "4": "b"
+                }
+            ],
+            [
+                {
+                    "a": "Iserlohn UE-Bibliothek"
+                },
+                {
+                    "4": "c"
+                }
+            ],
+            [
+                {
+                    "a": "UE Library"
+                },
+                {
+                    "4": "d"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "University of Europe for Applied Sciences GmbH, Campus Iserlohn, Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Reiterweg 26 b"
+                },
+                {
+                    "b": "Iserlohn"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "58636"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "k": "7.71856"
+                },
+                {
+                    "l": "51.38439"
+                },
+                {
+                    "n": "05962024"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "2371"
+                },
+                {
+                    "f": "7 76-506"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "2371"
+                },
+                {
+                    "i": "7 76-503"
+                },
+                {
+                    "k": "library.iserlohn@ue-germany.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "70"
+                },
+                {
+                    "g": "08"
+                },
+                {
+                    "h": "06"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "GBV"
+                },
+                {
+                    "e": "k"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "b"
+                },
+                {
+                    "d": "library.iserlohn@ue-gemany.de"
+                }
+            ],
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "library.iserlohn@ue-gemany.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "library.iserlohn@ue-gemany.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-1817",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-1817",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-1817",
+    "identifier": "DE-1817",
+    "name": "University of Europe for Applied Sciences GmbH, Campus Iserlohn, Bibliothek",
+    "location": "Iserlohn",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NRW"
+}

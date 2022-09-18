@@ -1,0 +1,254 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-933.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:15-01-20"
+                ],
+                {
+                    "t": "08:24:35.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020587015"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "GK708"
+                },
+                {
+                    "d": "933"
+                },
+                {
+                    "e": "DE-933"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "https://www.stadtbuecherei-hueckelhoven.de/"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://medienkatalog.stadtbuecherei-hueckelhoven.de/"
+                },
+                {
+                    "z": "B"
+                }
+            ],
+            [
+                {
+                    "u": "https://www.stadtbuecherei-hueckelhoven.de/fernleihe/"
+                },
+                {
+                    "z": "C"
+                }
+            ],
+            [
+                {
+                    "u": "https://www.stadtbuecherei-hueckelhoven.de/kontakt/"
+                },
+                {
+                    "z": "D"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "H\u00fcckelhoven StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtb\u00fccherei H\u00fcckelhoven"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Doktor-Ruben-Str. / Im Gymnasium"
+                },
+                {
+                    "b": "H\u00fcckelhoven"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "41836"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "i": "Mo 13.00-15.00, Di und Do 10.00-12.00 und 13.00-17.00, Mi 10.00-19.00, Fr-Sa 10.00-12.00"
+                },
+                {
+                    "k": "6.22627"
+                },
+                {
+                    "l": "51.05435"
+                },
+                {
+                    "n": "05370020"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "2433"
+                },
+                {
+                    "f": "8 47 24"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "2433"
+                },
+                {
+                    "i": "8 47 24"
+                },
+                {
+                    "k": "fernleihe@stadtbuecherei-hueckelhoven.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "06"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "b"
+                },
+                {
+                    "d": "fernleihe@stadtbuecherei-hueckelhoven.de"
+                }
+            ],
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "fernleihe@stadtbuecherei-hueckelhoven.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "fernleihe@stadtbuecherei-hueckelhoven.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-933",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-933",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-933",
+    "identifier": "DE-933",
+    "name": "Stadtb\u00fccherei H\u00fcckelhoven",
+    "location": "H\u00fcckelhoven",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NRW"
+}

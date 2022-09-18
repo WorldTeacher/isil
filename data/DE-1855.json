@@ -1,0 +1,201 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-1855.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:07-04-11"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:20-09-21"
+                ],
+                {
+                    "t": "13:16:00.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:07-04-11"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "101093953X"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "KA953"
+                },
+                {
+                    "d": "1855"
+                },
+                {
+                    "e": "DE-1855"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "https://bibkataloge.de/wiesmoor"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Wiesmoor StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtbibliothek Wiesmoor"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Hauptstra\u00dfe 199a"
+                },
+                {
+                    "b": "Wiesmoor"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "26639"
+                },
+                {
+                    "f": "Niedersachsen"
+                },
+                {
+                    "i": "Mo und Mi 9.30-12.00 und 15.00-18.00, Do 15.00-17.00"
+                },
+                {
+                    "k": "7.73363"
+                },
+                {
+                    "l": "53.41331"
+                },
+                {
+                    "n": "03452025"
+                },
+                {
+                    "o": "barrierefrei"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "4944"
+                },
+                {
+                    "f": "30 51 07"
+                },
+                {
+                    "k": "stadtbibliothek@wiesmoor.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "05"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NIE"
+                },
+                {
+                    "c": "GBV"
+                },
+                {
+                    "d": "\u00d6VK"
+                },
+                {
+                    "e": "n"
+                },
+                {
+                    "g": "R"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-1855",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-1855",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-1855",
+    "identifier": "DE-1855",
+    "name": "Stadtbibliothek Wiesmoor",
+    "location": "Wiesmoor",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NIE"
+}

@@ -1,0 +1,183 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-2975.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:10-03-21"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:10-03-21"
+                ],
+                {
+                    "t": "14:35:33.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:10-03-21"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "122901392X"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "LH941"
+                },
+                {
+                    "d": "2975"
+                },
+                {
+                    "e": "DE-2975"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "https://www.fahrbuecherei5.de/index.php"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Husum KrsFB 5"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Fahrb\u00fccherei 5 im Kreis Nordfriesland"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Otto-Hahn-Str. 37"
+                },
+                {
+                    "b": "Husum"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "25813"
+                },
+                {
+                    "f": "Schleswig-Holstein"
+                },
+                {
+                    "k": "9.07932"
+                },
+                {
+                    "l": "54.49810"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "4841"
+                },
+                {
+                    "f": "2192"
+                },
+                {
+                    "k": "info@fahrbuecherei5.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "f": "39"
+                },
+                {
+                    "g": "06"
+                },
+                {
+                    "h": "06"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "HAM"
+                },
+                {
+                    "d": "BZSH"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-2975",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-2975",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-2975",
+    "identifier": "DE-2975",
+    "name": "Fahrb\u00fccherei 5 im Kreis Nordfriesland",
+    "location": "Husum",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "HAM"
+}

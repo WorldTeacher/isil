@@ -1,0 +1,230 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-939.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:28-11-18"
+                ],
+                {
+                    "t": "16:37:56.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020587058"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "GA845"
+                },
+                {
+                    "d": "939"
+                },
+                {
+                    "e": "DE-939"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.stadtbuecherei.wittlich.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://wittlich-findus.opac.datronic.de/cgi-bin/findus.fcgi.pl?customer=wittlich&_cookiecheck=2009-03-24-12-25-35"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Wittlich StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtb\u00fccherei Wittlich"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Schlo\u00dfstr. 10"
+                },
+                {
+                    "b": "Wittlich"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "54516"
+                },
+                {
+                    "f": "Rheinland-Pfalz"
+                },
+                {
+                    "i": "Di 11.00-19.00, Mi-Do 11.00-17.00, Fr 9.00-17.00, Sa 9.00-14.00"
+                },
+                {
+                    "k": "6.89065"
+                },
+                {
+                    "l": "49.98493"
+                },
+                {
+                    "n": "07231134"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "6571"
+                },
+                {
+                    "f": "2 70 36"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "6571"
+                },
+                {
+                    "i": "2 70 39"
+                },
+                {
+                    "k": "info@stadtbuecherei.wittlich.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "07"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "info@stadtbuecherei.wittlich.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "info@stadtbuecherei.wittlich.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-939",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-939",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-939",
+    "identifier": "DE-939",
+    "name": "Stadtb\u00fccherei Wittlich",
+    "location": "Wittlich",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NRW"
+}

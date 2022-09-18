@@ -1,0 +1,198 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Al3.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:19-02-16"
+                ],
+                {
+                    "t": "07:14:07.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020588534"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "EF558"
+                },
+                {
+                    "d": "Al 3"
+                },
+                {
+                    "e": "DE-Al3"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.klinikum-altenburgerland.de/kkhabg"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Altenburg Krskrkhs"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Klinikum Altenburger Land GmbH, Medizinische Fachbibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Am Waldessaum 10"
+                },
+                {
+                    "b": "Altenburg"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "04600"
+                },
+                {
+                    "f": "Th\u00fcringen"
+                },
+                {
+                    "i": "nicht \u00f6ffentlich zug\u00e4nglich"
+                },
+                {
+                    "k": "12.43959"
+                },
+                {
+                    "l": "50.97172"
+                },
+                {
+                    "n": "16077001"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "3447"
+                },
+                {
+                    "f": "52-0"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "3447"
+                },
+                {
+                    "i": "52-3277"
+                },
+                {
+                    "k": "info@klinikum-altenburgerland.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "08"
+                },
+                {
+                    "h": "05"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "THU"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Al3",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Al3",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Al3",
+    "identifier": "DE-Al3",
+    "name": "Klinikum Altenburger Land GmbH, Medizinische Fachbibliothek",
+    "location": "Altenburg",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "THU"
+}

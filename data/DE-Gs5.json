@@ -1,0 +1,254 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Gs5.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:11-11-16"
+                ],
+                {
+                    "t": "13:53:13.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020591764"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "WA303"
+                },
+                {
+                    "d": "Gs 5"
+                },
+                {
+                    "e": "DE-Gs5"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.uwe-johnson-bibliothek.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://opac.uwe-johnson-bibliothek.de"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "G\u00fcstrow StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Uwe Johnson-Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Am Wall 2"
+                },
+                {
+                    "b": "G\u00fcstrow"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "18273"
+                },
+                {
+                    "f": "Mecklenburg-Vorpommern"
+                },
+                {
+                    "i": "Mo-Di und Do-Fr 10.00-18.00, Mi 10.00-14.00"
+                },
+                {
+                    "j": "Oktober bis April: 1. Samstag im Monat 10.00-13.00; Juni bis August: Fr 10.00-16.00"
+                },
+                {
+                    "k": "12.17166"
+                },
+                {
+                    "l": "53.79264"
+                },
+                {
+                    "n": "13053031"
+                },
+                {
+                    "o": "Zugang \u00fcber Fahrstuhl von der R\u00fcckseite des Geb\u00e4udes"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "a": "Markt 1"
+                },
+                {
+                    "b": "G\u00fcstrow"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "18271"
+                },
+                {
+                    "f": "Mecklenburg-Vorpommern"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "3843"
+                },
+                {
+                    "f": "7 69-460"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "3843"
+                },
+                {
+                    "i": "7 69-542"
+                },
+                {
+                    "k": "uwe.johnson.bibliothek@guestrow.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "07"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Barlach, Ernst"
+                },
+                {
+                    "a": "Johnson, Uwe"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "HAM"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "GBV"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Gs5",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Gs5",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Gs5",
+    "identifier": "DE-Gs5",
+    "name": "Uwe Johnson-Bibliothek",
+    "location": "G\u00fcstrow",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "HAM"
+}

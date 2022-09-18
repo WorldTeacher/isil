@@ -1,0 +1,256 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-746.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:02-03-18"
+                ],
+                {
+                    "t": "13:15:58.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020585497"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "KF811"
+                },
+                {
+                    "d": "746"
+                },
+                {
+                    "e": "DE-746"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.eschweiler.de/bibliothek"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Eschweiler StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtb\u00fccherei Eschweiler"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Johannes-Rau-Platz 1"
+                },
+                {
+                    "b": "Eschweiler"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "52249"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "i": "Mo-Di 10.30-12.30 und 14.30-18.00, Do 10.30-12.30 und 14.30-20.00, Fr 10.30-14.00"
+                },
+                {
+                    "k": "6.27083"
+                },
+                {
+                    "l": "50.81805"
+                },
+                {
+                    "n": "05354012"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Eschweiler"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "52233"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "g": "13 28"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "2403"
+                },
+                {
+                    "f": "71-310"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "2403"
+                },
+                {
+                    "i": "71-576"
+                },
+                {
+                    "k": "fernleihe@eschweiler.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "07"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "d": "VBAachen"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "b"
+                },
+                {
+                    "d": "fernleihe@eschweiler.de"
+                }
+            ],
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "fernleihe@eschweiler.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "fernleihe@eschweiler.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-746",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-746",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-746",
+    "identifier": "DE-746",
+    "name": "Stadtb\u00fccherei Eschweiler",
+    "location": "Eschweiler",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NRW"
+}

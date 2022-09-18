@@ -1,0 +1,286 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-2070s.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:07-08-13"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:22-02-16"
+                ],
+                {
+                    "t": "16:00:56.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:07-08-13"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1038013461"
+                ]
+            ]
+        ],
+        "007N": [
+            [
+                [
+                    "009002197"
+                ]
+            ],
+            [
+                [
+                    "1030327777"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "151100-2"
+                },
+                {
+                    "b": "CM653"
+                },
+                {
+                    "d": "2070s"
+                },
+                {
+                    "e": "DE-2070s"
+                },
+                {
+                    "f": "FHW"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.hwr-berlin.de/service/bibliothek/"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://opac.hwr-berlin.de"
+                },
+                {
+                    "z": "B"
+                }
+            ],
+            [
+                {
+                    "u": "http://www.hwr-berlin.de/service/bibliothek/campus-schoeneberg/"
+                },
+                {
+                    "x": "\u00d6ffnungszeiten"
+                },
+                {
+                    "z": "W"
+                }
+            ],
+            [
+                {
+                    "u": "http://www.hwr-berlin.de/service/kontakt/standorte-und-lageplaene/#c18568"
+                },
+                {
+                    "x": "Standort"
+                },
+                {
+                    "z": "W"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "HWR Berlin"
+                },
+                {
+                    "4": "a"
+                }
+            ],
+            [
+                {
+                    "a": "Berlin HWR Campus Sch\u00f6neberg"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Hochschule f\u00fcr Wirtschaft und Recht, Hochschulbibliothek, Campus Sch\u00f6neberg"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Badensche Str. 52"
+                },
+                {
+                    "b": "Berlin"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "10825"
+                },
+                {
+                    "f": "Berlin"
+                },
+                {
+                    "h": "Haus A"
+                },
+                {
+                    "i": "Mo 10.00-21.00, Di-Fr 10.00-19.00, Sa 10.00-15.00"
+                },
+                {
+                    "k": "13.33882"
+                },
+                {
+                    "l": "52.48561"
+                },
+                {
+                    "n": "11000000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "30"
+                },
+                {
+                    "f": "3 08 77-1284"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "30"
+                },
+                {
+                    "i": "3 08 77-1388"
+                },
+                {
+                    "k": "hsb.cs@hwr-berlin.de"
+                }
+            ]
+        ],
+        "035D": [
+            [
+                {
+                    "a": "B 721"
+                },
+                {
+                    "b": "DE-B721"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0316"
+                },
+                {
+                    "d": "BVB"
+                },
+                {
+                    "f": "70"
+                },
+                {
+                    "g": "02"
+                },
+                {
+                    "h": "07"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Wirtschaftswissenschaften"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BER"
+                },
+                {
+                    "c": "KOBV"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-2070s",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-2070s",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-2070s",
+    "identifier": "DE-2070s",
+    "name": "Hochschule f\u00fcr Wirtschaft und Recht, Hochschulbibliothek, Campus Sch\u00f6neberg",
+    "location": "Berlin",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BER"
+}

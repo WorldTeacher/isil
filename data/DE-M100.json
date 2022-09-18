@@ -1,0 +1,240 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-M100.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:04-02-16"
+                ],
+                {
+                    "t": "10:52:30.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020595441"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "808100-1"
+                },
+                {
+                    "b": "BJ762"
+                },
+                {
+                    "d": "M 100"
+                },
+                {
+                    "e": "DE-M100"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.badw.de/de/akademie/bibliothek/bibliothek/index.html"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://katalog.bib-bvb.de/avanti/baw/opac.html"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "M\u00fcnchen Bayer. Akad. d. Wiss."
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Bayerische Akademie der Wissenschaften, Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Alfons-Goppel-Str. 11"
+                },
+                {
+                    "b": "M\u00fcnchen"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "80539"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "i": "Mo 13.00-16.00 und Do 8.30-13.00"
+                },
+                {
+                    "j": "Nicht \u00f6ffentlich zug\u00e4nglich"
+                },
+                {
+                    "k": "11.57987"
+                },
+                {
+                    "l": "48.14112"
+                },
+                {
+                    "n": "09162000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "89"
+                },
+                {
+                    "f": "2 30 31-1146"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "89"
+                },
+                {
+                    "i": "2 30 31-1100"
+                },
+                {
+                    "k": "bibliothek@badw.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0161"
+                },
+                {
+                    "d": "BVB"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "02"
+                },
+                {
+                    "h": "06"
+                },
+                {
+                    "i": "P"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Akademieschriften <deutschsprachig>"
+                },
+                {
+                    "a": "Nachschlagewerke <allgemein>"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAY"
+                },
+                {
+                    "c": "BVB"
+                },
+                {
+                    "d": "Kalliope"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-M100",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-M100",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-M100",
+    "identifier": "DE-M100",
+    "name": "Bayerische Akademie der Wissenschaften, Bibliothek",
+    "location": "M\u00fcnchen",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAY"
+}

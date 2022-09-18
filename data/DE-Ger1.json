@@ -1,0 +1,224 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Ger1.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:21-02-18"
+                ],
+                {
+                    "t": "15:05:18.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020591535"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "CZ094"
+                },
+                {
+                    "d": "Ger 1"
+                },
+                {
+                    "e": "DE-Ger1"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.abtei-gerleve.de"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Billerbeck Abtei Gerleve"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Abtei Gerleve, Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Gerleve 1"
+                },
+                {
+                    "b": "Billerbeck"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "48727"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "i": "Nach Vereinbarung"
+                },
+                {
+                    "k": "7.23747"
+                },
+                {
+                    "l": "51.94598"
+                },
+                {
+                    "n": "05558008"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "2541"
+                },
+                {
+                    "f": "8 00-0"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "2541"
+                },
+                {
+                    "i": "8 00-233"
+                },
+                {
+                    "k": "kontakt@abtei-gerleve.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "08"
+                },
+                {
+                    "h": "08"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Exegese"
+                },
+                {
+                    "a": "Geschichte"
+                },
+                {
+                    "a": "Kunst"
+                },
+                {
+                    "a": "Theologie"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "d": "Kalliope"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ],
+        "035J": [
+            [
+                {
+                    "a": "keine Fernleihe, nur nach Vereinbarung"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Ger1",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Ger1",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Ger1",
+    "identifier": "DE-Ger1",
+    "name": "Abtei Gerleve, Bibliothek",
+    "location": "Billerbeck",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NRW"
+}

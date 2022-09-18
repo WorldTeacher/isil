@@ -1,0 +1,248 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-417.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:07-09-17"
+                ],
+                {
+                    "t": "09:38:01.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020583990"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "AH417"
+                },
+                {
+                    "d": "417"
+                },
+                {
+                    "e": "DE-417"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://buecherei.heiligenhaus.de"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Heiligenhaus StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtb\u00fccherei Heiligenhaus"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Kettwiger Str. 24"
+                },
+                {
+                    "b": "Heiligenhaus"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "42579"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "i": "Di und Do 14.00-18.30, Mi 10.00-14.00, Fr 13.00-17.00, Sa 10.00-13.00"
+                },
+                {
+                    "k": "6.96727"
+                },
+                {
+                    "l": "51.32792"
+                },
+                {
+                    "n": "05158012"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Heiligenhaus"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "42570"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "g": "10 05 53"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "2056"
+                },
+                {
+                    "f": "6 00 24"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "2056"
+                },
+                {
+                    "i": "6 00 25"
+                },
+                {
+                    "k": "buecherei@heiligenhaus.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "07"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "d": "BIBNET"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "buecherei@heiligenhaus.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "buecherei@heiligenhaus.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-417",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-417",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-417",
+    "identifier": "DE-417",
+    "name": "Stadtb\u00fccherei Heiligenhaus",
+    "location": "Heiligenhaus",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NRW"
+}

@@ -1,0 +1,225 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-1491.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:10-12-07"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:02-10-19"
+                ],
+                {
+                    "t": "16:55:56.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:10-12-07"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "986764396"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "HJ758"
+                },
+                {
+                    "d": "1491"
+                },
+                {
+                    "e": "DE-1491"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.bibliothek-hoechberg.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://webopac.winbiap.de/hoechberg/index.aspx"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "H\u00f6chberg StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Bibliothek Markt H\u00f6chberg"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Martin-Wilhelm-Str. 2"
+                },
+                {
+                    "b": "H\u00f6chberg"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "97204"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "i": "Di-Mi und Fr 10.00-18.00, Do 10.00-19.00, Sa 10.00-12.00"
+                },
+                {
+                    "k": "9.87568"
+                },
+                {
+                    "l": "49.78028"
+                },
+                {
+                    "n": "09679147"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "931"
+                },
+                {
+                    "f": "40 90 65"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "931"
+                },
+                {
+                    "i": "4 97 07 98"
+                },
+                {
+                    "k": "bibliothek@hoechberg.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "06"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAY"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "BVB"
+                },
+                {
+                    "e": "n"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "bibliothek@hoechberg.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-1491",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-1491",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-1491",
+    "identifier": "DE-1491",
+    "name": "Bibliothek Markt H\u00f6chberg",
+    "location": "H\u00f6chberg",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAY"
+}

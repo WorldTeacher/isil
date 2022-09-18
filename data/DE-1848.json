@@ -1,0 +1,236 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-1848.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:03-03-11"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:26-04-17"
+                ],
+                {
+                    "t": "13:51:12.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:03-03-11"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1010369172"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "WH498"
+                },
+                {
+                    "d": "1848"
+                },
+                {
+                    "e": "DE-1848"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "https://www.storkow-mark.de/verzeichnis/visitenkarte.php?mandat=159556"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://storkow-findus.opac.datronic.de/cgi-bin/findus-ohne-cookies.pl?customer=storkow"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Storkow StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtbibliothek Storkow"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Schlo\u00dfstr. 6"
+                },
+                {
+                    "b": "Storkow"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "15859"
+                },
+                {
+                    "f": "Brandenburg"
+                },
+                {
+                    "i": "Mo-Di und Do 10.00-18.00, Fr 10.00-13.00, Sa 9.00-12.00"
+                },
+                {
+                    "k": "13.93280"
+                },
+                {
+                    "l": "52.25323"
+                },
+                {
+                    "n": "12067481"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "33678"
+                },
+                {
+                    "f": "7 36 42"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "33678"
+                },
+                {
+                    "i": "7 32 29"
+                },
+                {
+                    "k": "bibliothek@storkow.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "06"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BER"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "KOBV"
+                },
+                {
+                    "d": "VOEB"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "bibliothek@storkow.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "bibliothek@storkow.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-1848",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-1848",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-1848",
+    "identifier": "DE-1848",
+    "name": "Stadtbibliothek Storkow",
+    "location": "Storkow",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BER"
+}

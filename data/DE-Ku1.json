@@ -1,0 +1,275 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Ku1.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:05-05-20"
+                ],
+                {
+                    "t": "10:04:27.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020594852"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "868201-X"
+                },
+                {
+                    "b": "CX413"
+                },
+                {
+                    "d": "Ku 1"
+                },
+                {
+                    "e": "DE-Ku1"
+                },
+                {
+                    "f": "BFEL"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.mri.bund.de"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "ehem. Bundesanstalt f\u00fcr Fleischforschung"
+                },
+                {
+                    "4": "a"
+                }
+            ],
+            [
+                {
+                    "a": "Kulmbach MRI, BID"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Max Rubner-Institut, Bundesforschungsinstitut f\u00fcr Ern\u00e4hrung und Lebensmittel, Bibliothek, Information und Dokumentation, Bibliothek Kulmbach"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "E.-C.-Baumann-Str. 20"
+                },
+                {
+                    "b": "Kulmbach"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "95326"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "i": "Mo-Do 9.00-15.00, Fr 8.00-13.30"
+                },
+                {
+                    "j": "und nach Vereinbarung"
+                },
+                {
+                    "k": "11.45000"
+                },
+                {
+                    "l": "50.10000"
+                },
+                {
+                    "n": "09477128"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "9221"
+                },
+                {
+                    "f": "8 03-246"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "9221"
+                },
+                {
+                    "i": "8 03-244"
+                },
+                {
+                    "k": "Fernleihe@mri.bund.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0111"
+                },
+                {
+                    "e": "GBV"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "01"
+                },
+                {
+                    "h": "07"
+                },
+                {
+                    "i": "P"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Fleisch <Technologie>"
+                },
+                {
+                    "a": "Ern\u00e4hrung"
+                },
+                {
+                    "a": "Lebensmittelchemie"
+                },
+                {
+                    "a": "Lebensmittelmikrobiologie"
+                },
+                {
+                    "a": "Tierproduktion"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAY"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "GBV"
+                },
+                {
+                    "d": "BVB; VBBMELV"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035K": [
+            [
+                {
+                    "b": "A"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "Fernleihe@mri.bund.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Ku1",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Ku1",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Ku1",
+    "identifier": "DE-Ku1",
+    "name": "Max Rubner-Institut, Bundesforschungsinstitut f\u00fcr Ern\u00e4hrung und Lebensmittel, Bibliothek, Information und Dokumentation, Bibliothek Kulmbach",
+    "location": "Kulmbach",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAY"
+}

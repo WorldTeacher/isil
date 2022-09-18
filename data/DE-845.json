@@ -1,0 +1,228 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-845.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:29-08-22"
+                ],
+                {
+                    "t": "18:01:06.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020586299"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "GL439"
+                },
+                {
+                    "d": "845"
+                },
+                {
+                    "e": "DE-845"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.stadt-erlenbach.de/Bildung-Soziales/Stadtbibliothek.aspx"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://opac.winbiap.net/erlenbach/index.aspx"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Erlenbach/Main StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtbibliothek Erlenbach"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Bahnhofsplatz 6"
+                },
+                {
+                    "b": "Erlenbach/Main"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "63906"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "i": "Di 10.00-19.00, Mi-Do 14.30-18.00, Fr 13.00-18.00"
+                },
+                {
+                    "k": "9.15475"
+                },
+                {
+                    "l": "49.80359"
+                },
+                {
+                    "n": "09676122"
+                },
+                {
+                    "o": "barrierefrei"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "9372"
+                },
+                {
+                    "f": "94 48 04"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "9372"
+                },
+                {
+                    "i": "94 48 05"
+                },
+                {
+                    "k": "Stadtbibliothek@stadt-erlenbach.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "06"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAY"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "BVB"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "Stadtbibliothek@stadt-erlenbach.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-845",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-845",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-845",
+    "identifier": "DE-845",
+    "name": "Stadtbibliothek Erlenbach",
+    "location": "Erlenbach/Main",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAY"
+}

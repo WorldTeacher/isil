@@ -1,0 +1,216 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Hb6.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:07-09-10"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:20-06-13"
+                ],
+                {
+                    "t": "18:35:04.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:07-09-10"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1006619143"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "d": "Hb 6"
+                },
+                {
+                    "e": "DE-Hb6"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.gym.seminar-heilbronn.de/biliothek"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://webpac1.bsz-bw.de/webpac-bin/wgbroker?new+-access+bw.fhhn.hnse"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Heilbronn Seminarbibl."
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Seminarbibliothek Heilbronn"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "John-F.-Kennedy-Str. 14/1"
+                },
+                {
+                    "b": "Heilbronn"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "74074"
+                },
+                {
+                    "f": "Baden-W\u00fcrttemberg"
+                },
+                {
+                    "i": "Mo und Do 8.30-12.30 und 13.00-16.30, Di-Mi 8.30-12.30 und 13.00-19.00, Fr 8.30-13.00"
+                },
+                {
+                    "j": "nicht \u00f6ffentlich zug\u00e4nglich"
+                },
+                {
+                    "k": "9.22120"
+                },
+                {
+                    "l": "49.12400"
+                },
+                {
+                    "n": "08121000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "7131"
+                },
+                {
+                    "f": "1 04 28 09"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "7131"
+                },
+                {
+                    "i": "1 04 28 28"
+                },
+                {
+                    "k": "bibliothek@seminar-gym-hn.kv.bwl.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "02"
+                },
+                {
+                    "h": "06"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "p\u00e4dagogische Literatur"
+                },
+                {
+                    "a": "Schulb\u00fccher"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAW"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Hb6",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Hb6",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Hb6",
+    "identifier": "DE-Hb6",
+    "name": "Seminarbibliothek Heilbronn",
+    "location": "Heilbronn",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAW"
+}

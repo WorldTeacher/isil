@@ -1,0 +1,183 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-1769.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:04-01-08"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:30-04-18"
+                ],
+                {
+                    "t": "17:03:57.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:04-01-08"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "987018981"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "SG283"
+                },
+                {
+                    "d": "1769"
+                },
+                {
+                    "e": "DE-1769"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Amorbach K\u00d6B"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Katholische \u00d6ffentliche B\u00fccherei Amorbach"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Kirchplatz 3"
+                },
+                {
+                    "b": "Amorbach"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "63916"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "k": "9.21982"
+                },
+                {
+                    "l": "49.64521"
+                },
+                {
+                    "n": "09676112"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "k": "fernleihe@st-michaelsbund.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "10"
+                },
+                {
+                    "h": "05"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAY"
+                },
+                {
+                    "c": "BVB"
+                },
+                {
+                    "e": "n"
+                },
+                {
+                    "g": "R"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "fernleihe@st-michaelsbund.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-1769",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-1769",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-1769",
+    "identifier": "DE-1769",
+    "name": "Katholische \u00d6ffentliche B\u00fccherei Amorbach",
+    "location": "Amorbach",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAY"
+}

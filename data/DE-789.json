@@ -1,0 +1,264 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-789.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:28-11-18"
+                ],
+                {
+                    "t": "16:38:24.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020585845"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "GQ585"
+                },
+                {
+                    "d": "789"
+                },
+                {
+                    "e": "DE-789"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.meerbusch.de/"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Meerbusch StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtbibliothek Meerbusch"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Dr.-Franz-Sch\u00fctz-Pl. 5"
+                },
+                {
+                    "b": "Meerbusch"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "40667"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "k": "6.69146"
+                },
+                {
+                    "l": "51.25296"
+                },
+                {
+                    "n": "05162022"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Meerbusch"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "40641"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "g": "16 64"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "2132"
+                },
+                {
+                    "f": "91 65 81"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "2132"
+                },
+                {
+                    "i": "91 63 95 81"
+                },
+                {
+                    "k": "stadtbibliothek@meerbusch.de"
+                }
+            ],
+            [
+                {
+                    "a": "W"
+                },
+                {
+                    "b": "Fernleihe"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "k": "fernleihe@meerbusch.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "07"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "b"
+                },
+                {
+                    "d": "fernleihe@meerbusch.de"
+                }
+            ],
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "fernleihe@meerbusch.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "fernleihe@meerbusch.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-789",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-789",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-789",
+    "identifier": "DE-789",
+    "name": "Stadtbibliothek Meerbusch",
+    "location": "Meerbusch",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NRW"
+}

@@ -1,0 +1,281 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-2173.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:18-06-14"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:09-11-20"
+                ],
+                {
+                    "t": "13:24:42.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:18-06-14"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1052303641"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "938173-9"
+                },
+                {
+                    "d": "2173"
+                },
+                {
+                    "e": "DE-2173"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.iwh-halle.de/ueber-das-iwh/bibliothek/uebersicht-kontakt-und-oeffnungszeiten/"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://vzlbs3.gbv.de/DB=9/"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "IWH"
+                },
+                {
+                    "4": "b"
+                }
+            ],
+            [
+                {
+                    "a": "Halle Institute for Economic Research - Member of the Leibniz Association"
+                },
+                {
+                    "4": "d"
+                }
+            ],
+            [
+                {
+                    "a": "Halle/S IWH"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Leibniz-Institut f\u00fcr Wirtschaftsforschung Halle, Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Kleine M\u00e4rkerstra\u00dfe 8"
+                },
+                {
+                    "b": "Halle/Saale"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "06108"
+                },
+                {
+                    "f": "Sachsen-Anhalt"
+                },
+                {
+                    "i": "Mo-Do 8.00-18.00, Fr 8.00-15.00"
+                },
+                {
+                    "k": "11.97145"
+                },
+                {
+                    "l": "51.48098"
+                },
+                {
+                    "n": "15002000"
+                },
+                {
+                    "o": "nicht barrierefrei"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "345"
+                },
+                {
+                    "f": "77 53-731"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "345"
+                },
+                {
+                    "i": "77 53-777"
+                },
+                {
+                    "k": "bibl@iwh-halle.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0012"
+                },
+                {
+                    "e": "GBV"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "06"
+                },
+                {
+                    "h": "07"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Transformation und Integration Ostdeutschlands"
+                },
+                {
+                    "a": "Transformation und Integration Mittelosteuropas"
+                },
+                {
+                    "a": "Konjuktur und Prognose der Wirtschaftsentwicklung"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "SAA"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "GBV"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "bibl@iwh-halle.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "bibl@iwh-halle.de"
+                }
+            ]
+        ],
+        "047A": [
+            [
+                {
+                    "a": "wirtschaftswissenschaftlicher Spezialbestand zum Prozess der Deutschen Einheit und der Integration Ostdeutschlands in die EU"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-2173",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-2173",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-2173",
+    "identifier": "DE-2173",
+    "name": "Leibniz-Institut f\u00fcr Wirtschaftsforschung Halle, Bibliothek",
+    "location": "Halle/Saale",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "SAA"
+}

@@ -1,0 +1,249 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-1978.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:03-09-13"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:23-03-22"
+                ],
+                {
+                    "t": "14:06:14.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:03-09-13"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1041274998"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "608978-1"
+                },
+                {
+                    "b": "DE135"
+                },
+                {
+                    "d": "1978"
+                },
+                {
+                    "e": "DE-1978"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.mfk-frankfurt.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://www.bibliothek.mspt.de"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Frankfurt/M Mus.Kommunikation"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Museum f\u00fcr Kommunikation Frankfurt, Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Schaumainkai 53"
+                },
+                {
+                    "b": "Frankfurt/Main"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "60596"
+                },
+                {
+                    "f": "Hessen"
+                },
+                {
+                    "i": "Di-Do 10.00-16.00, Fr nach Vereinbarung"
+                },
+                {
+                    "j": "Voranmeldung erbeten"
+                },
+                {
+                    "k": "8.67617"
+                },
+                {
+                    "l": "50.10406"
+                },
+                {
+                    "n": "06412000"
+                },
+                {
+                    "o": "barrierefrei"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "69"
+                },
+                {
+                    "f": "60 60-371"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "69"
+                },
+                {
+                    "i": "60 60-666"
+                },
+                {
+                    "k": "bibliothek@mspt.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0321"
+                },
+                {
+                    "d": "SWB"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "07"
+                },
+                {
+                    "h": "07"
+                },
+                {
+                    "i": "P"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Kommunikationsgeschichte"
+                },
+                {
+                    "a": "Fernmeldegeschichte"
+                },
+                {
+                    "a": "Postgeschichte"
+                },
+                {
+                    "a": "Historische Reiseliteratur"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "HES"
+                },
+                {
+                    "c": "SWB"
+                },
+                {
+                    "e": "n"
+                },
+                {
+                    "f": "x"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-1978",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-1978",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-1978",
+    "identifier": "DE-1978",
+    "name": "Museum f\u00fcr Kommunikation Frankfurt, Bibliothek",
+    "location": "Frankfurt/Main",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "HES"
+}

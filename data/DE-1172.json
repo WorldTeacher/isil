@@ -1,0 +1,218 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-1172.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:30-04-04"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:03-12-21"
+                ],
+                {
+                    "t": "15:07:22.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "025926810"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "LC177"
+                },
+                {
+                    "d": "1172"
+                },
+                {
+                    "e": "DE-1172"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "https://www.stadt-helmstedt.de/bildung/buecherei.html"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://www.stadt-helmstedt.de/bildung/buecherei/online-katalog-buecherei.html"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Helmstedt StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtb\u00fccherei Helmstedt"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Stobenstr. 31"
+                },
+                {
+                    "b": "Helmstedt"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "38350"
+                },
+                {
+                    "f": "Niedersachsen"
+                },
+                {
+                    "i": "Mo und Fr 10.00-13.00, Di und Do 14.00-18.00"
+                },
+                {
+                    "k": "11.00711"
+                },
+                {
+                    "l": "52.22973"
+                },
+                {
+                    "n": "03154010"
+                },
+                {
+                    "o": "barrierefrei"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "5351"
+                },
+                {
+                    "f": "54 36-45"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "5351"
+                },
+                {
+                    "i": "54 36-46"
+                },
+                {
+                    "k": "buecherei@stadt-helmstedt.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "06"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NIE"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "GBV"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-1172",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-1172",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-1172",
+    "identifier": "DE-1172",
+    "name": "Stadtb\u00fccherei Helmstedt",
+    "location": "Helmstedt",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NIE"
+}

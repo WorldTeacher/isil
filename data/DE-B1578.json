@@ -1,0 +1,224 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-B1578.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:21-11-08"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:09-11-20"
+                ],
+                {
+                    "t": "13:25:11.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:21-11-08"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "991368622"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "d": "B 1578"
+                },
+                {
+                    "e": "DE-B1578"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.ici-berlin.org/library/"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://vzlbs2.gbv.de/DB=50/"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "ICI"
+                },
+                {
+                    "4": "a"
+                }
+            ],
+            [
+                {
+                    "a": "Berlin ICI"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Institute for Cultural Inquiry- Kulturlabor, Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Christinenstr. 18/19"
+                },
+                {
+                    "b": "Berlin"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "10119"
+                },
+                {
+                    "f": "Berlin"
+                },
+                {
+                    "i": "Mo und Mi 10.00-15.00, Di und Do 13.00-18.00"
+                },
+                {
+                    "k": "13.41088"
+                },
+                {
+                    "l": "52.53217"
+                },
+                {
+                    "n": "11000000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "z": "Haus 8"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "30"
+                },
+                {
+                    "f": "473 7291-26"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "30"
+                },
+                {
+                    "i": "473 7291-56"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "08"
+                },
+                {
+                    "h": "05"
+                },
+                {
+                    "i": "P"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Kulturwissenschaft"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BER"
+                },
+                {
+                    "c": "GBV"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-B1578",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-B1578",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-B1578",
+    "identifier": "DE-B1578",
+    "name": "Institute for Cultural Inquiry- Kulturlabor, Bibliothek",
+    "location": "Berlin",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BER"
+}

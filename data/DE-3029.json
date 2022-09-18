@@ -1,0 +1,197 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-3029.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-05-21"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:22-06-21"
+                ],
+                {
+                    "t": "14:21:38.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:11-05-21"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1233328107"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "WE801"
+                },
+                {
+                    "d": "3029"
+                },
+                {
+                    "e": "DE-3029"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "https://www.penig.de/einrichtungen-and-freizeit/freizeit/stadtbibliothek/"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://stadtbibliothek-penig.internetopac.de/index.asp?DB=125642"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Penig StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtbibliothek Penig"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Schlo\u00dfstra\u00dfe 5"
+                },
+                {
+                    "b": "Penig"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "09322"
+                },
+                {
+                    "f": "Sachsen"
+                },
+                {
+                    "i": "Mo 13.00-17.00, Di 13.00-18.00, Do 12.00-17.00, Fr 09.00-12.00"
+                },
+                {
+                    "k": "12.70663"
+                },
+                {
+                    "l": "50.93429"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "37381"
+                },
+                {
+                    "f": "654660"
+                },
+                {
+                    "k": "buecherei@penig.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "SAX"
+                },
+                {
+                    "d": "\u00d6VK"
+                },
+                {
+                    "e": "n"
+                },
+                {
+                    "f": "x"
+                },
+                {
+                    "g": "R"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-3029",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-3029",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-3029",
+    "identifier": "DE-3029",
+    "name": "Stadtbibliothek Penig",
+    "location": "Penig",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "SAX"
+}

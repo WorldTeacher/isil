@@ -1,0 +1,201 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-1571.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:04-02-08"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:29-03-16"
+                ],
+                {
+                    "t": "08:39:16.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:04-02-08"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "987414224"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "NG285"
+                },
+                {
+                    "d": "1571"
+                },
+                {
+                    "e": "DE-1571"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.st-michaelsbund.de/"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "M\u00fcnchen SMB Landesfachstelle"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Sankt Michaelsbund, Landesfachstelle"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Herzog-Wilhelm-Str. 5"
+                },
+                {
+                    "b": "M\u00fcnchen"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "80331"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "i": "Mo-Do 8.00-16.30, Fr 8.00-12.00"
+                },
+                {
+                    "k": "11.56679"
+                },
+                {
+                    "l": "48.13760"
+                },
+                {
+                    "n": "09162000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "89"
+                },
+                {
+                    "f": "2 32 25-552"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "89"
+                },
+                {
+                    "i": "2 32 25-169"
+                },
+                {
+                    "k": "fernleihe@st-michaelsbund.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "91"
+                },
+                {
+                    "g": "10"
+                },
+                {
+                    "h": "11"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAY"
+                },
+                {
+                    "c": "BVB"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-1571",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-1571",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-1571",
+    "identifier": "DE-1571",
+    "name": "Sankt Michaelsbund, Landesfachstelle",
+    "location": "M\u00fcnchen",
+    "type": [
+        "Organization",
+        "Organization"
+    ],
+    "addressRegion": "BAY"
+}

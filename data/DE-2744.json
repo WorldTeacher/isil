@@ -1,0 +1,244 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-2744.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:18-12-18"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:18-12-18"
+                ],
+                {
+                    "t": "14:18:36.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:18-12-18"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1173744878"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "KR302"
+                },
+                {
+                    "d": "2744"
+                },
+                {
+                    "e": "DE-2744"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.schwaikheim.de/de/freizeit/buecherei/"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://gb-schwaikheim.lmscloud.net/cgi-bin/koha/opac-main.pl"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Schwaikheim GB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Gemeindeb\u00fccherei Schwaikheim"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Uhlandstr. 8"
+                },
+                {
+                    "b": "Schwaikheim"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "71409"
+                },
+                {
+                    "f": "Baden-W\u00fcrttemberg"
+                },
+                {
+                    "h": "Eingang \u00fcber Schubartstr. 11"
+                },
+                {
+                    "i": "Mo 14.00-17.00, Mi 14.00-19.00 und Fr 10.00-12.00 und 16.00-19.00"
+                },
+                {
+                    "k": "9.35134"
+                },
+                {
+                    "l": "48.87167"
+                },
+                {
+                    "n": "08119068"
+                },
+                {
+                    "o": "barrierefrei"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "7195"
+                },
+                {
+                    "f": "95 38 40"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "7195"
+                },
+                {
+                    "i": "95 38 40"
+                },
+                {
+                    "k": "info@buecherei-schwaikheim.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "06"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAW"
+                },
+                {
+                    "c": "SWB"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "b"
+                },
+                {
+                    "d": "info@buecherei-schwaikheim.de"
+                }
+            ],
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "info@buecherei-schwaikheim.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "info@buecherei-schwaikheim.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-2744",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-2744",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-2744",
+    "identifier": "DE-2744",
+    "name": "Gemeindeb\u00fccherei Schwaikheim",
+    "location": "Schwaikheim",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAW"
+}

@@ -1,0 +1,222 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-1422.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:14-11-07"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:28-01-16"
+                ],
+                {
+                    "t": "16:06:21.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:14-11-07"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "986394580"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "HQ815"
+                },
+                {
+                    "d": "1422"
+                },
+                {
+                    "e": "DE-1422"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.karlsfeld.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://www.datronic.de/cgi-bin/findus.fcgi.pl?customer=karlsfeld"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Karlsfeld GB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Gemeindeb\u00fccherei Karlsfeld"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Gartenstr. 7"
+                },
+                {
+                    "b": "Karlsfeld"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "85757"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "i": "Mo und Sa 9.00-12.00, Di 14.00-20.00, Mi 14.00-18.30, Fr 14.00-19.00"
+                },
+                {
+                    "k": "11.46761"
+                },
+                {
+                    "l": "48.22745"
+                },
+                {
+                    "n": "09174126"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "8131"
+                },
+                {
+                    "f": "99-130"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "8131"
+                },
+                {
+                    "i": "99-102"
+                },
+                {
+                    "k": "Buecherei@Karlsfeld.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "06"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAY"
+                },
+                {
+                    "c": "BVB"
+                },
+                {
+                    "e": "n"
+                },
+                {
+                    "g": "R"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "Buecherei@Karlsfeld.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-1422",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-1422",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-1422",
+    "identifier": "DE-1422",
+    "name": "Gemeindeb\u00fccherei Karlsfeld",
+    "location": "Karlsfeld",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAY"
+}

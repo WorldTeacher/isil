@@ -1,0 +1,234 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-H210.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:18-11-99"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:20-11-20"
+                ],
+                {
+                    "t": "16:44:13.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "009072985"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "208210-X"
+                },
+                {
+                    "b": "BT224"
+                },
+                {
+                    "d": "H 210"
+                },
+                {
+                    "e": "DE-H210"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "https://amh.de/bibliothek/"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://kataloge.uni-hamburg.de/DB=3.1/LNG=DU/"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Hamburg Arch\u00e4ologisches Museum"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Arch\u00e4ologisches Museum Hamburg -  Stadtmuseum Harburg, Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Museumspl. 2"
+                },
+                {
+                    "b": "Hamburg"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "21073"
+                },
+                {
+                    "f": "Hamburg"
+                },
+                {
+                    "i": "Di-Fr 10.00-13.00"
+                },
+                {
+                    "j": "um Anmeldung wird gebeten"
+                },
+                {
+                    "k": "9.97737"
+                },
+                {
+                    "l": "53.45902"
+                },
+                {
+                    "n": "02000000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "40"
+                },
+                {
+                    "f": "4 28 71-3681"
+                },
+                {
+                    "k": "bibliothek@amh.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0025"
+                },
+                {
+                    "e": "GBV"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "06"
+                },
+                {
+                    "h": "07"
+                },
+                {
+                    "i": "P"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Arch\u00e4ologie <Norddeutschland>"
+                },
+                {
+                    "a": "Harburg <Regionalgeschichte>"
+                },
+                {
+                    "a": "Vor- und Fr\u00fchgeschichte"
+                },
+                {
+                    "a": "Regionalgeschichte"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "HAM"
+                },
+                {
+                    "c": "GBV"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-H210",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-H210",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-H210",
+    "identifier": "DE-H210",
+    "name": "Arch\u00e4ologisches Museum Hamburg -  Stadtmuseum Harburg, Bibliothek",
+    "location": "Hamburg",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "HAM"
+}

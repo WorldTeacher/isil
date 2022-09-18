@@ -1,0 +1,211 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-508.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:28-01-16"
+                ],
+                {
+                    "t": "16:28:32.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "02058461X"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "AH508"
+                },
+                {
+                    "d": "508"
+                },
+                {
+                    "e": "DE-508"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://stadtbibliothek-oranienburg.de"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Oranienburg StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtbibliothek Oranienburg"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Schlo\u00dfplatz 2"
+                },
+                {
+                    "b": "Oranienburg"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "16515"
+                },
+                {
+                    "f": "Brandenburg"
+                },
+                {
+                    "i": "Mo-Di und Do-Fr 11.00-18.00, Sa 9.00-13.00"
+                },
+                {
+                    "k": "13.24039"
+                },
+                {
+                    "l": "52.75618"
+                },
+                {
+                    "n": "12065256"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "3301"
+                },
+                {
+                    "f": "60 08 66 0"
+                },
+                {
+                    "k": "stadtbibliothek@oranienburg.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "07"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Geschichte Oranienburg/Brandenburg"
+                },
+                {
+                    "a": "Oberhavel"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BER"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "KOBV"
+                },
+                {
+                    "d": "VOEB"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-508",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-508",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-508",
+    "identifier": "DE-508",
+    "name": "Stadtbibliothek Oranienburg",
+    "location": "Oranienburg",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BER"
+}

@@ -1,0 +1,255 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-H189.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:18-11-99"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:21-02-18"
+                ],
+                {
+                    "t": "11:06:33.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "009072977"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "208189-1"
+                },
+                {
+                    "b": "BT066"
+                },
+                {
+                    "d": "H 189"
+                },
+                {
+                    "e": "DE-H189"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.hamburg.de/bkm/denkmalschutzamt/"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://kataloge.uni-hamburg.de/LNG=DU/DB=3.2/"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Hamburg Denkmalschutzamt"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Denkmalschutzamt der Freien und Hansestadt Hamburg, Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Gro\u00dfe Bleichen 30"
+                },
+                {
+                    "b": "Hamburg"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "20354"
+                },
+                {
+                    "f": "Hamburg"
+                },
+                {
+                    "h": "5. OG"
+                },
+                {
+                    "i": "Nach telefonischer Anmeldung"
+                },
+                {
+                    "k": "10.02824"
+                },
+                {
+                    "l": "53.57960"
+                },
+                {
+                    "n": "02000000"
+                },
+                {
+                    "o": "barrierefrei"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "40"
+                },
+                {
+                    "f": "4 28 24-747"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "40"
+                },
+                {
+                    "i": "42 79 24-035"
+                },
+                {
+                    "k": "denkmalschutzamt@bkm.hamburg.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0025"
+                },
+                {
+                    "e": "GBV"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "02"
+                },
+                {
+                    "h": "06"
+                },
+                {
+                    "i": "P"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Architekturgeschichte"
+                },
+                {
+                    "a": "Denkmalpflege"
+                },
+                {
+                    "a": "St\u00e4dtebau"
+                },
+                {
+                    "a": "Kunstgeschichte"
+                },
+                {
+                    "a": "Gartenkunst"
+                },
+                {
+                    "a": "Bautechnik"
+                },
+                {
+                    "a": "Landeskunde"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "HAM"
+                },
+                {
+                    "c": "GBV"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-H189",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-H189",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-H189",
+    "identifier": "DE-H189",
+    "name": "Denkmalschutzamt der Freien und Hansestadt Hamburg, Bibliothek",
+    "location": "Hamburg",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "HAM"
+}

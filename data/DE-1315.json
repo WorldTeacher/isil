@@ -1,0 +1,225 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-1315.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:13-06-07"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:28-01-16"
+                ],
+                {
+                    "t": "16:05:06.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:13-06-07"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "98460345X"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "HQ360"
+                },
+                {
+                    "d": "1315"
+                },
+                {
+                    "e": "DE-1315"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.unterhaching.de/unterhaching/web.nsf/id/pa_buecherei.html"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://www.datronic.de/cgi-bin/findus.pl?customer=unterhaching"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Unterhaching GB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Gemeindeb\u00fccherei Unterhaching"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Rathausplatz 11"
+                },
+                {
+                    "b": "Unterhaching"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "82008"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "i": "Di-Fr 11.00-19.00, Sa 10.00-14.00"
+                },
+                {
+                    "k": "11.60970"
+                },
+                {
+                    "l": "48.06622"
+                },
+                {
+                    "n": "09184148"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "89"
+                },
+                {
+                    "f": "6 65 51-440"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "89"
+                },
+                {
+                    "i": "6 65 51-464"
+                },
+                {
+                    "k": "Buecherei@unterhaching.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "07"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAY"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "BVB"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "buecherei@unterhaching.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-1315",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-1315",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-1315",
+    "identifier": "DE-1315",
+    "name": "Gemeindeb\u00fccherei Unterhaching",
+    "location": "Unterhaching",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAY"
+}

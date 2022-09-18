@@ -1,0 +1,295 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-120.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:18-11-99"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:18-10-16"
+                ],
+                {
+                    "t": "15:37:01.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:27-05-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "009026495"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "AH120"
+                },
+                {
+                    "d": "120"
+                },
+                {
+                    "e": "DE-120"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://stralsund.de/stadtbibliothek"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://stadtbibliothek.stralsund.de/Kinderbibliothek/"
+                },
+                {
+                    "x": "Kinderbibliothek"
+                },
+                {
+                    "z": "W"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Stralsund StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtbibliothek Stralsund"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Badenstr. 13"
+                },
+                {
+                    "b": "Stralsund"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "18439"
+                },
+                {
+                    "f": "Mecklenburg-Vorpommern"
+                },
+                {
+                    "i": "Mo und Mi 14.00-19.00, Di, Do-Fr 10.00-19.00"
+                },
+                {
+                    "k": "13.09468"
+                },
+                {
+                    "l": "54.31584"
+                },
+                {
+                    "n": "13005000"
+                },
+                {
+                    "o": "barrierefrei"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "a": "Wasserstr. 68"
+                },
+                {
+                    "b": "Stralsund"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "18439"
+                },
+                {
+                    "f": "Mecklenburg-Vorpommern"
+                },
+                {
+                    "i": "Mo-Fr 13.00-18.00"
+                },
+                {
+                    "k": "13.84751"
+                },
+                {
+                    "l": "54.00383"
+                },
+                {
+                    "o": "barrierefrei"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "z": "Post \u00fcber die Hauptstelle in der Badenstra\u00dfe"
+                },
+                {
+                    "2": "W"
+                },
+                {
+                    "3": "Kinderbibliothek"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "3831"
+                },
+                {
+                    "f": "2 53-678"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "3831"
+                },
+                {
+                    "i": "2 52-53678"
+                },
+                {
+                    "k": "stadtbibliothek@stralsund.de"
+                }
+            ],
+            [
+                {
+                    "a": "W"
+                },
+                {
+                    "b": "Kinderbibliothek"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "3831"
+                },
+                {
+                    "f": "2 53-679"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "06"
+                },
+                {
+                    "h": "08"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Mecklenburg <Geschichte>"
+                },
+                {
+                    "a": "Stralsund <Geschichte>"
+                },
+                {
+                    "a": "Vorpommern"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "HAM"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "GBV"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-120",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-120",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-120",
+    "identifier": "DE-120",
+    "name": "Stadtbibliothek Stralsund",
+    "location": "Stralsund",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "HAM"
+}

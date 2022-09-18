@@ -1,0 +1,205 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-1800.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:16-11-07"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:17-02-16"
+                ],
+                {
+                    "t": "13:35:36.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:16-11-07"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "98642983X"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "PA276"
+                },
+                {
+                    "d": "1800"
+                },
+                {
+                    "e": "DE-1800"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://buecherei-odelzhausen.de/"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Odelzhausen StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Verbandsb\u00fccherei Odelzhausen"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Dietenhausener Str. 17"
+                },
+                {
+                    "b": "Odelzhausen"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "85235"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "i": "Di 8.00-12.00, Mi 16.00-18.00, Fr 17.00-19.00"
+                },
+                {
+                    "k": "11.19350"
+                },
+                {
+                    "l": "48.30841"
+                },
+                {
+                    "n": "09174135"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "8134"
+                },
+                {
+                    "f": "55 54 69"
+                },
+                {
+                    "k": "verbandsbuecherei@odelzhausen.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "10"
+                },
+                {
+                    "h": "06"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAY"
+                },
+                {
+                    "c": "BVB"
+                },
+                {
+                    "e": "n"
+                },
+                {
+                    "g": "R"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "verbandsbuecherei@odelzhausen.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-1800",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-1800",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-1800",
+    "identifier": "DE-1800",
+    "name": "Verbandsb\u00fccherei Odelzhausen",
+    "location": "Odelzhausen",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAY"
+}

@@ -1,0 +1,225 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-1416.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:09-11-07"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:28-01-16"
+                ],
+                {
+                    "t": "16:06:16.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:09-11-07"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "986329169"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "HQ062"
+                },
+                {
+                    "d": "1416"
+                },
+                {
+                    "e": "DE-1416"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.buecherei.geretsried.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://www.datronic.de/cgi-bin/findus.fcgi.pl?customer=geretsried"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Geretsried StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtb\u00fccherei Geretsried"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Adalbert-Stifter-Str. 13"
+                },
+                {
+                    "b": "Geretsried"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "82538"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "i": "Di und Fr 12.00-18.00, Mi 10.00-16.00, Do 12.00-19.00, Sa 9.00-12.00"
+                },
+                {
+                    "k": "11.47436"
+                },
+                {
+                    "l": "47.86821"
+                },
+                {
+                    "n": "09173126"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "8171"
+                },
+                {
+                    "f": "9 04 93"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "8171"
+                },
+                {
+                    "i": "9 04 95"
+                },
+                {
+                    "k": "buecherei@geretsried.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "07"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAY"
+                },
+                {
+                    "c": "BVB"
+                },
+                {
+                    "d": "BiblioPLUS"
+                },
+                {
+                    "e": "n"
+                },
+                {
+                    "g": "R"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "buecherei@geretsried.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-1416",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-1416",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-1416",
+    "identifier": "DE-1416",
+    "name": "Stadtb\u00fccherei Geretsried",
+    "location": "Geretsried",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAY"
+}

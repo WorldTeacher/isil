@@ -1,0 +1,235 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-B1518.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:17-11-16"
+                ],
+                {
+                    "t": "15:50:07.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020588925"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "181518-0"
+                },
+                {
+                    "b": "DN717"
+                },
+                {
+                    "d": "B 1518"
+                },
+                {
+                    "e": "DE-B1518"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.archiv-berlin.mpg.de/wiki/deutsch.php/Bibliothek/Bibliothek"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Berlin Archiv MPG Bibl."
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Archiv der Max-Planck-Gesellschaft, Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Boltzmannstr. 14"
+                },
+                {
+                    "b": "Berlin"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "14195"
+                },
+                {
+                    "f": "Berlin"
+                },
+                {
+                    "i": "Mo-Do 9.00-16.00, Fr 9.00-15.00"
+                },
+                {
+                    "k": "13.27785"
+                },
+                {
+                    "l": "52.44679"
+                },
+                {
+                    "n": "11000000"
+                },
+                {
+                    "o": "barrierefrei"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "30"
+                },
+                {
+                    "f": "84 13-3701"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "30"
+                },
+                {
+                    "i": "84 13-3700"
+                },
+                {
+                    "k": "archiv@archiv-berlin.mpg.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0148"
+                },
+                {
+                    "d": "MPG"
+                },
+                {
+                    "d": "SWB"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "08"
+                },
+                {
+                    "h": "07"
+                },
+                {
+                    "i": "P"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Wissenschaftsgeschichte <20. Jh.>"
+                },
+                {
+                    "a": "Kaiser-Wilhelm-Gesellschaft"
+                },
+                {
+                    "a": "Max-Planck-Gesellschaft"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BER"
+                },
+                {
+                    "c": "SWB"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-B1518",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-B1518",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-B1518",
+    "identifier": "DE-B1518",
+    "name": "Archiv der Max-Planck-Gesellschaft, Bibliothek",
+    "location": "Berlin",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BER"
+}

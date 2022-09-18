@@ -1,0 +1,262 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-600.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:23-11-06"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:21-09-20"
+                ],
+                {
+                    "t": "09:31:43.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:23-11-06"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "982038402"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "d": "600"
+                },
+                {
+                    "e": "DE-600"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "https://www.zeitschriftendatenbank.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://zdb-katalog.de"
+                },
+                {
+                    "z": "B"
+                }
+            ],
+            [
+                {
+                    "u": "http://services.dnb.de/sru/zdb"
+                },
+                {
+                    "x": "SRU"
+                },
+                {
+                    "z": "W"
+                }
+            ],
+            [
+                {
+                    "u": "https://www.zeitschriftendatenbank.de/services/schnittstellen/"
+                },
+                {
+                    "x": "weitere Schnittstellen"
+                },
+                {
+                    "z": "W"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Berlin ZDB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Zeitschriftendatenbank (ZDB)"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Unter den Linden 8"
+                },
+                {
+                    "b": "Berlin"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "10117"
+                },
+                {
+                    "f": "Berlin"
+                },
+                {
+                    "k": "13.39151"
+                },
+                {
+                    "l": "52.51822"
+                },
+                {
+                    "n": "11000000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "a": "Staatsbibliothek zu Berlin, Abt. II E"
+                },
+                {
+                    "b": "Berlin"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "10117"
+                },
+                {
+                    "f": "Berlin"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "30"
+                },
+                {
+                    "f": "2 66-434444"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "30"
+                },
+                {
+                    "i": "2 66-334001"
+                },
+                {
+                    "k": "zdb-hotline@sbb.spk-berlin.de"
+                }
+            ]
+        ],
+        "035D": [
+            [
+                {
+                    "b": "GyBeDBIZ (fr\u00fcherer MARC Code)"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "96"
+                },
+                {
+                    "g": "07"
+                },
+                {
+                    "h": "11"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "WWW"
+                },
+                {
+                    "d": "ZDB"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ],
+        "047A": [
+            [
+                {
+                    "a": "Die Zeitschriftendatenbank (ZDB) ist eine der weltweit gr\u00f6\u00dften Datenbanken f\u00fcr den Nachweis von Zeitschriften und Zeitungen aus allen L\u00e4ndern, in allen Sprachen, ohne zeitliche Einschr\u00e4nkung, in gedruckter, elektronischer oder anderer Form. Die Teilnahme an der ZDB ist kostenlos und steht allen Bibliotheken und Institutionen offen. Aktuell bringen 3.700 Bibliotheken aus Deutschland und \u00d6sterreich ihre Zeitschriftentitel und die zugeh\u00f6rigen Bestandsnachweise in die ZDB ein. Dabei k\u00f6nnen bereits vorhandene Titelnachweise nachgenutzt werden. Ingesamt umfasst die ZDB mehr als 1,8 Mio. Titel- und 16,6 Mio. Bestandsnachweise"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-600",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-600",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-600",
+    "identifier": "DE-600",
+    "name": "Zeitschriftendatenbank (ZDB)",
+    "location": "Berlin",
+    "type": [
+        "Organization",
+        "Organization"
+    ],
+    "addressRegion": "WWW"
+}

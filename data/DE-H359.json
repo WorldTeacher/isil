@@ -1,0 +1,228 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-H359.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:20-08-20"
+                ],
+                {
+                    "t": "10:05:05.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020592329"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "208359-0"
+                },
+                {
+                    "b": "LA220"
+                },
+                {
+                    "d": "H 359"
+                },
+                {
+                    "e": "DE-H359"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "https://justiz.hamburg.de/landesarbeitsgericht/9908646/bibliothek/"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://kataloge.uni-hamburg.de/DB=9.3/LNG=DU/"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Hamburg Landesarbeitsgericht"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Landesarbeitsgericht und Arbeitsgericht Hamburg, Bibliothek und Tarifvertragssammlung"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Osterbekstr. 96"
+                },
+                {
+                    "b": "Hamburg"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "22083"
+                },
+                {
+                    "f": "Hamburg"
+                },
+                {
+                    "i": "Mo-Do 8.30-15.00, Fr 8.30-14.00"
+                },
+                {
+                    "j": "nicht \u00f6ffentlich zug\u00e4nglich"
+                },
+                {
+                    "k": "10.03274"
+                },
+                {
+                    "l": "53.58420"
+                },
+                {
+                    "n": "02000000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "40"
+                },
+                {
+                    "f": "4 28 63-5656"
+                },
+                {
+                    "k": "bibliothek@arbg.justiz.hamburg.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0025"
+                },
+                {
+                    "e": "GBV"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "02"
+                },
+                {
+                    "h": "06"
+                },
+                {
+                    "i": "P"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Arbeitsrecht"
+                },
+                {
+                    "a": "Tarifvertr\u00e4ge Hamburg"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "HAM"
+                },
+                {
+                    "c": "GBV"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-H359",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-H359",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-H359",
+    "identifier": "DE-H359",
+    "name": "Landesarbeitsgericht und Arbeitsgericht Hamburg, Bibliothek und Tarifvertragssammlung",
+    "location": "Hamburg",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "HAM"
+}

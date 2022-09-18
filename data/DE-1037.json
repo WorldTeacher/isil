@@ -1,0 +1,224 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-1037.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:13-06-22"
+                ],
+                {
+                    "t": "10:01:41.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:27-05-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020587821"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "GJ455"
+                },
+                {
+                    "d": "1037"
+                },
+                {
+                    "e": "DE-1037"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.bib-selm.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://80.152.237.164/lissy/opac000.htm"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Selm StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "BIB, Bibliothek Information Begegnung, im FoKuS Selm"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Willy-Brandt-Pl. 5"
+                },
+                {
+                    "b": "Selm"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "59379"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "i": "Di und Fr 9.30-12.30 und 14.30-18.00, Mi-Do 14.30-18.00"
+                },
+                {
+                    "k": "7.46629"
+                },
+                {
+                    "l": "51.69084"
+                },
+                {
+                    "n": "05978032"
+                },
+                {
+                    "o": "barrierefrei"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "2592"
+                },
+                {
+                    "f": "69 63 00"
+                },
+                {
+                    "k": "bibliothek@stadtselm.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "06"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "bibliothek@stadtselm.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "bibliothek@stadtselm.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-1037",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-1037",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-1037",
+    "identifier": "DE-1037",
+    "name": "BIB, Bibliothek Information Begegnung, im FoKuS Selm",
+    "location": "Selm",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NRW"
+}

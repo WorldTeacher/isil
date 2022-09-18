@@ -1,0 +1,277 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-741.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:18-11-99"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:28-11-18"
+                ],
+                {
+                    "t": "16:39:31.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:27-05-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "009024344"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "GD500"
+                },
+                {
+                    "d": "741"
+                },
+                {
+                    "e": "DE-741"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.bibliothek-rheda-wiedenbrueck.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://opac.bibliothek-rheda-wiedenbrueck.de/opac/index.S"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Rheda-W. StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Flora Westfalica GmbH Stadtbibliothek Rheda-Wiedenbr\u00fcck"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Kirchplatz 2"
+                },
+                {
+                    "b": "Rheda-Wiedenbr\u00fcck"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "33378"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "i": "Di-Mi 10.00-12.30 und 14.00-18.00, Do 14.00-18.00, Fr 10.00-12.30, Sa 9.00-13.00"
+                },
+                {
+                    "j": "Di 10.00-12.30 nur in Wiedenbr\u00fcck, Mi 10.00-12.30 nur in Rheda"
+                },
+                {
+                    "k": "8.31080"
+                },
+                {
+                    "l": "51.83573"
+                },
+                {
+                    "n": "05754028"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Rheda-Wiedenbr\u00fcck"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "33375"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "g": "23 09"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "5242"
+                },
+                {
+                    "f": "90 40 66 und 90 40 76"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "5242"
+                },
+                {
+                    "i": "90 40 75"
+                },
+                {
+                    "k": "stadtbibliothek@rh-wd.de"
+                }
+            ],
+            [
+                {
+                    "a": "B"
+                },
+                {
+                    "b": "Fernleihe"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "k": "Stadtbibliothek.Fernleihe@rh-wd.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "07"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Heimatkunde"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "Stadtbibliothek.Fernleihe@rh-wd.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "Stadtbibliothek.Fernleihe@rh-wd.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-741",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-741",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-741",
+    "identifier": "DE-741",
+    "name": "Flora Westfalica GmbH Stadtbibliothek Rheda-Wiedenbr\u00fcck",
+    "location": "Rheda-Wiedenbr\u00fcck",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NRW"
+}

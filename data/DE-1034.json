@@ -1,0 +1,221 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-1034.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:20-09-21"
+                ],
+                {
+                    "t": "13:06:40.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020587791"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "HG336"
+                },
+                {
+                    "d": "1034"
+                },
+                {
+                    "e": "DE-1034"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.buecherei-stelle.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://bibkataloge.de/stelle"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Stelle GB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Gemeindeb\u00fccherei Stelle"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Unter den Linden 18 b"
+                },
+                {
+                    "b": "Stelle"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "21435"
+                },
+                {
+                    "f": "Niedersachsen"
+                },
+                {
+                    "i": "Mo und Do 15.00-18.00, Di und Fr 10.00-12.00 und 15.00-18.00"
+                },
+                {
+                    "j": "1. Sa 9.00-12.00"
+                },
+                {
+                    "k": "10.11205"
+                },
+                {
+                    "l": "53.38039"
+                },
+                {
+                    "n": "03353032"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "4174"
+                },
+                {
+                    "f": "61 60"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "4174"
+                },
+                {
+                    "i": "71 27 21"
+                },
+                {
+                    "k": "info@buecherei-stelle.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "06"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NIE"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "GBV"
+                },
+                {
+                    "d": "\u00d6VK"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-1034",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-1034",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-1034",
+    "identifier": "DE-1034",
+    "name": "Gemeindeb\u00fccherei Stelle",
+    "location": "Stelle",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NIE"
+}

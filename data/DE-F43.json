@@ -1,0 +1,284 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-F43.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:20-10-16"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:24-09-21"
+                ],
+                {
+                    "t": "09:52:59.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:20-10-16"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "111661166X"
+                ]
+            ]
+        ],
+        "007N": [
+            [
+                [
+                    "009071873"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "608043-1"
+                },
+                {
+                    "b": "DA610"
+                },
+                {
+                    "d": "F 43"
+                },
+                {
+                    "e": "DE-F43"
+                },
+                {
+                    "f": "DIPF"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.dipf.de/"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "DIPF, Frankfurter Forschungsbibliothek und Frankfurter Lehrerb\u00fccherei"
+                },
+                {
+                    "4": "a"
+                }
+            ],
+            [
+                {
+                    "a": "Frankfurt/M DIPF"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "DIPF | Leibniz-Institut f\u00fcr Bildungsforschung und Bildungsinformation, Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Rostocker Str. 6"
+                },
+                {
+                    "b": "Frankfurt/Main"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "60323"
+                },
+                {
+                    "f": "Hessen"
+                },
+                {
+                    "i": "Mo-Do 9.00-17.00, Fr 9.00-15.30"
+                },
+                {
+                    "k": "8.66808"
+                },
+                {
+                    "l": "50.13041"
+                },
+                {
+                    "n": "06412000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Frankfurt/Main"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "60442"
+                },
+                {
+                    "f": "Hessen"
+                },
+                {
+                    "g": "90 02 70"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "69"
+                },
+                {
+                    "f": "2 47 08-424"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "69"
+                },
+                {
+                    "i": "2 47 08-444"
+                },
+                {
+                    "k": "ausleihe@dipf.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0324"
+                },
+                {
+                    "d": "SWB"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "07"
+                },
+                {
+                    "h": "08"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Bildungsforschung"
+                },
+                {
+                    "a": "P\u00e4dagogische Psychologie/Entwicklungspsychologie"
+                },
+                {
+                    "a": "Medienp\u00e4dagogik"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "HES"
+                },
+                {
+                    "c": "SWB"
+                },
+                {
+                    "d": "Kalliope"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ],
+        "035J": [
+            [
+                {
+                    "a": "Fernleihe bei Alleinbesitz im Einzelfall m\u00f6glich"
+                }
+            ]
+        ],
+        "035Q": [
+            [
+                {
+                    "a": "j"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-F43",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-F43",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-F43",
+    "identifier": "DE-F43",
+    "name": "DIPF | Leibniz-Institut f\u00fcr Bildungsforschung und Bildungsinformation, Bibliothek",
+    "location": "Frankfurt/Main",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "HES"
+}

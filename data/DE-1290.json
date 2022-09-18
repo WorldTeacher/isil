@@ -1,0 +1,228 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-1290.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:31-05-07"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:21-04-22"
+                ],
+                {
+                    "t": "09:43:10.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:31-05-07"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "984461701"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "JC324"
+                },
+                {
+                    "d": "1290"
+                },
+                {
+                    "e": "DE-1290"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "https://www.donauwoerth.de/kultur/stadtbibliothek"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://webopac.winbiap.de/donauwoerth/index.aspx"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Donauw\u00f6rth  StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtbibliothek Donauw\u00f6rth"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Reichsstr. 32"
+                },
+                {
+                    "b": "Donauw\u00f6rth"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "86609"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "i": "Di und Do 9.00-13.00, Mo, Mi und Fr 13.00-18.30"
+                },
+                {
+                    "j": "jeden ersten Sa im Monat 9.00-13.00"
+                },
+                {
+                    "k": "10.77929"
+                },
+                {
+                    "l": "48.71921"
+                },
+                {
+                    "n": "09779131"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "906"
+                },
+                {
+                    "f": "23 32-0"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "906"
+                },
+                {
+                    "i": "23 32-1"
+                },
+                {
+                    "k": "fernleihe@stadtbibliothek-donauwoerth.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "07"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAY"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "BVB"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "fernleihe@stadtbibliothek-donauwoerth.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-1290",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-1290",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-1290",
+    "identifier": "DE-1290",
+    "name": "Stadtbibliothek Donauw\u00f6rth",
+    "location": "Donauw\u00f6rth",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAY"
+}

@@ -1,0 +1,243 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-579.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:13-04-04"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9047:13-05-16"
+                ],
+                {
+                    "t": "15:46:21.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "025858408"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "d": "579"
+                },
+                {
+                    "e": "DE-579"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.jacobs-university.de/library"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://iubcat.jacobs-university.de/"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Bremen Jacobs University"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Jacobs University Bremen gGmbH, IRC-Library"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Campus Ring 1"
+                },
+                {
+                    "b": "Bremen"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "28759"
+                },
+                {
+                    "f": "Bremen"
+                },
+                {
+                    "h": "Information Resource Center (IRC)"
+                },
+                {
+                    "i": "Mo-Fr 9.00-22.00, Sa 10.00-20.00, So 10.00-22.00"
+                },
+                {
+                    "k": "8.65033"
+                },
+                {
+                    "l": "53.16838"
+                },
+                {
+                    "n": "04011000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Bremen"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "28725"
+                },
+                {
+                    "f": "Bremen"
+                },
+                {
+                    "g": "75 05 61"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "421"
+                },
+                {
+                    "f": "2 00-4617"
+                },
+                {
+                    "k": "irc-ill@jacobs-university.de"
+                }
+            ]
+        ],
+        "035D": [
+            [
+                {
+                    "b": "DE-BrIU (fr\u00fcherer MARC Code)"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "60"
+                },
+                {
+                    "g": "08"
+                },
+                {
+                    "h": "07"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "HAM"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "GBV"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035O": [
+            [
+                {
+                    "a": "FZL DE-622"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-579",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-579",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-579",
+    "identifier": "DE-579",
+    "name": "Jacobs University Bremen gGmbH, IRC-Library",
+    "location": "Bremen",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "HAM"
+}

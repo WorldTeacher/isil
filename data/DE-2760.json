@@ -1,0 +1,239 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-2760.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:12-02-19"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:12-02-19"
+                ],
+                {
+                    "t": "14:22:36.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:12-02-19"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1177833573"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "d": "2760"
+                },
+                {
+                    "e": "DE-2760"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.dhsh.de"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "DHSH"
+                },
+                {
+                    "4": "b"
+                }
+            ],
+            [
+                {
+                    "a": "Kiel Duale Hochschule"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Duale Hochschule Schleswig-Holstein, Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Hans-Detlev-Prien-Str. 10"
+                },
+                {
+                    "b": "Kiel"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "24106"
+                },
+                {
+                    "f": "Schleswig-Holstein"
+                },
+                {
+                    "i": "Mo und Mi 8.00-12.15 und 13.00-17.00, Di und Do 13.30-17.00, Fr 8.00-13.00"
+                },
+                {
+                    "k": "10.12343"
+                },
+                {
+                    "l": "54.36057"
+                },
+                {
+                    "n": "01002000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "431"
+                },
+                {
+                    "f": "30 16-126"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "431"
+                },
+                {
+                    "i": "30 16-380"
+                },
+                {
+                    "k": "bibliothek@wak-sh.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "70"
+                },
+                {
+                    "g": "06"
+                },
+                {
+                    "h": "06"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Wirtschaftswissenschaften"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "HAM"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "b"
+                },
+                {
+                    "d": "bibliothek@wak-sh.de"
+                }
+            ],
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "bibliothek@wak-sh.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "bibliothek@wak-sh.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-2760",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-2760",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-2760",
+    "identifier": "DE-2760",
+    "name": "Duale Hochschule Schleswig-Holstein, Bibliothek",
+    "location": "Kiel",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "HAM"
+}

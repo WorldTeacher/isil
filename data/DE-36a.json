@@ -1,0 +1,242 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-36a.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:28-09-17"
+                ],
+                {
+                    "t": "16:54:57.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020582358"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "655369-2"
+                },
+                {
+                    "b": "DC369"
+                },
+                {
+                    "d": "36a"
+                },
+                {
+                    "e": "DE-36a"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.gutenberg-museum.de"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Mainz Gutenberg-Museum Bibl."
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Gutenberg-Museum Mainz, Bibliothek"
+                }
+            ]
+        ],
+        "029R": [
+            [
+                {
+                    "9": "009014640"
+                },
+                {
+                    "7": "Tw"
+                },
+                {
+                    "a": "Wissenschaftliche Stadtbibliothek"
+                },
+                {
+                    "e": "DE-36"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Liebfrauenplatz 5"
+                },
+                {
+                    "b": "Mainz"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "55116"
+                },
+                {
+                    "f": "Rheinland-Pfalz"
+                },
+                {
+                    "i": "Di-Fr 9.00-13.00 und 14.00-17.30"
+                },
+                {
+                    "j": "Letzter Einlass 16.30"
+                },
+                {
+                    "k": "8.27527"
+                },
+                {
+                    "l": "49.99972"
+                },
+                {
+                    "n": "07315000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "6131"
+                },
+                {
+                    "f": "12-2623 und -2641"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "6131"
+                },
+                {
+                    "i": "12-3488"
+                },
+                {
+                    "k": "gutenberg-bibliothek@stadt.mainz.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0042"
+                },
+                {
+                    "e": "HBV"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "07"
+                },
+                {
+                    "i": "P"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "HES"
+                },
+                {
+                    "c": "HeBIS"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ],
+        "047A": [
+            [
+                {
+                    "a": "Spezialbibliothek f\u00fcr das gesamte Gebiet der Buch-, Druck- und Schriftgeschichte; Sammlungen: Inkunabeln, Fachliteratur, Bucheinb\u00e4nde, Miniaturb\u00fccher, Kinderb\u00fccher, Buchumschl\u00e4ge, Schriftproben, Exlibris, Kehnscott-Press, Asiatische Drucke, Jahrb\u00fccher der Auktionsh\u00e4user, Akzidenzen"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-36a",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-36a",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-36a",
+    "identifier": "DE-36a",
+    "name": "Gutenberg-Museum Mainz, Bibliothek",
+    "location": "Mainz",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "HES"
+}

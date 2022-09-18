@@ -1,0 +1,230 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-2351.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:28-10-15"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:03-06-21"
+                ],
+                {
+                    "t": "15:11:12.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:28-10-15"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1078072132"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "WN216"
+                },
+                {
+                    "d": "2351"
+                },
+                {
+                    "e": "DE-2351"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.rosswein.de/?ID=5093"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://opac.winbiap.net/rosswein"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Ro\u00dfwein StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtbibliothek Ro\u00dfwein"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Poststr. 1"
+                },
+                {
+                    "b": "Ro\u00dfwein"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "04741"
+                },
+                {
+                    "f": "Sachsen"
+                },
+                {
+                    "i": "Mo 13.00-17.00, Di 9.00-12.00 und 13.00-18.00, Do 9.00-12.00 und 13.00-17.00, Fr 15.00-18.00"
+                },
+                {
+                    "k": "13.18138"
+                },
+                {
+                    "l": "51.06515"
+                },
+                {
+                    "n": "14522510"
+                },
+                {
+                    "o": "barrierefrei"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "34322"
+                },
+                {
+                    "f": "4 21 50"
+                },
+                {
+                    "k": "Bibliothek.rosswein@web.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "06"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "SAX"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "SWB"
+                },
+                {
+                    "d": "\u00d6VK"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "Bibliothek.rosswein@web.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "Bibliothek.rosswein@web.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-2351",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-2351",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-2351",
+    "identifier": "DE-2351",
+    "name": "Stadtbibliothek Ro\u00dfwein",
+    "location": "Ro\u00dfwein",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "SAX"
+}

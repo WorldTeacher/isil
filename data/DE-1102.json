@@ -1,0 +1,282 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-1102.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:24-09-21"
+                ],
+                {
+                    "t": "09:53:43.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020588399"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "886000-2"
+                },
+                {
+                    "b": "EZ020"
+                },
+                {
+                    "d": "1102"
+                },
+                {
+                    "e": "DE-1102"
+                },
+                {
+                    "f": "FHBAN"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.hs-ansbach.de/hochschule/einrichtungen/bibliothek.html"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://fantp20.bib-bvb.de/TouchPoint/start.do?View=fan&Language=de"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Ansbach HS"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Hochschulbibliothek Ansbach"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Residenzstr. 8"
+                },
+                {
+                    "b": "Ansbach"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "91522"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "k": "10.56628"
+                },
+                {
+                    "l": "49.30629"
+                },
+                {
+                    "n": "09561000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Ansbach"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "91510"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "g": "19 63"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "981"
+                },
+                {
+                    "f": "48 77-431"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "981"
+                },
+                {
+                    "i": "48 77-439"
+                },
+                {
+                    "k": "bibliothek@hs-ansbach.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0035"
+                },
+                {
+                    "d": "BVB"
+                },
+                {
+                    "f": "70"
+                },
+                {
+                    "g": "02"
+                },
+                {
+                    "h": "07"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAY"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "BVB"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "fl@hs-ansbach.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "fl@hs-ansbach.de"
+                }
+            ]
+        ],
+        "035O": [
+            [
+                {
+                    "a": "FZL DE-617"
+                }
+            ]
+        ],
+        "035Q": [
+            [
+                {
+                    "a": "j"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-1102",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-1102",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-1102",
+    "identifier": "DE-1102",
+    "name": "Hochschulbibliothek Ansbach",
+    "location": "Ansbach",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAY"
+}

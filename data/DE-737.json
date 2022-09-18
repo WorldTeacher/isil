@@ -1,0 +1,202 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-737.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:06-02-19"
+                ],
+                {
+                    "t": "09:24:47.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020585446"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "LD236"
+                },
+                {
+                    "d": "737"
+                },
+                {
+                    "e": "DE-737"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Duderstadt StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtbibliothek Duderstadt"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Marktstr. 66"
+                },
+                {
+                    "b": "Duderstadt"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "37115"
+                },
+                {
+                    "f": "Niedersachsen"
+                },
+                {
+                    "i": "Mo 10.00-18.00, Di 10.00-12.00 und 15.00-18.00, Mi 10.00-12.00, Do 15.00-19.00"
+                },
+                {
+                    "k": "10.22326"
+                },
+                {
+                    "l": "49.05210"
+                },
+                {
+                    "n": "03152007"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Duderstadt"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "37104"
+                },
+                {
+                    "f": "Niedersachsen"
+                },
+                {
+                    "g": "11 60"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "5527"
+                },
+                {
+                    "f": "7 20 91"
+                },
+                {
+                    "k": "Stadtbibliothek@duderstadt.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "06"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NIE"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-737",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-737",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-737",
+    "identifier": "DE-737",
+    "name": "Stadtbibliothek Duderstadt",
+    "location": "Duderstadt",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NIE"
+}

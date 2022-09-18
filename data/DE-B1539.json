@@ -1,0 +1,234 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-B1539.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:03-06-02"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:18-10-16"
+                ],
+                {
+                    "t": "15:35:22.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "023543051"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "181539-8"
+                },
+                {
+                    "d": "B 1539"
+                },
+                {
+                    "e": "DE-B1539"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.jmberlin.de/main/DE/03-Sammlung-und-Forschung/02-Lesen-und-Forschen/01-bibliothek.php"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://195.145.12.226/aDISWeb/app?service=direct/0/Home/%24DirectLink&sp=S127.0.0.1:4108"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Berlin J\u00fcdisches Museum"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "J\u00fcdisches Museum Berlin, Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Lindenstr. 9-14"
+                },
+                {
+                    "b": "Berlin"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "10969"
+                },
+                {
+                    "f": "Berlin"
+                },
+                {
+                    "i": "Mo und Mi 12.00-19.00, Di und Do-Fr 10.00-17.00"
+                },
+                {
+                    "k": "13.39571"
+                },
+                {
+                    "l": "52.50176"
+                },
+                {
+                    "n": "11000000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "30"
+                },
+                {
+                    "f": "2 59 93-560 (Lesesaal), -564 (Leitung), -562 und -563"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "30"
+                },
+                {
+                    "i": "2 59 93-441"
+                },
+                {
+                    "k": "bibliothek@jmberlin.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0101"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "07"
+                },
+                {
+                    "h": "07"
+                },
+                {
+                    "i": "P"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Judaistik"
+                },
+                {
+                    "a": "Deutsch-j\u00fcdische Geschichte"
+                },
+                {
+                    "a": "Deutsch-j\u00fcdische Wirtschafts- und Kulturgeschichte"
+                },
+                {
+                    "a": "J\u00fcdische Kunst"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BER"
+                },
+                {
+                    "c": "KOBV"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-B1539",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-B1539",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-B1539",
+    "identifier": "DE-B1539",
+    "name": "J\u00fcdisches Museum Berlin, Bibliothek",
+    "location": "Berlin",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BER"
+}

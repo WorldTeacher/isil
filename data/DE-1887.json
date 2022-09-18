@@ -1,0 +1,185 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-1887.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:30-03-12"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:02-05-18"
+                ],
+                {
+                    "t": "14:00:29.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:30-03-12"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "102127268X"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "GU712"
+                },
+                {
+                    "d": "1887"
+                },
+                {
+                    "e": "DE-1887"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Niedernhausen GB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Gemeindeb\u00fccherei Niedernhausen"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Wilrijkpl."
+                },
+                {
+                    "b": "Niedernhausen"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "65527"
+                },
+                {
+                    "f": "Hessen"
+                },
+                {
+                    "i": "Mo 13.30-15.30, Mi 14.00-18.30"
+                },
+                {
+                    "k": "8.31728"
+                },
+                {
+                    "l": "50.16174"
+                },
+                {
+                    "n": "06439011"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "6127"
+                },
+                {
+                    "f": "90 31 50"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "6127"
+                },
+                {
+                    "i": "90 31 82"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "05"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "HES"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-1887",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-1887",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-1887",
+    "identifier": "DE-1887",
+    "name": "Gemeindeb\u00fccherei Niedernhausen",
+    "location": "Niedernhausen",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "HES"
+}

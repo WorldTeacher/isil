@@ -1,0 +1,248 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Bst1.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:24-11-21"
+                ],
+                {
+                    "t": "14:15:20.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020589824"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "208601-3"
+                },
+                {
+                    "b": "BZ325"
+                },
+                {
+                    "d": "Bst 1"
+                },
+                {
+                    "e": "DE-Bst1"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.fz-borstel.de"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Borstel FZB WGL"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Forschungszentrum Borstel / Leibniz-Lungenzentrum, Wissenschaftliche Informationsdienste & Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Parkallee 1/40"
+                },
+                {
+                    "b": "Borstel Kreis Segeberg"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "23845"
+                },
+                {
+                    "f": "Schleswig-Holstein"
+                },
+                {
+                    "i": "Mo-Do 8.30-17.00, Fr 8.30-16.00"
+                },
+                {
+                    "k": "10.19622"
+                },
+                {
+                    "l": "53.82057"
+                },
+                {
+                    "n": "01060013"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "4537"
+                },
+                {
+                    "f": "1 88-2760 und -3050"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "4537"
+                },
+                {
+                    "i": "1 88-2600"
+                },
+                {
+                    "k": "bido@fz-borstel.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0111"
+                },
+                {
+                    "d": "WGL"
+                },
+                {
+                    "e": "GBV"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "07"
+                },
+                {
+                    "h": "07"
+                },
+                {
+                    "i": "P"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Pneumologie"
+                },
+                {
+                    "a": "Immunologie"
+                },
+                {
+                    "a": "Infektiologie"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "HAM"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "GBV"
+                },
+                {
+                    "d": "WGL"
+                },
+                {
+                    "e": "k"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035O": [
+            [
+                {
+                    "a": "FZL DE-622"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Bst1",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Bst1",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Bst1",
+    "identifier": "DE-Bst1",
+    "name": "Forschungszentrum Borstel / Leibniz-Lungenzentrum, Wissenschaftliche Informationsdienste & Bibliothek",
+    "location": "Borstel Kreis Segeberg",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "HAM"
+}

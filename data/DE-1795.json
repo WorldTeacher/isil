@@ -1,0 +1,218 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-1795.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:21-11-07"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:17-02-16"
+                ],
+                {
+                    "t": "14:17:22.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:21-11-07"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "986487899"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "PG539"
+                },
+                {
+                    "d": "1795"
+                },
+                {
+                    "e": "DE-1795"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Lauterhofen K\u00d6B"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Gemeindeb\u00fccherei St. Michael Lauterhofen"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Marktplatz 9"
+                },
+                {
+                    "b": "Lauterhofen"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "92283"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "i": "Mi 18.00-19.30, Sa 9.30-11.00, So 10.45-11.30"
+                },
+                {
+                    "k": "11.60342"
+                },
+                {
+                    "l": "49.36828"
+                },
+                {
+                    "n": "09373140"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "a": "Alte Sulzbacherstr 17"
+                },
+                {
+                    "b": "Lauterhofen"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "92283"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "9186"
+                },
+                {
+                    "f": "90 89 24"
+                },
+                {
+                    "k": "buecherei-lauterhofen@gmx.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "10"
+                },
+                {
+                    "h": "05"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAY"
+                },
+                {
+                    "c": "BVB"
+                },
+                {
+                    "e": "n"
+                },
+                {
+                    "g": "R"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "buecherei-lauterhofen@gmx.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-1795",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-1795",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-1795",
+    "identifier": "DE-1795",
+    "name": "Gemeindeb\u00fccherei St. Michael Lauterhofen",
+    "location": "Lauterhofen",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAY"
+}

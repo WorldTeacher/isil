@@ -1,0 +1,222 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-1483.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:04-12-07"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:28-01-16"
+                ],
+                {
+                    "t": "16:07:03.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:04-12-07"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "986675555"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "LB471"
+                },
+                {
+                    "d": "1483"
+                },
+                {
+                    "e": "DE-1483"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.oberasbach.de/"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://oberasbach-opac.customer.findus-internet-opac.de/cgi-bin/findus.fcgi.pl?customer=oberasbach"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Oberasbach StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtb\u00fccherei Oberasbach"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Rathausplatz 1"
+                },
+                {
+                    "b": "Oberasbach"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "90522"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "i": "Mo 14.00-19.00, Di 9.00-13.00, Mi-Do 14.00-18.00, Fr 13.00-17.00"
+                },
+                {
+                    "k": "10.96985"
+                },
+                {
+                    "l": "49.43119"
+                },
+                {
+                    "n": "09573122"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "911"
+                },
+                {
+                    "f": "9 69 11 54"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "911"
+                },
+                {
+                    "i": "69 31 74"
+                },
+                {
+                    "k": "buecherei@oberasbach.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "06"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAY"
+                },
+                {
+                    "c": "BVB"
+                },
+                {
+                    "e": "n"
+                },
+                {
+                    "g": "R"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "buecherei@oberasbach.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-1483",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-1483",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-1483",
+    "identifier": "DE-1483",
+    "name": "Stadtb\u00fccherei Oberasbach",
+    "location": "Oberasbach",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAY"
+}

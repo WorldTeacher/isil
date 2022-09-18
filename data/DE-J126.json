@@ -1,0 +1,244 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-J126.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:20-06-16"
+                ],
+                {
+                    "t": "10:08:30.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020593228"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "EZ238"
+                },
+                {
+                    "d": "J 126"
+                },
+                {
+                    "e": "DE-J126"
+                },
+                {
+                    "f": "ICE"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.clib-jena.mpg.de/lis/"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://catalog.clib-jena.mpg.de/"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Jena MPI Chem.\u00d6kologie"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Max-Planck-Institut f\u00fcr Chemische \u00d6kologie und Max-Planck-Institut f\u00fcr Biogeochemie, Wissenschaftliche Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Hans-Kn\u00f6ll-Str. 8"
+                },
+                {
+                    "b": "Jena"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "07745"
+                },
+                {
+                    "f": "Th\u00fcringen"
+                },
+                {
+                    "i": "nach Vereinbarung"
+                },
+                {
+                    "k": "11.56862"
+                },
+                {
+                    "l": "50.91071"
+                },
+                {
+                    "n": "16053000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "3641"
+                },
+                {
+                    "f": "57 24 02"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "3641"
+                },
+                {
+                    "i": "57 24 04"
+                },
+                {
+                    "k": "library@clib-jena.mpg.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "07"
+                },
+                {
+                    "h": "05"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "THU"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "GBV"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "b"
+                },
+                {
+                    "d": "library@clib-jena.mpg.de"
+                }
+            ],
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "library@clib-jena.mpg.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "library@clib-jena.mpg.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-J126",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-J126",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-J126",
+    "identifier": "DE-J126",
+    "name": "Max-Planck-Institut f\u00fcr Chemische \u00d6kologie und Max-Planck-Institut f\u00fcr Biogeochemie, Wissenschaftliche Bibliothek",
+    "location": "Jena",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "THU"
+}

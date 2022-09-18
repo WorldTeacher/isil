@@ -1,0 +1,183 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-2981.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:10-03-21"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:10-03-21"
+                ],
+                {
+                    "t": "14:31:22.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:10-03-21"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1229015671"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "GU542"
+                },
+                {
+                    "d": "2981"
+                },
+                {
+                    "e": "DE-2981"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "https://www.fahrbuecherei11.de/"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Bargfeld-Stegen KrsFB 11"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Fahrb\u00fccherei 11 im Kreis Storman"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Kopperschmidt 9"
+                },
+                {
+                    "b": "Bargfeld-Stegen"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "23863"
+                },
+                {
+                    "f": "Schleswig-Holstein"
+                },
+                {
+                    "k": "10.19878"
+                },
+                {
+                    "l": "53.76339"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "4532"
+                },
+                {
+                    "f": "2769762"
+                },
+                {
+                    "k": "info@fahrbuecherei11.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "f": "39"
+                },
+                {
+                    "g": "06"
+                },
+                {
+                    "h": "06"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "HAM"
+                },
+                {
+                    "d": "BZSH"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-2981",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-2981",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-2981",
+    "identifier": "DE-2981",
+    "name": "Fahrb\u00fccherei 11 im Kreis Storman",
+    "location": "Bargfeld-Stegen",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "HAM"
+}

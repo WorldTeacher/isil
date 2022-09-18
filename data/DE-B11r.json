@@ -1,0 +1,265 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-B11r.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:18-11-99"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:17-02-16"
+                ],
+                {
+                    "t": "14:08:13.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "009002243"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "155005-6"
+                },
+                {
+                    "b": "CQ459"
+                },
+                {
+                    "d": "B 11r"
+                },
+                {
+                    "e": "DE-B11r"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.ifskb.de/node/25"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://opac.smb.spk-berlin.de/"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "NNG"
+                },
+                {
+                    "4": "a"
+                }
+            ],
+            [
+                {
+                    "a": "Berlin SMB NeueNationalgalerie"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Staatliche Museen zu Berlin, Preu\u00dfischer Kulturbesitz, Neue Nationalgalerie, Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Potsdamer Str. 50"
+                },
+                {
+                    "b": "Berlin"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "10785"
+                },
+                {
+                    "f": "Berlin"
+                },
+                {
+                    "i": "nicht \u00f6ffentlich zug\u00e4nglich"
+                },
+                {
+                    "k": "13.36758"
+                },
+                {
+                    "l": "52.50698"
+                },
+                {
+                    "n": "11000000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "30"
+                },
+                {
+                    "f": "20 90-6000"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "30"
+                },
+                {
+                    "i": "20 90-6002"
+                },
+                {
+                    "k": "auskunft.kb@smb.spk-berlin.de"
+                }
+            ]
+        ],
+        "035D": [
+            [
+                {
+                    "a": "B 32a 5"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0113"
+                },
+                {
+                    "e": "GBV"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "07"
+                },
+                {
+                    "h": "06"
+                },
+                {
+                    "i": "P"
+                },
+                {
+                    "k": "B 32a 5"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Moderne Malerei"
+                },
+                {
+                    "a": "Moderne Kunst"
+                },
+                {
+                    "a": "Ausstellungskataloge"
+                },
+                {
+                    "a": "K\u00fcnstlermonographien"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BER"
+                },
+                {
+                    "c": "GBV"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ],
+        "047A": [
+            [
+                {
+                    "a": "Geschlossener Benutzerkreis, nicht \u00f6ffentlich zug\u00e4nglich"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-B11r",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-B11r",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-B11r",
+    "identifier": "DE-B11r",
+    "name": "Staatliche Museen zu Berlin, Preu\u00dfischer Kulturbesitz, Neue Nationalgalerie, Bibliothek",
+    "location": "Berlin",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BER"
+}

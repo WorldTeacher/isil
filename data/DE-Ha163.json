@@ -1,0 +1,252 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Ha163.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:25-01-02"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:28-01-16"
+                ],
+                {
+                    "t": "16:36:53.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "023142367"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "938163-6"
+                },
+                {
+                    "b": "EZ445"
+                },
+                {
+                    "d": "Ha 163"
+                },
+                {
+                    "e": "DE-Ha163"
+                },
+                {
+                    "f": "MPIEF"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.eth.mpg.de/cms/de/library/"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://vzopc4.gbv.de:8080/DB=6/LNG=DU/"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Halle/S. MPI Ethnol. Forschung"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Max-Planck-Institut f\u00fcr ethnologische Forschung, Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Advokatenweg 36"
+                },
+                {
+                    "b": "Halle/Saale"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "06114"
+                },
+                {
+                    "f": "Sachsen-Anhalt"
+                },
+                {
+                    "i": "Mo-Do 9.00-12.00 und 13.00-16.00, Fr 9.00-12.00"
+                },
+                {
+                    "k": "11.95952"
+                },
+                {
+                    "l": "51.49681"
+                },
+                {
+                    "n": "15002000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "345"
+                },
+                {
+                    "f": "2 92 75 03"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "345"
+                },
+                {
+                    "i": "2 92 75 02"
+                },
+                {
+                    "k": "library@eth.mpg.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0111"
+                },
+                {
+                    "d": "MPG"
+                },
+                {
+                    "e": "GBV"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "07"
+                },
+                {
+                    "h": "07"
+                },
+                {
+                    "i": "P"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Sozialanthropologie"
+                },
+                {
+                    "a": "Politische Ethnologie"
+                },
+                {
+                    "a": "Rechtsethnologie"
+                },
+                {
+                    "a": "Wirtschaftsethnologie"
+                },
+                {
+                    "a": "Historische Anthropologie"
+                },
+                {
+                    "a": "Religionsethnologie"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "SAA"
+                },
+                {
+                    "c": "GBV"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Ha163",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Ha163",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Ha163",
+    "identifier": "DE-Ha163",
+    "name": "Max-Planck-Institut f\u00fcr ethnologische Forschung, Bibliothek",
+    "location": "Halle/Saale",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "SAA"
+}

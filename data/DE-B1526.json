@@ -1,0 +1,217 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-B1526.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:05-05-22"
+                ],
+                {
+                    "t": "10:27:53.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "02058895X"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "CQ745"
+                },
+                {
+                    "d": "B 1526"
+                },
+                {
+                    "e": "DE-B1526"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.berlin.de/polizei/service/bibliothek.html"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Berlin Polizeibibliothek"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Polizeipr\u00e4sident in Berlin, Polizeibibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Mehringdamm 110/112"
+                },
+                {
+                    "b": "Berlin"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "10961"
+                },
+                {
+                    "f": "Berlin"
+                },
+                {
+                    "i": "Mo-Mi 7.30-15.30, Do-Fr 7.30-14.00"
+                },
+                {
+                    "k": "13.38965"
+                },
+                {
+                    "l": "52.49566"
+                },
+                {
+                    "n": "11000000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "30"
+                },
+                {
+                    "f": "46 64-994860 und -994861"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "30"
+                },
+                {
+                    "i": "46 64-994897"
+                },
+                {
+                    "j": "183771"
+                },
+                {
+                    "k": "polizeibibliothek@polizei.berlin.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "02"
+                },
+                {
+                    "h": "07"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Kriminalistik"
+                },
+                {
+                    "a": "Polizeiwissenschaften"
+                },
+                {
+                    "a": "Kriminologie"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BER"
+                },
+                {
+                    "c": "KOBV"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-B1526",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-B1526",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-B1526",
+    "identifier": "DE-B1526",
+    "name": "Polizeipr\u00e4sident in Berlin, Polizeibibliothek",
+    "location": "Berlin",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BER"
+}

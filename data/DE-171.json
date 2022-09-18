@@ -1,0 +1,268 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-171.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:16-08-19"
+                ],
+                {
+                    "t": "11:24:13.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020583079"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "AC171"
+                },
+                {
+                    "d": "171"
+                },
+                {
+                    "e": "DE-171"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.wesel.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://webopac.krzn.de/WebOPAC/start?homegkz=490"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Wesel StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtb\u00fccherei im Centrum"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Ritterstr. 14"
+                },
+                {
+                    "b": "Wesel"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "46483"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "i": "Di-Fr 10.30-18.30, Sa 10.00-13.00"
+                },
+                {
+                    "k": "6.61177"
+                },
+                {
+                    "l": "51.65841"
+                },
+                {
+                    "n": "05170048"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Wesel"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "46467"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "g": "10 07 60"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "281"
+                },
+                {
+                    "f": "2 03-2352 (Leitung) und -2383 (Fernleihe)"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "281"
+                },
+                {
+                    "i": "2 03-49440"
+                },
+                {
+                    "k": "stadtbuecherei@wesel.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "07"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035K": [
+            [
+                {
+                    "b": "A"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "b"
+                },
+                {
+                    "d": "fernleihe@wesel.de"
+                }
+            ],
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "fernleihe@wesel.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "fernleihe@wesel.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-171",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-171",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-171",
+    "identifier": "DE-171",
+    "name": "Stadtb\u00fccherei im Centrum",
+    "location": "Wesel",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NRW"
+}

@@ -1,0 +1,218 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-441.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:09-09-20"
+                ],
+                {
+                    "t": "09:29:34.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020584180"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "AE441"
+                },
+                {
+                    "d": "441"
+                },
+                {
+                    "e": "DE-441"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.stadtbibliothek-weinheim.de"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Weinheim StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtbibliothek Weinheim"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Luisenstr. 5/1"
+                },
+                {
+                    "b": "Weinheim"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "69469"
+                },
+                {
+                    "f": "Baden-W\u00fcrttemberg"
+                },
+                {
+                    "k": "8.66886"
+                },
+                {
+                    "l": "49.55068"
+                },
+                {
+                    "n": "08226096"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "6201"
+                },
+                {
+                    "f": "8 26 35"
+                },
+                {
+                    "k": "bibliothek@weinheim.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "07"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Psychologie"
+                },
+                {
+                    "a": "P\u00e4dagogik"
+                },
+                {
+                    "a": "Kinder- und Jugendb\u00fccher"
+                },
+                {
+                    "a": "Heimatgeschichte von Weinheim, Bergstra\u00dfe, Odenwald"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "d": "V\u00d6B-BF"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "047A": [
+            [
+                {
+                    "a": "Belegexemplare des Beltz-Verlages zum Thema P\u00e4dagogik"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-441",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-441",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-441",
+    "identifier": "DE-441",
+    "name": "Stadtbibliothek Weinheim",
+    "location": "Weinheim",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAW"
+}

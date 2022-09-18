@@ -1,0 +1,212 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-1903.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:12-07-12"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:09-06-22"
+                ],
+                {
+                    "t": "11:47:42.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:12-07-12"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1024180131"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "WD225"
+                },
+                {
+                    "d": "1903"
+                },
+                {
+                    "e": "DE-1903"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.muecheln.de/verzeichnis/visitenkarte.php?mandat=57691"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://eopac.net/BGX430607/"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "M\u00fccheln/Geiseltal StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtbibliothek M\u00fccheln (Geiseltal)"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Rudolf-Breitscheid-Str. 18"
+                },
+                {
+                    "b": "M\u00fccheln/Geiseltal"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "06249"
+                },
+                {
+                    "f": "Sachsen-Anhalt"
+                },
+                {
+                    "h": "\u00fcber Hof, 1. Etage"
+                },
+                {
+                    "i": "Mo und Fr 12.00-15.00, Di 9.00-18.00, Do 9.00-17.00, jeden 1. Sa 10.00-12.00"
+                },
+                {
+                    "k": "11.80529"
+                },
+                {
+                    "l": "51.30059"
+                },
+                {
+                    "n": "15088235"
+                },
+                {
+                    "o": "barrierefrei"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "34632"
+                },
+                {
+                    "f": "2 22 17"
+                },
+                {
+                    "k": "stadtbibliothek-muecheln@web.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "06"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "SAA"
+                },
+                {
+                    "c": "GBV"
+                },
+                {
+                    "d": "\u00d6VK"
+                },
+                {
+                    "e": "n"
+                },
+                {
+                    "g": "R"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-1903",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-1903",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-1903",
+    "identifier": "DE-1903",
+    "name": "Stadtbibliothek M\u00fccheln (Geiseltal)",
+    "location": "M\u00fccheln/Geiseltal",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "SAA"
+}

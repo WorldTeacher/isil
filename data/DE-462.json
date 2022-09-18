@@ -1,0 +1,301 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-462.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:18-11-99"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:12-05-22"
+                ],
+                {
+                    "t": "11:29:17.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:27-05-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "009021884"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "101305-1"
+                },
+                {
+                    "b": "AG462"
+                },
+                {
+                    "d": "462"
+                },
+                {
+                    "e": "DE-462"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.baden-baden.de/de/buergerservice/stadtbibliothek"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://wwwopac.baden-baden.de/opax/de/qsim.html.S"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Baden-Baden StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtbibliothek Baden-Baden"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Luisenstr. 34"
+                },
+                {
+                    "b": "Baden-Baden"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "76530"
+                },
+                {
+                    "f": "Baden-W\u00fcrttemberg"
+                },
+                {
+                    "i": "Di-Mi und Fr 10.00-18.00, Do 11.00-19.00, Sa 10.00-14.00"
+                },
+                {
+                    "k": "8.23697"
+                },
+                {
+                    "l": "48.76352"
+                },
+                {
+                    "n": "08211000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "7221"
+                },
+                {
+                    "f": "93-2259"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "7221"
+                },
+                {
+                    "i": "93-2264"
+                },
+                {
+                    "k": "stadtbibliothek@baden-baden.de"
+                }
+            ],
+            [
+                {
+                    "a": "W"
+                },
+                {
+                    "b": "Auskunft"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "7221"
+                },
+                {
+                    "f": "93-2262"
+                }
+            ],
+            [
+                {
+                    "a": "W"
+                },
+                {
+                    "b": "Fernleihe"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "7221"
+                },
+                {
+                    "f": "93-2255"
+                },
+                {
+                    "k": "fernleihe@baden-baden.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0367"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "08"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Bergengruen, Werner"
+                },
+                {
+                    "a": "B\u00fcchler, Franz"
+                },
+                {
+                    "a": "Flake, Otto"
+                },
+                {
+                    "a": "Groddeck, Georg"
+                },
+                {
+                    "a": "Schneider, Reinhold"
+                },
+                {
+                    "a": "Le Beau, Luise A."
+                },
+                {
+                    "a": "Durlacher, Gerhard L."
+                },
+                {
+                    "a": "Heinen, Jeannot"
+                },
+                {
+                    "a": "Viardot, Pauline"
+                },
+                {
+                    "a": "Stuffer, Herbert"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "SWB"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-462",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-462",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-462",
+    "identifier": "DE-462",
+    "name": "Stadtbibliothek Baden-Baden",
+    "location": "Baden-Baden",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAW"
+}

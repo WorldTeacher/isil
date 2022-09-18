@@ -1,0 +1,217 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Hb2.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:10-11-16"
+                ],
+                {
+                    "t": "10:48:31.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020592477"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "DB614"
+                },
+                {
+                    "d": "Hb 2"
+                },
+                {
+                    "e": "DE-Hb2"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Heilbronn ATMEL"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "ATMEL Germany GmbH, Fachb\u00fccherei"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Theresienstr. 2"
+                },
+                {
+                    "b": "Heilbronn"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "74072"
+                },
+                {
+                    "f": "Baden-W\u00fcrttemberg"
+                },
+                {
+                    "i": "Mo-Fr 8.30-15.30"
+                },
+                {
+                    "j": "nicht \u00f6ffentlich zug\u00e4nglich"
+                },
+                {
+                    "k": "9.20624"
+                },
+                {
+                    "l": "49.13509"
+                },
+                {
+                    "n": "08121000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Heilbronn"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "74025"
+                },
+                {
+                    "f": "Baden-W\u00fcrttemberg"
+                },
+                {
+                    "g": "35 35"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "7131"
+                },
+                {
+                    "f": "67-2514, -2064 und -3141"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "7131"
+                },
+                {
+                    "i": "67-2933"
+                },
+                {
+                    "k": "pr@atmel.com"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "08"
+                },
+                {
+                    "h": "05"
+                },
+                {
+                    "i": "P"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAW"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Hb2",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Hb2",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Hb2",
+    "identifier": "DE-Hb2",
+    "name": "ATMEL Germany GmbH, Fachb\u00fccherei",
+    "location": "Heilbronn",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAW"
+}

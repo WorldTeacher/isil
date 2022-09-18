@@ -1,0 +1,203 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-1935.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:25-03-13"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:18-06-21"
+                ],
+                {
+                    "t": "14:11:03.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:25-03-13"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1032881607"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "WL736"
+                },
+                {
+                    "d": "1935"
+                },
+                {
+                    "e": "DE-1935"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.stadtbibliothek.bad-berka.de/"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://badberka-opac.customer.findus-internet-opac.de/cgi-bin/findus.fcgi.pl?customer=badberka&_cookiecheck=2013-03-25-11-27-14"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Bad Berka StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtbibliothek Bad Berka"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Zeughauspl. 11"
+                },
+                {
+                    "b": "Bad Berka"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "99438"
+                },
+                {
+                    "f": "Th\u00fcringen"
+                },
+                {
+                    "i": "Mo-Di und Do-Fr 10.00-12.00 und 13.30-17.30"
+                },
+                {
+                    "k": "11.28040"
+                },
+                {
+                    "l": "50.89982"
+                },
+                {
+                    "n": "16071003"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "36458"
+                },
+                {
+                    "f": "58 04 und 58 05"
+                },
+                {
+                    "k": "stadtbibliothek.bad-berka@t-online.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "06"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "THU"
+                },
+                {
+                    "d": "\u00d6VK"
+                },
+                {
+                    "e": "n"
+                },
+                {
+                    "g": "R"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-1935",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-1935",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-1935",
+    "identifier": "DE-1935",
+    "name": "Stadtbibliothek Bad Berka",
+    "location": "Bad Berka",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "THU"
+}

@@ -1,0 +1,279 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-388.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9042:28-01-20"
+                ],
+                {
+                    "t": "10:05:31.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020583834"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "AL388"
+                },
+                {
+                    "d": "388"
+                },
+                {
+                    "e": "DE-388"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.stadtbuecherei.bad-salzuflen.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://webopac.bad-salzuflen.de"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Bad Salzuflen StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtb\u00fccherei Bad Salzuflen"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Osterstr. 52-54"
+                },
+                {
+                    "b": "Bad Salzuflen"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "32105"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "h": "Ostertor Galerie"
+                },
+                {
+                    "i": "Di und Do 10.00-18.00, Mi und Fr 10.00-16.00, Sa 10.00-13.00"
+                },
+                {
+                    "k": "8.74870"
+                },
+                {
+                    "l": "52.08239"
+                },
+                {
+                    "n": "05766008"
+                },
+                {
+                    "o": "barrierefrei"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "5222"
+                },
+                {
+                    "f": "9 52-131"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "5222"
+                },
+                {
+                    "i": "9 52-191"
+                },
+                {
+                    "k": "stadtbuecherei@bad-salzuflen.de"
+                },
+                {
+                    "l": "Auskunft"
+                }
+            ],
+            [
+                {
+                    "a": "W"
+                },
+                {
+                    "b": "Fernleihe"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "5222"
+                },
+                {
+                    "f": "9 52-135"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "5222"
+                },
+                {
+                    "i": "9 52-191"
+                },
+                {
+                    "k": "stadtbuecherei@bad-salzuflen.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "07"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "b"
+                },
+                {
+                    "d": "Fernleihe@bad-salzuflen.de"
+                }
+            ],
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "Fernleihe@bad-salzuflen.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "Fernleihe@bad-salzuflen.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-388",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-388",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-388",
+    "identifier": "DE-388",
+    "name": "Stadtb\u00fccherei Bad Salzuflen",
+    "location": "Bad Salzuflen",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NRW"
+}

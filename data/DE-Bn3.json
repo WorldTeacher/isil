@@ -1,0 +1,282 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Bn3.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:24-09-21"
+                ],
+                {
+                    "t": "09:53:42.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020589360"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "958003-7"
+                },
+                {
+                    "b": "BA262"
+                },
+                {
+                    "d": "Bn 3"
+                },
+                {
+                    "e": "DE-Bn3"
+                },
+                {
+                    "f": "BAKS"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.ba-bautzen.de/studienakademie-bautzen/bibliothekdin-auslegestelle/"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://webopac.ba-bautzen.de"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Bautzen Berufsakademie"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Berufsakademie Sachsen, Staatliche Studienakademie Bautzen, Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "L\u00f6bauer Str. 1"
+                },
+                {
+                    "b": "Bautzen"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "02625"
+                },
+                {
+                    "f": "Sachsen"
+                },
+                {
+                    "i": "Mo und Mi 7.45-9.00 und 9.30-17.00, Di und Do 07.45-9.00 und 9.30-16.00,  Fr 7.45-9.00 und 9.30-14.00"
+                },
+                {
+                    "k": "14.43571"
+                },
+                {
+                    "l": "51.18190"
+                },
+                {
+                    "n": "14625020"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Bautzen"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "02608"
+                },
+                {
+                    "f": "Sachsen"
+                },
+                {
+                    "g": "18 20"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "3591"
+                },
+                {
+                    "f": "3 53-124"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "3591"
+                },
+                {
+                    "i": "3 53-290"
+                },
+                {
+                    "k": "info@ba-bautzen.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0108"
+                },
+                {
+                    "d": "SWB"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "02"
+                },
+                {
+                    "h": "06"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Informatik"
+                },
+                {
+                    "a": "Maschinenwesen"
+                },
+                {
+                    "a": "Elektrotechnik"
+                },
+                {
+                    "a": "Wirtschaft"
+                },
+                {
+                    "a": "Finanzmanagement"
+                },
+                {
+                    "a": "Medizintechnik"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "SAX"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "SWB"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035Q": [
+            [
+                {
+                    "a": "j"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Bn3",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Bn3",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Bn3",
+    "identifier": "DE-Bn3",
+    "name": "Berufsakademie Sachsen, Staatliche Studienakademie Bautzen, Bibliothek",
+    "location": "Bautzen",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "SAX"
+}

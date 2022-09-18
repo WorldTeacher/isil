@@ -1,0 +1,189 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-1505.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:12-12-07"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:29-11-18"
+                ],
+                {
+                    "t": "09:45:35.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:12-12-07"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "986821748"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "d": "1505"
+                },
+                {
+                    "e": "DE-1505"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Aichach JVA"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "JVA Aichach, Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "M\u00fcnchener Str. 33"
+                },
+                {
+                    "b": "Aichach"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "86551"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "k": "11.13267"
+                },
+                {
+                    "l": "48.45159"
+                },
+                {
+                    "n": "09771113"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "8251"
+                },
+                {
+                    "f": "9 07-0"
+                },
+                {
+                    "k": "bibliothek@jva-aic.bayern.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "36"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "05"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAY"
+                },
+                {
+                    "c": "BVB"
+                },
+                {
+                    "e": "n"
+                },
+                {
+                    "g": "R"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "bibliothek@jva-aic.bayern.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-1505",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-1505",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-1505",
+    "identifier": "DE-1505",
+    "name": "JVA Aichach, Bibliothek",
+    "location": "Aichach",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAY"
+}

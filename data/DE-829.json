@@ -1,0 +1,267 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-829.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "1210:22-02-01"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:10-04-19"
+                ],
+                {
+                    "t": "14:02:32.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:27-05-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "021488789"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "403000-X"
+                },
+                {
+                    "b": "BD478"
+                },
+                {
+                    "d": "829"
+                },
+                {
+                    "e": "DE-829"
+                },
+                {
+                    "f": "HSNRH"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "https://www.hs-niederrhein.de/bibliothek"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Hochschulbibliothek Niederrhein"
+                },
+                {
+                    "4": "a"
+                }
+            ],
+            [
+                {
+                    "a": "M\u00f6nchengladbach HS Niederrhein"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Hochschule Niederrhein, Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Richard-Wagner-Strasse 140"
+                },
+                {
+                    "b": "M\u00f6nchengladbach"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "41065"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "h": "Geb\u00e4ude N - Raum N 319"
+                },
+                {
+                    "i": "s. Homepage"
+                },
+                {
+                    "k": "6.44205"
+                },
+                {
+                    "l": "51.17866"
+                },
+                {
+                    "n": "05116000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "2161"
+                },
+                {
+                    "f": "1 86-6906 (Fernl.) und -3400 (Ausk.)"
+                },
+                {
+                    "k": "fernleihe@hs-niederrhein.de"
+                }
+            ]
+        ],
+        "035D": [
+            [
+                {
+                    "a": "Mg 3"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0140"
+                },
+                {
+                    "d": "HBZ"
+                },
+                {
+                    "f": "70"
+                },
+                {
+                    "g": "02"
+                },
+                {
+                    "h": "08"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "HBZ"
+                },
+                {
+                    "e": "k"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "b"
+                },
+                {
+                    "d": "fernleihe@hs-niederrhein.de"
+                }
+            ],
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "fernleihe@hs-niederrhein.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "fernleihe@hs-niederrhein.de"
+                }
+            ]
+        ],
+        "035O": [
+            [
+                {
+                    "a": "FZL DE-621"
+                },
+                {
+                    "b": "CONTAINER"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-829",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-829",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-829",
+    "identifier": "DE-829",
+    "name": "Hochschule Niederrhein, Bibliothek",
+    "location": "M\u00f6nchengladbach",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NRW"
+}

@@ -1,0 +1,265 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-198.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:18-11-99"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:07-11-16"
+                ],
+                {
+                    "t": "15:36:58.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:27-05-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "009026509"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "925600-3"
+                },
+                {
+                    "b": "AA198"
+                },
+                {
+                    "d": "198"
+                },
+                {
+                    "e": "DE-198"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.bibliothek-nb.de"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Neubrandenburg RegB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Regionalbibliothek Neubrandenburg"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Marktplatz 1"
+                },
+                {
+                    "b": "Neubrandenburg"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "17033"
+                },
+                {
+                    "f": "Mecklenburg-Vorpommern"
+                },
+                {
+                    "i": "Mo und Mi 13.00-18.00,  Di 10.00-19.00, Do-Fr 10.00-18.00,  Sa 10.00-13.00"
+                },
+                {
+                    "k": "13.26069"
+                },
+                {
+                    "l": "53.55796"
+                },
+                {
+                    "n": "13002000"
+                },
+                {
+                    "o": "barrierefrei"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "z": "Eingang Stargarder Str."
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Neubrandenburg"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "17019"
+                },
+                {
+                    "f": "Mecklenburg-Vorpommern"
+                },
+                {
+                    "g": "10 12 42"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "395"
+                },
+                {
+                    "f": "5 55-1355 (Service) und -1324 (Auskunft)"
+                },
+                {
+                    "k": "auskunft.bibl@neubrandenburg.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0101"
+                },
+                {
+                    "d": "GBV"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "08"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Musik"
+                },
+                {
+                    "a": "Geschichte <Mecklenburg>"
+                },
+                {
+                    "a": "historische Kinderb\u00fccher"
+                },
+                {
+                    "a": "Kinderb\u00fccher <DDR>"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "HAM"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "GBV"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "reg.bibl@neubrandenburg.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-198",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-198",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-198",
+    "identifier": "DE-198",
+    "name": "Regionalbibliothek Neubrandenburg",
+    "location": "Neubrandenburg",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "HAM"
+}

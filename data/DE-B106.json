@@ -1,0 +1,296 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-B106.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:06-07-15"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:24-09-21"
+                ],
+                {
+                    "t": "09:52:59.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:06-07-15"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1073319423"
+                ]
+            ]
+        ],
+        "007N": [
+            [
+                [
+                    "009002499"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "180106-5"
+                },
+                {
+                    "b": "CN086"
+                },
+                {
+                    "d": "B 106"
+                },
+                {
+                    "e": "DE-B106"
+                },
+                {
+                    "f": "RKI"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.rki.de/"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "RKI"
+                },
+                {
+                    "4": "a"
+                }
+            ],
+            [
+                {
+                    "a": "Berlin RKI"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Robert Koch-Institut, Bibliothek Berlin"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Nordufer 20"
+                },
+                {
+                    "b": "Berlin"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "13353"
+                },
+                {
+                    "f": "Berlin"
+                },
+                {
+                    "j": "nach Vereinbarung"
+                },
+                {
+                    "k": "13.34755"
+                },
+                {
+                    "l": "52.53917"
+                },
+                {
+                    "n": "11000000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Berlin"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "13302"
+                },
+                {
+                    "f": "Berlin"
+                },
+                {
+                    "g": "65 02 61"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "30"
+                },
+                {
+                    "f": "1 87 54-2274"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "30"
+                },
+                {
+                    "i": "1 87 54-2941"
+                },
+                {
+                    "k": "bibliothek@rki.de"
+                }
+            ]
+        ],
+        "035D": [
+            [
+                {
+                    "a": "B 1513"
+                },
+                {
+                    "b": "DE-B1513"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0318"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "01"
+                },
+                {
+                    "h": "07"
+                },
+                {
+                    "i": "P"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Virologie"
+                },
+                {
+                    "a": "Biochemie"
+                },
+                {
+                    "a": "Molekularbiologie"
+                },
+                {
+                    "a": "Immunologie"
+                },
+                {
+                    "a": "Bakteriologie"
+                },
+                {
+                    "a": "Epidemiologie"
+                },
+                {
+                    "a": "Cytologie"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BER"
+                },
+                {
+                    "d": "Kalliope"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ],
+        "035Q": [
+            [
+                {
+                    "a": "j"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-B106",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-B106",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-B106",
+    "identifier": "DE-B106",
+    "name": "Robert Koch-Institut, Bibliothek Berlin",
+    "location": "Berlin",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BER"
+}

@@ -1,0 +1,131 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-MUS-150412.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:04-01-12"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:12-10-20"
+                ],
+                {
+                    "t": "10:05:16.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:04-01-12"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1018502319"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "e": "DE-MUS-150412"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.museen-in-deutschland.de/singleview.php?muges=150412"
+                },
+                {
+                    "x": "Weitere Informationen"
+                },
+                {
+                    "z": "W"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Residenz W\u00fcrzburg"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Residenzplatz 2"
+                },
+                {
+                    "b": "W\u00fcrzburg"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "97070"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "k": "9.93942"
+                },
+                {
+                    "l": "49.79219"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "m"
+                },
+                {
+                    "f": "86"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-MUS-150412",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-MUS-150412",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-MUS-150412",
+    "identifier": "DE-MUS-150412",
+    "name": "Residenz W\u00fcrzburg",
+    "location": "W\u00fcrzburg",
+    "type": [
+        "Organization",
+        "Museum"
+    ]
+}

@@ -1,0 +1,245 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-H20.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:18-11-99"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:16-08-21"
+                ],
+                {
+                    "t": "10:45:51.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "009072969"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "208020-5"
+                },
+                {
+                    "b": "DA968"
+                },
+                {
+                    "d": "H 20"
+                },
+                {
+                    "e": "DE-H20"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://vzopc4.gbv.de/DB=21/LNG=DU/"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Hamburg \u00c4rztl. Verein"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "\u00c4rztekammer Hamburg, Bibliothek des \u00c4rztlichen Vereins"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Von-Melle-Park 3"
+                },
+                {
+                    "b": "Hamburg"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "20146"
+                },
+                {
+                    "f": "Hamburg"
+                },
+                {
+                    "i": "Mo 9.00-17.00, Di und Do 10.00-16.00, Mi 10.00-19.00, Fr 9.00-16.00"
+                },
+                {
+                    "k": "9.98546"
+                },
+                {
+                    "l": "53.56449"
+                },
+                {
+                    "n": "02000000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "z": "SUB Hamburg, Altbau, 1. Stock"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "40"
+                },
+                {
+                    "f": "44 09 49"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "40"
+                },
+                {
+                    "i": "44 90 62"
+                },
+                {
+                    "k": "bibliothek@aekhh.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0025"
+                },
+                {
+                    "e": "GBV"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "07"
+                },
+                {
+                    "h": "08"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Medizin <Allgemein>"
+                },
+                {
+                    "a": "Medizinrecht"
+                },
+                {
+                    "a": "Medizingeschichte"
+                },
+                {
+                    "a": "Standespolitik"
+                },
+                {
+                    "a": "Gesundheitspolitik"
+                },
+                {
+                    "a": "Medizinethik"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "HAM"
+                },
+                {
+                    "c": "GBV"
+                },
+                {
+                    "e": "l"
+                }
+            ]
+        ],
+        "047A": [
+            [
+                {
+                    "a": "Die Bibliothek des \u00c4rztlichen Vereins wurde zum 30.4.2017 geschlossen. Ein Teil der Best\u00e4nde der werden in die SUB Hamburg \u00fcberf\u00fchrt und dort eingearbeitet. In dieser Zeit stehen sie nicht zur Verf\u00fcgung"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-H20",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-H20",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-H20",
+    "identifier": "DE-H20",
+    "name": "\u00c4rztekammer Hamburg, Bibliothek des \u00c4rztlichen Vereins",
+    "location": "Hamburg",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "HAM"
+}

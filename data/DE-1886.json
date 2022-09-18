@@ -1,0 +1,209 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-1886.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:30-03-12"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:31-10-16"
+                ],
+                {
+                    "t": "12:35:37.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:30-03-12"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1021268682"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "HB727"
+                },
+                {
+                    "d": "1886"
+                },
+                {
+                    "e": "DE-1886"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.raunheim.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://www.mediathek.raunheim.de"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Raunheim Mediathek"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadt Raunheim - Mediathek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Am Stadtzentrum 1"
+                },
+                {
+                    "b": "Raunheim"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "65479"
+                },
+                {
+                    "f": "Hessen"
+                },
+                {
+                    "i": "Mo-Di 14.00-18.00, Mi 10.00-12.00 und 14.00-18.00, Do 13.30-18.30"
+                },
+                {
+                    "k": "8.45061"
+                },
+                {
+                    "l": "50.00884"
+                },
+                {
+                    "n": "06433010"
+                },
+                {
+                    "o": "barrierefrei"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "6142"
+                },
+                {
+                    "f": "4 02-282"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "6142"
+                },
+                {
+                    "i": "4 02-228"
+                },
+                {
+                    "k": "mediathek@raunheim.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "34"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "06"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "HES"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-1886",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-1886",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-1886",
+    "identifier": "DE-1886",
+    "name": "Stadt Raunheim - Mediathek",
+    "location": "Raunheim",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "HES"
+}

@@ -1,0 +1,213 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-478.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:16-01-19"
+                ],
+                {
+                    "t": "08:18:33.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020584377"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "AH478"
+                },
+                {
+                    "d": "478"
+                },
+                {
+                    "e": "DE-478"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "https://www.stabi-hb.de/"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://opac.stadtbibliothek-bremen.de/webOPACClient/start.do"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Bremen StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtbibliothek Bremen, Zentralbibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Am Wall 201"
+                },
+                {
+                    "b": "Bremen"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "28195"
+                },
+                {
+                    "f": "Bremen"
+                },
+                {
+                    "i": "Mo-Di 10.00-19.00, Mi 13.00-19.00, Do 9.00-19.00, Fr 10.00-19.00, Sa 10.00-17.00"
+                },
+                {
+                    "k": "8.81235"
+                },
+                {
+                    "l": "53.07375"
+                },
+                {
+                    "n": "04011000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "421"
+                },
+                {
+                    "f": "3 61-4465"
+                },
+                {
+                    "k": "fernleihe@stadtbibliothek.bremen.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "09"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "HAM"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "GBV"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035O": [
+            [
+                {
+                    "a": "FZL DE-622"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-478",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-478",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-478",
+    "identifier": "DE-478",
+    "name": "Stadtbibliothek Bremen, Zentralbibliothek",
+    "location": "Bremen",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "HAM"
+}

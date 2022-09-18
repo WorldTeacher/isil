@@ -1,0 +1,221 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-1098.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:03-06-21"
+                ],
+                {
+                    "t": "15:12:04.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020588356"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "KD887"
+                },
+                {
+                    "d": "1098"
+                },
+                {
+                    "e": "DE-1098"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.stadtbibliothek-georgsmarienhuette.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://www.stb49124.de"
+                },
+                {
+                    "x": "Weitere URL"
+                },
+                {
+                    "z": "W"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Georgsmarienh\u00fctte K\u00d6B"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtbibliothek, Hauptstelle, kirchliche \u00f6ffentliche B\u00fcchereien"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Schoonebeekstr. 8"
+                },
+                {
+                    "b": "Georgsmarienh\u00fctte"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "49124"
+                },
+                {
+                    "f": "Niedersachsen"
+                },
+                {
+                    "i": "Mo-Di und Do 10.00-12.00 und 14.00-18.00, Mi 14.00-18.00, Fr 10.00-12.00 und 13.00-18.00, Sa 10.00-13.00"
+                },
+                {
+                    "k": "8.06433"
+                },
+                {
+                    "l": "52.20540"
+                },
+                {
+                    "n": "03459019"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "5401"
+                },
+                {
+                    "f": "4 14 27"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "5401"
+                },
+                {
+                    "i": "87 02 60"
+                },
+                {
+                    "k": "mail@stb49124.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "10"
+                },
+                {
+                    "h": "07"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NIE"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "GBV"
+                },
+                {
+                    "d": "\u00d6VK"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-1098",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-1098",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-1098",
+    "identifier": "DE-1098",
+    "name": "Stadtbibliothek, Hauptstelle, kirchliche \u00f6ffentliche B\u00fcchereien",
+    "location": "Georgsmarienh\u00fctte",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NIE"
+}

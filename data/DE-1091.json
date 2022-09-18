@@ -1,0 +1,203 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-1091.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:17-02-16"
+                ],
+                {
+                    "t": "13:30:08.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020588283"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "HG269"
+                },
+                {
+                    "d": "1091"
+                },
+                {
+                    "e": "DE-1091"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.nicolasbornbibliothek.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://bibkataloge.de/dannenberg/WebOPAC/"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Hitzacker StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Nicolas Born Bibliothek Hitzacker"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Am Markt 7"
+                },
+                {
+                    "b": "Hitzacker"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "29456"
+                },
+                {
+                    "f": "Niedersachsen"
+                },
+                {
+                    "i": "Do-Fr 11.00-17.00, Sa 10.00-13.00"
+                },
+                {
+                    "k": "11.04669"
+                },
+                {
+                    "l": "53.15116"
+                },
+                {
+                    "n": "03354009"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "5862"
+                },
+                {
+                    "f": "98 55 46"
+                },
+                {
+                    "k": "Buecherei.Hitzacker@web.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "06"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NIE"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "GBV"
+                },
+                {
+                    "e": "l"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-1091",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-1091",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-1091",
+    "identifier": "DE-1091",
+    "name": "Nicolas Born Bibliothek Hitzacker",
+    "location": "Hitzacker",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NIE"
+}

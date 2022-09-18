@@ -1,0 +1,260 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Bb24.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:27-07-04"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:26-03-18"
+                ],
+                {
+                    "t": "10:39:46.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "026276895"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "868024-3"
+                },
+                {
+                    "b": "DJ797"
+                },
+                {
+                    "d": "Bb 24"
+                },
+                {
+                    "e": "DE-Bb24"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.eo-bamberg.de/eob/opencms/bildung/bibliothek/index.html"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://katalog.ub.uni-bamberg.de"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Bamberg Metropolitankapitel"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Metropolitankapitel Bamberg, Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Dompl. 2"
+                },
+                {
+                    "b": "Bamberg"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "96049"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "i": "Mo-Do 9.00-13.00 und 14.00-16.00, Fr 9.00-13.00"
+                },
+                {
+                    "k": "10.88413"
+                },
+                {
+                    "l": "49.89077"
+                },
+                {
+                    "n": "09461000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Bamberg"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "96033"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "g": "12 01 53"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "951"
+                },
+                {
+                    "f": "5 02-2571, -2572 und -2573"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "951"
+                },
+                {
+                    "i": "5 02-2579"
+                },
+                {
+                    "k": "bibliothek.metropolitankapitel@erzbistum-bamberg.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0085"
+                },
+                {
+                    "d": "BVB"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "10"
+                },
+                {
+                    "h": "08"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Kirchengeschichte"
+                },
+                {
+                    "a": "Ortsgeschichte"
+                },
+                {
+                    "a": "Regionalgeschichte"
+                },
+                {
+                    "a": "Christliche Kunst"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAY"
+                },
+                {
+                    "c": "BVB"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Bb24",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Bb24",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Bb24",
+    "identifier": "DE-Bb24",
+    "name": "Metropolitankapitel Bamberg, Bibliothek",
+    "location": "Bamberg",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAY"
+}

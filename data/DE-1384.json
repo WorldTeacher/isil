@@ -1,0 +1,206 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-1384.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:08-07-09"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9001:22-06-21"
+                ],
+                {
+                    "t": "15:14:39.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:08-07-09"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "995211892"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "WD808"
+                },
+                {
+                    "d": "1384"
+                },
+                {
+                    "e": "DE-1384"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.bibo-coswig.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://www.bibo-coswig.de/"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Coswig StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtbibliothek Coswig"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Karrasstr. 2"
+                },
+                {
+                    "b": "Coswig/Sachsen"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "01640"
+                },
+                {
+                    "f": "Sachsen"
+                },
+                {
+                    "i": "Mo+Fr 9.00-15.00, Di+Do 9.00-18.00, Sa 9.00-12.00"
+                },
+                {
+                    "k": "13.57882"
+                },
+                {
+                    "l": "51.12742"
+                },
+                {
+                    "n": "14627010"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "3523"
+                },
+                {
+                    "f": "6 64 44"
+                },
+                {
+                    "k": "info@bibo-coswig.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "07"
+                },
+                {
+                    "h": "06"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "SAX"
+                },
+                {
+                    "c": "GBV"
+                },
+                {
+                    "d": "SAX-OPC; \u00d6VK"
+                },
+                {
+                    "e": "n"
+                },
+                {
+                    "g": "R"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-1384",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-1384",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-1384",
+    "identifier": "DE-1384",
+    "name": "Stadtbibliothek Coswig",
+    "location": "Coswig/Sachsen",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "SAX"
+}

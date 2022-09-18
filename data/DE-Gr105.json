@@ -1,0 +1,230 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Gr105.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:04-11-15"
+                ],
+                {
+                    "t": "15:31:21.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020591756"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "EX412"
+                },
+                {
+                    "d": "Gr 105"
+                },
+                {
+                    "e": "DE-Gr105"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.landesarchiv-greifswald.de"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Landesarchiv Greifswald, Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Martin-Andersen-Nex\u00f6-Platz 1"
+                },
+                {
+                    "b": "Greifswald"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "17489"
+                },
+                {
+                    "f": "Mecklenburg-Vorpommern"
+                },
+                {
+                    "i": "Mo-Do 8.00-17.00"
+                },
+                {
+                    "k": "13.38790"
+                },
+                {
+                    "l": "54.09206"
+                },
+                {
+                    "n": "13001000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Greifswald"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "17463"
+                },
+                {
+                    "f": "Mecklenburg-Vorpommern"
+                },
+                {
+                    "g": "33 23"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "3834"
+                },
+                {
+                    "f": "59 53 0"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "3834"
+                },
+                {
+                    "i": "59 53 63"
+                },
+                {
+                    "k": "poststelle@landesarchiv-greifswald.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "02"
+                },
+                {
+                    "h": "06"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Pommern <Geschichte>"
+                },
+                {
+                    "a": "Geschichte des europ\u00e4ischen Ostens"
+                },
+                {
+                    "a": "Geschichte des Ostseeraumes"
+                },
+                {
+                    "a": "Schiffbau"
+                },
+                {
+                    "a": "Schifffahrt <DDR>"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "HAM"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Gr105",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Gr105",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Gr105",
+    "identifier": "DE-Gr105",
+    "name": "Landesarchiv Greifswald, Bibliothek",
+    "location": "Greifswald",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "HAM"
+}

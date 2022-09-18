@@ -1,0 +1,260 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-He205.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:18-11-99"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:22-11-16"
+                ],
+                {
+                    "t": "18:37:21.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "00902445X"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "698205-0"
+                },
+                {
+                    "b": "AQ424"
+                },
+                {
+                    "d": "He 205"
+                },
+                {
+                    "e": "DE-He205"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.ebert-gedenkstaette.de/pb/,Lde/Startseite/Schueler/Bibliothek.html"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://www.ub.uni-heidelberg.de/helios/kataloge"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Heidelberg F.-Ebert-Gedenkst."
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stiftung Reichspr\u00e4sident-Friedrich-Ebert-Gedenkst\u00e4tte, Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Pfaffengasse 18"
+                },
+                {
+                    "b": "Heidelberg"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "69117"
+                },
+                {
+                    "f": "Baden-W\u00fcrttemberg"
+                },
+                {
+                    "i": "Mo-Do 10.00-16.00, Fr 10.00-13.00"
+                },
+                {
+                    "k": "8.70831"
+                },
+                {
+                    "l": "49.41247"
+                },
+                {
+                    "n": "08221000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "a": "Untere Stra\u00dfe 27"
+                },
+                {
+                    "b": "Heidelberg"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "69117"
+                },
+                {
+                    "f": "Baden-W\u00fcrttemberg"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "6221"
+                },
+                {
+                    "f": "91 07-0"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "6221"
+                },
+                {
+                    "i": "91 07-10"
+                },
+                {
+                    "k": "friedrich@ebert-gedenkstaette.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0023"
+                },
+                {
+                    "d": "SWB"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "07"
+                },
+                {
+                    "h": "04"
+                },
+                {
+                    "i": "P"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Deutschland <Kaiserreich, Weimarer Republik>"
+                },
+                {
+                    "a": "Sozialismus <Geschichte>"
+                },
+                {
+                    "a": "Arbeiterbewegung <Geschichte>"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAW"
+                },
+                {
+                    "c": "SWB"
+                },
+                {
+                    "e": "l"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-He205",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-He205",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-He205",
+    "identifier": "DE-He205",
+    "name": "Stiftung Reichspr\u00e4sident-Friedrich-Ebert-Gedenkst\u00e4tte, Bibliothek",
+    "location": "Heidelberg",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAW"
+}

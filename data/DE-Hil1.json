@@ -1,0 +1,262 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Hil1.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:15-07-20"
+                ],
+                {
+                    "t": "14:21:19.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020592647"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "DB675"
+                },
+                {
+                    "d": "Hil 1"
+                },
+                {
+                    "e": "DE-Hil1"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.rpmuseum.de/"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://webopac.stadt-hildesheim.de/libero/WebOpac.cls"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Hildesheim Pelizaeus-Museum"
+                },
+                {
+                    "4": "a"
+                }
+            ],
+            [
+                {
+                    "a": "Hildesheim Roemer-Museum"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Roemer- und Pelizaeus-Museum, Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Am Steine 1/2"
+                },
+                {
+                    "b": "Hildesheim"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "31134"
+                },
+                {
+                    "f": "Niedersachsen"
+                },
+                {
+                    "i": "Di-Mi  9.00-16.00, Do 9.00-19.00"
+                },
+                {
+                    "j": "Lesesaal des Stadtarchivs HIldesheim"
+                },
+                {
+                    "k": "9.94393"
+                },
+                {
+                    "l": "52.14901"
+                },
+                {
+                    "n": "03254021"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "a": "Stadt Hildesheim, Fachbereich Archiv und Bibliotheken, Museumsbibliotheken, Am Steine 7"
+                },
+                {
+                    "b": "Hildesheim"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "31134"
+                },
+                {
+                    "f": "Niedersachsen"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "5121"
+                },
+                {
+                    "f": "3 01-4100"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "5121"
+                },
+                {
+                    "i": "3 01-4198"
+                },
+                {
+                    "k": "bibliothek@rpmuseum.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "07"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Kunstgeschichte"
+                },
+                {
+                    "a": "Ethnologie"
+                },
+                {
+                    "a": "Naturwissenschaften"
+                },
+                {
+                    "a": "\u00c4gyptologie"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NIE"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "d": "Kalliope"
+                },
+                {
+                    "e": "l"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Hil1",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Hil1",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Hil1",
+    "identifier": "DE-Hil1",
+    "name": "Roemer- und Pelizaeus-Museum, Bibliothek",
+    "location": "Hildesheim",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NIE"
+}

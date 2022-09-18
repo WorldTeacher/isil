@@ -1,0 +1,253 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Fn1-VS.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:13-07-04"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:04-05-20"
+                ],
+                {
+                    "t": "12:51:22.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "026198037"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "775020-1"
+                },
+                {
+                    "d": "Fn 1/VS"
+                },
+                {
+                    "e": "DE-Fn1-VS"
+                },
+                {
+                    "f": "FHFU"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.hs-furtwangen.de/bibliothek"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://bsz.ibs-bw.de/opac29"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Villingen-S. HS Furtwangen"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Hochschule Furtwangen University. Informatik, Technik, Wirtschaft, Medien. Campus Villingen-Schwenningen, Bibliothek"
+                }
+            ]
+        ],
+        "029R": [
+            [
+                {
+                    "9": "009022082"
+                },
+                {
+                    "7": "Tw"
+                },
+                {
+                    "a": "Hochschule Furtwangen University. Informatik, Technik, Wirtschaft, Medien. Campus Furtwangen, Bibliothek"
+                },
+                {
+                    "e": "DE-Fn1"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Jakob-Kienzle-Str. 17"
+                },
+                {
+                    "b": "Villingen-Schwenningen"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "78054"
+                },
+                {
+                    "f": "Baden-W\u00fcrttemberg"
+                },
+                {
+                    "i": "Mo-Fr 9.00-21.00"
+                },
+                {
+                    "j": "im Semester"
+                },
+                {
+                    "k": "8.53584"
+                },
+                {
+                    "l": "48.06197"
+                },
+                {
+                    "n": "08326074"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "7720"
+                },
+                {
+                    "f": "3 07-4770"
+                },
+                {
+                    "k": "bibliothek-vs@hs-furtwangen.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0031"
+                },
+                {
+                    "d": "SWB"
+                },
+                {
+                    "f": "73"
+                },
+                {
+                    "g": "02"
+                },
+                {
+                    "h": "06"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Wirtschaft"
+                },
+                {
+                    "a": "Umwelttechnik"
+                },
+                {
+                    "a": "Verfahrenstechnik"
+                },
+                {
+                    "a": "Medizintechnik"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "SWB"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Fn1-VS",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Fn1-VS",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Fn1-VS",
+    "identifier": "DE-Fn1-VS",
+    "name": "Hochschule Furtwangen University. Informatik, Technik, Wirtschaft, Medien. Campus Villingen-Schwenningen, Bibliothek",
+    "location": "Villingen-Schwenningen",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAW"
+}

@@ -1,0 +1,233 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/AT-HBTL.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:29-11-04"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:04-02-20"
+                ],
+                {
+                    "t": "16:55:36.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "026771047"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "030048-2"
+                },
+                {
+                    "d": "AT-HBTL"
+                },
+                {
+                    "e": "AT-HBTL"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://ku-linz.at/bibliothek/"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://search-dli.obvsg.at/"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "DUB Linz"
+                },
+                {
+                    "4": "b"
+                }
+            ],
+            [
+                {
+                    "a": "Linz Kath. Privatuniv."
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Di\u00f6zesan- und Universit\u00e4tsbibliothek der Katholischen Privatuniversit\u00e4t Linz"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Bethlehemstr. 20"
+                },
+                {
+                    "b": "Linz"
+                },
+                {
+                    "d": "AT"
+                },
+                {
+                    "e": "A-4020"
+                },
+                {
+                    "f": "\u00d6sterreich"
+                },
+                {
+                    "i": "Mo und Mi 08.00-20.00, Di und Do 08.00-18.00, Fr 08.00-16.00"
+                },
+                {
+                    "j": "im August geschlossen"
+                },
+                {
+                    "k": "14.29152"
+                },
+                {
+                    "l": "48.30386"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "43"
+                },
+                {
+                    "e": "70"
+                },
+                {
+                    "f": "78 42 93-4129"
+                },
+                {
+                    "g": "43"
+                },
+                {
+                    "h": "70"
+                },
+                {
+                    "i": "78 42 93-4155"
+                },
+                {
+                    "k": "bibliothek@ktu-linz.ac.at"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "c": "0319"
+                },
+                {
+                    "f": "60"
+                },
+                {
+                    "g": "10"
+                },
+                {
+                    "h": "09"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Theologie"
+                },
+                {
+                    "a": "Kunstgeschichte"
+                },
+                {
+                    "a": "Philosophie"
+                },
+                {
+                    "a": "Living History"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "WEU"
+                },
+                {
+                    "c": "\u00d6BV"
+                },
+                {
+                    "e": "l"
+                }
+            ]
+        ]
+    },
+    "_id": "AT-HBTL",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/AT-HBTL",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/AT-HBTL",
+    "identifier": "AT-HBTL",
+    "name": "Di\u00f6zesan- und Universit\u00e4tsbibliothek der Katholischen Privatuniversit\u00e4t Linz",
+    "location": "Linz",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "WEU"
+}

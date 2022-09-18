@@ -1,0 +1,216 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-1450.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:21-11-07"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:15-08-17"
+                ],
+                {
+                    "t": "13:16:37.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:21-11-07"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "986482986"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "GY671"
+                },
+                {
+                    "d": "1450"
+                },
+                {
+                    "e": "DE-1450"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.marktbuecherei-wolnzach.de/"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://cloudopac.winbiap.de/wolnzach/index.aspx"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Wolnzach StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Marktb\u00fccherei Wolnzach"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Preysingstr. 13"
+                },
+                {
+                    "b": "Wolnzach"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "85283"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "i": "Mo 8.30-13.30, Di und Fr 9.30-12.30 und 14.30-18.00, Do 14.30-19.00, Fr 9.30-12.30 und 14.30-18.00"
+                },
+                {
+                    "k": "11.62835"
+                },
+                {
+                    "l": "48.60206"
+                },
+                {
+                    "n": "09186162"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "8442"
+                },
+                {
+                    "f": "91 54 07"
+                },
+                {
+                    "k": "buecherei@wolnzach.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "06"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAY"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "BVB"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "buecherei@wolnzach.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-1450",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-1450",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-1450",
+    "identifier": "DE-1450",
+    "name": "Marktb\u00fccherei Wolnzach",
+    "location": "Wolnzach",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAY"
+}

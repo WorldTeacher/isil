@@ -1,0 +1,215 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-1113.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:25-01-01"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:28-01-16"
+                ],
+                {
+                    "t": "16:03:13.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "02132719X"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "LC736"
+                },
+                {
+                    "d": "1113"
+                },
+                {
+                    "e": "DE-1113"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.gross-gerau.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://grossgerau-opac.customer.findus-internet-opac.de/cgi-bin/findus.fcgi.pl?customer=grossgerau"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Gro\u00df-Gerau StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtb\u00fccherei Gro\u00df-Gerau"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Gernsheimer Str. 5"
+                },
+                {
+                    "b": "Gro\u00df-Gerau"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "64521"
+                },
+                {
+                    "f": "Hessen"
+                },
+                {
+                    "i": "Di und Do 15.00-18.00, Mi 10.00-13.00, Fr 15.00-19.00, Sa 10.00-12.00"
+                },
+                {
+                    "k": "8.48520"
+                },
+                {
+                    "l": "49.91768"
+                },
+                {
+                    "n": "06433006"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "6152"
+                },
+                {
+                    "f": "71 62 50"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "6152"
+                },
+                {
+                    "i": "93 85 55"
+                },
+                {
+                    "k": "stadtbuecherei@gross-gerau.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "07"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "HES"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "HeBIS"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-1113",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-1113",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-1113",
+    "identifier": "DE-1113",
+    "name": "Stadtb\u00fccherei Gro\u00df-Gerau",
+    "location": "Gro\u00df-Gerau",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "HES"
+}

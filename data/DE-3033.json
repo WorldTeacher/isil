@@ -1,0 +1,195 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-3033.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-05-21"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:18-06-21"
+                ],
+                {
+                    "t": "14:10:43.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:11-05-21"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "123332831X"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "WF374"
+                },
+                {
+                    "d": "3033"
+                },
+                {
+                    "e": "DE-3033"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "https://seiffen.de/ort/bibliothek-seiffen/"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Seiffen"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Bibliothek Seiffen"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Hauptstr. 95"
+                },
+                {
+                    "b": "Seiffen"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "09548"
+                },
+                {
+                    "f": "Sachsen"
+                },
+                {
+                    "i": "Mo, Do 12.00-17.00  und Di 13.00-18.00"
+                },
+                {
+                    "k": "13.45265"
+                },
+                {
+                    "l": "50.64828"
+                },
+                {
+                    "o": "barrierefrei"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "37362"
+                },
+                {
+                    "f": "12318"
+                },
+                {
+                    "k": "bibliothekseiffen@gmx.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "05"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "SAX"
+                },
+                {
+                    "d": "\u00d6VK"
+                },
+                {
+                    "e": "n"
+                },
+                {
+                    "f": "x"
+                },
+                {
+                    "g": "R"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-3033",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-3033",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-3033",
+    "identifier": "DE-3033",
+    "name": "Bibliothek Seiffen",
+    "location": "Seiffen",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "SAX"
+}

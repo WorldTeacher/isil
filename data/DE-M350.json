@@ -1,0 +1,275 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-M350.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:15-01-19"
+                ],
+                {
+                    "t": "16:48:47.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "02059609X"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "808350-2"
+                },
+                {
+                    "b": "BR744"
+                },
+                {
+                    "d": "M 350"
+                },
+                {
+                    "e": "DE-M350"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.museum-fuenf-kontinente.de/museum/bibliothek.html"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://bybtp1.bib-bvb.de/TouchPoint/start.do?View=mfvbib&SearchType=1&"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "vorher: Staatliches Museum f\u00fcr V\u00f6lkerkunde, Bibliothek"
+                },
+                {
+                    "4": "a"
+                }
+            ],
+            [
+                {
+                    "a": "MFK"
+                },
+                {
+                    "4": "b"
+                }
+            ],
+            [
+                {
+                    "a": "M\u00fcnchen MFK Bibliothek"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Museum F\u00fcnf Kontinente, Bibliothek"
+                }
+            ]
+        ],
+        "029R": [
+            [
+                {
+                    "9": "1018497765"
+                },
+                {
+                    "7": "Tw"
+                },
+                {
+                    "a": "Museum F\u00fcnf Kontinente"
+                },
+                {
+                    "e": "DE-MUS-099312"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Maximilianstr. 42"
+                },
+                {
+                    "b": "M\u00fcnchen"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "80538"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "i": "Di-Do 9.30-17.30, Fr 9.30-13.00"
+                },
+                {
+                    "j": "vorheriger Anruf empfohlen"
+                },
+                {
+                    "k": "11.58556"
+                },
+                {
+                    "l": "48.13760"
+                },
+                {
+                    "n": "09162000"
+                },
+                {
+                    "o": "nicht barrierefrei"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "89"
+                },
+                {
+                    "f": "21 01 36-132"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "89"
+                },
+                {
+                    "i": "21 01 36-247"
+                },
+                {
+                    "k": "bibliothek@mfk-weltoffen.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0161"
+                },
+                {
+                    "d": "BVB"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "02"
+                },
+                {
+                    "h": "07"
+                },
+                {
+                    "i": "P"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Materielle Kultur au\u00dfereurop\u00e4ischer V\u00f6lker"
+                },
+                {
+                    "a": "Ethnologie"
+                },
+                {
+                    "a": "V\u00f6lkerkunde"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAY"
+                },
+                {
+                    "c": "BVB"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-M350",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-M350",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-M350",
+    "identifier": "DE-M350",
+    "name": "Museum F\u00fcnf Kontinente, Bibliothek",
+    "location": "M\u00fcnchen",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAY"
+}

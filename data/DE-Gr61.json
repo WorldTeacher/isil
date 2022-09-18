@@ -1,0 +1,291 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Gr61.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:18-11-99"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:01-09-16"
+                ],
+                {
+                    "t": "15:34:43.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "009026886"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "928012-1"
+                },
+                {
+                    "b": "EM974"
+                },
+                {
+                    "d": "Gr 61"
+                },
+                {
+                    "e": "DE-Gr61"
+                },
+                {
+                    "f": "BFAV"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.fli.de"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Greifswald Fr.-Loeffler-Inst."
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Friedrich-Loeffler-Institut, Bundesforschungsinstitut f\u00fcr Tiergesundheit, Hauptbibliothek Insel Riems"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "S\u00fcdufer 10"
+                },
+                {
+                    "b": "Greifswald"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "17493"
+                },
+                {
+                    "f": "Mecklenburg-Vorpommern"
+                },
+                {
+                    "h": "OT Insel Riems"
+                },
+                {
+                    "i": "nach Vereinbarung"
+                },
+                {
+                    "j": "nicht \u00f6ffentlich zug\u00e4nglich"
+                },
+                {
+                    "k": "13.36238"
+                },
+                {
+                    "l": "54.18364"
+                },
+                {
+                    "n": "13001000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Greifswald - Insel Riems"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "17466"
+                },
+                {
+                    "f": "Mecklenburg-Vorpommern"
+                },
+                {
+                    "g": "13 18"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "38351"
+                },
+                {
+                    "f": "7-1119"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "38351"
+                },
+                {
+                    "i": "7-1151"
+                },
+                {
+                    "k": "bibliothek.riems@fli.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0111"
+                },
+                {
+                    "e": "GBV"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "01"
+                },
+                {
+                    "h": "06"
+                },
+                {
+                    "i": "P"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Tierseuche"
+                },
+                {
+                    "a": "Tiermedizin"
+                },
+                {
+                    "a": "Virologie"
+                },
+                {
+                    "a": "Immunologie"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "HAM"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "GBV"
+                },
+                {
+                    "d": "VBBMELV"
+                },
+                {
+                    "e": "k"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "bibliothek.fernleihe@fli.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "bibliothek.fernleihe@fli.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Gr61",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Gr61",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Gr61",
+    "identifier": "DE-Gr61",
+    "name": "Friedrich-Loeffler-Institut, Bundesforschungsinstitut f\u00fcr Tiergesundheit, Hauptbibliothek Insel Riems",
+    "location": "Greifswald",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "HAM"
+}

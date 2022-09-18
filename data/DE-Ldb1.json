@@ -1,0 +1,199 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Ldb1.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:23-02-10"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:11-05-22"
+                ],
+                {
+                    "t": "13:03:50.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:23-02-10"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1000403068"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "101197-2"
+                },
+                {
+                    "d": "Ldb 1"
+                },
+                {
+                    "e": "DE-Ldb1"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "https://www.ladenburg.de/leben-wohnen/stadtarchiv/das-stadtarchiv/"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Ladenburg Stadtarchiv"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtarchiv Ladenburg"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Dr.-Carl-Benz-Platz 1"
+                },
+                {
+                    "b": "Ladenburg"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "68526"
+                },
+                {
+                    "f": "Baden-W\u00fcrttemberg"
+                },
+                {
+                    "i": "Di 9.00-12.00, Do 9.00-12.00 und 14.00-17.00"
+                },
+                {
+                    "k": "8.60688"
+                },
+                {
+                    "l": "49.47084"
+                },
+                {
+                    "n": "08226038"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "6203"
+                },
+                {
+                    "f": "92 26 05"
+                },
+                {
+                    "k": "stadtarchiv@ladenburg.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0367"
+                },
+                {
+                    "f": "52"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "03"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAW"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ],
+        "047A": [
+            [
+                {
+                    "a": "Archivbestand (auch Handbibliothek) ist nicht f\u00fcr die Ausleihe bestimmt, nicht lokal, nicht regional usw."
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Ldb1",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Ldb1",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Ldb1",
+    "identifier": "DE-Ldb1",
+    "name": "Stadtarchiv Ladenburg",
+    "location": "Ladenburg",
+    "type": [
+        "Organization",
+        "Archive"
+    ],
+    "addressRegion": "BAW"
+}

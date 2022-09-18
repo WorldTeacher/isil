@@ -1,0 +1,234 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-H374.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:07-01-10"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:25-08-17"
+                ],
+                {
+                    "t": "15:24:37.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:07-01-10"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "999369067"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "d": "H 374"
+                },
+                {
+                    "e": "DE-H374"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "https://www.tk.de/"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Hamburg Techniker Krankenkasse"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Bibliothek der Techniker Krankenkasse"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Bramfelder Str. 140"
+                },
+                {
+                    "b": "Hamburg"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "22305"
+                },
+                {
+                    "f": "Hamburg"
+                },
+                {
+                    "k": "10.05826"
+                },
+                {
+                    "l": "53.59134"
+                },
+                {
+                    "n": "02000000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Hamburg"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "22291"
+                },
+                {
+                    "f": "Hamburg"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "40"
+                },
+                {
+                    "f": "69 09-1680"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "40"
+                },
+                {
+                    "i": "69 09-1081"
+                },
+                {
+                    "k": "bibliotheksauskunft@tk-online.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "07"
+                },
+                {
+                    "h": "06"
+                },
+                {
+                    "i": "P"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Gesundheitswissenschaft"
+                },
+                {
+                    "a": "Gesundheitssystemforschung"
+                },
+                {
+                    "a": "Krankenversicherungsrecht"
+                },
+                {
+                    "a": "Sozialversicherungsrecht"
+                },
+                {
+                    "a": "Sozialrecht"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "HAM"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-H374",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-H374",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-H374",
+    "identifier": "DE-H374",
+    "name": "Bibliothek der Techniker Krankenkasse",
+    "location": "Hamburg",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "HAM"
+}

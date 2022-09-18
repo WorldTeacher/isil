@@ -1,0 +1,287 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-91.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:18-11-99"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:01-09-22"
+                ],
+                {
+                    "t": "13:21:31.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:27-05-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "009023534"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "820001-4"
+                },
+                {
+                    "b": "AL091"
+                },
+                {
+                    "d": "91"
+                },
+                {
+                    "e": "DE-91"
+                },
+                {
+                    "f": "TUM"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.ub.tum.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://www.ub.tum.de/online-katalog"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "M\u00fcnchen UBTU"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Technische Universit\u00e4t M\u00fcnchen, Universit\u00e4tsbibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Arcisstr. 21"
+                },
+                {
+                    "b": "M\u00fcnchen"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "80333"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "i": "https://www.ub.tum.de/oeffnungszeiten"
+                },
+                {
+                    "k": "11.56853"
+                },
+                {
+                    "l": "48.14865"
+                },
+                {
+                    "n": "09162000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "89"
+                },
+                {
+                    "f": "2 89-28456"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "89"
+                },
+                {
+                    "i": "2 89-25303"
+                },
+                {
+                    "k": "fernleihe@ub.tum.de"
+                }
+            ]
+        ],
+        "035D": [
+            [
+                {
+                    "a": "M 351"
+                },
+                {
+                    "b": "DE-M351"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0056"
+                },
+                {
+                    "d": "BVB"
+                },
+                {
+                    "f": "60"
+                },
+                {
+                    "g": "02"
+                },
+                {
+                    "h": "10"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAY"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "BVB"
+                },
+                {
+                    "d": "Kalliope"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035K": [
+            [
+                {
+                    "b": "A"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "fernleihe@ub.tum.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "fernleihe@ub.tum.de"
+                }
+            ]
+        ],
+        "035O": [
+            [
+                {
+                    "a": "ISIL DE-12; AUTO DE-618"
+                }
+            ],
+            [
+                {
+                    "a": "ISIL DE-12; FZL DE-617"
+                }
+            ]
+        ],
+        "035Q": [
+            [
+                {
+                    "a": "j"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-91",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-91",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-91",
+    "identifier": "DE-91",
+    "name": "Technische Universit\u00e4t M\u00fcnchen, Universit\u00e4tsbibliothek",
+    "location": "M\u00fcnchen",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAY"
+}

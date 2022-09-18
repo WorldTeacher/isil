@@ -1,0 +1,230 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-173.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:12-05-22"
+                ],
+                {
+                    "t": "11:36:57.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020583087"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "101309-9"
+                },
+                {
+                    "b": "AJ173"
+                },
+                {
+                    "d": "173"
+                },
+                {
+                    "e": "DE-173"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.stadtbibliothek.flensburg.de"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Flensburg StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtbibliothek Flensburg"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "S\u00fcderhofenden 40"
+                },
+                {
+                    "b": "Flensburg"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "24937"
+                },
+                {
+                    "f": "Schleswig-Holstein"
+                },
+                {
+                    "i": "Mo 15.00-19.00, Di-Fr 10.00-19.00, Sa 10.00-13.00"
+                },
+                {
+                    "k": "9.43845"
+                },
+                {
+                    "l": "54.78374"
+                },
+                {
+                    "n": "01001000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Flensburg"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "24917"
+                },
+                {
+                    "f": "Schleswig-Holstein"
+                },
+                {
+                    "g": "27 41"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "461"
+                },
+                {
+                    "f": "85-2569"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "461"
+                },
+                {
+                    "i": "85-2254"
+                },
+                {
+                    "k": "stadtbibliothek@flensburg.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0367"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "08"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "HAM"
+                },
+                {
+                    "d": "BZSH"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-173",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-173",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-173",
+    "identifier": "DE-173",
+    "name": "Stadtbibliothek Flensburg",
+    "location": "Flensburg",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "HAM"
+}

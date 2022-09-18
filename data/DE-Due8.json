@@ -1,0 +1,226 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Due8.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:02-09-22"
+                ],
+                {
+                    "t": "14:11:15.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020590423"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "101248-4"
+                },
+                {
+                    "b": "CX760"
+                },
+                {
+                    "d": "D\u00fc 8"
+                },
+                {
+                    "e": "DE-Due8"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "https://www.archive.nrw.de/landesarchiv-nrw/landesarchiv-nrw-abteilung-rheinland-duisburg/weiterfuehrende-informationen"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://opac.bvlb.nrw.de"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "LAV NRW, Abt. Rheinland"
+                },
+                {
+                    "4": "a"
+                }
+            ],
+            [
+                {
+                    "a": "LAV Rheinland"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Landesarchiv NRW, Abteilung Rheinland, Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Schifferstr. 30"
+                },
+                {
+                    "b": "Duisburg"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "47059"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "i": "Mo, Di 8.30-19.00, Mi-Do 8.30-16.00; Fr 08.30-12.30"
+                },
+                {
+                    "k": "6.75774"
+                },
+                {
+                    "l": "51.43720"
+                },
+                {
+                    "n": "05111000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "203"
+                },
+                {
+                    "f": "98 721-0"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "203"
+                },
+                {
+                    "i": "98  721-111"
+                },
+                {
+                    "k": "rheinland@lav.nrw.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0367"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "02"
+                },
+                {
+                    "h": "08"
+                },
+                {
+                    "i": "P"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "d": "BVLBNRW"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Due8",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Due8",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Due8",
+    "identifier": "DE-Due8",
+    "name": "Landesarchiv NRW, Abteilung Rheinland, Bibliothek",
+    "location": "Duisburg",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NRW"
+}

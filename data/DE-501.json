@@ -1,0 +1,205 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-501.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:17-02-16"
+                ],
+                {
+                    "t": "14:04:09.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020584563"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "AJ501"
+                },
+                {
+                    "d": "501"
+                },
+                {
+                    "e": "DE-501"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://bibliothek.kyritz.de"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Kyritz StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Bibliothek Kyritz"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Marktpl. 17"
+                },
+                {
+                    "b": "Kyritz"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "16866"
+                },
+                {
+                    "f": "Brandenburg"
+                },
+                {
+                    "i": "Mo 13.00-17.00, Di und Fr 10.00-12.30 und 14.00-17.00, Do 13.00-18.00"
+                },
+                {
+                    "k": "12.39773"
+                },
+                {
+                    "l": "52.94262"
+                },
+                {
+                    "n": "12068264"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "33971"
+                },
+                {
+                    "f": "5 22 15"
+                },
+                {
+                    "k": "Bibliothek@Kyritz.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "06"
+                },
+                {
+                    "h": "06"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Ostprignitz"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BER"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "KOBV"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-501",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-501",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-501",
+    "identifier": "DE-501",
+    "name": "Bibliothek Kyritz",
+    "location": "Kyritz",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BER"
+}

@@ -1,0 +1,243 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-795.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:15-06-21"
+                ],
+                {
+                    "t": "09:22:42.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020585896"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "QY459"
+                },
+                {
+                    "d": "795"
+                },
+                {
+                    "e": "DE-795"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "https://www.mz-pb.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://irum.bibliotheca-open.de/"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "MZ PB"
+                },
+                {
+                    "4": "a"
+                }
+            ],
+            [
+                {
+                    "a": "Paderborn Medienzentrum"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Medienzentrum im Erzbistum Paderborn, Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Am Stadelhof 10-12"
+                },
+                {
+                    "b": "Paderborn"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "33098"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "i": "Mo-Di und Do-Fr 10.00-17.30, Sa 10.00-13.00"
+                },
+                {
+                    "k": "8.75973"
+                },
+                {
+                    "l": "51.72106"
+                },
+                {
+                    "n": "05774032"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "5251"
+                },
+                {
+                    "f": "1 25-1900"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "5251"
+                },
+                {
+                    "i": "1 25-1929"
+                },
+                {
+                    "k": "fernleihe@erzbistum-paderborn.de"
+                }
+            ],
+            [
+                {
+                    "a": "Religionsp\u00e4dagogig"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "10"
+                },
+                {
+                    "h": "07"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "fernleihe@erzbistum-paderborn.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "fernleihe@erzbistum-paderborn.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-795",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-795",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-795",
+    "identifier": "DE-795",
+    "name": "Medienzentrum im Erzbistum Paderborn, Bibliothek",
+    "location": "Paderborn",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NRW"
+}

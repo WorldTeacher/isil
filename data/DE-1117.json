@@ -1,0 +1,277 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-1117.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:15-10-01"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:18-08-15"
+                ],
+                {
+                    "t": "08:57:29.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:27-05-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "022656596"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "654000-4"
+                },
+                {
+                    "b": "BF141"
+                },
+                {
+                    "d": "1117"
+                },
+                {
+                    "e": "DE-1117"
+                },
+                {
+                    "f": "FHWO"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.hs-worms.de/bib"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://www-opac.hs-worms.de"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Worms HSB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Hochschule Worms, Hochschulbibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Erenburger Str. 19"
+                },
+                {
+                    "b": "Worms"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "67549"
+                },
+                {
+                    "f": "Rheinland-Pfalz"
+                },
+                {
+                    "h": "Geb\u00e4ude A"
+                },
+                {
+                    "i": "Mo-Do 8.30-19.00, Fr 9.00-18.00, Sa 9.00-13.00"
+                },
+                {
+                    "j": "vorlesungsfreie Zeit: Mo-Fr 8.30-16.00, Sa 9.00-13.00"
+                },
+                {
+                    "k": "8.34396"
+                },
+                {
+                    "l": "49.63270"
+                },
+                {
+                    "n": "07319000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "6241"
+                },
+                {
+                    "f": "5 09-440"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "6241"
+                },
+                {
+                    "i": "5 09-223"
+                },
+                {
+                    "k": "bib-ausleihe@hs-worms.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0302"
+                },
+                {
+                    "d": "HBZ"
+                },
+                {
+                    "f": "70"
+                },
+                {
+                    "g": "02"
+                },
+                {
+                    "h": "07"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Wirtschaft"
+                },
+                {
+                    "a": "Informatik"
+                },
+                {
+                    "a": "Touristik"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "HBZ"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "bib-fernleihe@hs-worms.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "bib-fernleihe@hs-worms.de"
+                }
+            ]
+        ],
+        "035O": [
+            [
+                {
+                    "a": "FZL DE-621"
+                },
+                {
+                    "b": "CONTAINER"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-1117",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-1117",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-1117",
+    "identifier": "DE-1117",
+    "name": "Hochschule Worms, Hochschulbibliothek",
+    "location": "Worms",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NRW"
+}

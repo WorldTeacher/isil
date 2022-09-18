@@ -1,0 +1,259 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-H256.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:28-01-16"
+                ],
+                {
+                    "t": "16:36:30.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020592205"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "208256-1"
+                },
+                {
+                    "b": "DB080"
+                },
+                {
+                    "d": "H 256"
+                },
+                {
+                    "e": "DE-H256"
+                },
+                {
+                    "f": "FAB"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "F\u00fcAkBw"
+                },
+                {
+                    "4": "b"
+                }
+            ],
+            [
+                {
+                    "a": "Hamburg F\u00fchrungsakad.Bundesw."
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "F\u00fchrungsakademie der Bundeswehr, Fachinformationsstelle Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Manteuffelstr. 20"
+                },
+                {
+                    "b": "Hamburg"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "22587"
+                },
+                {
+                    "f": "Hamburg"
+                },
+                {
+                    "i": "Mo-Do 7.30-16.00, Fr 7.30-12.00"
+                },
+                {
+                    "j": "nicht \u00f6ffentlich zug\u00e4nglich"
+                },
+                {
+                    "k": "9.83248"
+                },
+                {
+                    "l": "53.56363"
+                },
+                {
+                    "n": "02000000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Hamburg"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "22585"
+                },
+                {
+                    "f": "Hamburg"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "40"
+                },
+                {
+                    "f": "86 67-4755 (Benutzung)"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "40"
+                },
+                {
+                    "i": "86 67-4009"
+                },
+                {
+                    "k": "FueakbwFistOrtsleiheFernleihe@bundeswehr.org"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0308"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "01"
+                },
+                {
+                    "h": "08"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Nationale und internationale Verteidigungs- und Sicherheitspolitik"
+                },
+                {
+                    "a": "Milit\u00e4rgeschichte"
+                },
+                {
+                    "a": "Kriegsgeschichte"
+                },
+                {
+                    "a": "Heer"
+                },
+                {
+                    "a": "Luftwaffe"
+                },
+                {
+                    "a": "Marine"
+                },
+                {
+                    "a": "Konflikt- und Friedensforschung"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "HAM"
+                },
+                {
+                    "d": "FachInfoUstgBw"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-H256",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-H256",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-H256",
+    "identifier": "DE-H256",
+    "name": "F\u00fchrungsakademie der Bundeswehr, Fachinformationsstelle Bibliothek",
+    "location": "Hamburg",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "HAM"
+}

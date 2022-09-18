@@ -1,0 +1,264 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-He115.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:18-11-99"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:27-02-19"
+                ],
+                {
+                    "t": "10:37:29.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "009017097"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "698115-X"
+                },
+                {
+                    "b": "NC449"
+                },
+                {
+                    "d": "He 115"
+                },
+                {
+                    "e": "DE-He115"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.dai-heidelberg.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://opac.dai-heidelberg.de"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Heidelberg DAI"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Deutsch-Amerikanisches Institut Heidelberg, Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Sofienstr. 12"
+                },
+                {
+                    "b": "Heidelberg"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "69115"
+                },
+                {
+                    "f": "Baden-W\u00fcrttemberg"
+                },
+                {
+                    "i": "Mo-Di und Do-Fr 13.00-18.00, Mi 13.00-20.00, Sa 10.00-14.00"
+                },
+                {
+                    "k": "8.69392"
+                },
+                {
+                    "l": "49.40778"
+                },
+                {
+                    "n": "08221000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Heidelberg"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "69115"
+                },
+                {
+                    "f": "Baden-W\u00fcrttemberg"
+                },
+                {
+                    "g": "12 02 33"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "6221"
+                },
+                {
+                    "f": "60 73 15"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "6221"
+                },
+                {
+                    "i": "60 73 73"
+                },
+                {
+                    "k": "biblio@dai-heidelberg.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0023"
+                },
+                {
+                    "d": "SWB"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "06"
+                },
+                {
+                    "h": "06"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Audiovisuelle Medien"
+                },
+                {
+                    "a": "Amerikanische Literatur"
+                },
+                {
+                    "a": "Kinder- und Jugendliteratur"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAW"
+                },
+                {
+                    "c": "SWB"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ],
+        "047A": [
+            [
+                {
+                    "a": "\u00d6ffentliche englischsprachige Bibliothek mit Beratungsstelle f\u00fcr Studien-, Praktikums- und Sch\u00fcleraufenhalte in den USA, Kinderb\u00fccher"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-He115",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-He115",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-He115",
+    "identifier": "DE-He115",
+    "name": "Deutsch-Amerikanisches Institut Heidelberg, Bibliothek",
+    "location": "Heidelberg",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAW"
+}

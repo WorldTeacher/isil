@@ -1,0 +1,258 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-B11-DB.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:13-04-11"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:18-10-16"
+                ],
+                {
+                    "t": "15:32:18.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:13-04-11"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1011039796"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "155208-9"
+                },
+                {
+                    "d": "B 11/DB"
+                },
+                {
+                    "e": "DE-B11-DB"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.ifskb.de/node/59"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://opac.smb.spk-berlin.de/"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Berlin SMB Digitale Bibliothek"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Staatliche Museen zu Berlin, Preu\u00dfischer Kulturbesitz, Digitale Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Matth\u00e4ikirchpl. 6"
+                },
+                {
+                    "b": "Berlin"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "10785"
+                },
+                {
+                    "f": "Berlin"
+                },
+                {
+                    "k": "13.36666"
+                },
+                {
+                    "l": "52.50861"
+                },
+                {
+                    "n": "11000000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "30"
+                },
+                {
+                    "f": "2 66-424141"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "30"
+                },
+                {
+                    "i": "2 66-424199"
+                },
+                {
+                    "k": "auskunft.kb@smb.spk-berlin.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0113"
+                },
+                {
+                    "e": "GBV"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "07"
+                },
+                {
+                    "h": "09"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Kunstgeschichte"
+                },
+                {
+                    "a": "Kunstwissenschaft"
+                },
+                {
+                    "a": "Architektur"
+                },
+                {
+                    "a": "Skulptur"
+                },
+                {
+                    "a": "Plastik"
+                },
+                {
+                    "a": "Malerei"
+                },
+                {
+                    "a": "Graphik"
+                },
+                {
+                    "a": "Kunsthandwerk"
+                },
+                {
+                    "a": "Mode"
+                },
+                {
+                    "a": "Sammlungskataloge"
+                },
+                {
+                    "a": "Ausstellungskataloge"
+                },
+                {
+                    "a": "Auktionskataloge"
+                },
+                {
+                    "a": "Lagerkataloge"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BER"
+                },
+                {
+                    "c": "GBV"
+                },
+                {
+                    "e": "k"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-B11-DB",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-B11-DB",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-B11-DB",
+    "identifier": "DE-B11-DB",
+    "name": "Staatliche Museen zu Berlin, Preu\u00dfischer Kulturbesitz, Digitale Bibliothek",
+    "location": "Berlin",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BER"
+}

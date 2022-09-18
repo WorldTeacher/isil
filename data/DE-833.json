@@ -1,0 +1,244 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-833.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:28-01-16"
+                ],
+                {
+                    "t": "16:33:13.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020586221"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "KQ152"
+                },
+                {
+                    "d": "833"
+                },
+                {
+                    "e": "DE-833"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.stadtbibliothek-heilbronn.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://web-opac.kivbf.de/heilbronn/index.asp"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Heilbronn StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtbibliothek Heilbronn"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Berliner Pl. 12"
+                },
+                {
+                    "b": "Heilbronn"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "74072"
+                },
+                {
+                    "f": "Baden-W\u00fcrttemberg"
+                },
+                {
+                    "i": "Di-Fr 10.00-19.00, Sa 10.00-15.00"
+                },
+                {
+                    "k": "9.22143"
+                },
+                {
+                    "l": "49.14602"
+                },
+                {
+                    "n": "08121000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Heilbronn"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "74024"
+                },
+                {
+                    "f": "Baden-W\u00fcrttemberg"
+                },
+                {
+                    "g": "34 40"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "7131"
+                },
+                {
+                    "f": "56-2663"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "7131"
+                },
+                {
+                    "i": "56 29 50"
+                },
+                {
+                    "j": "\u00fcber 728630 stvhn d"
+                },
+                {
+                    "k": "bibliothek@stadt-heilbronn.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "08"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "SWB"
+                },
+                {
+                    "d": "V\u00d6B-BF"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-833",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-833",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-833",
+    "identifier": "DE-833",
+    "name": "Stadtbibliothek Heilbronn",
+    "location": "Heilbronn",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAW"
+}

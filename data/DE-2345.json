@@ -1,0 +1,225 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-2345.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:30-09-15"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:28-11-16"
+                ],
+                {
+                    "t": "11:35:52.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:30-09-15"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "107704805X"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "d": "2345"
+                },
+                {
+                    "e": "DE-2345"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://faustmuseum.de/faust-archiv/"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Knittlingen Bibl. Faust-Archiv"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Bibliothek im Faust-Archiv Knittlingen"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Kirchplatz 9"
+                },
+                {
+                    "b": "Knittlingen"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "75438"
+                },
+                {
+                    "f": "Baden-W\u00fcrttemberg"
+                },
+                {
+                    "i": "Di-Do 9.30-12.00 und 13.30-17.00, Fr 9.30-12.00"
+                },
+                {
+                    "k": "8.75734"
+                },
+                {
+                    "l": "49.02409"
+                },
+                {
+                    "n": "08236033"
+                },
+                {
+                    "o": "nicht barrierefrei"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "7043"
+                },
+                {
+                    "f": "95 16 10"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "7043"
+                },
+                {
+                    "i": "95 16 11"
+                },
+                {
+                    "k": "dr@faustmuseum.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "05"
+                },
+                {
+                    "i": "P"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAW"
+                },
+                {
+                    "c": "SWB"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "faustmuseum@knittlingen.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "faustmuseum@knittlingen.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-2345",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-2345",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-2345",
+    "identifier": "DE-2345",
+    "name": "Bibliothek im Faust-Archiv Knittlingen",
+    "location": "Knittlingen",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAW"
+}

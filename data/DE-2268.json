@@ -1,0 +1,203 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-2268.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:13-01-15"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:16-11-20"
+                ],
+                {
+                    "t": "11:08:39.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:13-01-15"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1064905013"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "DN018"
+                },
+                {
+                    "d": "2268"
+                },
+                {
+                    "e": "DE-2268"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.bistum-trier.de/bistumsarchiv/"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "BATr"
+                },
+                {
+                    "4": "a"
+                }
+            ],
+            [
+                {
+                    "a": "Trier Bistumsarchiv"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Bistumsarchiv Trier"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Jesuitenstr. 13c"
+                },
+                {
+                    "b": "Trier"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "54290"
+                },
+                {
+                    "f": "Rheinland-Pfalz"
+                },
+                {
+                    "i": "Di-Do 9.00-17.00, Fr 9.00-13.00"
+                },
+                {
+                    "k": "6.63983"
+                },
+                {
+                    "l": "49.75356"
+                },
+                {
+                    "n": "07211000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "651"
+                },
+                {
+                    "f": "9 66 27-0"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "651"
+                },
+                {
+                    "i": "9 66 27-20"
+                },
+                {
+                    "k": "bistumsarchiv@bgv-trier.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "53"
+                },
+                {
+                    "g": "10"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-2268",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-2268",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-2268",
+    "identifier": "DE-2268",
+    "name": "Bistumsarchiv Trier",
+    "location": "Trier",
+    "type": [
+        "Organization",
+        "Archive"
+    ],
+    "addressRegion": "NRW"
+}

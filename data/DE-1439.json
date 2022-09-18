@@ -1,0 +1,225 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-1439.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:16-11-07"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:01-10-19"
+                ],
+                {
+                    "t": "12:27:51.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:16-11-07"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "986426954"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "LR253"
+                },
+                {
+                    "d": "1439"
+                },
+                {
+                    "e": "DE-1439"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.schondorf.de/adressen/buecherei/"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://webopac.winbiap.net/schondorf/index.aspx"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Schondorf GB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Gemeindeb\u00fccherei Schondorf"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Rathausplatz 1"
+                },
+                {
+                    "b": "Schondorf"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "86938"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "i": "Di 10.00-13.00, Mi 15.00-18.00, Do 15.00-19.00, Fr 15.00-17.00"
+                },
+                {
+                    "k": "11.09045"
+                },
+                {
+                    "l": "48.05281"
+                },
+                {
+                    "n": "09181139"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "8192"
+                },
+                {
+                    "f": "93 35-28"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "8192"
+                },
+                {
+                    "i": "93 35-40"
+                },
+                {
+                    "k": "buecherei@schondorf.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "05"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAY"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "BVB"
+                },
+                {
+                    "e": "n"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "buecherei@schondorf.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-1439",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-1439",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-1439",
+    "identifier": "DE-1439",
+    "name": "Gemeindeb\u00fccherei Schondorf",
+    "location": "Schondorf",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAY"
+}

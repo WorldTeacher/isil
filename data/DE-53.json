@@ -1,0 +1,237 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-53.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:17-02-16"
+                ],
+                {
+                    "t": "14:03:03.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020582420"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "AH053"
+                },
+                {
+                    "d": "53"
+                },
+                {
+                    "e": "DE-53"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.stadtbibliothek-altenburg.de/"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Altenburg StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtbibliothek Altenburg"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Lindenaustr. 14"
+                },
+                {
+                    "b": "Altenburg"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "04600"
+                },
+                {
+                    "f": "Th\u00fcringen"
+                },
+                {
+                    "i": "Mo-Di und Do 12.00-18.00, Fr 10.00-16.00"
+                },
+                {
+                    "k": "12.43454"
+                },
+                {
+                    "l": "50.98886"
+                },
+                {
+                    "n": "16077001"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "a": "Stadtverwaltung Altenburg"
+                },
+                {
+                    "b": "Altenburg"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "04581"
+                },
+                {
+                    "f": "Th\u00fcringen"
+                },
+                {
+                    "g": "1163"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "3447"
+                },
+                {
+                    "f": "31 50 58"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "3447"
+                },
+                {
+                    "i": "50 58 41"
+                },
+                {
+                    "k": "info@stadt-altenburg.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "07"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Geschichte <Altenburg/Ostth\u00fcringen>"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "THU"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "GBV"
+                },
+                {
+                    "e": "l"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-53",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-53",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-53",
+    "identifier": "DE-53",
+    "name": "Stadtbibliothek Altenburg",
+    "location": "Altenburg",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "THU"
+}

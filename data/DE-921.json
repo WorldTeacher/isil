@@ -1,0 +1,267 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-921.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:28-11-18"
+                ],
+                {
+                    "t": "16:37:59.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020586930"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "HN776"
+                },
+                {
+                    "d": "921"
+                },
+                {
+                    "e": "DE-921"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.wermelskirchen.de/stadt/bildung/buecherei/willkommen.php"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://opac.wermelskirchen.de"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Wermelskirchen StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtb\u00fccherei Wermelskirchen"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Kattwinkelstr. 3"
+                },
+                {
+                    "b": "Wermelskirchen"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "42929"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "i": "Mo 10.00-12.00 und 14.30-18.00, Di und Fr 14.30-18.00, Do 10.00-12.00 und 14.30-19.00"
+                },
+                {
+                    "j": "Jeden 1. und 3. Sa 10.00-12.00"
+                },
+                {
+                    "k": "7.21687"
+                },
+                {
+                    "l": "51.13812"
+                },
+                {
+                    "n": "05378032"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Wermelskirchen"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "42904"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "g": "11 10"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "2196"
+                },
+                {
+                    "f": "7 10-410"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "2196"
+                },
+                {
+                    "i": "7 10-415"
+                },
+                {
+                    "k": "buecherei@wermelskirchen.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "07"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "d": "Kalliope"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "b"
+                },
+                {
+                    "d": "buecherei@wermelskirchen.de"
+                }
+            ],
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "buecherei@wermelskirchen.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "buecherei@wermelskirchen.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-921",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-921",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-921",
+    "identifier": "DE-921",
+    "name": "Stadtb\u00fccherei Wermelskirchen",
+    "location": "Wermelskirchen",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NRW"
+}

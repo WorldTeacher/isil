@@ -1,0 +1,252 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-956.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:28-11-18"
+                ],
+                {
+                    "t": "16:37:54.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020587155"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "BQ016"
+                },
+                {
+                    "d": "956"
+                },
+                {
+                    "e": "DE-956"
+                },
+                {
+                    "f": "EFRWL"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.evh-bochum.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://opac.evh-bochum.de/index.asp?DB=web_biblio&swin=TRUE"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "EvH RWL"
+                },
+                {
+                    "4": "a"
+                }
+            ],
+            [
+                {
+                    "a": "Bochum EvH"
+                },
+                {
+                    "4": "c"
+                }
+            ],
+            [
+                {
+                    "a": "Protestant University of Applied Sciences, Library"
+                },
+                {
+                    "4": "d"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Evangelische Hochschule Rheinland-Westfalen-Lippe, Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Immanuel-Kant-Str. 18/20"
+                },
+                {
+                    "b": "Bochum"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "44803"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "i": "Mo-Mi 8.00-19.00, Do 8.00-17.00, Fr 8.00-16.00, Sa 9.00-14.00"
+                },
+                {
+                    "j": "abweichende \u00d6ffnungszeiten s. Homepage"
+                },
+                {
+                    "k": "7.25314"
+                },
+                {
+                    "l": "51.47356"
+                },
+                {
+                    "n": "05911000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "234"
+                },
+                {
+                    "f": "3 69 01-239 (Fernleihe) und -240 bis -242"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "234"
+                },
+                {
+                    "i": "3 69 01-100"
+                },
+                {
+                    "k": "fernleihe@evh-bochum.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "70"
+                },
+                {
+                    "g": "09"
+                },
+                {
+                    "h": "07"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "fernleihe@evh-bochum.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "fernleihe@evh-bochum.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-956",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-956",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-956",
+    "identifier": "DE-956",
+    "name": "Evangelische Hochschule Rheinland-Westfalen-Lippe, Bibliothek",
+    "location": "Bochum",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NRW"
+}

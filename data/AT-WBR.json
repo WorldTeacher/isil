@@ -1,0 +1,216 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/AT-WBR.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:29-11-04"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:17-07-15"
+                ],
+                {
+                    "t": "11:00:50.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "026771004"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "030044-5"
+                },
+                {
+                    "c": "39.009.0000-0"
+                },
+                {
+                    "d": "AT-WBR"
+                },
+                {
+                    "e": "AT-WBR"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.stadtbibliothek.wien.at/"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://www.magwien.gv.at/ma09/kat1/TITSrc"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Wien Wienbibl."
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Wienbibliothek im Rathaus"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Rathaus"
+                },
+                {
+                    "b": "Wien"
+                },
+                {
+                    "d": "AT"
+                },
+                {
+                    "e": "A-1082"
+                },
+                {
+                    "f": "\u00d6sterreich"
+                },
+                {
+                    "h": "4. Stiege, 1.Stock, T\u00fcr 333"
+                },
+                {
+                    "k": "16.35693"
+                },
+                {
+                    "l": "48.21152"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "43"
+                },
+                {
+                    "e": "1"
+                },
+                {
+                    "f": "40 00-84920"
+                },
+                {
+                    "g": "43"
+                },
+                {
+                    "h": "1"
+                },
+                {
+                    "i": "40 00-7219"
+                },
+                {
+                    "k": "post@wienbibliothek.at"
+                }
+            ]
+        ],
+        "035D": [
+            [
+                {
+                    "a": "AT-STLBW"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "c": "0157"
+                },
+                {
+                    "e": "\u00d6BV"
+                },
+                {
+                    "f": "81"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "WEU"
+                },
+                {
+                    "c": "\u00d6BV"
+                },
+                {
+                    "d": "Kalliope"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "AT-WBR",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/AT-WBR",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/AT-WBR",
+    "identifier": "AT-WBR",
+    "name": "Wienbibliothek im Rathaus",
+    "location": "Wien",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "WEU"
+}

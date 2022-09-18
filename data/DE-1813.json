@@ -1,0 +1,250 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-1813.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:21-01-10"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:09-10-19"
+                ],
+                {
+                    "t": "10:16:21.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:21-01-10"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "999712543"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "HM310"
+                },
+                {
+                    "d": "1813"
+                },
+                {
+                    "e": "DE-1813"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.buecherei-bruckmuehl.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://cloudopac.winbiap.de/bruckmuehl"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Bruckm\u00fchl GB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Gemeindeb\u00fccherei Bruckm\u00fchl"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Kirchdorfer Str. 10"
+                },
+                {
+                    "b": "Bruckm\u00fchl"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "83052"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "i": "Mo und Fr 14.00-18.00, Mi 10.00-14.00, Do 14.00-20.00"
+                },
+                {
+                    "k": "11.91498"
+                },
+                {
+                    "l": "47.88380"
+                },
+                {
+                    "n": "09187122"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "8062"
+                },
+                {
+                    "f": "46 64"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "8062"
+                },
+                {
+                    "i": "8 09 90 98"
+                },
+                {
+                    "k": "buecherei@bruckmuehl.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "06"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Romane"
+                },
+                {
+                    "a": "Sachb\u00fccher"
+                },
+                {
+                    "a": "Kinder-und Jugendb\u00fccher"
+                },
+                {
+                    "a": "DVDs"
+                },
+                {
+                    "a": "CDRoms"
+                },
+                {
+                    "a": "CDs"
+                },
+                {
+                    "a": "Zeitschriften"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAY"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "d": "biblio18"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "buecherei@bruckmuehl.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-1813",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-1813",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-1813",
+    "identifier": "DE-1813",
+    "name": "Gemeindeb\u00fccherei Bruckm\u00fchl",
+    "location": "Bruckm\u00fchl",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAY"
+}

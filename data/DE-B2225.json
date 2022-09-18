@@ -1,0 +1,252 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-B2225.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:05-05-22"
+                ],
+                {
+                    "t": "10:40:29.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020589123"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "EX254"
+                },
+                {
+                    "d": "B 2225"
+                },
+                {
+                    "e": "DE-B2225"
+                },
+                {
+                    "f": "MDCB"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.mdc-berlin.de/de/about_the_mdc/structure/administration/library/index.html"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://webopac.mdc-berlin.de/webOPACClient/start.do"
+                },
+                {
+                    "z": "B"
+                }
+            ],
+            [
+                {
+                    "u": "http://www.mdc-berlin.de/de/about_the_mdc/structure/administration/library/about/tips/index.html"
+                },
+                {
+                    "x": "Nutzung"
+                },
+                {
+                    "z": "W"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Berlin MDC f. Molekula. Med."
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Max-Delbr\u00fcck-Centrum f\u00fcr Molekulare Medizin, Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Robert-R\u00f6ssle-Str. 10"
+                },
+                {
+                    "b": "Berlin"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "13125"
+                },
+                {
+                    "f": "Berlin"
+                },
+                {
+                    "i": "Mo-Fr 9.00-16.00"
+                },
+                {
+                    "k": "13.50199"
+                },
+                {
+                    "l": "52.62467"
+                },
+                {
+                    "n": "11000000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "30"
+                },
+                {
+                    "f": "94 06-2150"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "30"
+                },
+                {
+                    "i": "94 06-3342"
+                },
+                {
+                    "k": "bibliothek@mdc-berlin.de"
+                }
+            ]
+        ],
+        "035D": [
+            [
+                {
+                    "a": "B 514"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "01"
+                },
+                {
+                    "h": "07"
+                },
+                {
+                    "i": "P"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Onkologie"
+                },
+                {
+                    "a": "Neurologie"
+                },
+                {
+                    "a": "Kardiovaskul\u00e4re Krankheit"
+                },
+                {
+                    "a": "Molekulare Medizin"
+                },
+                {
+                    "a": "Genetik"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BER"
+                },
+                {
+                    "c": "KOBV"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-B2225",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-B2225",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-B2225",
+    "identifier": "DE-B2225",
+    "name": "Max-Delbr\u00fcck-Centrum f\u00fcr Molekulare Medizin, Bibliothek",
+    "location": "Berlin",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BER"
+}

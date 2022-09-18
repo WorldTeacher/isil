@@ -1,0 +1,196 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-3008.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-05-21"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:18-06-21"
+                ],
+                {
+                    "t": "14:10:54.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:11-05-21"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "123332618X"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "WM996"
+                },
+                {
+                    "d": "3008"
+                },
+                {
+                    "e": "DE-3008"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "https://bad-schandau.de/uber-bad-schandau/bibliothek/"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://bad-schandau.bbopac.de/index"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Bibliothek Bad Schandau"
+                },
+                {
+                    "4": "a"
+                }
+            ],
+            [
+                {
+                    "a": "Bad Schandau"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Bad Schandauer Kur- und Tourismus GmbH, Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Markt 12"
+                },
+                {
+                    "b": "Bad Schandau"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "01814"
+                },
+                {
+                    "f": "Sachsen"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "35022"
+                },
+                {
+                    "f": "900 55"
+                },
+                {
+                    "k": "bibo@bad-schandau.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "SAX"
+                },
+                {
+                    "d": "\u00d6VK"
+                },
+                {
+                    "e": "n"
+                },
+                {
+                    "f": "x"
+                },
+                {
+                    "g": "R"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-3008",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-3008",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-3008",
+    "identifier": "DE-3008",
+    "name": "Bad Schandauer Kur- und Tourismus GmbH, Bibliothek",
+    "location": "Bad Schandau",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "SAX"
+}

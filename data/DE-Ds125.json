@@ -1,0 +1,217 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Ds125.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:21-11-12"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:16-11-20"
+                ],
+                {
+                    "t": "11:09:21.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:21-11-12"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1028041837"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "JD685"
+                },
+                {
+                    "d": "Ds 125"
+                },
+                {
+                    "e": "DE-Ds125"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.jazzinstitut.de"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Darmstadt Jazzinst."
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Jazzinstitut Darmstadt, Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Bessunger Str. 88d"
+                },
+                {
+                    "b": "Darmstadt"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "64285"
+                },
+                {
+                    "f": "Hessen"
+                },
+                {
+                    "h": "Kavaliershaus auf dem Bessunger Jagdhof"
+                },
+                {
+                    "i": "Mo und Do 10.00-17.00, Di 10.00-20.00, Fr 10.00-14.00"
+                },
+                {
+                    "k": "8.64785"
+                },
+                {
+                    "l": "49.85797"
+                },
+                {
+                    "n": "06411000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "6151"
+                },
+                {
+                    "f": "96 37 00"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "6151"
+                },
+                {
+                    "i": "96 37 44"
+                },
+                {
+                    "k": "jazz@jazzinstitut.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "09"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Jazz"
+                },
+                {
+                    "a": "afro-amerikanische Musikgeschichte"
+                },
+                {
+                    "a": "deutsche Jazzgeschichte"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "HES"
+                },
+                {
+                    "c": "HeBIS"
+                },
+                {
+                    "e": "k"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Ds125",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Ds125",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Ds125",
+    "identifier": "DE-Ds125",
+    "name": "Jazzinstitut Darmstadt, Bibliothek",
+    "location": "Darmstadt",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "HES"
+}

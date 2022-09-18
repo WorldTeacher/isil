@@ -1,0 +1,290 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Kn182.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:24-09-21"
+                ],
+                {
+                    "t": "09:53:38.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "02059464X"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "503182-5"
+                },
+                {
+                    "b": "CU659"
+                },
+                {
+                    "d": "Kn 182"
+                },
+                {
+                    "e": "DE-Kn182"
+                },
+                {
+                    "f": "DLLR"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.dlr.de/zb/"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "K\u00f6ln DLR Bibliothek"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Deutsches Zentrum f\u00fcr Luft- und Raumfahrt, DLR-Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Linder H\u00f6he"
+                },
+                {
+                    "b": "K\u00f6ln"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "51147"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "i": "nicht \u00f6ffentlich zug\u00e4nglich"
+                },
+                {
+                    "k": "7.11968"
+                },
+                {
+                    "l": "50.85536"
+                },
+                {
+                    "n": "05315000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "z": "Sitz des DLR Vorstandes"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "K\u00f6ln"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "51170"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "k": "Bibliotheken@dlr.de"
+                },
+                {
+                    "l": "Zentrale E-Mail-Adresse, pers\u00f6nliche Kontaktdaten bitte der angegebenen Service-URL entnehmen"
+                }
+            ]
+        ],
+        "035D": [
+            [
+                {
+                    "a": "B 2162"
+                },
+                {
+                    "b": "DE-B2162"
+                }
+            ],
+            [
+                {
+                    "a": "Bs 74"
+                },
+                {
+                    "b": "DE-Bs74"
+                }
+            ],
+            [
+                {
+                    "a": "G\u00f6 146"
+                },
+                {
+                    "b": "DE-Goe146"
+                }
+            ],
+            [
+                {
+                    "a": "M 479"
+                },
+                {
+                    "b": "DE-M479"
+                }
+            ],
+            [
+                {
+                    "a": "Stg 192"
+                },
+                {
+                    "b": "DE-Stg192"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0215"
+                },
+                {
+                    "d": "SWB"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "07"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Luftfahrt"
+                },
+                {
+                    "a": "Raumfahrt"
+                },
+                {
+                    "a": "Verkehr"
+                },
+                {
+                    "a": "Energie"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ],
+        "035Q": [
+            [
+                {
+                    "a": "j"
+                }
+            ]
+        ],
+        "047A": [
+            [
+                {
+                    "a": "Die DLR-Bibliothek setzt sich zusammen aus einer zentralen Organisationseinheit und den Bibliotheken an den Standorten Berlin, Braunschweig, G\u00f6ttingen, K\u00f6ln, Lampoldshausen, Stuttgart und Oberpfaffenhofen."
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Kn182",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Kn182",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Kn182",
+    "identifier": "DE-Kn182",
+    "name": "Deutsches Zentrum f\u00fcr Luft- und Raumfahrt, DLR-Bibliothek",
+    "location": "K\u00f6ln",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NRW"
+}

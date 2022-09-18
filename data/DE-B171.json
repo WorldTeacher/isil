@@ -1,0 +1,282 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-B171.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "1220:21-01-04"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:07-10-20"
+                ],
+                {
+                    "t": "12:44:38.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "025525689"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "918016-3"
+                },
+                {
+                    "b": "EA093"
+                },
+                {
+                    "d": "B 171"
+                },
+                {
+                    "e": "DE-B171"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "https://www.stadtmuseum.de/bibliothek"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://stadtmuseum.webopac.net"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Berlin Stadtmuseum"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stiftung Stadtmuseum Berlin, Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Hans-Poelzig-Str. 20"
+                },
+                {
+                    "b": "Berlin"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "13587"
+                },
+                {
+                    "f": "Berlin"
+                },
+                {
+                    "i": "Besuch nach Voranmeldung"
+                },
+                {
+                    "k": "13.21975"
+                },
+                {
+                    "l": "52.55921"
+                },
+                {
+                    "n": "11000000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "a": "Poststr. 13/14"
+                },
+                {
+                    "b": "Berlin"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "10178"
+                },
+                {
+                    "f": "Berlin"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "30"
+                },
+                {
+                    "f": "3 53 05 98 12"
+                },
+                {
+                    "k": "bibliothek@stadtmuseum.de"
+                }
+            ]
+        ],
+        "035D": [
+            [
+                {
+                    "a": "B 171/1"
+                },
+                {
+                    "b": "DE-B171-1"
+                }
+            ],
+            [
+                {
+                    "a": "B 171/3"
+                },
+                {
+                    "b": "DE-B171-3"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0149"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "06"
+                },
+                {
+                    "h": "08"
+                },
+                {
+                    "i": "P"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Stadtgeschichte <Berlin>"
+                },
+                {
+                    "a": "Landesgeschichte Mark Brandenburg <eingeschr\u00e4nkt>"
+                },
+                {
+                    "a": "Kindheit und Jugend <Sondersammlung>"
+                },
+                {
+                    "a": "documenta artistica (Zirkus/Variet\u00e9) <Sondersammlung>"
+                },
+                {
+                    "a": "Naturwissenschaften <Sondersammlung>"
+                },
+                {
+                    "a": "Mode (ehem. Modearchiv der DDR) <Sondersammlung:>"
+                },
+                {
+                    "a": "Textb\u00fccher (Theater, Film, Musik) <Sondersammlung>"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BER"
+                },
+                {
+                    "c": "KOBV"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ],
+        "047A": [
+            [
+                {
+                    "a": "Ehem. Bibliothek des M\u00e4rkischen Museums und des Berlin Museums"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-B171",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-B171",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-B171",
+    "identifier": "DE-B171",
+    "name": "Stiftung Stadtmuseum Berlin, Bibliothek",
+    "location": "Berlin",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BER"
+}

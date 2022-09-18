@@ -1,0 +1,244 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-1338.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:10-04-07"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9042:09-06-22"
+                ],
+                {
+                    "t": "15:36:32.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:10-04-07"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "983767416"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "LF865"
+                },
+                {
+                    "d": "1338"
+                },
+                {
+                    "e": "DE-1338"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.neunkirchen-siegerland.de/bibliothek"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://www.golibri.de"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Neunkirchen StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Bibliothek Neunkirchen"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Bahnhofstra\u00dfe 3"
+                },
+                {
+                    "b": "Neunkirchen/Siegerland"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "57290"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "i": "Mo und Do 8.00-18.00, Di und Fr 8.00-16:00"
+                },
+                {
+                    "k": "7.99951"
+                },
+                {
+                    "l": "50.78898"
+                },
+                {
+                    "n": "05970036"
+                },
+                {
+                    "o": "barrierefrei"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "2735"
+                },
+                {
+                    "f": "7 67-190"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "2735"
+                },
+                {
+                    "i": "53 42"
+                },
+                {
+                    "k": "bibliothek@neunkirchen-siegerland.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "06"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "d": "HBZ-DigiBib"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "b"
+                },
+                {
+                    "d": "bibliothek@neunkirchen-siegerland.de"
+                }
+            ],
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "bibliothek@neunkirchen-siegerland.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "bibliothek@neunkirchen-siegerland.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-1338",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-1338",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-1338",
+    "identifier": "DE-1338",
+    "name": "Bibliothek Neunkirchen",
+    "location": "Neunkirchen/Siegerland",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NRW"
+}

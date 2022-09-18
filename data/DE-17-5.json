@@ -1,0 +1,202 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-17-5.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:18-11-99"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:22-02-21"
+                ],
+                {
+                    "t": "15:42:18.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "009052828"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "611005-8"
+                },
+                {
+                    "d": "17/5"
+                },
+                {
+                    "e": "DE-17-5"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.ulb.tu-darmstadt.de/17_005"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "BB"
+                },
+                {
+                    "4": "a"
+                }
+            ],
+            [
+                {
+                    "a": "Darmstadt FB Biologie"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "TU Darmstadt, Fachbereich Biologie"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Schnittspahnstr. 10"
+                },
+                {
+                    "b": "Darmstadt"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "64287"
+                },
+                {
+                    "f": "Hessen"
+                },
+                {
+                    "i": "Mo-Do 8.00-16.30, Fr 8.00-15.30"
+                },
+                {
+                    "k": "8.68022"
+                },
+                {
+                    "l": "49.86879"
+                },
+                {
+                    "n": "06411000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035D": [
+            [
+                {
+                    "a": "Ds 90"
+                }
+            ],
+            [
+                {
+                    "a": "Ds 50"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0024"
+                },
+                {
+                    "e": "HBV"
+                },
+                {
+                    "f": "65"
+                },
+                {
+                    "g": "07"
+                },
+                {
+                    "k": "Ds 5"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "HES"
+                },
+                {
+                    "c": "HeBIS"
+                },
+                {
+                    "e": "n"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-17-5",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-17-5",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-17-5",
+    "identifier": "DE-17-5",
+    "name": "TU Darmstadt, Fachbereich Biologie",
+    "location": "Darmstadt",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "HES"
+}

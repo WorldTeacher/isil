@@ -1,0 +1,231 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-B712.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:18-11-99"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:15-12-15"
+                ],
+                {
+                    "t": "16:18:47.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:27-05-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "009002367"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "GE759"
+                },
+                {
+                    "d": "B 712"
+                },
+                {
+                    "e": "DE-B712"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.berlin.de/stadtbibliothek-steglitz-zehlendorf/"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://www.berlin.de/stadtbibliothek-steglitz-zehlendorf/bibliotheken/gottfried-benn-bibliothek/"
+                },
+                {
+                    "x": "Standort"
+                },
+                {
+                    "z": "W"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Berlin-Steglitz-Zehlendorf StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtbibliothek Steglitz-Zehlendorf, Gottfried-Benn-Bibliothek, Mittelpunktbibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Nentersh\u00e4user Platz 1"
+                },
+                {
+                    "b": "Berlin"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "14163"
+                },
+                {
+                    "f": "Berlin"
+                },
+                {
+                    "i": "Mo-Fr 11.00-19.00, Sa 10.00-14.00"
+                },
+                {
+                    "k": "13.25549"
+                },
+                {
+                    "l": "52.43208"
+                },
+                {
+                    "n": "11000000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "30"
+                },
+                {
+                    "f": "9 02 99-5458"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "30"
+                },
+                {
+                    "i": "9 02 99-6188"
+                },
+                {
+                    "k": "stb.zehlendorf@stadtbibliothek-steglitz-zehlendorf.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "07"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Steglitz"
+                },
+                {
+                    "a": "Zehlendorf"
+                },
+                {
+                    "a": "Gottfried Benn"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BER"
+                },
+                {
+                    "c": "KOBV"
+                },
+                {
+                    "d": "V\u00d6BB"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-B712",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-B712",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-B712",
+    "identifier": "DE-B712",
+    "name": "Stadtbibliothek Steglitz-Zehlendorf, Gottfried-Benn-Bibliothek, Mittelpunktbibliothek",
+    "location": "Berlin",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BER"
+}

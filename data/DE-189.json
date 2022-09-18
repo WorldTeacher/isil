@@ -1,0 +1,258 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-189.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:06-04-20"
+                ],
+                {
+                    "t": "15:50:29.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020583214"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "AK189"
+                },
+                {
+                    "d": "189"
+                },
+                {
+                    "e": "DE-189"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.kvhs-harz.de"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "KB Harz"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Kreisvolkshochschule Harz GmbH, Kreisbibliothek Harz"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Heiligegeiststr. 8"
+                },
+                {
+                    "b": "Quedlinburg"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "06484"
+                },
+                {
+                    "f": "Sachsen-Anhalt"
+                },
+                {
+                    "i": "Di 10.00-12.00 und 15.00-18.00, Do 14.00-18.00, Fr 14.00-18.00"
+                },
+                {
+                    "k": "11.14532"
+                },
+                {
+                    "l": "51.78782"
+                },
+                {
+                    "n": "15085235"
+                },
+                {
+                    "o": "barrierefrei"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "3946"
+                },
+                {
+                    "f": "52 40 50"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "3946"
+                },
+                {
+                    "i": "52 40 59"
+                },
+                {
+                    "k": "kreisbibliothek@kvhs-harz.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "08"
+                },
+                {
+                    "h": "07"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "SAA"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "GBV"
+                },
+                {
+                    "d": "\u00d6VK"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "f": "x"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "kreisbibliothek@kvhs-harz.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "kreisbibliothek@kvhs-harz.de"
+                }
+            ],
+            [
+                {
+                    "a": "b"
+                },
+                {
+                    "d": "kreisbibliothek@kvhs-harz.de"
+                }
+            ],
+            [
+                {
+                    "a": "a"
+                },
+                {
+                    "d": "kreisbibliothek@kvhs-harz.de"
+                }
+            ],
+            [
+                {
+                    "a": "d"
+                },
+                {
+                    "d": "kreisbibliothek@kvhs-harz.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-189",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-189",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-189",
+    "identifier": "DE-189",
+    "name": "Kreisvolkshochschule Harz GmbH, Kreisbibliothek Harz",
+    "location": "Quedlinburg",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "SAA"
+}

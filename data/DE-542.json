@@ -1,0 +1,286 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-542.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:18-11-99"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:09-12-15"
+                ],
+                {
+                    "t": "10:54:17.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:27-05-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "009037004"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "934000-2"
+                },
+                {
+                    "b": "EX424"
+                },
+                {
+                    "d": "542"
+                },
+                {
+                    "e": "DE-542"
+                },
+                {
+                    "f": "FHMQ"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.hs-merseburg.de/bibliothek/hochschulbibliothek/"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://opac.bibliothek.uni-halle.de/LNG=DU/DB=2/"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Hochschulbibliothek Merseburg"
+                },
+                {
+                    "4": "a"
+                }
+            ],
+            [
+                {
+                    "a": "Merseburg HSB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Hochschule Merseburg, Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Eberhard-Leibnitz-Str. 2"
+                },
+                {
+                    "b": "Merseburg"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "06217"
+                },
+                {
+                    "f": "Sachsen-Anhalt"
+                },
+                {
+                    "h": "Geb\u00e4ude B"
+                },
+                {
+                    "i": "Mo und Mi-Do 8.00-18.00, Di 10.00-18.00, Fr 8.00-15.00"
+                },
+                {
+                    "k": "11.97688"
+                },
+                {
+                    "l": "51.34319"
+                },
+                {
+                    "n": "15088220"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "3461"
+                },
+                {
+                    "f": "46-2265 (Fernl.)"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "3461"
+                },
+                {
+                    "i": "46-2270"
+                },
+                {
+                    "k": "fernleihe@hs-merseburg.de"
+                }
+            ]
+        ],
+        "035D": [
+            [
+                {
+                    "a": "B 22"
+                }
+            ],
+            [
+                {
+                    "a": "Mer 1"
+                },
+                {
+                    "b": "DE-Mer1"
+                }
+            ],
+            [
+                {
+                    "a": "Mer 2"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0111"
+                },
+                {
+                    "e": "GBV"
+                },
+                {
+                    "f": "70"
+                },
+                {
+                    "g": "02"
+                },
+                {
+                    "h": "08"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "SAA"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "GBV"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "fernleihe@hs-merseburg.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "fernleihe@hs-merseburg.de"
+                }
+            ]
+        ],
+        "035O": [
+            [
+                {
+                    "a": "FZL DE-622"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-542",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-542",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-542",
+    "identifier": "DE-542",
+    "name": "Hochschule Merseburg, Bibliothek",
+    "location": "Merseburg",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "SAA"
+}

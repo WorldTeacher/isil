@@ -1,0 +1,252 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-1899.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:03-07-12"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:05-04-22"
+                ],
+                {
+                    "t": "09:31:18.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:03-07-12"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1023895641"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "d": "1899"
+                },
+                {
+                    "e": "DE-1899"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "https://www.srh-gesundheitshochschule.de/dein-studium/bibliothek/"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://webopac.srh-hochschulen.de/vopac/index.asp?DB=BIBGR"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Gera HS Gesundheit"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "SRH Hochschule f\u00fcr Gesundheit, Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Neue Str. 28-30"
+                },
+                {
+                    "b": "Gera"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "07548"
+                },
+                {
+                    "f": "Th\u00fcringen"
+                },
+                {
+                    "i": "Mo-Fr 10.00-17.00"
+                },
+                {
+                    "k": "12.07207"
+                },
+                {
+                    "l": "50.88089"
+                },
+                {
+                    "n": "16052000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "365"
+                },
+                {
+                    "f": "77 34 07-63"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "365"
+                },
+                {
+                    "i": "77 34 07-77"
+                },
+                {
+                    "k": "bibliothek.hsge@srh.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "70"
+                },
+                {
+                    "g": "08"
+                },
+                {
+                    "h": "05"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Gesundheitswissenschaften"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "THU"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "GBV"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "b"
+                },
+                {
+                    "d": "bibliothek@srh-gesundheitshochschule.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "bibliothek@srh-gesundheitshochschule.de"
+                }
+            ],
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "bibliothek@srh-gesundheitshochschule.de"
+                }
+            ]
+        ],
+        "047A": [
+            [
+                {
+                    "a": "Bibliothek befindet sich im Aufbau"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-1899",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-1899",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-1899",
+    "identifier": "DE-1899",
+    "name": "SRH Hochschule f\u00fcr Gesundheit, Bibliothek",
+    "location": "Gera",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "THU"
+}

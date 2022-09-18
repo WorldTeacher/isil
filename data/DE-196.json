@@ -1,0 +1,254 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-196.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:18-11-99"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:05-03-19"
+                ],
+                {
+                    "t": "15:19:54.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:27-05-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "009027890"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "935200-4"
+                },
+                {
+                    "b": "AF196"
+                },
+                {
+                    "d": "196"
+                },
+                {
+                    "e": "DE-196"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.stadtbibliothek-halle.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://secure.halle.de/wwwopac/index.asp"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Halle/S StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtbibliothek Halle"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Salzgrafenstr. 2"
+                },
+                {
+                    "b": "Halle/Saale"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "06108"
+                },
+                {
+                    "f": "Sachsen-Anhalt"
+                },
+                {
+                    "i": "Mo-Di und Do-Fr 10.00-19.00, Mi 14.00-19.00, Sa 10.00-14.00"
+                },
+                {
+                    "k": "11.96658"
+                },
+                {
+                    "l": "51.48214"
+                },
+                {
+                    "n": "15002000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Halle/Saale"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "06108"
+                },
+                {
+                    "f": "Sachsen-Anhalt"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "345"
+                },
+                {
+                    "f": "2 21-4707"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "345"
+                },
+                {
+                    "i": "2 21-4716"
+                },
+                {
+                    "k": "Stadtbibliothek@Halle.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0101"
+                },
+                {
+                    "d": "GBV"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "09"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Musik"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "SAA"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "GBV"
+                },
+                {
+                    "d": "\u00d6VK"
+                },
+                {
+                    "e": "l"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-196",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-196",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-196",
+    "identifier": "DE-196",
+    "name": "Stadtbibliothek Halle",
+    "location": "Halle/Saale",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "SAA"
+}

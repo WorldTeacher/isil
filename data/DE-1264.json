@@ -1,0 +1,274 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-1264.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:31-01-06"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:17-02-16"
+                ],
+                {
+                    "t": "14:16:31.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:31-01-06"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "978344596"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "WC361"
+                },
+                {
+                    "d": "1264"
+                },
+                {
+                    "e": "DE-1264"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.bibliothek-glienicke.eu/Willkommen.aspx"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://www.bibliothek-glienicke.eu/Mediensuche.aspx"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Glienicke/Nordbahn GB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Gemeindebibliothek Glienicke/Nordbahn"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Hauptstr. 19"
+                },
+                {
+                    "b": "Glienicke"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "16548"
+                },
+                {
+                    "f": "Brandenburg"
+                },
+                {
+                    "i": "Di 9.00-19.00, Do-Fr 9.00-13.00"
+                },
+                {
+                    "k": "13.31924"
+                },
+                {
+                    "l": "52.63050"
+                },
+                {
+                    "n": "12065096"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "z": "Erwachsenenbibliothek"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "a": "Hauptstr. 62"
+                },
+                {
+                    "b": "Glienicke"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "16548"
+                },
+                {
+                    "f": "Brandenburg"
+                },
+                {
+                    "i": "Mo und Mi 13.00-17.00, Do 14.00-18.00"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "W"
+                },
+                {
+                    "3": "Kinder- u. Jugendbibliothek"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "33056"
+                },
+                {
+                    "f": "6 92 30"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "33056"
+                },
+                {
+                    "i": "8 03 69"
+                },
+                {
+                    "k": "Bibliothek@Glienicke-Nordbahn.de"
+                }
+            ],
+            [
+                {
+                    "a": "W"
+                },
+                {
+                    "b": "Kinder- u. Jugendbibliothek"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "33056"
+                },
+                {
+                    "f": "69270"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "06"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Oberhavel"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BER"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "KOBV"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-1264",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-1264",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-1264",
+    "identifier": "DE-1264",
+    "name": "Gemeindebibliothek Glienicke/Nordbahn",
+    "location": "Glienicke",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BER"
+}

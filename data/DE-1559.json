@@ -1,0 +1,262 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-1559.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:04-02-08"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:02-03-18"
+                ],
+                {
+                    "t": "13:57:30.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:04-02-08"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "987414321"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "QB614"
+                },
+                {
+                    "d": "1559"
+                },
+                {
+                    "e": "DE-1559"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.ab-mariageburt.koeb-unterfranken.de"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "B\u00fccherei im Gemeindezentrum Maria Geburt"
+                },
+                {
+                    "4": "a"
+                }
+            ],
+            [
+                {
+                    "a": "Aschaffenburg K\u00d6B"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Katholische \u00d6ffentliche B\u00fccherei Maria Geburt Aschaffenburg"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Marienstr. 13"
+                },
+                {
+                    "b": "Aschaffenburg"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "63743"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "i": "Mi 9.00-11.00, Fr 16.30-18.00, So 10.30-12.00"
+                },
+                {
+                    "j": "\u00d6ffnungszeiten Feiertage und Ferien siehe Homepage"
+                },
+                {
+                    "k": "9.16559"
+                },
+                {
+                    "l": "49.95791"
+                },
+                {
+                    "n": "09661000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "6021"
+                },
+                {
+                    "f": "4 38 04 32"
+                },
+                {
+                    "k": "buecherei@maria-geburt.de"
+                },
+                {
+                    "l": "nur w\u00e4hrend der \u00d6ffnungszeiten"
+                }
+            ],
+            [
+                {
+                    "a": "W"
+                },
+                {
+                    "b": "Au\u00dferhalb \u00d6ffnungsz."
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "6021"
+                },
+                {
+                    "f": "9 33 73"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "10"
+                },
+                {
+                    "h": "03"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Kinder- und Jugend: Antolinprogramm"
+                },
+                {
+                    "a": "Belletristik"
+                },
+                {
+                    "a": "Familie"
+                },
+                {
+                    "a": "religi\u00f6ser Bestand: Gottesdienstvorbereitung, Katechese"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAY"
+                },
+                {
+                    "c": "BVB"
+                },
+                {
+                    "e": "n"
+                },
+                {
+                    "g": "R"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "buecherei@maria-geburt.de"
+                }
+            ]
+        ],
+        "047A": [
+            [
+                {
+                    "a": "Die B\u00fccherei Maria Geburt bietet im Schwerpunkt einen familienorientierten Bestand an B\u00fcchern, Zeitschriften und CD's an."
+                }
+            ]
+        ]
+    },
+    "_id": "DE-1559",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-1559",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-1559",
+    "identifier": "DE-1559",
+    "name": "Katholische \u00d6ffentliche B\u00fccherei Maria Geburt Aschaffenburg",
+    "location": "Aschaffenburg",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAY"
+}

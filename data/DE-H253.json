@@ -1,0 +1,237 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-H253.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:18-11-99"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:25-06-18"
+                ],
+                {
+                    "t": "09:39:34.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "009003088"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "208253-6"
+                },
+                {
+                    "b": "CW081"
+                },
+                {
+                    "d": "H 253"
+                },
+                {
+                    "e": "DE-H253"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://library.desy.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://pubdb.desy.de/collection/CATALOGUE"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Hamburg DESY"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Deutsches Elektronen-Synchrotron DESY, Bibliothek und Dokumentation"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Notkestr. 85"
+                },
+                {
+                    "b": "Hamburg"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "22607"
+                },
+                {
+                    "f": "Hamburg"
+                },
+                {
+                    "i": "Mo-Fr 7.00-19.00"
+                },
+                {
+                    "j": "f\u00fcr Mitarbeiter mit DACHS-Karte: 24 Std."
+                },
+                {
+                    "k": "9.87832"
+                },
+                {
+                    "l": "53.57677"
+                },
+                {
+                    "n": "02000000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "40"
+                },
+                {
+                    "f": "89 98-3317 und -3302"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "40"
+                },
+                {
+                    "i": "89 98 44 40"
+                },
+                {
+                    "j": "215124 desy d"
+                },
+                {
+                    "k": "library@desy.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0100"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "08"
+                },
+                {
+                    "h": "07"
+                },
+                {
+                    "i": "P"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Beschleunigerphysik"
+                },
+                {
+                    "a": "Forschung mit Photonen"
+                },
+                {
+                    "a": "Hochenergiephysik"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "HAM"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-H253",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-H253",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-H253",
+    "identifier": "DE-H253",
+    "name": "Deutsches Elektronen-Synchrotron DESY, Bibliothek und Dokumentation",
+    "location": "Hamburg",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "HAM"
+}

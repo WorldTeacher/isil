@@ -1,0 +1,183 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-1745.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:09-01-08"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:17-02-16"
+                ],
+                {
+                    "t": "13:48:48.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:09-01-08"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "987078011"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "SB935"
+                },
+                {
+                    "d": "1745"
+                },
+                {
+                    "e": "DE-1745"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Schweitenkirchen K\u00d6B"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Gemeindeb\u00fccherei Schweitenkirchen"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Kirchenweg 4"
+                },
+                {
+                    "b": "Schweitenkirchen"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "85301"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "k": "11.60631"
+                },
+                {
+                    "l": "48.50579"
+                },
+                {
+                    "n": "09186152"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "k": "buecherei@gemeinde-schweitenkirchen.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "10"
+                },
+                {
+                    "h": "05"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAY"
+                },
+                {
+                    "c": "BVB"
+                },
+                {
+                    "e": "n"
+                },
+                {
+                    "g": "R"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "buecherei@gemeinde-schweitenkirchen.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-1745",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-1745",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-1745",
+    "identifier": "DE-1745",
+    "name": "Gemeindeb\u00fccherei Schweitenkirchen",
+    "location": "Schweitenkirchen",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAY"
+}

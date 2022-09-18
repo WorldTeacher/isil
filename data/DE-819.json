@@ -1,0 +1,221 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-819.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:28-11-18"
+                ],
+                {
+                    "t": "16:38:09.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020586132"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "GQ834"
+                },
+                {
+                    "d": "819"
+                },
+                {
+                    "e": "DE-819"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://elsdorf-opac.customer.findus-internet-opac.de/cgi-bin/findus.fcgi.pl?customer=elsdorf;_cookiecheck=2008-09-22-08-18-50&_cookiecheck=2010-12-09-11-07-35"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Elsdorf/Rheinl. StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtbibliothek Elsdorf"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Pestalozzistr. 2"
+                },
+                {
+                    "b": "Elsdorf/Rheinland"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "50189"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "i": "Mo 14.30-18.30, Di-Mi 10.00-12.30, Do 10.00-12.30 und 14.30-18.30, Fr 10.00-12.30 und 14.30-16.30"
+                },
+                {
+                    "k": "6.55760"
+                },
+                {
+                    "l": "50.93963"
+                },
+                {
+                    "n": "05362016"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "2274"
+                },
+                {
+                    "f": "7 09-181"
+                },
+                {
+                    "k": "bibliothek@elsdorf.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "06"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "b"
+                },
+                {
+                    "d": "bibliothek@elsdorf.de"
+                }
+            ],
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "bibliothek@elsdorf.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "bibliothek@elsdorf.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-819",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-819",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-819",
+    "identifier": "DE-819",
+    "name": "Stadtbibliothek Elsdorf",
+    "location": "Elsdorf/Rheinland",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NRW"
+}

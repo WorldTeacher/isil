@@ -1,0 +1,266 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-942.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9042:30-01-20"
+                ],
+                {
+                    "t": "16:09:37.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020587082"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "GM110"
+                },
+                {
+                    "d": "942"
+                },
+                {
+                    "e": "DE-942"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.haus-beda.de"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Bitburg StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Bibliothek der Dr.-Hanns-Simon-Stiftung"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Brodenheckstr. 13/15"
+                },
+                {
+                    "b": "Bitburg"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "54634"
+                },
+                {
+                    "f": "Rheinland-Pfalz"
+                },
+                {
+                    "i": "Mo 9.00-13.00, Di 9.00-18.30, Mi-Fr 9.00-13.00 und 15.00-18.30"
+                },
+                {
+                    "k": "6.52001"
+                },
+                {
+                    "l": "49.97116"
+                },
+                {
+                    "n": "07232018"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "z": "Parkplatz am Haus und der gesamte Bedaplatz in der N\u00e4he"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "6561"
+                },
+                {
+                    "f": "96 45-13"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "6561"
+                },
+                {
+                    "i": "96 45-20"
+                },
+                {
+                    "k": "bibliothek@haus-beda.de"
+                }
+            ],
+            [
+                {
+                    "a": "W"
+                },
+                {
+                    "b": "Fernleihe"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "6561"
+                },
+                {
+                    "f": "96 45-15"
+                },
+                {
+                    "k": "fernleihe@haus-beda.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "08"
+                },
+                {
+                    "h": "07"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Eifel"
+                },
+                {
+                    "a": "Familienb\u00fccher <Eifel>"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "b"
+                },
+                {
+                    "d": "fernleihe@haus-beda.de"
+                }
+            ],
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "fernleihe@haus-beda.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "fernleihe@haus-beda.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-942",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-942",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-942",
+    "identifier": "DE-942",
+    "name": "Bibliothek der Dr.-Hanns-Simon-Stiftung",
+    "location": "Bitburg",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NRW"
+}

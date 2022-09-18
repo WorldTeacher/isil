@@ -1,0 +1,215 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-488.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:23-03-16"
+                ],
+                {
+                    "t": "13:43:19.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "02058444X"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "AB488"
+                },
+                {
+                    "d": "488"
+                },
+                {
+                    "e": "DE-488"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.lauenburg.de/stadt_und_buerger/leben_und_wohnen/buecherei.php"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://www.eopac.net/BGX429323/"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Lauenburg/Elbe StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadt- und Schulb\u00fccherei Lauenburg"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Weingarten 12"
+                },
+                {
+                    "b": "Lauenburg/Elbe"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "21481"
+                },
+                {
+                    "f": "Schleswig-Holstein"
+                },
+                {
+                    "i": "Di 11.00-19.00, Mi und Fr 11.00-16.00, Do 11.00-18.00, Sa 10.00-13.00"
+                },
+                {
+                    "j": "in den schleswig-holsteinischen Ferien Dienstag bis Freitag ab 14 Uhr ge\u00f6ffnet"
+                },
+                {
+                    "k": "10.55516"
+                },
+                {
+                    "l": "53.37528"
+                },
+                {
+                    "n": "01053083"
+                },
+                {
+                    "o": "barrierefrei"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "4153"
+                },
+                {
+                    "f": "20 96"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "4153"
+                },
+                {
+                    "i": "5 50 97 99"
+                },
+                {
+                    "k": "buecherei@lauenburg.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "06"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "HAM"
+                },
+                {
+                    "d": "BZSH"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-488",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-488",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-488",
+    "identifier": "DE-488",
+    "name": "Stadt- und Schulb\u00fccherei Lauenburg",
+    "location": "Lauenburg/Elbe",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "HAM"
+}

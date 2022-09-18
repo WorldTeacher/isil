@@ -1,0 +1,262 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-1053-1.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:08-05-13"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:04-02-15"
+                ],
+                {
+                    "t": "17:16:48.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:08-05-13"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1034366300"
+                ]
+            ]
+        ],
+        "007N": [
+            [
+                [
+                    "024741426"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "653001-1"
+                },
+                {
+                    "d": "1053/1"
+                },
+                {
+                    "e": "DE-1053-1"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "https://www.hs-mainz.de/services/bibliothek/index.html"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://opac.ub.uni-mainz.de/LNG=DU/DB=5/"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Standort Campus"
+                },
+                {
+                    "4": "a"
+                }
+            ],
+            [
+                {
+                    "a": "Mainz HS"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Bibliothek der Hochschule Mainz, Standort Campus"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Lucy-Hillebrand-Str. 2"
+                },
+                {
+                    "b": "Mainz"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "55128"
+                },
+                {
+                    "f": "Rheinland-Pfalz"
+                },
+                {
+                    "i": "Mo-Fr 8.00-18.00, Sa 9.00-13.00"
+                },
+                {
+                    "j": "abweichende \u00d6ffnungszeiten in der vorlesungsfreien Zeit s. Homepage"
+                },
+                {
+                    "k": "8.22662"
+                },
+                {
+                    "l": "49.98826"
+                },
+                {
+                    "n": "07315000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "6131"
+                },
+                {
+                    "f": "6 28-6220"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "6131"
+                },
+                {
+                    "i": "6 28-6209"
+                },
+                {
+                    "k": "bibliothek.campus@hs-mainz.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0187"
+                },
+                {
+                    "e": "HBV"
+                },
+                {
+                    "f": "70"
+                },
+                {
+                    "g": "02"
+                },
+                {
+                    "h": "07"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Betriebswirtschaft"
+                },
+                {
+                    "a": "Wirtschaftsrecht"
+                },
+                {
+                    "a": "Wirtschaftsinformatik"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "HES"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "HeBIS"
+                },
+                {
+                    "e": "k"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "047A": [
+            [
+                {
+                    "a": "Der Standort \"Bruchspitze\" wurde aufgel\u00f6st, die Best\u00e4nde sind in den Standort \"Campus\" umgezogen"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-1053-1",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-1053-1",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-1053-1",
+    "identifier": "DE-1053-1",
+    "name": "Bibliothek der Hochschule Mainz, Standort Campus",
+    "location": "Mainz",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "HES"
+}

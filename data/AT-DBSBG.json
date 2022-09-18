@@ -1,0 +1,225 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/AT-DBSBG.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:12-02-15"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:18-10-16"
+                ],
+                {
+                    "t": "15:19:31.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:12-02-15"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "106689597X"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "030064-0"
+                },
+                {
+                    "d": "AT-DBSBG"
+                },
+                {
+                    "e": "AT-DBSBG"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.kirchen.net/archiv/"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "DBS"
+                },
+                {
+                    "4": "b"
+                }
+            ],
+            [
+                {
+                    "a": "Salzburg Di\u00f6zesanbibliothek"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Di\u00f6zesanbibliothek Salzburg"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Kapitelplatz 3"
+                },
+                {
+                    "b": "Salzburg"
+                },
+                {
+                    "d": "AT"
+                },
+                {
+                    "e": "A-5020"
+                },
+                {
+                    "f": "\u00d6sterreich"
+                },
+                {
+                    "h": "Archiv der Erzdi\u00f6zese Salzburg"
+                },
+                {
+                    "i": "Di-Do 9.00-12.00 und 13.00-17.00"
+                },
+                {
+                    "k": "13.04704"
+                },
+                {
+                    "l": "47.79673"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "43"
+                },
+                {
+                    "e": "662"
+                },
+                {
+                    "f": "80 47 15 02"
+                },
+                {
+                    "k": "bibliothek@archiv.kirchen.net"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "c": "0157"
+                },
+                {
+                    "e": "\u00d6BV"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "10"
+                },
+                {
+                    "h": "08"
+                },
+                {
+                    "i": "P"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Theologie"
+                },
+                {
+                    "a": "Philosophie"
+                },
+                {
+                    "a": "Salisburgensia"
+                },
+                {
+                    "a": "Kirchengeschichte"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "WEU"
+                },
+                {
+                    "c": "\u00d6BV"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "AT-DBSBG",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/AT-DBSBG",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/AT-DBSBG",
+    "identifier": "AT-DBSBG",
+    "name": "Di\u00f6zesanbibliothek Salzburg",
+    "location": "Salzburg",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "WEU"
+}

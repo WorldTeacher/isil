@@ -1,0 +1,234 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Bib1.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:31-03-04"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:10-07-19"
+                ],
+                {
+                    "t": "11:02:14.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "025828770"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "d": "Bib 1"
+                },
+                {
+                    "e": "DE-Bib1"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.wieland-museum.de"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Biberach Wieland-Archiv"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Wieland-Archiv Biberach, Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Waldseer Str. 31"
+                },
+                {
+                    "b": "Biberach/Ri\u00df"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "88400"
+                },
+                {
+                    "f": "Baden-W\u00fcrttemberg"
+                },
+                {
+                    "i": "Nach Vereinbarung"
+                },
+                {
+                    "k": "9.79123"
+                },
+                {
+                    "l": "48.09308"
+                },
+                {
+                    "n": "08426021"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Biberach/Ri\u00df"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "88396"
+                },
+                {
+                    "f": "Baden-W\u00fcrttemberg"
+                },
+                {
+                    "g": "17 57"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "7351"
+                },
+                {
+                    "f": "51-458"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "7351"
+                },
+                {
+                    "i": "51-85458"
+                },
+                {
+                    "k": "wieland-museum@biberach-riss.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "08"
+                },
+                {
+                    "h": "06"
+                },
+                {
+                    "i": "P"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Wieland, Christoph Martin <1733-1813>"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAW"
+                },
+                {
+                    "c": "SWB"
+                },
+                {
+                    "d": "Kalliope"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Bib1",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Bib1",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Bib1",
+    "identifier": "DE-Bib1",
+    "name": "Wieland-Archiv Biberach, Bibliothek",
+    "location": "Biberach/Ri\u00df",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAW"
+}

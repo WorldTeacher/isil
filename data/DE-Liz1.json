@@ -1,0 +1,218 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Liz1.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:24-02-10"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:11-05-22"
+                ],
+                {
+                    "t": "13:03:20.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:24-02-10"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1000433811"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "101194-7"
+                },
+                {
+                    "d": "Liz 1"
+                },
+                {
+                    "e": "DE-Liz1"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.stadtarchiv.linz.de/"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Linz/Rhein Stadtarchiv"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtarchiv Linz am Rhein"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Klosterstr. 13"
+                },
+                {
+                    "b": "Linz/Rhein"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "53545"
+                },
+                {
+                    "f": "Rheinland-Pfalz"
+                },
+                {
+                    "h": "Servitessenkirche"
+                },
+                {
+                    "i": "Di 8.00-12.00 und 13.00-17.00"
+                },
+                {
+                    "k": "7.28414"
+                },
+                {
+                    "l": "50.56817"
+                },
+                {
+                    "n": "07138041"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "a": "Am Schoppb\u00fcchel 5"
+                },
+                {
+                    "b": "Linz/Rhein"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "53545"
+                },
+                {
+                    "f": "Rheinland-Pfalz"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "2644"
+                },
+                {
+                    "f": "32 22"
+                },
+                {
+                    "k": "stadtarchiv@linz.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0367"
+                },
+                {
+                    "f": "52"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "01"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Liz1",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Liz1",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Liz1",
+    "identifier": "DE-Liz1",
+    "name": "Stadtarchiv Linz am Rhein",
+    "location": "Linz/Rhein",
+    "type": [
+        "Organization",
+        "Archive"
+    ],
+    "addressRegion": "NRW"
+}

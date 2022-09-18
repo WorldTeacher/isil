@@ -1,0 +1,228 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-456.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:20-09-21"
+                ],
+                {
+                    "t": "12:34:48.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020584296"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "AC456"
+                },
+                {
+                    "d": "456"
+                },
+                {
+                    "e": "DE-456"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.stadtbuecherei-badharzburg.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://bibkataloge.de/badharzburg"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Bad Harzburg StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtb\u00fccherei im Kurzentrum"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Herzog-Wilhelm-Str. 86"
+                },
+                {
+                    "b": "Bad Harzburg"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "38667"
+                },
+                {
+                    "f": "Niedersachsen"
+                },
+                {
+                    "i": "Mo-Di und Do-Fr 10.00-13.00 und 15.00-18.00, Mi 10.00-13.00, Sa 10.00-12.00"
+                },
+                {
+                    "k": "10.55914"
+                },
+                {
+                    "l": "51.87789"
+                },
+                {
+                    "n": "03153002"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "5322"
+                },
+                {
+                    "f": "90 15 15"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "5322"
+                },
+                {
+                    "i": "92 89 06"
+                },
+                {
+                    "k": "info@stadtbuecherei-badharzburg.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "06"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Harz <Gebirge>"
+                },
+                {
+                    "a": "Bad Harzburg"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NIE"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "GBV"
+                },
+                {
+                    "d": "\u00d6VK"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-456",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-456",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-456",
+    "identifier": "DE-456",
+    "name": "Stadtb\u00fccherei im Kurzentrum",
+    "location": "Bad Harzburg",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NIE"
+}

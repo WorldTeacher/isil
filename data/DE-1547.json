@@ -1,0 +1,216 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-1547.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:05-02-08"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:28-01-16"
+                ],
+                {
+                    "t": "16:16:49.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:05-02-08"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "987424548"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "PR506"
+                },
+                {
+                    "d": "1547"
+                },
+                {
+                    "e": "DE-1547"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.buecherei-kleinostheim.de"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "K\u00d6B"
+                },
+                {
+                    "4": "a"
+                }
+            ],
+            [
+                {
+                    "a": "Kleinostheim K\u00d6B"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Katholische \u00d6ffentliche B\u00fccherei Kleinostheim"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Schillerstr. 75"
+                },
+                {
+                    "b": "Kleinostheim"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "63801"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "i": "Mo und Do 15.00-16.00"
+                },
+                {
+                    "j": "Di 10.00-11.30 und 19.30-21.00, Mi 19.00-20.00, Sa 14.00-15.30"
+                },
+                {
+                    "k": "9.06367"
+                },
+                {
+                    "l": "50.00057"
+                },
+                {
+                    "n": "09671136"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "6027"
+                },
+                {
+                    "f": "9 98 84"
+                },
+                {
+                    "k": "buecherei-kleinostheim@t-online.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "10"
+                },
+                {
+                    "h": "06"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAY"
+                },
+                {
+                    "c": "BVB"
+                },
+                {
+                    "e": "n"
+                },
+                {
+                    "g": "R"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "buecherei-kleinostheim@t-online.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-1547",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-1547",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-1547",
+    "identifier": "DE-1547",
+    "name": "Katholische \u00d6ffentliche B\u00fccherei Kleinostheim",
+    "location": "Kleinostheim",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAY"
+}

@@ -1,0 +1,278 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-M336.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:28-02-05"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "1220:01-02-22"
+                ],
+                {
+                    "t": "10:27:00.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:27-05-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "02715551X"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "808336-8"
+                },
+                {
+                    "b": "DC813"
+                },
+                {
+                    "d": "M 336"
+                },
+                {
+                    "e": "DE-M336"
+                },
+                {
+                    "i": "DEJUG"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.ijb.de"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "M\u00fcnchen Int.JugendB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Internationale Jugendbibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Schloss Blutenburg"
+                },
+                {
+                    "b": "M\u00fcnchen"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "81247"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "i": "Mo-Fr 10.00-16.00"
+                },
+                {
+                    "k": "11.45714"
+                },
+                {
+                    "l": "48.16341"
+                },
+                {
+                    "n": "09162000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "89"
+                },
+                {
+                    "f": "89 12 11-0"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "89"
+                },
+                {
+                    "i": "89 12 11-38"
+                },
+                {
+                    "k": "info@ijb.de"
+                }
+            ],
+            [
+                {
+                    "a": "W"
+                },
+                {
+                    "b": "Fernleihe"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "k": "fernleihe@ijb.de"
+                }
+            ],
+            [
+                {
+                    "a": "W"
+                },
+                {
+                    "b": "Katalogabt."
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "k": "katalog@ijb.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0161"
+                },
+                {
+                    "d": "BVB"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "01"
+                },
+                {
+                    "h": "09"
+                },
+                {
+                    "i": "P"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Internationale Kinder- und Jugendliteratur"
+                },
+                {
+                    "a": "Historische Kinder- und Jugendb\u00fccher"
+                },
+                {
+                    "a": "Sammlungen des Bureau Internationale d'Education Genf"
+                },
+                {
+                    "a": "Sammlungen Mischke und Schulz"
+                },
+                {
+                    "a": "Nachl\u00e4sse von Heinrich-Maria Denneborg, Michael Ende (Teilnachlass), James Kr\u00fcss"
+                },
+                {
+                    "a": "Erstausgabensammlung Erich K\u00e4stner"
+                },
+                {
+                    "a": "Sammlungen Mirjam Pressler, Binette Schroeder"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAY"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "BVB"
+                },
+                {
+                    "d": "Kalliope"
+                },
+                {
+                    "e": "k"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-M336",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-M336",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-M336",
+    "identifier": "DE-M336",
+    "name": "Internationale Jugendbibliothek",
+    "location": "M\u00fcnchen",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAY"
+}

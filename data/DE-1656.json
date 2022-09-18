@@ -1,0 +1,196 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-1656.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:25-01-08"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:10-10-16"
+                ],
+                {
+                    "t": "10:51:09.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:25-01-08"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "987305301"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "PM999"
+                },
+                {
+                    "d": "1656"
+                },
+                {
+                    "e": "DE-1656"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.thulba.koeb-unterfranken.de"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Thulba K\u00d6B"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Katholische \u00d6ffentliche B\u00fccherei Markt Oberthulba"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Propstei 9"
+                },
+                {
+                    "b": "Oberthulba"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "97723"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "i": "Mi 18.00-19.00, Sa 16.00-17.00, So 11.00-12.00"
+                },
+                {
+                    "k": "9.91952"
+                },
+                {
+                    "l": "50.17919"
+                },
+                {
+                    "n": "09672139"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "k": "kath.buechereithulba@gmx.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "10"
+                },
+                {
+                    "h": "05"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAY"
+                },
+                {
+                    "c": "BVB"
+                },
+                {
+                    "e": "n"
+                },
+                {
+                    "g": "R"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "kath.buechereithulba@gmx.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-1656",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-1656",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-1656",
+    "identifier": "DE-1656",
+    "name": "Katholische \u00d6ffentliche B\u00fccherei Markt Oberthulba",
+    "location": "Oberthulba",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAY"
+}

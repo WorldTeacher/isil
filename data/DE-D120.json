@@ -1,0 +1,274 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-D120.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:25-07-05"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:24-09-21"
+                ],
+                {
+                    "t": "09:53:18.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:25-07-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "975787292"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "958201-0"
+                },
+                {
+                    "b": "ED215"
+                },
+                {
+                    "d": "D 120"
+                },
+                {
+                    "e": "DE-D120"
+                },
+                {
+                    "f": "FZR"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "https://www.hzdr.de/db/Cms?pNid=73"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://www.hzdr.de/gastopac"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Dresden HZDR"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Helmholtz-Zentrum Dresden - Rossendorf e.V., Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Bautzner Landstr. 400"
+                },
+                {
+                    "b": "Dresden"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "01328"
+                },
+                {
+                    "f": "Sachsen"
+                },
+                {
+                    "i": "Mo-Fr 8.00-16.00 (Ausleihe,Auskunft)"
+                },
+                {
+                    "j": "Mo-So 8.00-22.00 (Lesesaal, f\u00fcr externe Benutzer Mo-Fr 8.00-16.00)"
+                },
+                {
+                    "k": "13.94938"
+                },
+                {
+                    "l": "51.06266"
+                },
+                {
+                    "n": "14612000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "351"
+                },
+                {
+                    "f": "2 60-3142"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "351"
+                },
+                {
+                    "i": "2 60-3399"
+                },
+                {
+                    "k": "library@hzdr.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0149"
+                },
+                {
+                    "d": "SWB"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "06"
+                },
+                {
+                    "h": "07"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Nukleare Sicherheitsforschung"
+                },
+                {
+                    "a": "Radiologische Diagnostik und Therapie"
+                },
+                {
+                    "a": "Radio\u00f6kologie"
+                },
+                {
+                    "a": "Kern- und Hadronenphysik"
+                },
+                {
+                    "a": "Strahlenphysik"
+                },
+                {
+                    "a": "Materialforschung"
+                },
+                {
+                    "a": "Radiopharmazeutische Chemie"
+                },
+                {
+                    "a": "Biochemie"
+                },
+                {
+                    "a": "Biomedizin"
+                },
+                {
+                    "a": "Hochfeld-Magnetforschung"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "SAX"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "SWB"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035Q": [
+            [
+                {
+                    "a": "j"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-D120",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-D120",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-D120",
+    "identifier": "DE-D120",
+    "name": "Helmholtz-Zentrum Dresden - Rossendorf e.V., Bibliothek",
+    "location": "Dresden",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "SAX"
+}

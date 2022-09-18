@@ -1,0 +1,238 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Ch99.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:19-01-17"
+                ],
+                {
+                    "t": "10:38:26.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020589972"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "WB678"
+                },
+                {
+                    "d": "Ch 99"
+                },
+                {
+                    "e": "DE-Ch99"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.klingenthal.de/DE/Buerger-und-Rathaus/Familie_Bildung_Soziales/Bibliothek/Bibliothek.html"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://klingenthal.findus-internet-opac.de/cgi-bin/findus.fcgi.pl?customer=klingenthal"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Klingenthal StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtbibliothek Klingenthal"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Hohe Str. 1"
+                },
+                {
+                    "b": "Klingenthal"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "08248"
+                },
+                {
+                    "f": "Sachsen"
+                },
+                {
+                    "i": "Di 12.00-18.00, Do 10.00-17.00, Fr 11.00-14.00"
+                },
+                {
+                    "k": "12.46599"
+                },
+                {
+                    "l": "50.35644"
+                },
+                {
+                    "n": "14523160"
+                },
+                {
+                    "o": "nicht barrierefrei"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "37467"
+                },
+                {
+                    "f": "2 28 88"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "37467"
+                },
+                {
+                    "i": "6 67 52"
+                },
+                {
+                    "k": "stadtbibliothek@klingenthal.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "06"
+                },
+                {
+                    "h": "06"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Musikinstrumentenbau"
+                },
+                {
+                    "a": "Sport <Wintersport>"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "SAX"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "SWB"
+                },
+                {
+                    "d": "BIBO-SAX"
+                },
+                {
+                    "e": "l"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "stadtbibliothek@klingenthal.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Ch99",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Ch99",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Ch99",
+    "identifier": "DE-Ch99",
+    "name": "Stadtbibliothek Klingenthal",
+    "location": "Klingenthal",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "SAX"
+}

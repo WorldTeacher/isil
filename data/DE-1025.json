@@ -1,0 +1,230 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-1025.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:03-06-21"
+                ],
+                {
+                    "t": "15:12:07.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020587724"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "HG166"
+                },
+                {
+                    "d": "1025"
+                },
+                {
+                    "e": "DE-1025"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.buecherei-adendorf.de/"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Adendorf StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "B\u00fccherei am Rathausplatz"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Rathauspl. 16"
+                },
+                {
+                    "b": "Adendorf"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "21365"
+                },
+                {
+                    "f": "Niedersachsen"
+                },
+                {
+                    "i": "Di und Do 10.00-12.00 und 15.00-18.00, Mi 10.00-12.00 und 15.00-17.00, Fr 10.00-12.00 und 15.00-19.00, Sa 10.00-12.00"
+                },
+                {
+                    "k": "10.43971"
+                },
+                {
+                    "l": "53.28148"
+                },
+                {
+                    "n": "03355001"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Adendorf"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "21362"
+                },
+                {
+                    "f": "Niedersachsen"
+                },
+                {
+                    "g": "12 64"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "4131"
+                },
+                {
+                    "f": "98 09-50"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "4131"
+                },
+                {
+                    "i": "98 09-55"
+                },
+                {
+                    "k": "buecherei@adendorf.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "06"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NIE"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "GBV"
+                },
+                {
+                    "d": "\u00d6VK"
+                },
+                {
+                    "e": "l"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-1025",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-1025",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-1025",
+    "identifier": "DE-1025",
+    "name": "B\u00fccherei am Rathausplatz",
+    "location": "Adendorf",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NIE"
+}

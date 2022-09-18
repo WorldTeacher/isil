@@ -1,0 +1,222 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-1487.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:07-12-07"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:28-01-16"
+                ],
+                {
+                    "t": "16:07:08.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:07-12-07"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "986741817"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "GL166"
+                },
+                {
+                    "d": "1487"
+                },
+                {
+                    "e": "DE-1487"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://wendelstein.webopac.winbiap.net/wendelstein/"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://wendelstein.webopac.winbiap.net/wendelstein/"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Wendelstein GB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Gemeindeb\u00fccherei Wendelstein"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Marktstr. 1"
+                },
+                {
+                    "b": "Wendelstein"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "90530"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "i": "Mo und Do 9.00-11.00, Di 15.00-20.00, Mi und Fr 15.00-18.00"
+                },
+                {
+                    "k": "11.14328"
+                },
+                {
+                    "l": "49.35594"
+                },
+                {
+                    "n": "09576151"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "9129"
+                },
+                {
+                    "f": "4 01-129"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "9129"
+                },
+                {
+                    "i": "90 96 45"
+                },
+                {
+                    "k": "buecherei-wendelstein@t-online.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "06"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAY"
+                },
+                {
+                    "c": "BVB"
+                },
+                {
+                    "e": "n"
+                },
+                {
+                    "g": "R"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "buecherei-wendelstein@t-online.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-1487",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-1487",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-1487",
+    "identifier": "DE-1487",
+    "name": "Gemeindeb\u00fccherei Wendelstein",
+    "location": "Wendelstein",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAY"
+}

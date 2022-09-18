@@ -1,0 +1,224 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-H23.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:11-07-16"
+                ],
+                {
+                    "t": "10:23:50.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:27-05-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020591829"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "208023-0"
+                },
+                {
+                    "b": "CS973"
+                },
+                {
+                    "d": "H 23"
+                },
+                {
+                    "e": "DE-H23"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Hamburg Bibliothek Gesundheit"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Freie und Hansestadt Hamburg, Beh\u00f6rde f\u00fcr Gesundheit und Verbraucherschutz, Bibliothek Gesundheit"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Billstr. 84"
+                },
+                {
+                    "b": "Hamburg"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "20539"
+                },
+                {
+                    "f": "Hamburg"
+                },
+                {
+                    "i": "Mo-Do 9.00-13.00"
+                },
+                {
+                    "k": "10.04221"
+                },
+                {
+                    "l": "53.53995"
+                },
+                {
+                    "n": "02000000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "a": "Billstr. 80"
+                },
+                {
+                    "b": "Hamburg"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "20539"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "40"
+                },
+                {
+                    "f": "4 28 37-2345 und 2338"
+                },
+                {
+                    "k": "bibliothekgesundheit@bgv.hamburg.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0025"
+                },
+                {
+                    "e": "GBV"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "02"
+                },
+                {
+                    "h": "07"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "\u00d6ffentliches Gesundheitswesen Hamburg"
+                },
+                {
+                    "a": "Krankenh\u00e4user Hamburg"
+                },
+                {
+                    "a": "Hamburger Cholera <1800-1860>"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "HAM"
+                },
+                {
+                    "c": "GBV"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-H23",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-H23",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-H23",
+    "identifier": "DE-H23",
+    "name": "Freie und Hansestadt Hamburg, Beh\u00f6rde f\u00fcr Gesundheit und Verbraucherschutz, Bibliothek Gesundheit",
+    "location": "Hamburg",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "HAM"
+}

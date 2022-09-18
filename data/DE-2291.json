@@ -1,0 +1,265 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-2291.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:02-04-15"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:10-02-22"
+                ],
+                {
+                    "t": "14:28:49.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:02-04-15"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1069228710"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "182291-3"
+                },
+                {
+                    "b": "HH151"
+                },
+                {
+                    "d": "2291"
+                },
+                {
+                    "e": "DE-2291"
+                },
+                {
+                    "f": "BIUAS"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "https://www.berlin-international.de/hochschule/hochschulstruktur/bibliothek/"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://koha.berlin-international.de/"
+                },
+                {
+                    "z": "B"
+                }
+            ],
+            [
+                {
+                    "u": "https://www.berlin-international.de/en/university/academic-units/library/"
+                },
+                {
+                    "x": "Englische Homepage"
+                },
+                {
+                    "z": "W"
+                }
+            ],
+            [
+                {
+                    "u": "https://bau.iopac.de/iopac/"
+                },
+                {
+                    "x": "Weiterer OPAC"
+                },
+                {
+                    "z": "W"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Berlin BI Library"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Berlin International University of Applied Sciences, Hans-Dieter Klingemann Library"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Salzufer 6"
+                },
+                {
+                    "b": "Berlin"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "10587"
+                },
+                {
+                    "f": "Berlin"
+                },
+                {
+                    "i": "Mo-Fr 9.00-20.00"
+                },
+                {
+                    "j": "In der vorlesungsfreien Zeit: Mo-Mi 9.00-17.30"
+                },
+                {
+                    "k": "13.32786"
+                },
+                {
+                    "l": "52.51600"
+                },
+                {
+                    "n": "11000000"
+                },
+                {
+                    "o": "barrierefrei"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "30"
+                },
+                {
+                    "f": "8 10 58 08 15"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "30"
+                },
+                {
+                    "i": "92 27 10 19"
+                },
+                {
+                    "k": "library@berlin-international.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0324"
+                },
+                {
+                    "f": "70"
+                },
+                {
+                    "g": "08"
+                },
+                {
+                    "h": "04"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Innenarchitektur"
+                },
+                {
+                    "a": "Produktdesign"
+                },
+                {
+                    "a": "Grafikdesign"
+                },
+                {
+                    "a": "Wirtschaftswissenschaften"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BER"
+                },
+                {
+                    "c": "KOBV"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-2291",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-2291",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-2291",
+    "identifier": "DE-2291",
+    "name": "Berlin International University of Applied Sciences, Hans-Dieter Klingemann Library",
+    "location": "Berlin",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BER"
+}

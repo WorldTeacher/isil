@@ -1,0 +1,225 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-A98.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-02-03"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:13-11-19"
+                ],
+                {
+                    "t": "16:38:43.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "024309575"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "CY818"
+                },
+                {
+                    "d": "A 98"
+                },
+                {
+                    "e": "DE-A98"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.dioezesanbibliothek-aachen.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://webopac.bistum-aachen.de/webopac/index.asp?DB=w_biblio&swin=TRUE"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Aachen Di\u00f6zesanB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Di\u00f6zesanbibliothek im Katechetischen Institut"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Eupener Str. 132"
+                },
+                {
+                    "b": "Aachen"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "52066"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "i": "Di-Do 11.00-17.00, Fr 11.00-15.30"
+                },
+                {
+                    "k": "6.08468"
+                },
+                {
+                    "l": "50.75426"
+                },
+                {
+                    "n": "05334002"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "241"
+                },
+                {
+                    "f": "6 00 04-50 und -51"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "241"
+                },
+                {
+                    "i": "6 00 04-59"
+                },
+                {
+                    "k": "dioezesanbibliothek.ki@bistum-aachen.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "10"
+                },
+                {
+                    "h": "08"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Theologie"
+                },
+                {
+                    "a": "Philosophie"
+                },
+                {
+                    "a": "Christliche Kunst"
+                },
+                {
+                    "a": "Bistumsrelevante Literatur"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "d": "VThk"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-A98",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-A98",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-A98",
+    "identifier": "DE-A98",
+    "name": "Di\u00f6zesanbibliothek im Katechetischen Institut",
+    "location": "Aachen",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NRW"
+}

@@ -1,0 +1,228 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Co22.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:17-03-20"
+                ],
+                {
+                    "t": "15:05:26.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020590032"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "GB734"
+                },
+                {
+                    "d": "Co 22"
+                },
+                {
+                    "e": "DE-Co22"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://herzberg.media"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://sb-herzberg.webopac.net/"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Mediathek Herzberg (Elster)"
+                },
+                {
+                    "4": "a"
+                }
+            ],
+            [
+                {
+                    "a": "Herzbg./Elst. Mediathek"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Mediathek Herzberg"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Uferstr. 6"
+                },
+                {
+                    "b": "Herzberg/Elster"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "04916"
+                },
+                {
+                    "f": "Brandenburg"
+                },
+                {
+                    "i": "Mo und Do 9.00-14.00, Di 12.00-18.00,  Fr 10.00-17.00, Sa 10.00-13.00"
+                },
+                {
+                    "k": "13.23208"
+                },
+                {
+                    "l": "51.69040"
+                },
+                {
+                    "n": "12062224"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "3535"
+                },
+                {
+                    "f": "48 23 40"
+                },
+                {
+                    "k": "mediathek@stadt-herzberg.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "06"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Region Elbe-Elster"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BER"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "KOBV"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "047A": [
+            [
+                {
+                    "a": "Mediathek mit Lesegarten"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Co22",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Co22",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Co22",
+    "identifier": "DE-Co22",
+    "name": "Mediathek Herzberg",
+    "location": "Herzberg/Elster",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BER"
+}

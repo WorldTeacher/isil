@@ -1,0 +1,205 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-1418.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:09-11-07"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:01-03-21"
+                ],
+                {
+                    "t": "14:40:59.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:09-11-07"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "986330418"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "KU674"
+                },
+                {
+                    "d": "1418"
+                },
+                {
+                    "e": "DE-1418"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "https://opac.winbiap.net/grasbrunn"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Grasbrunn GB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Gemeindeb\u00fccherei Grasbrunn"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Leonhard-Stadler-Str. 12"
+                },
+                {
+                    "b": "Grasbrunn"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "85630"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "i": "Di und Do 10.00-12.30 und 16.00-18.30, Fr 16.00-18.30, Sa 10-12.30 (1. +3./Monat)"
+                },
+                {
+                    "k": "11.75792"
+                },
+                {
+                    "l": "48.09386"
+                },
+                {
+                    "n": "09184121"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "89"
+                },
+                {
+                    "f": "45 69 96-68"
+                },
+                {
+                    "k": "buecherei@grasbrunn.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "06"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAY"
+                },
+                {
+                    "c": "BVB"
+                },
+                {
+                    "e": "n"
+                },
+                {
+                    "g": "R"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "buecherei@grasbrunn.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-1418",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-1418",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-1418",
+    "identifier": "DE-1418",
+    "name": "Gemeindeb\u00fccherei Grasbrunn",
+    "location": "Grasbrunn",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAY"
+}

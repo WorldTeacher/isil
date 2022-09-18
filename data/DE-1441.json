@@ -1,0 +1,265 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-1441.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:16-11-07"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:03-03-21"
+                ],
+                {
+                    "t": "13:33:28.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:16-11-07"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "98642773X"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "HQ323"
+                },
+                {
+                    "d": "1441"
+                },
+                {
+                    "e": "DE-1441"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.schrobenhausen.de/index.php?id=0,49"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://www.datronic.de/cgi-bin/findus.fcgi.pl?customer=schrobenhausen"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Schrobenhausen StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtb\u00fccherei Schrobenhausen"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Gerolsbacher Str. 19"
+                },
+                {
+                    "b": "Schrobenhausen"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "86529"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "i": "Mo und Mi-Fr 10.00-13.00 und 14.00-18.00, Di 10.00-18.30"
+                },
+                {
+                    "k": "11.27144"
+                },
+                {
+                    "l": "48.55364"
+                },
+                {
+                    "n": "09185158"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "8252"
+                },
+                {
+                    "f": "51 70"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "8252"
+                },
+                {
+                    "i": "90 97 66"
+                },
+                {
+                    "k": "buecherei@schrobenhausen.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "06"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAY"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "BVB"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "a"
+                },
+                {
+                    "d": "buecherei@schrobenhausen.de"
+                }
+            ],
+            [
+                {
+                    "a": "b"
+                },
+                {
+                    "d": "buecherei@schrobenhausen.de"
+                }
+            ],
+            [
+                {
+                    "a": "c"
+                },
+                {
+                    "d": "buecherei@schrobenhausen.de"
+                }
+            ],
+            [
+                {
+                    "a": "d"
+                },
+                {
+                    "d": "buecherei@schrobenhausen.de"
+                }
+            ],
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "buecherei@schrobenhausen.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "buecherei@schrobenhausen.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-1441",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-1441",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-1441",
+    "identifier": "DE-1441",
+    "name": "Stadtb\u00fccherei Schrobenhausen",
+    "location": "Schrobenhausen",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAY"
+}

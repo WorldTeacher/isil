@@ -1,0 +1,198 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Au2.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:17-02-16"
+                ],
+                {
+                    "t": "14:14:13.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020588674"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "BR781"
+                },
+                {
+                    "d": "Au 2"
+                },
+                {
+                    "e": "DE-Au2"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.ulricianum-aurich.net/"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Aurich Gymnasium Ulricianum"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Gymnasium Ulricianum, Bibliothek und Selbstlernzentrum"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Von-Jhering-Str. 15"
+                },
+                {
+                    "b": "Aurich"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "26603"
+                },
+                {
+                    "f": "Niedersachsen"
+                },
+                {
+                    "i": "Mo-Do 7.30-16.00, Fr 7.30-14.00"
+                },
+                {
+                    "k": "7.47745"
+                },
+                {
+                    "l": "53.47092"
+                },
+                {
+                    "n": "03452001"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "4941"
+                },
+                {
+                    "f": "92 28-0 und -71 (Bibl.)"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "4941"
+                },
+                {
+                    "i": "6 70 49"
+                },
+                {
+                    "k": "verwaltung@ulricianum-aurich.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "03"
+                },
+                {
+                    "h": "06"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NIE"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Au2",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Au2",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Au2",
+    "identifier": "DE-Au2",
+    "name": "Gymnasium Ulricianum, Bibliothek und Selbstlernzentrum",
+    "location": "Aurich",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NIE"
+}

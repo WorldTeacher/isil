@@ -1,0 +1,241 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Gad1.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:05-02-20"
+                ],
+                {
+                    "t": "09:01:10.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020591489"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "MB130"
+                },
+                {
+                    "d": "Gad 1"
+                },
+                {
+                    "e": "DE-Gad1"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.bibliothek-gardelegen.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://opac-bibliothek-gardelegen.dd-dns.de/allegrooeb/webopac/"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Gardelegen StuKrsB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadt-, Kreis- und Gymnasialbibliothek Gardelegen"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Im Schl\u00fcsselkorb 16"
+                },
+                {
+                    "b": "Gardelegen"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "39638"
+                },
+                {
+                    "f": "Sachsen-Anhalt"
+                },
+                {
+                    "i": "Mo und Fr 10.00-16.00, Di und Do 13.00-18.00"
+                },
+                {
+                    "j": "1. Sa im Monat 10.00-12.00"
+                },
+                {
+                    "k": "11.39990"
+                },
+                {
+                    "l": "52.52255"
+                },
+                {
+                    "n": "15081135"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "3907"
+                },
+                {
+                    "f": "7 02-0"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "3907"
+                },
+                {
+                    "i": "7 02-110"
+                },
+                {
+                    "k": "info@bibliothek-gardelegen.de"
+                }
+            ],
+            [
+                {
+                    "a": "W"
+                },
+                {
+                    "b": "Fernleihe"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "3907"
+                },
+                {
+                    "f": "7 02-100"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "07"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "SAA"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "GBV"
+                },
+                {
+                    "d": "biblio24; \u00d6VK"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Gad1",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Gad1",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Gad1",
+    "identifier": "DE-Gad1",
+    "name": "Stadt-, Kreis- und Gymnasialbibliothek Gardelegen",
+    "location": "Gardelegen",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "SAA"
+}

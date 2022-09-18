@@ -1,0 +1,188 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-1103.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:28-01-16"
+                ],
+                {
+                    "t": "16:03:06.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020588402"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "GN138"
+                },
+                {
+                    "d": "1103"
+                },
+                {
+                    "e": "DE-1103"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Laupheim StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtbibliothek Laupheim"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Marktplatz 1"
+                },
+                {
+                    "b": "Laupheim"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "88471"
+                },
+                {
+                    "f": "Baden-W\u00fcrttemberg"
+                },
+                {
+                    "i": "Di-Mi und Fr 14.00-18.00, Do 9.30-12.00 und 14.00-18.00, Sa 9.30-12.30"
+                },
+                {
+                    "k": "9.88354"
+                },
+                {
+                    "l": "48.23042"
+                },
+                {
+                    "n": "08426070"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "7392"
+                },
+                {
+                    "f": "7 04-205"
+                },
+                {
+                    "k": "bibliothek@laupheim.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "07"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "SWB"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-1103",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-1103",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-1103",
+    "identifier": "DE-1103",
+    "name": "Stadtbibliothek Laupheim",
+    "location": "Laupheim",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAW"
+}

@@ -1,0 +1,183 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-1739.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-01-08"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:23-03-18"
+                ],
+                {
+                    "t": "16:33:31.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:11-01-08"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "987118080"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "PA070"
+                },
+                {
+                    "d": "1739"
+                },
+                {
+                    "e": "DE-1739"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Markt Indersdorf K\u00d6B"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Gemeindeb\u00fccherei Markt Indersdorf"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Wittelsbacherring 15"
+                },
+                {
+                    "b": "Markt Indersdorf"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "85229"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "k": "11.36985"
+                },
+                {
+                    "l": "48.36072"
+                },
+                {
+                    "n": "09174131"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "k": "fernleihe@st-michaelsbund.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "10"
+                },
+                {
+                    "h": "06"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAY"
+                },
+                {
+                    "c": "BVB"
+                },
+                {
+                    "e": "n"
+                },
+                {
+                    "g": "R"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "fernleihe@st-michaelsbund.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-1739",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-1739",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-1739",
+    "identifier": "DE-1739",
+    "name": "Gemeindeb\u00fccherei Markt Indersdorf",
+    "location": "Markt Indersdorf",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAY"
+}

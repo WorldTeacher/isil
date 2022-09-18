@@ -1,0 +1,231 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-B1574.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:31-05-07"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:27-02-19"
+                ],
+                {
+                    "t": "10:37:42.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:31-05-07"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "984461124"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "181574-X"
+                },
+                {
+                    "b": "AA613"
+                },
+                {
+                    "d": "B 1574"
+                },
+                {
+                    "e": "DE-B1574"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.bundeswehrkrankenhaus-berlin.de/"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "BwKrhs Berlin"
+                },
+                {
+                    "4": "b"
+                }
+            ],
+            [
+                {
+                    "a": "Berlin Bundeswehrkrankenhaus"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Bundeswehrkrankenhaus Berlin, Fachinformationsstelle"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Scharnhorststr. 13"
+                },
+                {
+                    "b": "Berlin"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "10115"
+                },
+                {
+                    "f": "Berlin"
+                },
+                {
+                    "i": "Mo-Do 8.00-12.00 und 13.00-15.00, Fr 8.00-12.00"
+                },
+                {
+                    "k": "13.37142"
+                },
+                {
+                    "l": "52.53564"
+                },
+                {
+                    "n": "11000000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "30"
+                },
+                {
+                    "f": "28 41-1044"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "30"
+                },
+                {
+                    "i": "28 41-1049"
+                },
+                {
+                    "k": "BwKrhsBerlinS6FISt@Bundeswehr.org"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0308"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "01"
+                },
+                {
+                    "h": "06"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Medizin"
+                },
+                {
+                    "a": "Sanit\u00e4tsdienst"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BER"
+                },
+                {
+                    "c": "GBV"
+                },
+                {
+                    "d": "FachInfoUstgBw"
+                },
+                {
+                    "e": "k"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-B1574",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-B1574",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-B1574",
+    "identifier": "DE-B1574",
+    "name": "Bundeswehrkrankenhaus Berlin, Fachinformationsstelle",
+    "location": "Berlin",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BER"
+}

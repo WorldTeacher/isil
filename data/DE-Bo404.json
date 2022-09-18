@@ -1,0 +1,260 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Bo404.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:18-11-99"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:19-02-19"
+                ],
+                {
+                    "t": "16:04:24.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:27-05-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "009068937"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "538404-7"
+                },
+                {
+                    "b": "FD221"
+                },
+                {
+                    "d": "Bo 404"
+                },
+                {
+                    "e": "DE-Bo404"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.drze.de/bibliothek"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://www.drze.de/BELIT"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "DRZE"
+                },
+                {
+                    "4": "a"
+                }
+            ],
+            [
+                {
+                    "a": "Bonn DRZ f\u00fcr Ethik"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Deutsches Referenzzentrum f\u00fcr Ethik in den Biowissenschaften, Bibliothek/Dokumentation"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Bonner Talweg 57"
+                },
+                {
+                    "b": "Bonn"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "53113"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "i": "Mo und Mi-Fr 9.00-16.00, Di 9.00-18.00"
+                },
+                {
+                    "k": "7.10309"
+                },
+                {
+                    "l": "50.72491"
+                },
+                {
+                    "n": "05314000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "228"
+                },
+                {
+                    "f": "73-8160 und -8161"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "228"
+                },
+                {
+                    "i": "73-8190"
+                },
+                {
+                    "k": "bibliothek@drze.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0014"
+                },
+                {
+                    "d": "HBZ"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "06"
+                },
+                {
+                    "h": "06"
+                },
+                {
+                    "i": "P"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Bioethik"
+                },
+                {
+                    "a": "Medizinische Ethik"
+                },
+                {
+                    "a": "Umweltethik"
+                },
+                {
+                    "a": "Tierethik"
+                },
+                {
+                    "a": "Technikethik"
+                },
+                {
+                    "a": "Wissenschaftsethik"
+                },
+                {
+                    "a": "Angewandte Ethik"
+                },
+                {
+                    "a": "Medizinrecht"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "c": "HBZ"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Bo404",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Bo404",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Bo404",
+    "identifier": "DE-Bo404",
+    "name": "Deutsches Referenzzentrum f\u00fcr Ethik in den Biowissenschaften, Bibliothek/Dokumentation",
+    "location": "Bonn",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NRW"
+}

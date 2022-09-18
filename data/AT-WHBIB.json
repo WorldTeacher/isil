@@ -1,0 +1,210 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/AT-WHBIB.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:29-11-04"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:13-07-15"
+                ],
+                {
+                    "t": "11:26:59.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "02677108X"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "030052-4"
+                },
+                {
+                    "c": "70.155.0700-6"
+                },
+                {
+                    "d": "AT-WHBIB"
+                },
+                {
+                    "e": "AT-WHBIB"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.sbg.ac.at/whbib/"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://opac.bibvb.ac.at/whb01"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Salzburg Haslauer-Bibl."
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Dr.-Wilfried-Haslauer-Bibliothek (Forschungsinstitut f\u00fcr Politisch-Historische Studien)"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Griesgasse 17"
+                },
+                {
+                    "b": "Salzburg"
+                },
+                {
+                    "d": "AT"
+                },
+                {
+                    "e": "A-5020"
+                },
+                {
+                    "f": "\u00d6sterreich"
+                },
+                {
+                    "k": "13.04251"
+                },
+                {
+                    "l": "47.80065"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "43"
+                },
+                {
+                    "e": "662"
+                },
+                {
+                    "f": "84 66 66"
+                },
+                {
+                    "g": "43"
+                },
+                {
+                    "h": "662"
+                },
+                {
+                    "i": "84 12 00"
+                },
+                {
+                    "k": "haslauer.bibliothek@sbg.ac.at"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "c": "0157"
+                },
+                {
+                    "e": "\u00d6BV"
+                },
+                {
+                    "f": "81"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "WEU"
+                },
+                {
+                    "c": "\u00d6BV"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ],
+        "047A": [
+            [
+                {
+                    "a": "Allgemein (\u00f6ffentlich) zug\u00e4nglich"
+                }
+            ]
+        ]
+    },
+    "_id": "AT-WHBIB",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/AT-WHBIB",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/AT-WHBIB",
+    "identifier": "AT-WHBIB",
+    "name": "Dr.-Wilfried-Haslauer-Bibliothek (Forschungsinstitut f\u00fcr Politisch-Historische Studien)",
+    "location": "Salzburg",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "WEU"
+}

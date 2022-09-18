@@ -1,0 +1,280 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-121.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:18-11-99"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:10-08-20"
+                ],
+                {
+                    "t": "13:56:47.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "009013741"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "558121-7"
+                },
+                {
+                    "b": "AL121"
+                },
+                {
+                    "d": "121"
+                },
+                {
+                    "e": "DE-121"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.stadtbibliothek-weberbach.de/Startseite/"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://str.zbsport.de"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Trier StBi"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Wissenschaftliche Bibliothek der Stadt Trier"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Weberbach 25"
+                },
+                {
+                    "b": "Trier"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "54290"
+                },
+                {
+                    "f": "Rheinland-Pfalz"
+                },
+                {
+                    "i": "Mo-Do 9.00-17.00, Fr 9.00-13.00"
+                },
+                {
+                    "k": "6.64140"
+                },
+                {
+                    "l": "49.75152"
+                },
+                {
+                    "n": "07211000"
+                },
+                {
+                    "o": "barrierefrei"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "651"
+                },
+                {
+                    "f": "7 18-1429"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "651"
+                },
+                {
+                    "i": "7 18-1428"
+                },
+                {
+                    "k": "fernleiheweba@trier.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0078"
+                },
+                {
+                    "f": "21"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "09"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Trier"
+                },
+                {
+                    "a": "Moselland"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "d": "Kalliope"
+                },
+                {
+                    "e": "k"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035K": [
+            [
+                {
+                    "b": "A"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "b"
+                },
+                {
+                    "d": "fernleiheweba@trier.de"
+                }
+            ],
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "fernleiheweba@trier.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "fernleiheweba@trier.de"
+                }
+            ]
+        ],
+        "035O": [
+            [
+                {
+                    "a": "ISIL DE-385; FZL DE-621"
+                },
+                {
+                    "b": "CONTAINER"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-121",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-121",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-121",
+    "identifier": "DE-121",
+    "name": "Wissenschaftliche Bibliothek der Stadt Trier",
+    "location": "Trier",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NRW"
+}

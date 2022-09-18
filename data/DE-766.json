@@ -1,0 +1,253 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-766.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:28-11-18"
+                ],
+                {
+                    "t": "16:38:33.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020585640"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "GD597"
+                },
+                {
+                    "d": "766"
+                },
+                {
+                    "e": "DE-766"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.buende.de/stadtb%C3%BCcherei"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://www.bibliotheken-in-owl.de/"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "B\u00fcnde StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtb\u00fccherei B\u00fcnde"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Eschstr. 50"
+                },
+                {
+                    "b": "B\u00fcnde"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "32257"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "i": "Di und Do 10.00-13.00 und 15.00-18.00, Mi 13.00-16.00, Fr 10.00-13.00 und 14.00-16.00"
+                },
+                {
+                    "k": "8.58679"
+                },
+                {
+                    "l": "52.19917"
+                },
+                {
+                    "n": "05758004"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "B\u00fcnde"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "32227"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "g": "27 49"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "5223"
+                },
+                {
+                    "f": "9 93 40-0 (Beratung) und -13 (Fernleihe)"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "5223"
+                },
+                {
+                    "i": "9 93 40-29"
+                },
+                {
+                    "k": "stadtbuecherei@Buende.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "07"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "Fernleihe-Stadtbuecherei@buende.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "Fernleihe-Stadtbuecherei@buende.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-766",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-766",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-766",
+    "identifier": "DE-766",
+    "name": "Stadtb\u00fccherei B\u00fcnde",
+    "location": "B\u00fcnde",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NRW"
+}

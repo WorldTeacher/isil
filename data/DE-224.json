@@ -1,0 +1,260 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-224.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:18-11-99"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:28-11-18"
+                ],
+                {
+                    "t": "16:39:54.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "009011978"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "AL224"
+                },
+                {
+                    "d": "224"
+                },
+                {
+                    "e": "DE-224"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.kulturbetrieb.dueren.de/stadtbuecherei/"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://www.dueren.de/opac"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "D\u00fcren StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtb\u00fccherei D\u00fcren"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Stefan-Schwer-Str. 6"
+                },
+                {
+                    "b": "D\u00fcren"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "52349"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "i": "Mo-Di 12.30-19.00, Do 10.00-19.00, Fr 12.30-17.00, Sa 10.00-13.00"
+                },
+                {
+                    "k": "6.47897"
+                },
+                {
+                    "l": "50.80807"
+                },
+                {
+                    "n": "05358008"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "D\u00fcren"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "52348"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "z": "Pakete u. P\u00e4ckchen: Stadt D\u00fcren, Stadtb\u00fccherei Kaiserpl. 2-4, 52349 D\u00fcren"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "02421"
+                },
+                {
+                    "f": "25-1376, -1364 und -1366"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "02421"
+                },
+                {
+                    "i": "2 51 80-1374"
+                },
+                {
+                    "k": "stadtbuecherei@dueren.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "07"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035K": [
+            [
+                {
+                    "b": "A"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "stadtbuecherei-leihverkehr@dueren.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "stadtbuecherei-leihverkehr@dueren.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-224",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-224",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-224",
+    "identifier": "DE-224",
+    "name": "Stadtb\u00fccherei D\u00fcren",
+    "location": "D\u00fcren",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NRW"
+}

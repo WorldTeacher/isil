@@ -1,0 +1,218 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-101.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:31-03-08"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:03-01-22"
+                ],
+                {
+                    "t": "14:24:34.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:31-03-08"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "988092921"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "AG292"
+                },
+                {
+                    "d": "101"
+                },
+                {
+                    "e": "DE-101"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "https://www.dnb.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://portal.dnb.de"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "DNB"
+                },
+                {
+                    "4": "a"
+                }
+            ],
+            [
+                {
+                    "a": "Frankfurt/M DNB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Deutsche Nationalbibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Adickesallee 1"
+                },
+                {
+                    "b": "Frankfurt/Main"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "60322"
+                },
+                {
+                    "f": "Hessen"
+                },
+                {
+                    "k": "8.68314"
+                },
+                {
+                    "l": "50.13129"
+                },
+                {
+                    "n": "06412000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "k": "info-f@dnb.de"
+                }
+            ]
+        ],
+        "035D": [
+            [
+                {
+                    "b": "GyFmDB (fr\u00fcherer MARC Code)"
+                }
+            ],
+            [
+                {
+                    "b": "DlFmDB (fr\u00fcherer MARC Code)"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "11"
+                },
+                {
+                    "g": "01"
+                },
+                {
+                    "h": "10"
+                },
+                {
+                    "i": "P"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "HES"
+                },
+                {
+                    "d": "Kalliope"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ],
+        "047A": [
+            [
+                {
+                    "a": "Nationalbibliothek und nationalbibliografisches Zentrum der Bundesrepublik Deutschland"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-101",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-101",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-101",
+    "identifier": "DE-101",
+    "name": "Deutsche Nationalbibliothek",
+    "location": "Frankfurt/Main",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "HES"
+}

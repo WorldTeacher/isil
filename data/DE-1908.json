@@ -1,0 +1,207 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-1908.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:01-10-12"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:18-06-21"
+                ],
+                {
+                    "t": "14:11:05.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:01-10-12"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "102643386X"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "WD201"
+                },
+                {
+                    "d": "1908"
+                },
+                {
+                    "e": "DE-1908"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.stadtbibliothek-braunsbedra.de"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Braunsbedra StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtbibliothek Braunsbedra"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Goethestrasse 33"
+                },
+                {
+                    "b": "Braunsbedra"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "06242"
+                },
+                {
+                    "f": "Sachsen-Anhalt"
+                },
+                {
+                    "i": "Mo 13.00-16.00, Di und Do 9.00-11.00 und 13.00-18.00, Fr 9.00-11.00"
+                },
+                {
+                    "k": "11.88234"
+                },
+                {
+                    "l": "51.28563"
+                },
+                {
+                    "n": "15088065"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "34633"
+                },
+                {
+                    "f": "2 49 11"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "34633"
+                },
+                {
+                    "i": "2 49 13"
+                },
+                {
+                    "k": "stadtbibliothek-braunsbedra@t-online.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "06"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "SAA"
+                },
+                {
+                    "c": "GBV"
+                },
+                {
+                    "d": "\u00d6VK"
+                },
+                {
+                    "e": "n"
+                },
+                {
+                    "g": "R"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-1908",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-1908",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-1908",
+    "identifier": "DE-1908",
+    "name": "Stadtbibliothek Braunsbedra",
+    "location": "Braunsbedra",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "SAA"
+}

@@ -1,0 +1,231 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Bm2.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9001:30-06-20"
+                ],
+                {
+                    "t": "10:40:26.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020589328"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "468002-9"
+                },
+                {
+                    "b": "CZ100"
+                },
+                {
+                    "d": "Bm 2"
+                },
+                {
+                    "e": "DE-Bm2"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Bochum DRV KBS"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Deutsche Rentenversicherung Knappschaft-Bahn-See, Zentralbibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Knappschaftstr. 1"
+                },
+                {
+                    "b": "Bochum"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "44799"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "i": "Mo-Do 8.00-16.00, Fr 8.00-14.00"
+                },
+                {
+                    "k": "7.22540"
+                },
+                {
+                    "l": "51.45761"
+                },
+                {
+                    "n": "05911000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "234"
+                },
+                {
+                    "f": "3 04-66200, -66202 und -66207 (Fernleihe)"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "234"
+                },
+                {
+                    "i": "3 04-66290"
+                },
+                {
+                    "k": "bibliothek@kbs.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0331"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "07"
+                },
+                {
+                    "h": "07"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Sozialversicherung"
+                },
+                {
+                    "a": "Sozialrecht"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "bibliothek@kbs.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "bibliothek@kbs.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Bm2",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Bm2",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Bm2",
+    "identifier": "DE-Bm2",
+    "name": "Deutsche Rentenversicherung Knappschaft-Bahn-See, Zentralbibliothek",
+    "location": "Bochum",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NRW"
+}

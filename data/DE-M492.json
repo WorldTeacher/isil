@@ -1,0 +1,231 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-M492.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:22-01-08"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:23-03-16"
+                ],
+                {
+                    "t": "09:21:00.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:22-01-08"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "987233173"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "808492-0"
+                },
+                {
+                    "d": "M 492"
+                },
+                {
+                    "e": "DE-M492"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.ostrecht.de/index.php?id=28"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "IOR"
+                },
+                {
+                    "4": "a"
+                }
+            ],
+            [
+                {
+                    "a": "Regensburg Institut Ostrecht"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Bibliothek des Instituts f\u00fcr Ostrecht M\u00fcnchen e.V. im Wissenschaftszentrum Ost- und S\u00fcdosteuropa"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Landshuter Str. 4"
+                },
+                {
+                    "b": "Regensburg"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "93047"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "i": "Mo-Do 9.00-16.30, Fr 9.00-15.00"
+                },
+                {
+                    "k": "12.10299"
+                },
+                {
+                    "l": "49.01487"
+                },
+                {
+                    "n": "09362000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "941"
+                },
+                {
+                    "f": "9 43-5450"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "941"
+                },
+                {
+                    "i": "9 43-5465"
+                },
+                {
+                    "k": "info@ostrecht.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0075"
+                },
+                {
+                    "d": "BVB"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "08"
+                },
+                {
+                    "h": "06"
+                },
+                {
+                    "i": "P"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Recht <Osteuropa>"
+                },
+                {
+                    "a": "Gesetzessammlungen <Ost- und Ostmitteleuropa>"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAY"
+                },
+                {
+                    "c": "BVB"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-M492",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-M492",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-M492",
+    "identifier": "DE-M492",
+    "name": "Bibliothek des Instituts f\u00fcr Ostrecht M\u00fcnchen e.V. im Wissenschaftszentrum Ost- und S\u00fcdosteuropa",
+    "location": "Regensburg",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAY"
+}

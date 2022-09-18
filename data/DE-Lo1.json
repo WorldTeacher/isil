@@ -1,0 +1,206 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Lo1.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:12-05-22"
+                ],
+                {
+                    "t": "09:33:53.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020595158"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "DC278"
+                },
+                {
+                    "d": "Lo 1"
+                },
+                {
+                    "e": "DE-Lo1"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "https://www.kloster-loccum.de/pages/kloster/klosterbibliothek/"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Klosterbibliothek Loccum"
+                }
+            ],
+            [
+                {
+                    "a": "Klosterbibliothek Loccum"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Klosterbibliothek Loccum"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Im Kloster 2"
+                },
+                {
+                    "b": "Rehburg-Loccum"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "31547"
+                },
+                {
+                    "f": "Niedersachsen"
+                },
+                {
+                    "i": "nicht \u00f6ffentlich zug\u00e4nglich"
+                },
+                {
+                    "k": "9.15068"
+                },
+                {
+                    "l": "52.45167"
+                },
+                {
+                    "n": "03351006"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "05766"
+                },
+                {
+                    "f": "960 231"
+                },
+                {
+                    "k": "klosterbibliothek.loccum@evlka.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "09"
+                },
+                {
+                    "h": "07"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NIE"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "GBV"
+                },
+                {
+                    "d": "Kalliope"
+                },
+                {
+                    "e": "n"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Lo1",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Lo1",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Lo1",
+    "identifier": "DE-Lo1",
+    "name": "Klosterbibliothek Loccum",
+    "location": "Rehburg-Loccum",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NIE"
+}

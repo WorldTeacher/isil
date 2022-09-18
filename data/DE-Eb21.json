@@ -1,0 +1,238 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Eb21.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:08-11-16"
+                ],
+                {
+                    "t": "17:08:46.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020590717"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "WA595"
+                },
+                {
+                    "d": "Eb 21"
+                },
+                {
+                    "e": "DE-Eb21"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.eberswalde.de/Bibliothek.1721.0.html"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://80.78.162.156/allegrooeb/webopac/start.aspx"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Eberswalde StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtbibliothek Eberswalde"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Puschkinstr. 13"
+                },
+                {
+                    "b": "Eberswalde"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "16225"
+                },
+                {
+                    "f": "Brandenburg"
+                },
+                {
+                    "i": "Mo-Di 14.00-18.00,  Do-Fr 10.00-18.00, Sa 10.00-14.00"
+                },
+                {
+                    "k": "13.81371"
+                },
+                {
+                    "l": "52.83305"
+                },
+                {
+                    "n": "12060052"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Eberswalde"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "16202"
+                },
+                {
+                    "f": "Brandenburg"
+                },
+                {
+                    "g": "10 06 50"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "3334"
+                },
+                {
+                    "f": "64-420"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "3334"
+                },
+                {
+                    "i": "64-429"
+                },
+                {
+                    "k": "bibliothek@eberswalde.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "07"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BER"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "KOBV"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Eb21",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Eb21",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Eb21",
+    "identifier": "DE-Eb21",
+    "name": "Stadtbibliothek Eberswalde",
+    "location": "Eberswalde",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BER"
+}

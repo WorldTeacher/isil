@@ -1,0 +1,221 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-2022.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:29-11-13"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:13-01-15"
+                ],
+                {
+                    "t": "17:03:47.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:29-11-13"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1044805919"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "LA181"
+                },
+                {
+                    "d": "2022"
+                },
+                {
+                    "e": "DE-2022"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.bibliothek-ditzingen.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://wwwopac.rz-as.de/ditzingen/index.asp?DB=ditzingen"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Ditzingen StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtbibliothek Ditzingen"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Am Laien 3"
+                },
+                {
+                    "b": "Ditzingen"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "71254"
+                },
+                {
+                    "f": "Baden-W\u00fcrttemberg"
+                },
+                {
+                    "h": "Stadtbibliothek"
+                },
+                {
+                    "i": "Di 10.00-19.00, Mi 10.00-13.00, Do 13.00-19.00, Fr 13.00-18.00, Sa 9.00-13.00"
+                },
+                {
+                    "k": "9.06678"
+                },
+                {
+                    "l": "48.82877"
+                },
+                {
+                    "n": "08118011"
+                },
+                {
+                    "o": "barrierefrei"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "7156"
+                },
+                {
+                    "f": "16 43 20"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "7156"
+                },
+                {
+                    "i": "16 43 28"
+                },
+                {
+                    "k": "stadtbibliothek@ditzingen.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "07"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "SWB"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-2022",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-2022",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-2022",
+    "identifier": "DE-2022",
+    "name": "Stadtbibliothek Ditzingen",
+    "location": "Ditzingen",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAW"
+}

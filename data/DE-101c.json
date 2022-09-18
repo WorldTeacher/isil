@@ -1,0 +1,282 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-101c.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:03-01-22"
+                ],
+                {
+                    "t": "14:47:57.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020583613"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "180101-6"
+                },
+                {
+                    "b": "BC292"
+                },
+                {
+                    "d": "101c"
+                },
+                {
+                    "e": "DE-101c"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "https://www.dnb.de/dma"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://portal.dnb.de"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Deutsches Musikarchiv der Deutschen Nationalbibliothek"
+                },
+                {
+                    "4": "a"
+                }
+            ],
+            [
+                {
+                    "a": "Leipzig DNB Musikarchiv"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Deutsche Nationalbibliothek, Deutsches Musikarchiv"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Deutscher Platz 1"
+                },
+                {
+                    "b": "Leipzig"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "04103"
+                },
+                {
+                    "f": "Sachsen"
+                },
+                {
+                    "i": "Mo-Sa 10.00-18.00"
+                },
+                {
+                    "k": "12.39613"
+                },
+                {
+                    "l": "51.32242"
+                },
+                {
+                    "n": "14713000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "341"
+                },
+                {
+                    "f": "22 71-150"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "341"
+                },
+                {
+                    "i": "22 71-140"
+                },
+                {
+                    "k": "info-dma@dnb.de"
+                }
+            ],
+            [
+                {
+                    "a": "W"
+                },
+                {
+                    "b": "Fernleihe"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "341"
+                },
+                {
+                    "f": "22 71-567"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "341"
+                },
+                {
+                    "i": "22 71-444"
+                },
+                {
+                    "k": "fernleihe@dnb.de"
+                }
+            ]
+        ],
+        "035D": [
+            [
+                {
+                    "a": "292a"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0003"
+                },
+                {
+                    "f": "11"
+                },
+                {
+                    "g": "01"
+                },
+                {
+                    "h": "10"
+                },
+                {
+                    "i": "P"
+                },
+                {
+                    "k": "292a"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Musikalien und Tontr\u00e4ger (auch multimediale)"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "SAX"
+                },
+                {
+                    "e": "k"
+                }
+            ]
+        ],
+        "047A": [
+            [
+                {
+                    "a": "Zentrale Archivbibliothek der seit 1913 in Deutschland erschienenen k\u00f6rperlichen und unk\u00f6rperlichen Musik-Medienwerke, Sondersammlungen:Historische Tontr\u00e4ger, GEMA-Notensammlung, Musikinformationszentrum des Verbandes der Komponisten und Musikwissenschaftler der ehem. DDR, diverse Sammlernachl\u00e4sse; Gem\u00e4\u00df Leihverkehrsordnung letztrangige Ber\u00fccksichtigung"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-101c",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-101c",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-101c",
+    "identifier": "DE-101c",
+    "name": "Deutsche Nationalbibliothek, Deutsches Musikarchiv",
+    "location": "Leipzig",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "SAX"
+}

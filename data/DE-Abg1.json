@@ -1,0 +1,281 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Abg1.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:15-06-05"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:22-11-16"
+                ],
+                {
+                    "t": "18:15:30.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:15-06-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "975294903"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "848101-5"
+                },
+                {
+                    "d": "Abg 1"
+                },
+                {
+                    "e": "DE-Abg1"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.stadtmuseum-abensberg.de/"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://www.bibliothek.uni-regensburg.de/katalog/katalog.htm"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Bibliothek des Stadtmuseums"
+                },
+                {
+                    "4": "a"
+                }
+            ],
+            [
+                {
+                    "a": "Abensberg HerzogskastenBib"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Herzogskasten Stadtmuseum Abensberg, Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Dollingerstr. 18"
+                },
+                {
+                    "b": "Abensberg"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "93326"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "h": "Stadtmuseum Abensberg"
+                },
+                {
+                    "i": "nicht \u00f6ffentlich zug\u00e4nglich"
+                },
+                {
+                    "k": "11.84548"
+                },
+                {
+                    "l": "48.81452"
+                },
+                {
+                    "n": "09273111"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "a": "Stadtplatz 1"
+                },
+                {
+                    "b": "Abensberg"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "93326"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "9443"
+                },
+                {
+                    "f": "91 03-59"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "9443"
+                },
+                {
+                    "i": "91 03-18"
+                },
+                {
+                    "k": "museum@abensberg.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0075"
+                },
+                {
+                    "d": "BVB"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "05"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Geschichte"
+                },
+                {
+                    "a": "Vorgeschichte"
+                },
+                {
+                    "a": "Vertriebenenliteratur"
+                },
+                {
+                    "a": "Abensberg"
+                },
+                {
+                    "a": "Landkreis Kelheim"
+                },
+                {
+                    "a": "Bavarica"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAY"
+                },
+                {
+                    "c": "BVB"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ],
+        "047A": [
+            [
+                {
+                    "a": "Im sogenannten Herzogskasten sind die Dauerausstellung und die Verwaltung des Stadtmuseums untergebracht. Depot und Magazin befinden sich in einem anderen Geb\u00e4ude; Einsichtnahme vor Ort nur nach vorheriger Anmeldung, eine Ausleihe ist grunds\u00e4tzlich nicht m\u00f6glich"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Abg1",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Abg1",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Abg1",
+    "identifier": "DE-Abg1",
+    "name": "Herzogskasten Stadtmuseum Abensberg, Bibliothek",
+    "location": "Abensberg",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAY"
+}

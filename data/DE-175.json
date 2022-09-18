@@ -1,0 +1,273 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-175.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:24-11-21"
+                ],
+                {
+                    "t": "15:49:45.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020583095"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "AD175"
+                },
+                {
+                    "d": "175"
+                },
+                {
+                    "e": "DE-175"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.stadtbibliothek.goslar.de/"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://sb-goslar.lmscloud.net/"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Goslar StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtbibliothek Goslar"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Am Museumsufer 2"
+                },
+                {
+                    "b": "Goslar"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "38640"
+                },
+                {
+                    "f": "Niedersachsen"
+                },
+                {
+                    "i": "Di und Do 10.00-17.00, Mi und Fr 14.00-17.00, Jeden 1. Samstag 10.00-13.00"
+                },
+                {
+                    "k": "10.42944"
+                },
+                {
+                    "l": "51.90437"
+                },
+                {
+                    "n": "03153005"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Goslar"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "38634"
+                },
+                {
+                    "f": "Niedersachsen"
+                },
+                {
+                    "g": "34 52"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "5321"
+                },
+                {
+                    "f": "7 04-493"
+                },
+                {
+                    "k": "fernleihe@goslar.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "07"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Goslar"
+                },
+                {
+                    "a": "Harz"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NIE"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "GBV"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "a"
+                },
+                {
+                    "d": "fernleihe@goslar.de"
+                }
+            ],
+            [
+                {
+                    "a": "d"
+                },
+                {
+                    "d": "fernleihe@goslar.de"
+                }
+            ],
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "fernleihe@goslar.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "fernleihe@goslar.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-175",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-175",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-175",
+    "identifier": "DE-175",
+    "name": "Stadtbibliothek Goslar",
+    "location": "Goslar",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NIE"
+}

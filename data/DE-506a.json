@@ -1,0 +1,226 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-506a.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:19-01-07"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:31-10-16"
+                ],
+                {
+                    "t": "12:32:05.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:19-01-07"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "982793324"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "AB507"
+                },
+                {
+                    "d": "506a"
+                },
+                {
+                    "e": "DE-506a"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.bibliothek.luckenwalde.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://mybibliotheca.net/opac-lucken/app/pages/webopac/index.aspx"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Bibliothek im Bahnhof Luckenwalde"
+                },
+                {
+                    "4": "a"
+                }
+            ],
+            [
+                {
+                    "a": "Luckenwalde StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtbibliothek Luckenwalde"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Bahnhofspl. 5"
+                },
+                {
+                    "b": "Luckenwalde"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "14943"
+                },
+                {
+                    "f": "Brandenburg"
+                },
+                {
+                    "i": "Di 10.00-18.00, Mi-Fr 13.00-18.00, Sa 10.00-13.00"
+                },
+                {
+                    "k": "13.16111"
+                },
+                {
+                    "l": "52.09013"
+                },
+                {
+                    "n": "12072232"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "3371"
+                },
+                {
+                    "f": "40 33-40 und -42"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "3371"
+                },
+                {
+                    "i": "40 33-41"
+                },
+                {
+                    "k": "bibliothek@luckenwalde.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "07"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BER"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "KOBV"
+                },
+                {
+                    "d": "VOEB"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-506a",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-506a",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-506a",
+    "identifier": "DE-506a",
+    "name": "Stadtbibliothek Luckenwalde",
+    "location": "Luckenwalde",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BER"
+}

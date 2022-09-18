@@ -1,0 +1,208 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-913.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:01-06-21"
+                ],
+                {
+                    "t": "13:32:51.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020586876"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "LA831"
+                },
+                {
+                    "d": "913"
+                },
+                {
+                    "e": "DE-913"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.bibliothek.roethenbach.de"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "R\u00f6thenbach StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtbibliothek R\u00f6thenbach"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Geschwister-Scholl-Platz 1"
+                },
+                {
+                    "b": "R\u00f6thenbach/Pegnitz"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "90552"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "i": "Mo-Di und Do-Fr 10.00-12.30 und 14.00-18.00, Mi 14.00-18.00, Sa 10.00-12.00"
+                },
+                {
+                    "k": "11.25228"
+                },
+                {
+                    "l": "49.48040"
+                },
+                {
+                    "n": "09574152"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "911"
+                },
+                {
+                    "f": "21 541 600"
+                },
+                {
+                    "k": "bibliothek@roethenbach.org"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "07"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAY"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "BVB"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "bibliothek@roethenbach.org"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-913",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-913",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-913",
+    "identifier": "DE-913",
+    "name": "Stadtbibliothek R\u00f6thenbach",
+    "location": "R\u00f6thenbach/Pegnitz",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAY"
+}

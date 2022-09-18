@@ -1,0 +1,238 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-1080.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:17-02-16"
+                ],
+                {
+                    "t": "14:23:49.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020588178"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "KP974"
+                },
+                {
+                    "d": "1080"
+                },
+                {
+                    "e": "DE-1080"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.stadtbuecherei-geislingen.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://opac-geislingen.dyndns.org/opac/index.S"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Geislingen StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtb\u00fccherei in der MAG"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Schillerstr. 2"
+                },
+                {
+                    "b": "Geislingen an der Steige"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "73312"
+                },
+                {
+                    "f": "Baden-W\u00fcrttemberg"
+                },
+                {
+                    "i": "Di-Mi 10.00-13.00 und 15.00-18.00, Do 15.00-19.00, Fr 13.00-16.00, Sa 10.00-12.00"
+                },
+                {
+                    "k": "9.84276"
+                },
+                {
+                    "l": "48.61243"
+                },
+                {
+                    "n": "08117024"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Geislingen an der Steige"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "73301"
+                },
+                {
+                    "f": "Baden-W\u00fcrttemberg"
+                },
+                {
+                    "g": "11 62"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "7331"
+                },
+                {
+                    "f": "24-270"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "7331"
+                },
+                {
+                    "i": "24-376"
+                },
+                {
+                    "k": "stadtbuecherei@geislingen.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "07"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "SWB"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-1080",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-1080",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-1080",
+    "identifier": "DE-1080",
+    "name": "Stadtb\u00fccherei in der MAG",
+    "location": "Geislingen an der Steige",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAW"
+}

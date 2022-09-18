@@ -1,0 +1,285 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Ka23.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:18-11-99"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:27-02-19"
+                ],
+                {
+                    "t": "10:37:39.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "026283832"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "758023-X"
+                },
+                {
+                    "b": "DB821"
+                },
+                {
+                    "d": "Ka 23"
+                },
+                {
+                    "e": "DE-Ka23"
+                },
+                {
+                    "f": "KUKA"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.kunsthalle-karlsruhe.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://swb.bsz-bw.de/DB=2.328/"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Karlsruhe Kunsthalle"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Staatliche Kunsthalle, Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Hans-Thoma-Str. 2/6"
+                },
+                {
+                    "b": "Karlsruhe"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "76133"
+                },
+                {
+                    "f": "Baden-W\u00fcrttemberg"
+                },
+                {
+                    "i": "Di-Do 10.00-16.00"
+                },
+                {
+                    "j": "in der Mittagszeit nur eingeschr\u00e4nkte Benutzung m\u00f6glich, letzter Sa. im Monat 10.00-13.00"
+                },
+                {
+                    "k": "8.39993"
+                },
+                {
+                    "l": "49.01207"
+                },
+                {
+                    "n": "08212000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Karlsruhe"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "76062"
+                },
+                {
+                    "f": "Baden-W\u00fcrttemberg"
+                },
+                {
+                    "g": "11 12 53"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "721"
+                },
+                {
+                    "f": "9 26-3358"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "721"
+                },
+                {
+                    "i": "9 26-6788"
+                },
+                {
+                    "k": "biblio@kunsthalle-karlsruhe.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0154"
+                },
+                {
+                    "d": "SWB"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "02"
+                },
+                {
+                    "h": "08"
+                },
+                {
+                    "i": "P"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Kunstgeschichte"
+                },
+                {
+                    "a": "Malerei"
+                },
+                {
+                    "a": "Graphik"
+                },
+                {
+                    "a": "Bildhauerei"
+                },
+                {
+                    "a": "Kunsthandelskataloge"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "SWB"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035O": [
+            [
+                {
+                    "a": "ISIL DE-31; AUTO DE-624"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Ka23",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Ka23",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Ka23",
+    "identifier": "DE-Ka23",
+    "name": "Staatliche Kunsthalle, Bibliothek",
+    "location": "Karlsruhe",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAW"
+}

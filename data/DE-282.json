@@ -1,0 +1,256 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-282.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:18-11-99"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:11-11-16"
+                ],
+                {
+                    "t": "13:46:44.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "009014071"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "628282-9"
+                },
+                {
+                    "b": "AB282"
+                },
+                {
+                    "d": "282"
+                },
+                {
+                    "e": "DE-282"
+                },
+                {
+                    "f": "STATI"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.destatis.de/bibliothek"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Wiesbaden StaBA"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Statistisches Bundesamt, Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Gustav-Stresemann-Ring 11"
+                },
+                {
+                    "b": "Wiesbaden"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "65189"
+                },
+                {
+                    "f": "Hessen"
+                },
+                {
+                    "i": "Mo-Do 9.00-15.00, Fr 9.00-14.00"
+                },
+                {
+                    "k": "8.25233"
+                },
+                {
+                    "l": "50.07112"
+                },
+                {
+                    "n": "06414000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Wiesbaden"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "65180"
+                },
+                {
+                    "f": "Hessen"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "611"
+                },
+                {
+                    "f": "75-4573 (Auskunft) und -2460 (Fernleihe)"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "611"
+                },
+                {
+                    "i": "75-4433"
+                },
+                {
+                    "k": "fernleihe@destatis.de"
+                }
+            ]
+        ],
+        "035D": [
+            [
+                {
+                    "a": "B 17"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0069"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "01"
+                },
+                {
+                    "h": "10"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Statistik <Ergebnisse und Methoden>"
+                },
+                {
+                    "a": "Wirtschaft <Wissenschaft und Praxis>"
+                },
+                {
+                    "a": "Bev\u00f6lkerungs- und Sozialwissenschaft"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "HES"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-282",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-282",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-282",
+    "identifier": "DE-282",
+    "name": "Statistisches Bundesamt, Bibliothek",
+    "location": "Wiesbaden",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "HES"
+}

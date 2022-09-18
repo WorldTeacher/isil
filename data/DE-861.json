@@ -1,0 +1,255 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-861.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:28-02-05"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:24-09-21"
+                ],
+                {
+                    "t": "09:53:20.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:27-05-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "027155714"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "822001-3"
+                },
+                {
+                    "b": "BH253"
+                },
+                {
+                    "d": "861"
+                },
+                {
+                    "e": "DE-861"
+                },
+                {
+                    "f": "FHBRO"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.th-rosenheim.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://frotp20.bib-bvb.de/TouchPoint/start.do?View=fro&Branch=00"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Rosenheim THSB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Technische Hochschulbibliothek Rosenheim"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Hochschulstr. 1"
+                },
+                {
+                    "b": "Rosenheim"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "83024"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "i": "Mo-Do 7.45-20.00, Fr 7.45-18.00"
+                },
+                {
+                    "k": "12.10740"
+                },
+                {
+                    "l": "47.86751"
+                },
+                {
+                    "n": "09163000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "8031"
+                },
+                {
+                    "f": "8 05-2175 (Fernleihe)"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "8031"
+                },
+                {
+                    "i": "8 05-2177"
+                },
+                {
+                    "k": "fernleihe@th-rosenheim.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0056"
+                },
+                {
+                    "d": "BVB"
+                },
+                {
+                    "f": "70"
+                },
+                {
+                    "g": "02"
+                },
+                {
+                    "h": "07"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAY"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "BVB"
+                },
+                {
+                    "e": "k"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "fernleihe@th-rosenheim.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "fernleihe@fh-rosenheim.de"
+                }
+            ]
+        ],
+        "035Q": [
+            [
+                {
+                    "a": "j"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-861",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-861",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-861",
+    "identifier": "DE-861",
+    "name": "Technische Hochschulbibliothek Rosenheim",
+    "location": "Rosenheim",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAY"
+}

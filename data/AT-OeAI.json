@@ -1,0 +1,213 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/AT-OeAI.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:29-11-04"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:20-07-15"
+                ],
+                {
+                    "t": "11:24:48.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "026770903"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "030034-2"
+                },
+                {
+                    "c": "15.739.0000-X"
+                },
+                {
+                    "d": "AT-\u00d6AI"
+                },
+                {
+                    "e": "AT-OeAI"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.oeai.at/index.php/bibliothek-97.html"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://opac.bibvb.ac.at/accz30"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Wien \u00d6ster. Arch\u00e4ol. Inst."
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "\u00d6sterreichisches Arch\u00e4ologisches Institut, Bibliothek Wien"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Franz-Klein-Gasse 1"
+                },
+                {
+                    "b": "Wien"
+                },
+                {
+                    "d": "AT"
+                },
+                {
+                    "e": "A-1190"
+                },
+                {
+                    "f": "\u00d6sterreich"
+                },
+                {
+                    "h": "1.Stock"
+                },
+                {
+                    "k": "16.34890"
+                },
+                {
+                    "l": "48.23365"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "43"
+                },
+                {
+                    "e": "1"
+                },
+                {
+                    "f": "42 77-27130"
+                },
+                {
+                    "g": "43"
+                },
+                {
+                    "h": "1"
+                },
+                {
+                    "i": "42 77-27193"
+                },
+                {
+                    "k": "athen@oeai.at"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "c": "0157"
+                },
+                {
+                    "e": "\u00d6BV"
+                },
+                {
+                    "f": "81"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "WEU"
+                },
+                {
+                    "c": "\u00d6BV"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ],
+        "047A": [
+            [
+                {
+                    "a": "Allgemein (\u00f6ffentlich) zug\u00e4nglich"
+                }
+            ]
+        ]
+    },
+    "_id": "AT-OeAI",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/AT-OeAI",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/AT-OeAI",
+    "identifier": "AT-OeAI",
+    "name": "\u00d6sterreichisches Arch\u00e4ologisches Institut, Bibliothek Wien",
+    "location": "Wien",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "WEU"
+}

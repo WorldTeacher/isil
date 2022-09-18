@@ -1,0 +1,256 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-519.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:18-11-99"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:19-03-18"
+                ],
+                {
+                    "t": "13:48:03.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "009071415"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "924000-7"
+                },
+                {
+                    "b": "AE519"
+                },
+                {
+                    "d": "519"
+                },
+                {
+                    "e": "DE-519"
+                },
+                {
+                    "f": "FHNB"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.hsb.hs-nb.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://opac.lbs-rostock.gbv.de/DB=2/LNG=DU/"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Neubrandenburg HS"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Hochschule Neubrandenburg, Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Brodaer Str. 2"
+                },
+                {
+                    "b": "Neubrandenburg"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "17033"
+                },
+                {
+                    "f": "Mecklenburg-Vorpommern"
+                },
+                {
+                    "i": "Mo-Fr 9.00-19.00, Sa 10.00-16.00"
+                },
+                {
+                    "j": "Servicezeiten: Mo-Fr 9.00-16.00"
+                },
+                {
+                    "k": "13.24788"
+                },
+                {
+                    "l": "53.55550"
+                },
+                {
+                    "n": "13002000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Neubrandenburg"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "17041"
+                },
+                {
+                    "f": "Mecklenburg-Vorpommern"
+                },
+                {
+                    "g": "11 01 21"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "395"
+                },
+                {
+                    "f": "5 69 31-506"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "395"
+                },
+                {
+                    "i": "5 69 31-599"
+                },
+                {
+                    "k": "fernleihe@hs-nb.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0111"
+                },
+                {
+                    "e": "GBV"
+                },
+                {
+                    "f": "70"
+                },
+                {
+                    "g": "02"
+                },
+                {
+                    "h": "08"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "HAM"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "GBV"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-519",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-519",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-519",
+    "identifier": "DE-519",
+    "name": "Hochschule Neubrandenburg, Bibliothek",
+    "location": "Neubrandenburg",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "HAM"
+}

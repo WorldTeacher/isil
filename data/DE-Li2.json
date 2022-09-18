@@ -1,0 +1,283 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Li2.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:13-08-19"
+                ],
+                {
+                    "t": "13:49:55.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020595093"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "628003-1"
+                },
+                {
+                    "b": "BK298"
+                },
+                {
+                    "d": "Li 2"
+                },
+                {
+                    "e": "DE-Li2"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "https://bibliothek.bistumlimburg.de/"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://www.dioezesanbibliothek-limburg.de"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Limburg/Lahn Di\u00f6zesanbibl."
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Di\u00f6zesanbibliothek Limburg"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Weilburger Str. 16"
+                },
+                {
+                    "b": "Limburg/Lahn"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "65549"
+                },
+                {
+                    "f": "Hessen"
+                },
+                {
+                    "i": "Di-Do 9.00-12.00 und 13.00-16.00"
+                },
+                {
+                    "k": "8.06841"
+                },
+                {
+                    "l": "50.39363"
+                },
+                {
+                    "n": "06533009"
+                },
+                {
+                    "o": "nicht barrierefrei"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "a": "Ro\u00dfmarkt 4"
+                },
+                {
+                    "b": "Limburg/Lahn"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "65549"
+                },
+                {
+                    "f": "Hessen"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "6431"
+                },
+                {
+                    "f": "2 95-806"
+                },
+                {
+                    "k": "bibliothek@bistumlimburg.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0127"
+                },
+                {
+                    "e": "HBV"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "10"
+                },
+                {
+                    "h": "07"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Theologie"
+                },
+                {
+                    "a": "regionale Kirchengeschichte"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "HES"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "HeBIS"
+                },
+                {
+                    "d": "VThK"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "b"
+                },
+                {
+                    "d": "fernleihe@bistumlimburg.de"
+                }
+            ],
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "fernleihe@bistumlimburg.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "fernleihe@bistumlimburg.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Li2",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Li2",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Li2",
+    "identifier": "DE-Li2",
+    "name": "Di\u00f6zesanbibliothek Limburg",
+    "location": "Limburg/Lahn",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "HES"
+}

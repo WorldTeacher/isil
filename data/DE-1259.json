@@ -1,0 +1,227 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-1259.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:14-10-05"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:05-03-20"
+                ],
+                {
+                    "t": "08:39:18.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:14-10-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "976724987"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "BH642"
+                },
+                {
+                    "d": "1259"
+                },
+                {
+                    "e": "DE-1259"
+                },
+                {
+                    "f": "HMN"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "https://www.hfm-nuernberg.de/de/studium-und-lehre/bibliothek/"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://hfmbib.ads1.fh-nuernberg.de/libero/WebOpac.cls"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "N\u00fcrnberg HS f. Musik"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Hochschule f\u00fcr Musik N\u00fcrnberg, Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Veilhofstr. 34"
+                },
+                {
+                    "b": "N\u00fcrnberg"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "90489"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "i": "Mo-Do 9.30-16.00, Fr 9.30-12.00"
+                },
+                {
+                    "j": "Im August ist die Bibliothek geschlossen"
+                },
+                {
+                    "k": "11.10902"
+                },
+                {
+                    "l": "49.45863"
+                },
+                {
+                    "n": "09564000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "911"
+                },
+                {
+                    "f": "2 15 22-184"
+                },
+                {
+                    "k": "hfm-bibliothek@hfm-nuernberg.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "70"
+                },
+                {
+                    "g": "02"
+                },
+                {
+                    "h": "07"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAY"
+                },
+                {
+                    "c": "BVB"
+                },
+                {
+                    "e": "n"
+                },
+                {
+                    "g": "R"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "hfm-bibliothek@hfm-nuernberg.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "hfm-bibliothek@hfm-nuernberg.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-1259",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-1259",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-1259",
+    "identifier": "DE-1259",
+    "name": "Hochschule f\u00fcr Musik N\u00fcrnberg, Bibliothek",
+    "location": "N\u00fcrnberg",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAY"
+}

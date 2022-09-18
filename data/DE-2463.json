@@ -1,0 +1,218 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-2463.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:19-01-17"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:19-01-17"
+                ],
+                {
+                    "t": "11:17:15.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:19-01-17"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1123742561"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "HZ231"
+                },
+                {
+                    "d": "2463"
+                },
+                {
+                    "e": "DE-2463"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.volkach.de/de/Stadtbibliothek-3877,7489.html"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://webopac.winbiap.de/volkach/index.aspx"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Volkach StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtbibliothek Volkach"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Schelfengasse 1"
+                },
+                {
+                    "b": "Volkach"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "97332"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "i": "Mo und Do 15.00-18.00, Mi 15.00-19.00, Fr 9.00-13.00"
+                },
+                {
+                    "k": "10.22675"
+                },
+                {
+                    "l": "49.86656"
+                },
+                {
+                    "n": "09675174"
+                },
+                {
+                    "o": "nicht barrierefrei"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "9381"
+                },
+                {
+                    "f": "80 95 12"
+                },
+                {
+                    "k": "stadt-bibliothek@volkach.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "06"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAY"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "stadt-bibliothek@volkach.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "stadt-bibliothek@volkach.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-2463",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-2463",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-2463",
+    "identifier": "DE-2463",
+    "name": "Stadtbibliothek Volkach",
+    "location": "Volkach",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAY"
+}

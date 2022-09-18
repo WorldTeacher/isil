@@ -1,0 +1,218 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-223.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:03-06-21"
+                ],
+                {
+                    "t": "15:12:18.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020583265"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "AH223"
+                },
+                {
+                    "d": "223"
+                },
+                {
+                    "e": "DE-223"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.stadtbibliothek.celle.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://katalog-stadtbibliothek.celle.de"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Celle StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtbibliothek Celle"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Arno-Schmidt-Pl. 1"
+                },
+                {
+                    "b": "Celle"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "29221"
+                },
+                {
+                    "f": "Niedersachsen"
+                },
+                {
+                    "i": "Di-Fr 10.00-19.00, Sa 10.00-14.00"
+                },
+                {
+                    "k": "10.07905"
+                },
+                {
+                    "l": "52.62177"
+                },
+                {
+                    "n": "03351006"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "5141"
+                },
+                {
+                    "f": "12 42 00"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "5141"
+                },
+                {
+                    "i": "12 42 98"
+                },
+                {
+                    "k": "stadtbibliothek@celle.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "08"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NIE"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "GBV"
+                },
+                {
+                    "d": "\u00d6VK"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-223",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-223",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-223",
+    "identifier": "DE-223",
+    "name": "Stadtbibliothek Celle",
+    "location": "Celle",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NIE"
+}

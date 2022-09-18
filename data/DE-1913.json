@@ -1,0 +1,286 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-1913.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:26-10-12"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:13-09-21"
+                ],
+                {
+                    "t": "17:52:26.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:26-10-12"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1027231470"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "181913-6"
+                },
+                {
+                    "d": "1913"
+                },
+                {
+                    "e": "DE-1913"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "https://www.ue-germany.com/de/studiere-mit-uns/wichtige-informationen/bibliothek"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://vzlbs3.gbv.de/LNG=DU/DB=25.2/"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "UE-Bibliothek"
+                },
+                {
+                    "4": "a"
+                }
+            ],
+            [
+                {
+                    "a": "BTK, BiTS"
+                },
+                {
+                    "4": "b"
+                }
+            ],
+            [
+                {
+                    "a": "Berlin UE-Bibliothek"
+                },
+                {
+                    "4": "c"
+                }
+            ],
+            [
+                {
+                    "a": "UE Library"
+                },
+                {
+                    "4": "d"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "University of Europe for Applied Sciences GmbH, Campus Berlin, Bibliothek"
+                }
+            ]
+        ],
+        "029R": [
+            [
+                {
+                    "9": "1000292916"
+                },
+                {
+                    "7": "Tw"
+                },
+                {
+                    "a": "University of Europe for Applied Sciences GmbH, Campus Iserlohn, Bibliothek"
+                },
+                {
+                    "e": "DE-1817"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Dessauer Str. 3-5"
+                },
+                {
+                    "b": "Berlin"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "10963"
+                },
+                {
+                    "f": "Berlin"
+                },
+                {
+                    "i": "Mo - Fr 10.00-16.00"
+                },
+                {
+                    "k": "13.37894"
+                },
+                {
+                    "l": "52.50592"
+                },
+                {
+                    "n": "11000000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "30"
+                },
+                {
+                    "f": "33 85 39-556"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "30"
+                },
+                {
+                    "i": "33 85 39-502"
+                },
+                {
+                    "k": "library.berlin@ue-germany.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0302"
+                },
+                {
+                    "f": "70"
+                },
+                {
+                    "g": "08"
+                },
+                {
+                    "h": "05"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Kommunikationsdesign"
+                },
+                {
+                    "a": "Fotografie"
+                },
+                {
+                    "a": "Game Design"
+                },
+                {
+                    "a": "Illustration"
+                },
+                {
+                    "a": "Medienkunst"
+                },
+                {
+                    "a": "Medientheorie"
+                },
+                {
+                    "a": "Bildtheorie"
+                },
+                {
+                    "a": "Psychologie"
+                },
+                {
+                    "a": "Wirtschaftswissenschaften"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BER"
+                },
+                {
+                    "c": "GBV"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-1913",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-1913",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-1913",
+    "identifier": "DE-1913",
+    "name": "University of Europe for Applied Sciences GmbH, Campus Berlin, Bibliothek",
+    "location": "Berlin",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BER"
+}

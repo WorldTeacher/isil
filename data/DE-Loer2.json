@@ -1,0 +1,237 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Loer2.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:18-11-99"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:16-11-20"
+                ],
+                {
+                    "t": "11:09:33.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "00906169X"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "785400-6"
+                },
+                {
+                    "b": "LR795"
+                },
+                {
+                    "d": "L\u00f6r 2"
+                },
+                {
+                    "e": "DE-Loer2"
+                },
+                {
+                    "f": "BALO"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.dhbw-loerrach.de/bibliothek.html?L=0"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://bsz.ibs-bw.de/aDISWeb/app?service=direct/0/Home/%24DirectLink&sp=S127.0.0.1:23182"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "L\u00f6rrach Duale Hs ZentralB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Duale Hochschule Baden-W\u00fcrttemberg L\u00f6rrach, Zentralbibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Hangstr. 46-50"
+                },
+                {
+                    "b": "L\u00f6rrach"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "79539"
+                },
+                {
+                    "f": "Baden-W\u00fcrttemberg"
+                },
+                {
+                    "i": "Mo-Di und Do-Fr 9.00-18.00, Mi 13.00-18.00, Sa 11.00-16.00"
+                },
+                {
+                    "k": "7.67725"
+                },
+                {
+                    "l": "47.61720"
+                },
+                {
+                    "n": "08336050"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "7621"
+                },
+                {
+                    "f": "20 71-160"
+                },
+                {
+                    "k": "bibliothek@dhbw-loerrach.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0031"
+                },
+                {
+                    "d": "SWB"
+                },
+                {
+                    "f": "70"
+                },
+                {
+                    "g": "02"
+                },
+                {
+                    "h": "07"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Wirtschaftswissenschaften"
+                },
+                {
+                    "a": "Informatik"
+                },
+                {
+                    "a": "Elektrotechnik"
+                },
+                {
+                    "a": "Maschinenbau"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "SWB"
+                },
+                {
+                    "e": "k"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Loer2",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Loer2",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Loer2",
+    "identifier": "DE-Loer2",
+    "name": "Duale Hochschule Baden-W\u00fcrttemberg L\u00f6rrach, Zentralbibliothek",
+    "location": "L\u00f6rrach",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAW"
+}

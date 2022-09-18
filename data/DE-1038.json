@@ -1,0 +1,222 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-1038.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:28-11-18"
+                ],
+                {
+                    "t": "16:37:45.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "02058783X"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "GJ716"
+                },
+                {
+                    "d": "1038"
+                },
+                {
+                    "e": "DE-1038"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.wilnsdorf.de/bg_bibliothek.php"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Wilnsdorf StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Bibliothek Wilnsdorf"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Rathausstr. 9"
+                },
+                {
+                    "b": "Wilnsdorf"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "57234"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "i": "Mo-Di und Do-Fr 9.30-12.00 und 14.00-18.00, Sa 9.30-14.00"
+                },
+                {
+                    "k": "8.11022"
+                },
+                {
+                    "l": "50.81721"
+                },
+                {
+                    "n": "05970044"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "2739"
+                },
+                {
+                    "f": "8 02-200"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "2739"
+                },
+                {
+                    "i": "8 02-220"
+                },
+                {
+                    "k": "bibliothek@wilnsdorf.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "06"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "Bibliothek@Wilnsdorf.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "Bibliothek@Wilnsdorf.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-1038",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-1038",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-1038",
+    "identifier": "DE-1038",
+    "name": "Bibliothek Wilnsdorf",
+    "location": "Wilnsdorf",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NRW"
+}

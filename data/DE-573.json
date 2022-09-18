@@ -1,0 +1,269 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-573.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:16-01-01"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:01-09-22"
+                ],
+                {
+                    "t": "15:44:52.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "02123552X"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "883001-0"
+                },
+                {
+                    "b": "DZ233"
+                },
+                {
+                    "d": "573"
+                },
+                {
+                    "e": "DE-573"
+                },
+                {
+                    "f": "FHBIN"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "https://www.thi.de/service/bibliothek/"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://opac.ku-eichstaett.de/"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Technische Hochschule"
+                },
+                {
+                    "4": "a"
+                }
+            ],
+            [
+                {
+                    "a": "Ingolstadt THI"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Hochschulbibliothek Ingolstadt"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Esplanade 10"
+                },
+                {
+                    "b": "Ingolstadt"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "85049"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "i": "f\u00fcr Hochschulangeh\u00f6rige: 24/7"
+                },
+                {
+                    "j": "F\u00fcr Hochschulangeh\u00f6rige 24/7"
+                },
+                {
+                    "k": "11.43172"
+                },
+                {
+                    "l": "48.76685"
+                },
+                {
+                    "n": "09161000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "841"
+                },
+                {
+                    "f": "93 48-3210"
+                },
+                {
+                    "k": "fernleihe@thi.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0095"
+                },
+                {
+                    "d": "BVB"
+                },
+                {
+                    "f": "70"
+                },
+                {
+                    "g": "02"
+                },
+                {
+                    "h": "08"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAY"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "BVB"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "fernleihe@thi.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "fernleihe@thi.de"
+                }
+            ]
+        ],
+        "035O": [
+            [
+                {
+                    "a": "ISIL DE-824"
+                }
+            ],
+            [
+                {
+                    "a": "ISIL DE-824; FZL DE-619"
+                }
+            ]
+        ],
+        "035Q": [
+            [
+                {
+                    "a": "j"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-573",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-573",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-573",
+    "identifier": "DE-573",
+    "name": "Hochschulbibliothek Ingolstadt",
+    "location": "Ingolstadt",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAY"
+}

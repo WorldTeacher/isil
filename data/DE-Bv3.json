@@ -1,0 +1,256 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Bv3.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:19-05-04"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:05-10-18"
+                ],
+                {
+                    "t": "13:56:11.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "026004461"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "288503-7"
+                },
+                {
+                    "b": "BP905"
+                },
+                {
+                    "d": "Bv 3"
+                },
+                {
+                    "e": "DE-Bv3"
+                },
+                {
+                    "f": "BDSB"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "https://www.dsm.museum/forschung/bibliothek/"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://vzopc4.gbv.de/DB=13/"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Bremerhaven DSM WGL"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Deutsches Schifffahrtsmuseum, Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Hans-Scharoun-Pl. 1"
+                },
+                {
+                    "b": "Bremerhaven"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "27568"
+                },
+                {
+                    "f": "Bremen"
+                },
+                {
+                    "i": "Di-Do 9.30-12.30 und 13.00-16.00, Fr 9.30-14.00"
+                },
+                {
+                    "k": "8.57711"
+                },
+                {
+                    "l": "53.54035"
+                },
+                {
+                    "n": "04012000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "471"
+                },
+                {
+                    "f": "4 82 07-22 und 44"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "471"
+                },
+                {
+                    "i": "4 82 07-55"
+                },
+                {
+                    "k": "bibliothek@dsm.museum"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0046"
+                },
+                {
+                    "d": "WGL"
+                },
+                {
+                    "e": "GBV"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "06"
+                },
+                {
+                    "h": "07"
+                },
+                {
+                    "i": "P"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Schifffahrtsgeschichte"
+                },
+                {
+                    "a": "Schiffbau"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "HAM"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "GBV"
+                },
+                {
+                    "d": "WGL; AMB"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035K": [
+            [
+                {
+                    "b": "A"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Bv3",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Bv3",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Bv3",
+    "identifier": "DE-Bv3",
+    "name": "Deutsches Schifffahrtsmuseum, Bibliothek",
+    "location": "Bremerhaven",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "HAM"
+}

@@ -1,0 +1,245 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Bin1.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:18-05-20"
+                ],
+                {
+                    "t": "13:17:27.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:27-05-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020589271"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "658014-2"
+                },
+                {
+                    "b": "AY327"
+                },
+                {
+                    "d": "Bin 1"
+                },
+                {
+                    "e": "DE-Bin1"
+                },
+                {
+                    "f": "THB"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "https://www.th-bingen.de/campus/einrichtungen/bibliothek/th-bibliothek-bingen/"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://opac.ub.uni-mainz.de/DB=11/"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Bingen/Rhein TH"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Technische Hochschule Bingen, Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Berlinstr. 109"
+                },
+                {
+                    "b": "Bingen/Rhein"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "55411"
+                },
+                {
+                    "f": "Rheinland-Pfalz"
+                },
+                {
+                    "i": "Mo-Fr 8.00-16.00"
+                },
+                {
+                    "k": "7.92499"
+                },
+                {
+                    "l": "49.95239"
+                },
+                {
+                    "n": "07339005"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "6721"
+                },
+                {
+                    "f": "4 09-326 (Leitung) und -327 (Orts- u. Fernleihe)"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "6721"
+                },
+                {
+                    "i": "4 09-100 (Zentrale)"
+                },
+                {
+                    "k": "bibliothek@th-bingen.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0049"
+                },
+                {
+                    "e": "HBV"
+                },
+                {
+                    "f": "70"
+                },
+                {
+                    "g": "02"
+                },
+                {
+                    "h": "07"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "HeBIS"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "bibliothek@th-bingen.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "bibliothek@th-bingen.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Bin1",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Bin1",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Bin1",
+    "identifier": "DE-Bin1",
+    "name": "Technische Hochschule Bingen, Bibliothek",
+    "location": "Bingen/Rhein",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NRW"
+}

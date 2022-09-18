@@ -1,0 +1,283 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-1126.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:08-11-01"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:28-11-16"
+                ],
+                {
+                    "t": "11:12:23.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:27-05-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "022782435"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "622000-9"
+                },
+                {
+                    "d": "1126"
+                },
+                {
+                    "e": "DE-1126"
+                },
+                {
+                    "f": "EFF"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.hs-fresenius.de/die-hochschule/standorte-einrichtungen/idstein/bibliothek"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://library.hs-fresenius.de/?BASE=B-TIT"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "HSF"
+                },
+                {
+                    "4": "a"
+                }
+            ],
+            [
+                {
+                    "a": "Idstein HS Fresenius"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Hochschule Fresenius, Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Limburger Str. 2"
+                },
+                {
+                    "b": "Idstein"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "65510"
+                },
+                {
+                    "f": "Hessen"
+                },
+                {
+                    "i": "Mo und Do 9.30-17.00, Di 9.30-19.00, Mi 9.30-16.00, Fr 9.30-18.00"
+                },
+                {
+                    "k": "8.26592"
+                },
+                {
+                    "l": "50.22123"
+                },
+                {
+                    "n": "06439008"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "z": "Neubau/Untergeschoss"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "6126"
+                },
+                {
+                    "f": "93 52-935"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "6126"
+                },
+                {
+                    "i": "93 52-10"
+                },
+                {
+                    "k": "bibliothek@hs-fresenius.de"
+                }
+            ]
+        ],
+        "035D": [
+            [
+                {
+                    "a": "Wi 11"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0101"
+                },
+                {
+                    "f": "70"
+                },
+                {
+                    "g": "08"
+                },
+                {
+                    "h": "06"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Chemie"
+                },
+                {
+                    "a": "\u00d6konomie"
+                },
+                {
+                    "a": "Gesundheit"
+                },
+                {
+                    "a": "Medizin"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "HES"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "HeBIS"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035K": [
+            [
+                {
+                    "b": "A"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "bibliothek@hs-fresenius.de"
+                }
+            ],
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "bibliothek@hs-fresenius.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-1126",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-1126",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-1126",
+    "identifier": "DE-1126",
+    "name": "Hochschule Fresenius, Bibliothek",
+    "location": "Idstein",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "HES"
+}

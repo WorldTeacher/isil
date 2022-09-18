@@ -1,0 +1,228 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-877.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:25-11-16"
+                ],
+                {
+                    "t": "08:09:09.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020586558"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "JN009"
+                },
+                {
+                    "d": "877"
+                },
+                {
+                    "e": "DE-877"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.bibliothek-wasserburg.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://www.wasserburg.de/de/bibliothek/katalog/"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Wasserburg StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Bibliothek Wasserburg/Inn"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Salzburger Str. 17"
+                },
+                {
+                    "b": "Wasserburg/Inn"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "83512"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "i": "Di und Fr 9.00-14.00 und 15.00-19.00, Mi-Do 9.00-14.00 und 15.00-17.00"
+                },
+                {
+                    "k": "12.23109"
+                },
+                {
+                    "l": "48.05433"
+                },
+                {
+                    "n": "09187182"
+                },
+                {
+                    "o": "barrierefrei"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "8071"
+                },
+                {
+                    "f": "9 23 08-0"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "8071"
+                },
+                {
+                    "i": "9 23 08-20"
+                },
+                {
+                    "k": "bibliothek@bibliothek-wasserburg.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "06"
+                },
+                {
+                    "h": "07"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAY"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "BVB"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "fernleihe@bibliothek-wasserburg.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-877",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-877",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-877",
+    "identifier": "DE-877",
+    "name": "Bibliothek Wasserburg/Inn",
+    "location": "Wasserburg/Inn",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAY"
+}

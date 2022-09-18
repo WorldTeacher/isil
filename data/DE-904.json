@@ -1,0 +1,221 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-904.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:28-01-16"
+                ],
+                {
+                    "t": "16:33:37.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020586795"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "KT517"
+                },
+                {
+                    "d": "904"
+                },
+                {
+                    "e": "DE-904"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.medienhaus-am-see.de"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Friedrichshafen StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Medienhaus am See"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Karlstr. 42"
+                },
+                {
+                    "b": "Friedrichshafen"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "88045"
+                },
+                {
+                    "f": "Baden-W\u00fcrttemberg"
+                },
+                {
+                    "i": "Di-Fr 10.00-19.00, Sa 10.00-16.00"
+                },
+                {
+                    "k": "9.48231"
+                },
+                {
+                    "l": "47.65021"
+                },
+                {
+                    "n": "08435016"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "7541"
+                },
+                {
+                    "f": "2 03-3500"
+                },
+                {
+                    "k": "medienhaus@friedrichshafen.de"
+                },
+                {
+                    "l": "Auskunft"
+                }
+            ],
+            [
+                {
+                    "a": "W"
+                },
+                {
+                    "b": "Fernleihe"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "7541"
+                },
+                {
+                    "f": "2 03-3504"
+                },
+                {
+                    "k": "fernleihe@friedrichshafen.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "07"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-904",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-904",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-904",
+    "identifier": "DE-904",
+    "name": "Medienhaus am See",
+    "location": "Friedrichshafen",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAW"
+}

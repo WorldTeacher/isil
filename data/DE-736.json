@@ -1,0 +1,267 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-736.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:18-11-99"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9042:27-01-20"
+                ],
+                {
+                    "t": "16:37:13.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "009024530"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "477100-X"
+                },
+                {
+                    "b": "GM675"
+                },
+                {
+                    "d": "736"
+                },
+                {
+                    "e": "DE-736"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.stadtbibliothek-paderborn.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://www.stadtbibliothek-paderborn.de/Mediensuche.aspx"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Paderborn StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtbibliothek Paderborn"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Am Rothoborn 1"
+                },
+                {
+                    "b": "Paderborn"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "33098"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "i": "Di-Fr 10.30-18.00, Sa 10.30-14.00"
+                },
+                {
+                    "k": "8.75490"
+                },
+                {
+                    "l": "51.71994"
+                },
+                {
+                    "n": "05774032"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "5251"
+                },
+                {
+                    "f": "88-1110 und -1154"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "5251"
+                },
+                {
+                    "i": "88-2042"
+                },
+                {
+                    "k": "stadtbibliothek@paderborn.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0126"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "08"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Informatik"
+                },
+                {
+                    "a": "Kybernetik"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "b"
+                },
+                {
+                    "d": "bibliotheksinfo@paderborn.de"
+                }
+            ],
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "bibliotheksinfo@paderborn.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "bibliotheksinfo@paderborn.de"
+                }
+            ]
+        ],
+        "035O": [
+            [
+                {
+                    "a": "ISIL DE-466; FZL DE-621"
+                },
+                {
+                    "b": "CONTAINER"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-736",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-736",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-736",
+    "identifier": "DE-736",
+    "name": "Stadtbibliothek Paderborn",
+    "location": "Paderborn",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NRW"
+}

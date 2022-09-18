@@ -1,0 +1,218 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-2020.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:29-11-13"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:29-03-16"
+                ],
+                {
+                    "t": "08:32:48.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:29-11-13"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1044803916"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "LE691"
+                },
+                {
+                    "d": "2020"
+                },
+                {
+                    "e": "DE-2020"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.buecherei.gaeufelden.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://www.buecherei.gaeufelden.de/index.php?id=5"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "G\u00e4ufelden StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Ortsb\u00fccherei G\u00e4ufelden"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Sindlinger Str. 28"
+                },
+                {
+                    "b": "G\u00e4ufelden"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "71126"
+                },
+                {
+                    "f": "Baden-W\u00fcrttemberg"
+                },
+                {
+                    "i": "Mo-Di 15.00-19.00, Mi und Fr 10.00-13.00, Do 15.00-20.00, Sa 10.00-14.00"
+                },
+                {
+                    "k": "8.84396"
+                },
+                {
+                    "l": "48.56329"
+                },
+                {
+                    "n": "08115016"
+                },
+                {
+                    "o": "nicht barrierefrei"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "7032"
+                },
+                {
+                    "f": "99 20 90"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "7032"
+                },
+                {
+                    "i": "99 20 92"
+                },
+                {
+                    "k": "buecherei@gaeufelden.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "06"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "SWB"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-2020",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-2020",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-2020",
+    "identifier": "DE-2020",
+    "name": "Ortsb\u00fccherei G\u00e4ufelden",
+    "location": "G\u00e4ufelden",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAW"
+}

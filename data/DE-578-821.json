@@ -1,0 +1,264 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-578-821.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:09-03-05"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:22-02-21"
+                ],
+                {
+                    "t": "15:38:21.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:27-05-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "027198308"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "120821-4"
+                },
+                {
+                    "d": "578/821"
+                },
+                {
+                    "e": "DE-578-821"
+                },
+                {
+                    "f": "MBCB"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://zahnmedizin.charite.de/"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://opac.charite.de"
+                },
+                {
+                    "z": "B"
+                }
+            ],
+            [
+                {
+                    "u": "http://bibliothek.charite.de/die_bibliothek/zweigbibliothek_zahnmedizin/#c54892"
+                },
+                {
+                    "x": "\u00d6ffnungszeiten"
+                },
+                {
+                    "z": "W"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Berlin Charit\u00e9 Med.Bib. ZMK"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Charit\u00e9 - Universit\u00e4tsmedizin Berlin, Campus Benjamin Franklin, Institut f\u00fcr Zahn-, Mund- und Kieferheilkunde, Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Assmannshauserstr. 4-6"
+                },
+                {
+                    "b": "Berlin"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "14197"
+                },
+                {
+                    "f": "Berlin"
+                },
+                {
+                    "k": "13.31303"
+                },
+                {
+                    "l": "52.47700"
+                },
+                {
+                    "n": "11000000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "30"
+                },
+                {
+                    "f": "4 50-576265 und 6255"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "30"
+                },
+                {
+                    "i": "4 50-576382"
+                },
+                {
+                    "k": "medbibzmk@charite.de"
+                }
+            ]
+        ],
+        "035D": [
+            [
+                {
+                    "a": "188/821"
+                }
+            ],
+            [
+                {
+                    "a": "B 430"
+                }
+            ],
+            [
+                {
+                    "a": "B 821"
+                }
+            ],
+            [
+                {
+                    "a": "B 829"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0133"
+                },
+                {
+                    "d": "BVB"
+                },
+                {
+                    "f": "65"
+                },
+                {
+                    "g": "02"
+                },
+                {
+                    "h": "07"
+                },
+                {
+                    "k": "B 821"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Zahnmedizin"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BER"
+                },
+                {
+                    "c": "KOBV"
+                },
+                {
+                    "e": "k"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-578-821",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-578-821",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-578-821",
+    "identifier": "DE-578-821",
+    "name": "Charit\u00e9 - Universit\u00e4tsmedizin Berlin, Campus Benjamin Franklin, Institut f\u00fcr Zahn-, Mund- und Kieferheilkunde, Bibliothek",
+    "location": "Berlin",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BER"
+}

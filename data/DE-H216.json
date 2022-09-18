@@ -1,0 +1,255 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-H216.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:31-10-16"
+                ],
+                {
+                    "t": "12:44:31.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:27-05-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020592175"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "208216-0"
+                },
+                {
+                    "b": "BT236"
+                },
+                {
+                    "d": "H 216"
+                },
+                {
+                    "e": "DE-H216"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.hamburg.de/bsb/bsb-bibliothek/"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Hamburg ZB Beh\u00f6rden"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Zentrale Bibliothek Beh\u00f6rden Hamburger Stra\u00dfe"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Hamburger Str. 41"
+                },
+                {
+                    "b": "Hamburg"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "22083"
+                },
+                {
+                    "f": "Hamburg"
+                },
+                {
+                    "i": "Mo-Fr 10.30-12.30"
+                },
+                {
+                    "j": "und nach Vereinbarung"
+                },
+                {
+                    "k": "10.03076"
+                },
+                {
+                    "l": "53.57312"
+                },
+                {
+                    "n": "02000000"
+                },
+                {
+                    "o": "barrierefrei"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Hamburg"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "22060"
+                },
+                {
+                    "f": "Hamburg"
+                },
+                {
+                    "g": "76 10 48"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "40"
+                },
+                {
+                    "f": "4 28 63-2187 und -2080"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "40"
+                },
+                {
+                    "i": "42 73-11463"
+                },
+                {
+                    "k": "zbi@bsb.hamburg.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0025"
+                },
+                {
+                    "e": "GBV"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "02"
+                },
+                {
+                    "h": "07"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "P\u00e4dagogik"
+                },
+                {
+                    "a": "Sozialpolitik"
+                },
+                {
+                    "a": "Recht"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "HAM"
+                },
+                {
+                    "c": "GBV"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-H216",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-H216",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-H216",
+    "identifier": "DE-H216",
+    "name": "Zentrale Bibliothek Beh\u00f6rden Hamburger Stra\u00dfe",
+    "location": "Hamburg",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "HAM"
+}

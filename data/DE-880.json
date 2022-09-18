@@ -1,0 +1,204 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-880.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:17-02-16"
+                ],
+                {
+                    "t": "13:30:05.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020586582"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "GR693"
+                },
+                {
+                    "d": "880"
+                },
+                {
+                    "e": "DE-880"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.stadtbibliothek.lebach.de"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Lebach StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtbibliothek Lebach"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Am Markt 1"
+                },
+                {
+                    "b": "Lebach"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "66822"
+                },
+                {
+                    "f": "Saarland"
+                },
+                {
+                    "i": "Di-Mi 8.30-12.30 und 14.00-16.00, Do 8.30-13.00 und 14.00-18.00, Fr 8.30-12.00"
+                },
+                {
+                    "k": "6.90868"
+                },
+                {
+                    "l": "49.41178"
+                },
+                {
+                    "n": "10044112"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "6881"
+                },
+                {
+                    "f": "59-220"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "6881"
+                },
+                {
+                    "i": "59-211"
+                },
+                {
+                    "k": "buecherei@lebach.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "06"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-880",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-880",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-880",
+    "identifier": "DE-880",
+    "name": "Stadtbibliothek Lebach",
+    "location": "Lebach",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAW"
+}

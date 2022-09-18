@@ -1,0 +1,268 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Ha95.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:17-02-16"
+                ],
+                {
+                    "t": "14:22:14.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020592353"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "EM251"
+                },
+                {
+                    "d": "Ha 95"
+                },
+                {
+                    "e": "DE-Ha95"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.lau.sachsen-anhalt.de/"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Halle/Saale LA Umweltschutz"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Landesamt f\u00fcr Umweltschutz Sachsen-Anhalt, Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Reideburger Str. 47"
+                },
+                {
+                    "b": "Halle/Saale"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "06116"
+                },
+                {
+                    "f": "Sachsen-Anhalt"
+                },
+                {
+                    "i": "Mo-Do 8.00-16.00, Fr 8.00-13.00"
+                },
+                {
+                    "k": "12.00495"
+                },
+                {
+                    "l": "51.48389"
+                },
+                {
+                    "n": "15002000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Halle/Saale"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "06009"
+                },
+                {
+                    "f": "Sachsen-Anhalt"
+                },
+                {
+                    "g": "20 08 41"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "345"
+                },
+                {
+                    "f": "5 70 41 35"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "345"
+                },
+                {
+                    "i": "57 01 90"
+                },
+                {
+                    "k": "poststelle@lau.mlu.sachsen-anhalt.de"
+                }
+            ]
+        ],
+        "035D": [
+            [
+                {
+                    "a": "Ha 166"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "02"
+                },
+                {
+                    "h": "06"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Wasserwirtschaft"
+                },
+                {
+                    "a": "Abfallwirtschaft"
+                },
+                {
+                    "a": "Bodenschutz"
+                },
+                {
+                    "a": "Immissionsschutz"
+                },
+                {
+                    "a": "Chemikaliensicherheit"
+                },
+                {
+                    "a": "Umweltchemie"
+                },
+                {
+                    "a": "Radiologie"
+                },
+                {
+                    "a": "Strahlenschutz"
+                },
+                {
+                    "a": "Raumplanung"
+                },
+                {
+                    "a": "Naturschutz"
+                },
+                {
+                    "a": "\u00d6kologie"
+                },
+                {
+                    "a": "Umweltschutz"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "SAA"
+                },
+                {
+                    "e": "l"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Ha95",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Ha95",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Ha95",
+    "identifier": "DE-Ha95",
+    "name": "Landesamt f\u00fcr Umweltschutz Sachsen-Anhalt, Bibliothek",
+    "location": "Halle/Saale",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "SAA"
+}

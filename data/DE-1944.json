@@ -1,0 +1,248 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-1944.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:28-05-13"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:06-10-21"
+                ],
+                {
+                    "t": "09:07:40.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:28-05-13"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "103519208X"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "DY010"
+                },
+                {
+                    "d": "1944"
+                },
+                {
+                    "e": "DE-1944"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.kh-mz.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://webopac.kh-mz.de/webopac/index.asp?DB=web_biblio"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Mainz Kath.HS"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Katholische Hochschule Mainz, Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Saarstr. 3"
+                },
+                {
+                    "b": "Mainz"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "55122"
+                },
+                {
+                    "f": "Rheinland-Pfalz"
+                },
+                {
+                    "i": "Mo-Mi und Fr 9.00-16.00, Do 9.00-18.00"
+                },
+                {
+                    "k": "8.25334"
+                },
+                {
+                    "l": "49.99713"
+                },
+                {
+                    "n": "07315000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Mainz"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "55013"
+                },
+                {
+                    "f": "Rheinland-Pfalz"
+                },
+                {
+                    "g": "22 40"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "6131"
+                },
+                {
+                    "f": "28 94 41 90"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "6131"
+                },
+                {
+                    "i": "2 89 44 81 90"
+                },
+                {
+                    "k": "fernleihe.bib@kh-mz.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "70"
+                },
+                {
+                    "g": "10"
+                },
+                {
+                    "h": "07"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Theologie"
+                },
+                {
+                    "a": "Soziale Arbeit"
+                },
+                {
+                    "a": "Pflege"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "HES"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-1944",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-1944",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-1944",
+    "identifier": "DE-1944",
+    "name": "Katholische Hochschule Mainz, Bibliothek",
+    "location": "Mainz",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "HES"
+}

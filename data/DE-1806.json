@@ -1,0 +1,195 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-1806.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:01-09-08"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:28-01-16"
+                ],
+                {
+                    "t": "16:18:00.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:01-09-08"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "990225984"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "SM103"
+                },
+                {
+                    "d": "1806"
+                },
+                {
+                    "e": "DE-1806"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Waal GB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Gemeindeb\u00fccherei Waal"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Schulstr. 4"
+                },
+                {
+                    "b": "Waal"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "86875"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "i": "Do 17.00-20.00"
+                },
+                {
+                    "k": "10.77728"
+                },
+                {
+                    "l": "47.99772"
+                },
+                {
+                    "n": "09777177"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "8246"
+                },
+                {
+                    "f": "5 03"
+                },
+                {
+                    "k": "Buecherei-Waal@gmx.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "04"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAY"
+                },
+                {
+                    "c": "BVB"
+                },
+                {
+                    "e": "n"
+                },
+                {
+                    "g": "R"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "Buecherei-Waal@gmx.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-1806",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-1806",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-1806",
+    "identifier": "DE-1806",
+    "name": "Gemeindeb\u00fccherei Waal",
+    "location": "Waal",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAY"
+}

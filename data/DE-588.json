@@ -1,0 +1,244 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-588.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-11-08"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:02-05-18"
+                ],
+                {
+                    "t": "15:48:39.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:11-11-08"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "991196767"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "d": "588"
+                },
+                {
+                    "e": "DE-588"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.dnb.de/gnd"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://wiki.dnb.de/x/O5FjBQ"
+                },
+                {
+                    "x": "Informationsseite"
+                },
+                {
+                    "z": "W"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "GND"
+                },
+                {
+                    "4": "a"
+                }
+            ],
+            [
+                {
+                    "a": "Frankfurt/Main GND"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Gemeinsame Normdatei"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Adickesallee 1"
+                },
+                {
+                    "b": "Frankfurt/Main"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "60322"
+                },
+                {
+                    "f": "Hessen"
+                },
+                {
+                    "i": "nicht \u00f6ffentlich zug\u00e4nglich"
+                },
+                {
+                    "k": "8.68329"
+                },
+                {
+                    "l": "50.13121"
+                },
+                {
+                    "n": "06412000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "69"
+                },
+                {
+                    "f": "15 25-1461"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "69"
+                },
+                {
+                    "i": "15 25-1010"
+                }
+            ]
+        ],
+        "035D": [
+            [
+                {
+                    "a": "588c"
+                },
+                {
+                    "b": "DE-588a"
+                }
+            ],
+            [
+                {
+                    "a": "588c"
+                },
+                {
+                    "b": "DE-588b"
+                }
+            ],
+            [
+                {
+                    "a": "588c"
+                },
+                {
+                    "b": "DE-588c"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "96"
+                },
+                {
+                    "g": "01"
+                },
+                {
+                    "h": "11"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "WWW"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ],
+        "047A": [
+            [
+                {
+                    "a": "Die Gemeinsame Normdatei (GND) ist eine Normdatei f\u00fcr Personen, K\u00f6rperschaften, Konferenzen, Geografika, Sachschlagw\u00f6rter und Werktitel, die vor allem zur Katalogisierung von Literatur in Bibliotheken dient, zunehmend aber auch von Archiven, Museen, Projekten und in Webanwendungen genutzt wird. Sie wird von der Deutschen Nationalbibliothek, allen deutschsprachigen Bibliotheksverb\u00fcnden mit den angeschlossenen Bibliotheken, der Zeitschriftendatenbank (ZDB) und zahlreichen weiteren Einrichtungen gemeinschaftlich gef\u00fchrt."
+                }
+            ]
+        ]
+    },
+    "_id": "DE-588",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-588",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-588",
+    "identifier": "DE-588",
+    "name": "Gemeinsame Normdatei",
+    "location": "Frankfurt/Main",
+    "type": [
+        "Organization",
+        "Organization"
+    ],
+    "addressRegion": "WWW"
+}

@@ -1,0 +1,180 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-1708.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:14-01-08"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:16-11-20"
+                ],
+                {
+                    "t": "13:16:28.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:14-01-08"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "987135538"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "d": "1708"
+                },
+                {
+                    "e": "DE-1708"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Neuburg/Donau K\u00d6B"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Katholische \u00d6ffentliche B\u00fccherei Neuburg/Donau"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Ingolst\u00e4dter Str. 28"
+                },
+                {
+                    "b": "Neuburg/Donau"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "86633"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "k": "11.17850"
+                },
+                {
+                    "l": "48.72410"
+                },
+                {
+                    "n": "09185149"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "k": "fernleihe@st-michaelsbund.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "10"
+                },
+                {
+                    "h": "05"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAY"
+                },
+                {
+                    "c": "BVB"
+                },
+                {
+                    "e": "n"
+                },
+                {
+                    "g": "R"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "fernleihe@st-michaelsbund.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-1708",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-1708",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-1708",
+    "identifier": "DE-1708",
+    "name": "Katholische \u00d6ffentliche B\u00fccherei Neuburg/Donau",
+    "location": "Neuburg/Donau",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAY"
+}

@@ -1,0 +1,275 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-B1570.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:15-02-06"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:23-10-19"
+                ],
+                {
+                    "t": "14:34:55.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:15-02-06"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "97855003X"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "181570-2"
+                },
+                {
+                    "d": "B 1570"
+                },
+                {
+                    "e": "DE-B1570"
+                },
+                {
+                    "f": "HSG"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.hertie-school.org/library/"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://vzopc4.gbv.de/DB=36/SET=1/TTL=1/LNG=EN/"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Berlin HertieSchool"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Hertie School, Library and Information Services"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Friedrichstr. 180"
+                },
+                {
+                    "b": "Berlin"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "10117"
+                },
+                {
+                    "f": "Berlin"
+                },
+                {
+                    "i": "Mo-Fr 9.00-17.00"
+                },
+                {
+                    "k": "13.38927"
+                },
+                {
+                    "l": "52.51287"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "30"
+                },
+                {
+                    "f": "25 92 19-409"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "30"
+                },
+                {
+                    "i": "25 92 19-111"
+                },
+                {
+                    "k": "library@hertie-school.org"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0111"
+                },
+                {
+                    "e": "GBV"
+                },
+                {
+                    "f": "60"
+                },
+                {
+                    "g": "08"
+                },
+                {
+                    "h": "06"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Public Policy"
+                },
+                {
+                    "a": "Public Management"
+                },
+                {
+                    "a": "Governance"
+                },
+                {
+                    "a": "Political Economy"
+                },
+                {
+                    "a": "Organisation, Management and Leadership"
+                },
+                {
+                    "a": "Labour and Social Policy"
+                },
+                {
+                    "a": "Finance and Public Budgets"
+                },
+                {
+                    "a": "Regulation"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BER"
+                },
+                {
+                    "c": "GBV"
+                },
+                {
+                    "d": "KOBV"
+                },
+                {
+                    "e": "k"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "b"
+                },
+                {
+                    "d": "library@hertie-school.org"
+                }
+            ],
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "library@hertie-school.org"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "library@hertie-school.org"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-B1570",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-B1570",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-B1570",
+    "identifier": "DE-B1570",
+    "name": "Hertie School, Library and Information Services",
+    "location": "Berlin",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BER"
+}

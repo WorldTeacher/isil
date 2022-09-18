@@ -1,0 +1,241 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-407.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:28-11-18"
+                ],
+                {
+                    "t": "16:38:57.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020583915"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "AC407"
+                },
+                {
+                    "d": "407"
+                },
+                {
+                    "e": "DE-407"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.stadtbibliothek-langenfeld.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://www1.langenfeld.de/webopac/index.asp?DB=web_biblio"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Langenfeld StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtbibliothek Langenfeld"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Hauptstr. 131"
+                },
+                {
+                    "b": "Langenfeld/Rheinland"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "40764"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "i": "Di und Fr 9.00-19.00, Mi-Do 14.00-19.00, Sa 10.00-14.00"
+                },
+                {
+                    "k": "6.94984"
+                },
+                {
+                    "l": "51.10888"
+                },
+                {
+                    "n": "05158020"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "2173"
+                },
+                {
+                    "f": "7 94-4242"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "2173"
+                },
+                {
+                    "i": "7 94-94201"
+                },
+                {
+                    "k": "stadtbibliothek@langenfeld.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "07"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "d": "Kalliope"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "b"
+                },
+                {
+                    "d": "fernleihe@langenfeld.de"
+                }
+            ],
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "fernleihe@langenfeld.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "fernleihe@langenfeld.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-407",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-407",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-407",
+    "identifier": "DE-407",
+    "name": "Stadtbibliothek Langenfeld",
+    "location": "Langenfeld/Rheinland",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NRW"
+}

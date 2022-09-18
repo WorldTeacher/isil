@@ -1,0 +1,267 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Ds200.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:18-11-99"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:11-11-16"
+                ],
+                {
+                    "t": "13:38:41.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "009014055"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "618200-8"
+                },
+                {
+                    "b": "DP059"
+                },
+                {
+                    "d": "Ds 200"
+                },
+                {
+                    "e": "DE-Ds200"
+                },
+                {
+                    "f": "GSI"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.gsi.de/start/forschung/wissenschaftlich_technologische_abteilungen/bibliothek_und_dokumentation.htm"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Darmstadt GSI"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "GSI Helmholzzentrum f\u00fcr Schwerionenforschung GmbH, Bibliothek & Dokumentation"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Planckstr. 1"
+                },
+                {
+                    "b": "Darmstadt"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "64291"
+                },
+                {
+                    "f": "Hessen"
+                },
+                {
+                    "i": "Mo-Fr 8.00-16.30"
+                },
+                {
+                    "k": "8.67635"
+                },
+                {
+                    "l": "49.93143"
+                },
+                {
+                    "n": "06411000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Darmstadt"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "64220"
+                },
+                {
+                    "f": "Hessen"
+                },
+                {
+                    "g": "11 05 52"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "6159"
+                },
+                {
+                    "f": "71-2610"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "6159"
+                },
+                {
+                    "i": "71-3049"
+                },
+                {
+                    "k": "gsilibrary@gsi.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0024"
+                },
+                {
+                    "e": "HBV"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "08"
+                },
+                {
+                    "h": "07"
+                },
+                {
+                    "i": "P"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Schwerionenforschung"
+                },
+                {
+                    "a": "Beschleunigerforschung"
+                },
+                {
+                    "a": "Beschleunigerentwicklung"
+                },
+                {
+                    "a": "Kernphysik"
+                },
+                {
+                    "a": "Kernchemie"
+                },
+                {
+                    "a": "Tumortherapie"
+                },
+                {
+                    "a": "Detektorentwicklung"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "HES"
+                },
+                {
+                    "c": "HeBIS"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Ds200",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Ds200",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Ds200",
+    "identifier": "DE-Ds200",
+    "name": "GSI Helmholzzentrum f\u00fcr Schwerionenforschung GmbH, Bibliothek & Dokumentation",
+    "location": "Darmstadt",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "HES"
+}

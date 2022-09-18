@@ -1,0 +1,183 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-1711.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:14-01-08"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:30-04-18"
+                ],
+                {
+                    "t": "16:06:40.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:14-01-08"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "987135376"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "RG526"
+                },
+                {
+                    "d": "1711"
+                },
+                {
+                    "e": "DE-1711"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Ruderatshofen K\u00d6B"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Katholische \u00d6ffentliche B\u00fccherei Ruderatshofen"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Im Tal 3"
+                },
+                {
+                    "b": "Ruderatshofen"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "87674"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "k": "10.59325"
+                },
+                {
+                    "l": "47.83823"
+                },
+                {
+                    "n": "09777167"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "k": "fernleihe@st-michaelsbund.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "10"
+                },
+                {
+                    "h": "05"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAY"
+                },
+                {
+                    "c": "BVB"
+                },
+                {
+                    "e": "n"
+                },
+                {
+                    "g": "R"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "fernleihe@st-michaelsbund.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-1711",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-1711",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-1711",
+    "identifier": "DE-1711",
+    "name": "Katholische \u00d6ffentliche B\u00fccherei Ruderatshofen",
+    "location": "Ruderatshofen",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAY"
+}

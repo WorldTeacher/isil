@@ -1,0 +1,209 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-1830.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:01-06-10"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:18-10-16"
+                ],
+                {
+                    "t": "16:10:53.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:01-06-10"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1003105777"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "GY300"
+                },
+                {
+                    "d": "1830"
+                },
+                {
+                    "e": "DE-1830"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.moessingen.de/ceasy/modules/cms/main.php5?cPageId=26"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://wwwopac.rz-kiru.de/moessingen"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "M\u00f6ssingen StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtb\u00fccherei M\u00f6ssingen"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "L\u00f6wensteinplatz 1"
+                },
+                {
+                    "b": "M\u00f6ssingen"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "72116"
+                },
+                {
+                    "f": "Baden-W\u00fcrttemberg"
+                },
+                {
+                    "i": "Di und Do 12.00-19.00, Mi und Fr 10.00-12.00 und 14.00-17.00, Sa 10.00-13.00"
+                },
+                {
+                    "k": "9.05344"
+                },
+                {
+                    "l": "48.40748"
+                },
+                {
+                    "n": "08416025"
+                },
+                {
+                    "o": "barrierefrei"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "7473"
+                },
+                {
+                    "f": "2 70 14 14"
+                },
+                {
+                    "k": "buecherei@moessingen.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "06"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "SWB"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-1830",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-1830",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-1830",
+    "identifier": "DE-1830",
+    "name": "Stadtb\u00fccherei M\u00f6ssingen",
+    "location": "M\u00f6ssingen",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAW"
+}

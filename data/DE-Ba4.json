@@ -1,0 +1,263 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Ba4.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:16-11-20"
+                ],
+                {
+                    "t": "11:09:14.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:27-05-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020589158"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "HL422"
+                },
+                {
+                    "d": "Ba 4"
+                },
+                {
+                    "e": "DE-Ba4"
+                },
+                {
+                    "f": "THZW"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.hlb-wuppertal.de"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "HLB Wuppertal"
+                },
+                {
+                    "4": "a"
+                }
+            ],
+            [
+                {
+                    "a": "Wuppertal HLB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Hochschul- und Landeskirchenbibliothek Wuppertal"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Missionsstr. 11"
+                },
+                {
+                    "b": "Wuppertal"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "42285"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "i": "siehe Homepage"
+                },
+                {
+                    "k": "7.17095"
+                },
+                {
+                    "l": "51.26496"
+                },
+                {
+                    "n": "05124000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "202"
+                },
+                {
+                    "f": "28 20-125"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "202"
+                },
+                {
+                    "i": "28 20-130"
+                },
+                {
+                    "k": "bibliothek@hlb-wuppertal.de"
+                }
+            ],
+            [
+                {
+                    "a": "W"
+                },
+                {
+                    "b": "Fernleihe"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "202"
+                },
+                {
+                    "f": "28 20-121"
+                },
+                {
+                    "k": "fernleihe@hlb-wuppertal.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "70"
+                },
+                {
+                    "g": "09"
+                },
+                {
+                    "h": "08"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Theologie"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "fernleihe@hlb-wuppertal.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "ffernleihe@hlb-wuppertal.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Ba4",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Ba4",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Ba4",
+    "identifier": "DE-Ba4",
+    "name": "Hochschul- und Landeskirchenbibliothek Wuppertal",
+    "location": "Wuppertal",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NRW"
+}

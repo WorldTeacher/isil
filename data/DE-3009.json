@@ -1,0 +1,194 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-3009.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-05-21"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:18-06-21"
+                ],
+                {
+                    "t": "14:10:53.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:11-05-21"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1233326945"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "WE035"
+                },
+                {
+                    "d": "3009"
+                },
+                {
+                    "e": "DE-3009"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "https://www.borsdorf-sachsen.de/bibliothek/"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://webopac.winbiap.net/borsdorf/index.aspx"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Borsdorf GB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Gemeindebibliothek Borsdorf"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Heinrich-Heine-Str. 33"
+                },
+                {
+                    "b": "Borsdorf"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "04451"
+                },
+                {
+                    "f": "Sachsen"
+                },
+                {
+                    "k": "12.53893"
+                },
+                {
+                    "l": "51.34446"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "34291"
+                },
+                {
+                    "f": "21313"
+                },
+                {
+                    "k": "bibliothek@borsdorf-online.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "SAX"
+                },
+                {
+                    "d": "\u00d6VK"
+                },
+                {
+                    "e": "n"
+                },
+                {
+                    "f": "x"
+                },
+                {
+                    "g": "R"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-3009",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-3009",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-3009",
+    "identifier": "DE-3009",
+    "name": "Gemeindebibliothek Borsdorf",
+    "location": "Borsdorf",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "SAX"
+}

@@ -1,0 +1,228 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Lue12.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:12-11-18"
+                ],
+                {
+                    "t": "13:44:15.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020595204"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "BD338"
+                },
+                {
+                    "d": "L\u00fc 12"
+                },
+                {
+                    "e": "DE-Lue12"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.mh-luebeck.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://katalog.ub.uni-kiel.de/DB=8/LNG=DU/"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "L\u00fcbeck MusikHS"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Musikhochschule L\u00fcbeck, Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Gro\u00dfe Petersgrube 21"
+                },
+                {
+                    "b": "L\u00fcbeck"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "23552"
+                },
+                {
+                    "f": "Schleswig-Holstein"
+                },
+                {
+                    "i": "Mo-Fr 9.30-18.00"
+                },
+                {
+                    "j": "vorlesungsfreie Zeit: Mo-Fr 10.30-12.30 und 13.30-15.30"
+                },
+                {
+                    "k": "10.68206"
+                },
+                {
+                    "l": "53.86494"
+                },
+                {
+                    "n": "01003000"
+                },
+                {
+                    "o": "nicht barrierefrei"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "451"
+                },
+                {
+                    "f": "15 05-130"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "451"
+                },
+                {
+                    "i": "15 05-200"
+                },
+                {
+                    "k": "BIBLIOTHEK@MH-LUEBECK.DE"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "70"
+                },
+                {
+                    "g": "02"
+                },
+                {
+                    "h": "08"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Musikb\u00fccher"
+                },
+                {
+                    "a": "Noten"
+                },
+                {
+                    "a": "Tontr\u00e4ger"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "HAM"
+                },
+                {
+                    "c": "GBV"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Lue12",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Lue12",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Lue12",
+    "identifier": "DE-Lue12",
+    "name": "Musikhochschule L\u00fcbeck, Bibliothek",
+    "location": "L\u00fcbeck",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "HAM"
+}

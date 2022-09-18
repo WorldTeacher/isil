@@ -1,0 +1,222 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-1435.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:16-11-07"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:20-08-18"
+                ],
+                {
+                    "t": "11:07:05.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:16-11-07"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "986424196"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "HQ694"
+                },
+                {
+                    "d": "1435"
+                },
+                {
+                    "e": "DE-1435"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "https://www.buecherei-poing.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://webopac.winbiap.de/poing/index.aspx"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Poing GB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Gemeindeb\u00fccherei Poing"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Rathausstr. 3"
+                },
+                {
+                    "b": "Poing"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "85586"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "i": "Mo-Di und Do 15.00-19.00, Mi 10.00-12.00 und 15.00-20.00, Fr 10.00-15.00"
+                },
+                {
+                    "k": "11.81704"
+                },
+                {
+                    "l": "48.16992"
+                },
+                {
+                    "n": "09175135"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "8121"
+                },
+                {
+                    "f": "9 79 49 40"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "8121"
+                },
+                {
+                    "i": "9 79 49 40"
+                },
+                {
+                    "k": "buecherei@poing.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "06"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAY"
+                },
+                {
+                    "c": "BVB"
+                },
+                {
+                    "e": "n"
+                },
+                {
+                    "g": "R"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "buecherei@poing.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-1435",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-1435",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-1435",
+    "identifier": "DE-1435",
+    "name": "Gemeindeb\u00fccherei Poing",
+    "location": "Poing",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAY"
+}

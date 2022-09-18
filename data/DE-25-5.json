@@ -1,0 +1,232 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-25-5.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:18-11-99"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:22-02-21"
+                ],
+                {
+                    "t": "15:48:11.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "009022147"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "781005-2"
+                },
+                {
+                    "d": "25/5"
+                },
+                {
+                    "e": "DE-25-5"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "https://www.ub.uni-freiburg.de/standorte/fachbibliotheken/register/sigelverzeichnis/?bibid=26"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Freiburg FakBi Forstwiss."
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Bibliothek Forstwissenschaften"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Tennenbacher Str. 4"
+                },
+                {
+                    "b": "Freiburg/Breisgau"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "79106"
+                },
+                {
+                    "f": "Baden-W\u00fcrttemberg"
+                },
+                {
+                    "k": "7.85315"
+                },
+                {
+                    "l": "48.00346"
+                },
+                {
+                    "n": "08311000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "761"
+                },
+                {
+                    "f": "2 03-3617 und 3616"
+                },
+                {
+                    "k": "forstbib@ub.uni-freiburg.de"
+                }
+            ]
+        ],
+        "035D": [
+            [
+                {
+                    "a": "25/56a"
+                },
+                {
+                    "b": "DE-25-56a"
+                }
+            ],
+            [
+                {
+                    "a": "25/58a"
+                },
+                {
+                    "b": "DE-25-58a"
+                }
+            ],
+            [
+                {
+                    "a": "25/59a"
+                },
+                {
+                    "b": "DE-25-59a"
+                }
+            ],
+            [
+                {
+                    "a": "25/62"
+                },
+                {
+                    "b": "DE-25-62"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "c": "0031"
+                },
+                {
+                    "d": "SWB"
+                },
+                {
+                    "f": "65"
+                },
+                {
+                    "g": "02"
+                },
+                {
+                    "h": "06"
+                },
+                {
+                    "k": "Frei 5"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAW"
+                },
+                {
+                    "c": "SWB"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-25-5",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-25-5",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-25-5",
+    "identifier": "DE-25-5",
+    "name": "Bibliothek Forstwissenschaften",
+    "location": "Freiburg/Breisgau",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAW"
+}

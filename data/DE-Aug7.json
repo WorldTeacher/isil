@@ -1,0 +1,249 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Aug7.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:17-01-05"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:27-02-19"
+                ],
+                {
+                    "t": "10:37:40.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:27-05-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "02695883X"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "898007-X"
+                },
+                {
+                    "b": "EY738"
+                },
+                {
+                    "d": "Aug 7"
+                },
+                {
+                    "e": "DE-Aug7"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.lfu.bayern.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://sdvoz2.bib-bvb.de/InfoGuideClient.sdvsis/start.do?Login=wosdv"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "LfU"
+                },
+                {
+                    "4": "a"
+                }
+            ],
+            [
+                {
+                    "a": "Augsburg LA Umwelt"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Bayerisches Landesamt f\u00fcr Umwelt, Bibliothek Augsburg"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "B\u00fcrgermeister-Ulrich-Str. 160"
+                },
+                {
+                    "b": "Augsburg"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "86179"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "k": "10.90257"
+                },
+                {
+                    "l": "48.32722"
+                },
+                {
+                    "n": "09761000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Augsburg"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "86177"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "821"
+                },
+                {
+                    "f": "90 71-5076 oder -5077"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "821"
+                },
+                {
+                    "i": "90 71-5627"
+                },
+                {
+                    "k": "bibliothek@lfu.bayern.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0077"
+                },
+                {
+                    "d": "BVB"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "02"
+                },
+                {
+                    "h": "07"
+                },
+                {
+                    "i": "P"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAY"
+                },
+                {
+                    "c": "BVB"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Aug7",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Aug7",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Aug7",
+    "identifier": "DE-Aug7",
+    "name": "Bayerisches Landesamt f\u00fcr Umwelt, Bibliothek Augsburg",
+    "location": "Augsburg",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAY"
+}

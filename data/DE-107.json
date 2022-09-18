@@ -1,0 +1,269 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-107.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:18-11-99"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:13-11-20"
+                ],
+                {
+                    "t": "15:49:42.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "00901540X"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "670100-0"
+                },
+                {
+                    "b": "RP560"
+                },
+                {
+                    "d": "107"
+                },
+                {
+                    "e": "DE-107"
+                },
+                {
+                    "f": "PLB"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "https://lbz.rlp.de/de/ueber-uns/standorte/pfaelzische-landesbibliothek/"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://kat.lbz-rlp.de/webOPACClient.lbzsis/start.do?Login=wolbzplb"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Speyer Pf\u00e4lzische LB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Landesbibliothekszentrum Rheinland-Pfalz / Pf\u00e4lzische Landesbibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Otto-Mayer-Str. 9"
+                },
+                {
+                    "b": "Speyer"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "67346"
+                },
+                {
+                    "f": "Rheinland-Pfalz"
+                },
+                {
+                    "i": "Mo-Fr 9.00-18.00, Sa 9.00-12.00"
+                },
+                {
+                    "k": "8.41526"
+                },
+                {
+                    "l": "49.31542"
+                },
+                {
+                    "n": "07318000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "6232"
+                },
+                {
+                    "f": "90 06-224"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "6232"
+                },
+                {
+                    "i": "90 06-270"
+                },
+                {
+                    "k": "fernleihe.plb@lbz-rlp.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0062"
+                },
+                {
+                    "d": "HBZ"
+                },
+                {
+                    "f": "21"
+                },
+                {
+                    "g": "02"
+                },
+                {
+                    "h": "09"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "HBZ"
+                },
+                {
+                    "d": "Kalliope"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "b"
+                },
+                {
+                    "d": "fernleihe.plb@lbz-rlp.de"
+                }
+            ],
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "info.plb@lbz-rlp.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "info.plb@lbz-rlp.de"
+                }
+            ]
+        ],
+        "035O": [
+            [
+                {
+                    "a": "FZL DE-621"
+                },
+                {
+                    "b": "CONTAINER"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-107",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-107",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-107",
+    "identifier": "DE-107",
+    "name": "Landesbibliothekszentrum Rheinland-Pfalz / Pf\u00e4lzische Landesbibliothek",
+    "location": "Speyer",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NRW"
+}

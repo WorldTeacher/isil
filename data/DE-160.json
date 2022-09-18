@@ -1,0 +1,248 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-160.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:15-06-20"
+                ],
+                {
+                    "t": "10:12:47.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020583028"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "AF160"
+                },
+                {
+                    "d": "160"
+                },
+                {
+                    "e": "DE-160"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.stadtbuecherei-velbert.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://www.bibnet.de"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Velbert StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtb\u00fccherei Velbert"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Friedrichstr. 115-117"
+                },
+                {
+                    "b": "Velbert"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "42551"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "i": "Mo 14.00-18.00, Di, Do-Fr 10.00-18.00, Sa 10.00-13.00"
+                },
+                {
+                    "k": "7.04991"
+                },
+                {
+                    "l": "51.33671"
+                },
+                {
+                    "n": "05158032"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "z": "Postanschrift gleich Adresse"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "2051"
+                },
+                {
+                    "f": "26-2281"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "2051"
+                },
+                {
+                    "i": "26-2499"
+                },
+                {
+                    "k": "stadtbuecherei@velbert.de"
+                }
+            ]
+        ],
+        "035D": [
+            [
+                {
+                    "a": "391"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "08"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "b"
+                },
+                {
+                    "d": "stadtbuecherei@velbert.de"
+                }
+            ],
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "stadtbuecherei@velbert.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "stadtbuecherei@velbert.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-160",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-160",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-160",
+    "identifier": "DE-160",
+    "name": "Stadtb\u00fccherei Velbert",
+    "location": "Velbert",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NRW"
+}

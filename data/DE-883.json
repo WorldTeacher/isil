@@ -1,0 +1,233 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-883.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:15-11-16"
+                ],
+                {
+                    "t": "17:59:41.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020586612"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "668883-4"
+                },
+                {
+                    "b": "JT263"
+                },
+                {
+                    "d": "883"
+                },
+                {
+                    "e": "DE-883"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.sankt-wendel.de/kultur/bibliothek.html"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://bibliothek.sankt-wendel.de"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "St.Wendel StuKrsB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadt- und Kreisbibliothek St. Wendel"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Wilhelmstr. 11"
+                },
+                {
+                    "b": "Sankt Wendel"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "66606"
+                },
+                {
+                    "f": "Saarland"
+                },
+                {
+                    "h": "Mia-M\u00fcnster-Haus"
+                },
+                {
+                    "i": "Mo 13.00-16.30, Di-Mi und Fr 10.00-16.30, Do 10.00-18.30, Sa 10.00-13.00"
+                },
+                {
+                    "k": "7.16883"
+                },
+                {
+                    "l": "49.46759"
+                },
+                {
+                    "n": "10046117"
+                },
+                {
+                    "o": "Rollstuhlgerecht, Behindertentoilette"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "6851"
+                },
+                {
+                    "f": "8 09-1940"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "6851"
+                },
+                {
+                    "i": "8 09-2498"
+                },
+                {
+                    "k": "bibliothek@sankt-wendel.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0072"
+                },
+                {
+                    "d": "SWB"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "07"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "SWB"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-883",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-883",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-883",
+    "identifier": "DE-883",
+    "name": "Stadt- und Kreisbibliothek St. Wendel",
+    "location": "Sankt Wendel",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAW"
+}

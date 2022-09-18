@@ -1,0 +1,139 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-MUS-145722.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-11-20"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:11-11-20"
+                ],
+                {
+                    "t": "14:44:44.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:11-11-20"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1221224271"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "e": "DE-MUS-145722"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.museen-in-deutschland.de/singleview.php?muges=145722"
+                },
+                {
+                    "x": "Weitere Informationen"
+                },
+                {
+                    "z": "W"
+                }
+            ],
+            [
+                {
+                    "u": "https://www.kulturbesitz.de/museen/saarlandmuseum-moderne-galerie.html"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Saarlandmuseum"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Bismarckstr. 11-15"
+                },
+                {
+                    "b": "Saarbr\u00fccken"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "66111"
+                },
+                {
+                    "f": "Saarland"
+                },
+                {
+                    "k": "6.99964"
+                },
+                {
+                    "l": "49.23014"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "m"
+                },
+                {
+                    "f": "86"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-MUS-145722",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-MUS-145722",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-MUS-145722",
+    "identifier": "DE-MUS-145722",
+    "name": "Saarlandmuseum",
+    "location": "Saarbr\u00fccken",
+    "type": [
+        "Organization",
+        "Museum"
+    ]
+}

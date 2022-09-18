@@ -1,0 +1,272 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-B785.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:18-11-99"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:18-12-19"
+                ],
+                {
+                    "t": "13:22:11.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "009002685"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "180785-7"
+                },
+                {
+                    "b": "CM045"
+                },
+                {
+                    "d": "B 785"
+                },
+                {
+                    "e": "DE-B785"
+                },
+                {
+                    "f": "ABBD"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.parlament-berlin.de/de/Service/Bibliothek"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://opac.parlament-berlin.de:8991/F"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Berlin Abgeordnetenhaus"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Abgeordnetenhaus von Berlin, Bibliothek und Dokumentation"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Niederkirchnerstr. 5"
+                },
+                {
+                    "b": "Berlin"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "10117"
+                },
+                {
+                    "f": "Berlin"
+                },
+                {
+                    "i": "Mo-Do 9.00-16.00, Fr 9.00-15.00"
+                },
+                {
+                    "k": "13.38165"
+                },
+                {
+                    "l": "52.50804"
+                },
+                {
+                    "n": "11000000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Berlin (Mitte)"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "10111"
+                },
+                {
+                    "f": "Berlin"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "30"
+                },
+                {
+                    "f": "23 25-1256"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "30"
+                },
+                {
+                    "i": "23 25-1248"
+                },
+                {
+                    "k": "bibliothek@parlament-berlin.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0102"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "02"
+                },
+                {
+                    "h": "08"
+                },
+                {
+                    "i": "P"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Politik"
+                },
+                {
+                    "a": "Parlamentarismus"
+                },
+                {
+                    "a": "Partei"
+                },
+                {
+                    "a": "Verwaltung"
+                },
+                {
+                    "a": "Verfassung"
+                },
+                {
+                    "a": "\u00d6ffentliches Recht"
+                },
+                {
+                    "a": "Parlamentaria"
+                },
+                {
+                    "a": "Amtsdruckschriften"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BER"
+                },
+                {
+                    "c": "KOBV"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-B785",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-B785",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-B785",
+    "identifier": "DE-B785",
+    "name": "Abgeordnetenhaus von Berlin, Bibliothek und Dokumentation",
+    "location": "Berlin",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BER"
+}

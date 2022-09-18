@@ -1,0 +1,241 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-794.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9042:31-01-20"
+                ],
+                {
+                    "t": "11:29:51.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020585888"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "QF516"
+                },
+                {
+                    "d": "794"
+                },
+                {
+                    "e": "DE-794"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.buecherei-lamberti-ochtrup.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://webopac.bistum-muenster.de/ochtrup/index.asp?DB=OPAC_Ochtrup"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Ochtrup K\u00d6B"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "B\u00fccherei St. Lamberti Ochtrup"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Marktstr. 8"
+                },
+                {
+                    "b": "Ochtrup"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "48607"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "i": "Di 10.00-12.00 und 15.00-19.00, Mi-Fr 10.00-12.00 und 15.00-18.00, Sa 10.00-12.00"
+                },
+                {
+                    "k": "7.18696"
+                },
+                {
+                    "l": "52.20777"
+                },
+                {
+                    "n": "05566068"
+                },
+                {
+                    "o": "barrierefrei"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "2553"
+                },
+                {
+                    "f": "9 82 70"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "2553"
+                },
+                {
+                    "i": "9 82 71"
+                },
+                {
+                    "k": "info@buecherei-lamberti-ochtrup.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "10"
+                },
+                {
+                    "h": "06"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "b"
+                },
+                {
+                    "d": "info@buecherei-lamberti-ochtrup.de"
+                }
+            ],
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "info@buecherei-lamberti-ochtrup.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "info@buecherei-lamberti-ochtrup.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-794",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-794",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-794",
+    "identifier": "DE-794",
+    "name": "B\u00fccherei St. Lamberti Ochtrup",
+    "location": "Ochtrup",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NRW"
+}

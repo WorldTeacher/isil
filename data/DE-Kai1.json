@@ -1,0 +1,294 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Kai1.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:17-03-21"
+                ],
+                {
+                    "t": "13:28:29.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020593732"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "678001-5"
+                },
+                {
+                    "b": "DB717"
+                },
+                {
+                    "d": "Kai 1"
+                },
+                {
+                    "e": "DE-Kai1"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.pfalzbibliothek.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://www.digibib.net/template/search?SID=PUELLA:239175937&LOCATION=Kai1"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Kaiserslautern PfalzB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Pfalzbibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Bismarckstr. 17"
+                },
+                {
+                    "b": "Kaiserslautern"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "67655"
+                },
+                {
+                    "f": "Rheinland-Pfalz"
+                },
+                {
+                    "i": "Mo, Di, Do, Fr: 9 - 16 Uhr; Mi: 9 - 12 Uhr und Sa 10.00-14.00"
+                },
+                {
+                    "k": "7.77494"
+                },
+                {
+                    "l": "49.44387"
+                },
+                {
+                    "n": "07312000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Kaiserslautern"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "67653"
+                },
+                {
+                    "f": "Rheinland-Pfalz"
+                },
+                {
+                    "g": "2860"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "631"
+                },
+                {
+                    "f": "36 47-111"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "631"
+                },
+                {
+                    "i": "36 47-153"
+                },
+                {
+                    "k": "info@pfalzbibliothek.bv-pfalz.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0320"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "05"
+                },
+                {
+                    "h": "07"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Pfalzliteratur"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035K": [
+            [
+                {
+                    "b": "A"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "b"
+                },
+                {
+                    "d": "fernleihe@pfalzbibliothek.bv-pfalz.de"
+                }
+            ],
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "fernleihe@pfalzbibliothek.bv-pfalz.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "fernleihe@pfalzbibliothek.bv-pfalz.de"
+                }
+            ]
+        ],
+        "035O": [
+            [
+                {
+                    "a": "ISIL DE-386; FZL DE-621"
+                },
+                {
+                    "b": "CONTAINER"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Kai1",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Kai1",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Kai1",
+    "identifier": "DE-Kai1",
+    "name": "Pfalzbibliothek",
+    "location": "Kaiserslautern",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NRW"
+}

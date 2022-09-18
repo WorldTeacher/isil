@@ -1,0 +1,261 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-B11k.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "4002:27-01-03"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:18-10-16"
+                ],
+                {
+                    "t": "15:34:33.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "02424855X"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "155172-3"
+                },
+                {
+                    "b": "CN001"
+                },
+                {
+                    "d": "B 11k"
+                },
+                {
+                    "e": "DE-B11k"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.ifskb.de/node/31"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://opac.smb.spk-berlin.de/"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "KK"
+                },
+                {
+                    "4": "a"
+                }
+            ],
+            [
+                {
+                    "a": "Berlin SMB Kupferstichkabinett"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Staatliche Museen zu Berlin, Preu\u00dfischer Kulturbesitz, Kupferstichkabinett - Sammlung der Zeichnungen und Druckgraphik, Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Matth\u00e4ikirchplatz 8"
+                },
+                {
+                    "b": "Berlin"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "10785"
+                },
+                {
+                    "f": "Berlin"
+                },
+                {
+                    "i": "Di-Fr 9.00-16.00"
+                },
+                {
+                    "j": "nach Voranmeldung"
+                },
+                {
+                    "k": "13.36664"
+                },
+                {
+                    "l": "52.50817"
+                },
+                {
+                    "n": "11000000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "30"
+                },
+                {
+                    "f": "2 66-424240"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "30"
+                },
+                {
+                    "i": "20 90-6002"
+                },
+                {
+                    "k": "auskunft.kb@smb.spk-berlin.de"
+                }
+            ]
+        ],
+        "035D": [
+            [
+                {
+                    "a": "B 172a"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0113"
+                },
+                {
+                    "e": "GBV"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "07"
+                },
+                {
+                    "h": "06"
+                },
+                {
+                    "i": "P"
+                },
+                {
+                    "k": "B 172a"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Zeichenkunst"
+                },
+                {
+                    "a": "Graphik"
+                },
+                {
+                    "a": "Buchmalerei"
+                },
+                {
+                    "a": "Inkunabeln"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BER"
+                },
+                {
+                    "c": "GBV"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-B11k",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-B11k",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-B11k",
+    "identifier": "DE-B11k",
+    "name": "Staatliche Museen zu Berlin, Preu\u00dfischer Kulturbesitz, Kupferstichkabinett - Sammlung der Zeichnungen und Druckgraphik, Bibliothek",
+    "location": "Berlin",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BER"
+}

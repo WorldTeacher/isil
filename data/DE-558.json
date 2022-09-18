@@ -1,0 +1,221 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-558.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:07-11-16"
+                ],
+                {
+                    "t": "17:03:11.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020585055"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "AJ033"
+                },
+                {
+                    "d": "558"
+                },
+                {
+                    "e": "DE-558"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.stadtbibliothek-schwerin.de"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Schwerin StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtbibliothek Schwerin"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Kl\u00f6resgang 3"
+                },
+                {
+                    "b": "Schwerin"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "19053"
+                },
+                {
+                    "f": "Mecklenburg-Vorpommern"
+                },
+                {
+                    "i": "Mo-Mi und Fr 10.00-18.00, Do 14.00-19.00, Sa 9.00-13.00"
+                },
+                {
+                    "k": "11.40946"
+                },
+                {
+                    "l": "53.62949"
+                },
+                {
+                    "n": "13004000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Schwerin"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "19006"
+                },
+                {
+                    "f": "Mecklenburg-Vorpommern"
+                },
+                {
+                    "g": "11 06 32"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "385"
+                },
+                {
+                    "f": "5 90 19-11 und -21"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "385"
+                },
+                {
+                    "i": "59019-33"
+                },
+                {
+                    "k": "stadtbibliothek@schwerin.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "08"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "HAM"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-558",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-558",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-558",
+    "identifier": "DE-558",
+    "name": "Stadtbibliothek Schwerin",
+    "location": "Schwerin",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "HAM"
+}

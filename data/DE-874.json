@@ -1,0 +1,229 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-874.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:12-03-21"
+                ],
+                {
+                    "t": "15:25:15.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020586523"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "KU492"
+                },
+                {
+                    "d": "874"
+                },
+                {
+                    "e": "DE-874"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.su-ro.city/freizeit-und-gaeste/kultur/stadtbibliothek/"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://opac.stb-sulzbach-rosenberg.de"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Sulzbach-Rosenberg StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtbibliothek Sulzbach-Rosenberg"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Im Schloss 2"
+                },
+                {
+                    "b": "Sulzbach-Rosenberg"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "92237"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "i": "Mo-Di und Fr 10.00-17.00, Do 10.00-19.00"
+                },
+                {
+                    "k": "11.73511"
+                },
+                {
+                    "l": "49.50636"
+                },
+                {
+                    "n": "09371151"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "9661"
+                },
+                {
+                    "f": "510270"
+                },
+                {
+                    "k": "stadtbibliothek@sulzbach-rosenberg.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "07"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Sachb\u00fccher, Romane, Zeitschriften f\u00fcr Erwachsene"
+                },
+                {
+                    "a": "Lesef\u00f6rderung f\u00fcr Kinder und Jugendliche, Jugendbibliothek, Klassens\u00e4tze"
+                },
+                {
+                    "a": "Onleihe: ebooks, H\u00f6rb\u00fccher"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAY"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "BVB"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "stadtbibliothek@sulzbach-rosenberg.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-874",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-874",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-874",
+    "identifier": "DE-874",
+    "name": "Stadtbibliothek Sulzbach-Rosenberg",
+    "location": "Sulzbach-Rosenberg",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAY"
+}

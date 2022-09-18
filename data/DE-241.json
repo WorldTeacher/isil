@@ -1,0 +1,217 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-241.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:02-05-18"
+                ],
+                {
+                    "t": "14:03:03.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020583370"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "AA241"
+                },
+                {
+                    "d": "241"
+                },
+                {
+                    "e": "DE-241"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.buecherei-kulmbach.de"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Kulmbach StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "B\u00fccherei am Stadtpark"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Pestalozzistr. 10"
+                },
+                {
+                    "b": "Kulmbach"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "95326"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "i": "Mo 14.00-19.30, Di und Do 10.00-17.00, Mi 9:30-14.00, Fr 10.00-14.00"
+                },
+                {
+                    "k": "11.44962"
+                },
+                {
+                    "l": "50.10638"
+                },
+                {
+                    "n": "09477128"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "9221"
+                },
+                {
+                    "f": "95 66-0 und -12 (Fernleihe)"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "9221"
+                },
+                {
+                    "i": "95 66-13"
+                },
+                {
+                    "k": "info@buecherei-kulmbach.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "07"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAY"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "BVB"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "info@buecherei-kulmbach.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-241",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-241",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-241",
+    "identifier": "DE-241",
+    "name": "B\u00fccherei am Stadtpark",
+    "location": "Kulmbach",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAY"
+}

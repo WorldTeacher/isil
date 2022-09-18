@@ -1,0 +1,245 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/AT-UBMW.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:29-11-04"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:26-01-21"
+                ],
+                {
+                    "t": "14:56:05.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "026770814"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "030025-1"
+                },
+                {
+                    "c": "15.339.0000-0"
+                },
+                {
+                    "d": "AT-UBMW"
+                },
+                {
+                    "e": "AT-UBMW"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "https://bibliothek.mdw.ac.at"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://dacapo.mdw.ac.at"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Wien Univ. Musik Kunst"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Universit\u00e4t f\u00fcr Musik und darstellende Kunst Wien, Universit\u00e4tsbibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Anton-von-Webern-Platz 1"
+                },
+                {
+                    "b": "Wien"
+                },
+                {
+                    "d": "AT"
+                },
+                {
+                    "e": "A-1030"
+                },
+                {
+                    "f": "\u00d6sterreich"
+                },
+                {
+                    "i": "Mo-Do 8.00-19.00 und Fr 8.00-16.00"
+                },
+                {
+                    "j": "siehe auch https://bibliothek.mdw.ac.at/oeffnungszeiten/"
+                },
+                {
+                    "k": "16.38516"
+                },
+                {
+                    "l": "48.20246"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "43"
+                },
+                {
+                    "e": "1"
+                },
+                {
+                    "f": "7 11 55-8100, 8110 bis 8119"
+                },
+                {
+                    "g": "43"
+                },
+                {
+                    "h": "1"
+                },
+                {
+                    "i": "7 11 55-8199"
+                },
+                {
+                    "k": "infobib@mdw.ac.at"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "c": "0157"
+                },
+                {
+                    "e": "\u00d6BV"
+                },
+                {
+                    "f": "60"
+                },
+                {
+                    "h": "08"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "WEU"
+                },
+                {
+                    "c": "\u00d6BV"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "infobib@mdw.ac.at"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "infobib@mdw.ac.at"
+                }
+            ],
+            [
+                {
+                    "a": "c"
+                },
+                {
+                    "d": "infobib@mdw.ac.at"
+                }
+            ]
+        ],
+        "047A": [
+            [
+                {
+                    "a": "Allgemein (\u00f6ffentlich) zug\u00e4nglich"
+                }
+            ]
+        ]
+    },
+    "_id": "AT-UBMW",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/AT-UBMW",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/AT-UBMW",
+    "identifier": "AT-UBMW",
+    "name": "Universit\u00e4t f\u00fcr Musik und darstellende Kunst Wien, Universit\u00e4tsbibliothek",
+    "location": "Wien",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "WEU"
+}

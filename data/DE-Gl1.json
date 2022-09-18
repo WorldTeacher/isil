@@ -1,0 +1,283 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Gl1.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:18-11-99"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:09-12-21"
+                ],
+                {
+                    "t": "14:22:15.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:27-05-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "009030816"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "958024-4"
+                },
+                {
+                    "b": "EK606"
+                },
+                {
+                    "d": "Gl 1"
+                },
+                {
+                    "e": "DE-Gl1"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "https://museumgoerlitz.senckenberg.de/de/bibliothek/"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "G\u00f6rlitz SMNG WGL"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Senckenberg Museum f\u00fcr Naturkunde G\u00f6rlitz, Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Am Museum 2"
+                },
+                {
+                    "b": "G\u00f6rlitz"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "02826"
+                },
+                {
+                    "f": "Sachsen"
+                },
+                {
+                    "i": "Di und Do 9.00-17.00"
+                },
+                {
+                    "k": "14.98689"
+                },
+                {
+                    "l": "51.15189"
+                },
+                {
+                    "n": "14626110"
+                },
+                {
+                    "o": "barrierefrei"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "G\u00f6rlitz"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "02806"
+                },
+                {
+                    "f": "Sachsen"
+                },
+                {
+                    "g": "30 01 54"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "3581"
+                },
+                {
+                    "f": "47 60-5260"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "3581"
+                },
+                {
+                    "i": "47 60- 5269"
+                },
+                {
+                    "k": "library-gr@senckenberg.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0178"
+                },
+                {
+                    "d": "WGL"
+                },
+                {
+                    "e": "HBV"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "07"
+                },
+                {
+                    "h": "08"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Naturwissenschaften"
+                },
+                {
+                    "a": "Zoologie"
+                },
+                {
+                    "a": "Bodenzoologie"
+                },
+                {
+                    "a": "Botanik"
+                },
+                {
+                    "a": "Geologie"
+                },
+                {
+                    "a": "Naturschutz"
+                },
+                {
+                    "a": "Umweltschutz"
+                },
+                {
+                    "a": "\u00d6kologie"
+                },
+                {
+                    "a": "Regionalliteratur"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "SAX"
+                },
+                {
+                    "c": "HeBIS"
+                },
+                {
+                    "d": "WGL"
+                },
+                {
+                    "e": "k"
+                }
+            ]
+        ],
+        "035J": [
+            [
+                {
+                    "a": "Leihverkehr erfolgt \u00fcber <167>"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Gl1",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Gl1",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Gl1",
+    "identifier": "DE-Gl1",
+    "name": "Senckenberg Museum f\u00fcr Naturkunde G\u00f6rlitz, Bibliothek",
+    "location": "G\u00f6rlitz",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "SAX"
+}

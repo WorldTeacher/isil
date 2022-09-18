@@ -1,0 +1,207 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-1221.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:12-07-04"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:03-06-21"
+                ],
+                {
+                    "t": "15:11:40.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "026194457"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "WL840"
+                },
+                {
+                    "d": "1221"
+                },
+                {
+                    "e": "DE-1221"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.ronneburg.de/?bibliothek,68"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Ronneburg StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtbibliothek Ronneburg"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "August-Bebel-Str. 4"
+                },
+                {
+                    "b": "Ronneburg"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "07580"
+                },
+                {
+                    "f": "Th\u00fcringen"
+                },
+                {
+                    "i": "Di und Do 10.00-12.00 und 14.00-18.00, Fr 9.00-12.00"
+                },
+                {
+                    "k": "12.18071"
+                },
+                {
+                    "l": "50.86403"
+                },
+                {
+                    "n": "16076061"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "36602"
+                },
+                {
+                    "f": "2 30 44"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "36602"
+                },
+                {
+                    "i": "5 36-100"
+                },
+                {
+                    "k": "bibliothek@ronneburg.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "05"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "THU"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "GBV"
+                },
+                {
+                    "d": "\u00d6VK"
+                },
+                {
+                    "e": "l"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-1221",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-1221",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-1221",
+    "identifier": "DE-1221",
+    "name": "Stadtbibliothek Ronneburg",
+    "location": "Ronneburg",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "THU"
+}

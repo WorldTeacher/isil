@@ -1,0 +1,227 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-511.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:28-01-16"
+                ],
+                {
+                    "t": "16:28:33.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020584644"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "AC511"
+                },
+                {
+                    "d": "511"
+                },
+                {
+                    "e": "DE-511"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.bibliothek.stadt-kw.de/"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "K\u00f6nigs Wusterhsn StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtbibliothek K\u00f6nigs Wusterhausen"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Scheederstr. 1 c"
+                },
+                {
+                    "b": "K\u00f6nigs Wusterhausen"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "15711"
+                },
+                {
+                    "f": "Brandenburg"
+                },
+                {
+                    "i": "Mo und Fr 10.00-16.00, Di und Do 10.00-19.00"
+                },
+                {
+                    "k": "13.62392"
+                },
+                {
+                    "l": "52.29772"
+                },
+                {
+                    "n": "12061260"
+                },
+                {
+                    "o": "barrierefrei"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "3375"
+                },
+                {
+                    "f": "25 60-0"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "3375"
+                },
+                {
+                    "i": "25 60-15"
+                },
+                {
+                    "k": "info@bibliothek.stadt-kw.de"
+                }
+            ],
+            [
+                {
+                    "a": "W"
+                },
+                {
+                    "b": "Fernleihe"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "k": "fernleihe@bibliothek.stadt-kw.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "06"
+                },
+                {
+                    "h": "07"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BER"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "KOBV"
+                },
+                {
+                    "d": "VOEB"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-511",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-511",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-511",
+    "identifier": "DE-511",
+    "name": "Stadtbibliothek K\u00f6nigs Wusterhausen",
+    "location": "K\u00f6nigs Wusterhausen",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BER"
+}

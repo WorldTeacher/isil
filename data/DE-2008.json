@@ -1,0 +1,223 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-2008.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:21-11-13"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:13-01-15"
+                ],
+                {
+                    "t": "17:03:56.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:21-11-13"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1044435038"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "KR910"
+                },
+                {
+                    "d": "2008"
+                },
+                {
+                    "e": "DE-2008"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.stadtbuecherei-weilheim-teck.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://217.7.135.254/webopac/index.asp?DB=web_biblio"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Stadtb\u00fccherei im Kapuzinerhaus"
+                },
+                {
+                    "4": "a"
+                }
+            ],
+            [
+                {
+                    "a": "Weilheim/Teck StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtb\u00fccherei Weilheim a.d.T."
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Im Winkel 4"
+                },
+                {
+                    "b": "Weilheim/Teck"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "73235"
+                },
+                {
+                    "f": "Baden-W\u00fcrttemberg"
+                },
+                {
+                    "i": "Di, Do-Fr 14.30-18.30, Mi 10.00-12.00 und 14.30-18.30, Sa 10.00-12.00"
+                },
+                {
+                    "k": "9.53883"
+                },
+                {
+                    "l": "48.61529"
+                },
+                {
+                    "n": "08116070"
+                },
+                {
+                    "o": "barrierefrei"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "7023"
+                },
+                {
+                    "f": "10 62 22"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "7023"
+                },
+                {
+                    "i": "10 62 21"
+                },
+                {
+                    "k": "stadtbuecherei@weilheim-teck.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "06"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-2008",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-2008",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-2008",
+    "identifier": "DE-2008",
+    "name": "Stadtb\u00fccherei Weilheim a.d.T.",
+    "location": "Weilheim/Teck",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAW"
+}

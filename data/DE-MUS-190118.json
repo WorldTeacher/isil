@@ -1,0 +1,131 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-MUS-190118.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:06-01-12"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:12-10-20"
+                ],
+                {
+                    "t": "10:04:01.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:06-01-12"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1018564128"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "e": "DE-MUS-190118"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.museen-in-deutschland.de/singleview.php?muges=190118"
+                },
+                {
+                    "x": "Weitere Informationen"
+                },
+                {
+                    "z": "W"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Heimatmuseum Lichtenfels"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Schloss-Banz-Stra\u00dfe 84"
+                },
+                {
+                    "b": "Lichtenfels/Oberfranken"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "96215"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "k": "11.04125"
+                },
+                {
+                    "l": "50.14744"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "m"
+                },
+                {
+                    "f": "86"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-MUS-190118",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-MUS-190118",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-MUS-190118",
+    "identifier": "DE-MUS-190118",
+    "name": "Heimatmuseum Lichtenfels",
+    "location": "Lichtenfels/Oberfranken",
+    "type": [
+        "Organization",
+        "Museum"
+    ]
+}

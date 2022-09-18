@@ -1,0 +1,188 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-1910.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:02-10-12"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:18-06-21"
+                ],
+                {
+                    "t": "14:11:04.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:02-10-12"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1026473144"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "WD213"
+                },
+                {
+                    "d": "1910"
+                },
+                {
+                    "e": "DE-1910"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Bad D\u00fcrrenberg StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtbibliothek Bad D\u00fcrrenberg"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Hauptstra\u00dfe 27"
+                },
+                {
+                    "b": "Bad D\u00fcrrenberg"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "06231"
+                },
+                {
+                    "f": "Sachsen-Anhalt"
+                },
+                {
+                    "i": "Mo und Fr 9.00-12.00, Di und Do 13.00-18.00"
+                },
+                {
+                    "k": "12.06352"
+                },
+                {
+                    "l": "51.29596"
+                },
+                {
+                    "n": "15088020"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "3462"
+                },
+                {
+                    "f": "9 98 70 44"
+                },
+                {
+                    "k": "stadtbibliothek@badduerrenberg.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "06"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "SAA"
+                },
+                {
+                    "c": "GBV"
+                },
+                {
+                    "d": "\u00d6VK"
+                },
+                {
+                    "e": "n"
+                },
+                {
+                    "g": "R"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-1910",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-1910",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-1910",
+    "identifier": "DE-1910",
+    "name": "Stadtbibliothek Bad D\u00fcrrenberg",
+    "location": "Bad D\u00fcrrenberg",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "SAA"
+}

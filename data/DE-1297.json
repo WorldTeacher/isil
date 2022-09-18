@@ -1,0 +1,216 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-1297.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:05-06-07"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:15-10-20"
+                ],
+                {
+                    "t": "08:43:31.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:05-06-07"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "984510427"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "GN266"
+                },
+                {
+                    "d": "1297"
+                },
+                {
+                    "e": "DE-1297"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.gauting.de/buecherei"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://biblio.gauting.de/wwwopac/"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Gauting GB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Gemeindeb\u00fccherei Gauting"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Bahnhofstr. 7"
+                },
+                {
+                    "b": "Gauting"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "82131"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "i": "Di-Do 10.00-13.00 und 15.00-19.00, Fr 12.00-16.00, Sa 10.00-13.00"
+                },
+                {
+                    "k": "11.37916"
+                },
+                {
+                    "l": "48.06697"
+                },
+                {
+                    "n": "09188120"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "89"
+                },
+                {
+                    "f": "8 93 37-132"
+                },
+                {
+                    "k": "post.bibliothek@gauting.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "06"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAY"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "BVB"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "post.bibliothek@gauting.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-1297",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-1297",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-1297",
+    "identifier": "DE-1297",
+    "name": "Gemeindeb\u00fccherei Gauting",
+    "location": "Gauting",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAY"
+}

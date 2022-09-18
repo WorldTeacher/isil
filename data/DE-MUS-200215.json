@@ -1,0 +1,131 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-MUS-200215.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:06-01-12"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:12-10-20"
+                ],
+                {
+                    "t": "09:57:26.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:06-01-12"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "101856490X"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "e": "DE-MUS-200215"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.museen-in-deutschland.de/singleview.php?muges=200215"
+                },
+                {
+                    "x": "Weitere Informationen"
+                },
+                {
+                    "z": "W"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Heimatmuseum Heimatmuseum"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Am Rathaus 5"
+                },
+                {
+                    "b": "Waldthurn"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "92727"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "k": "12.33168"
+                },
+                {
+                    "l": "49.67268"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "m"
+                },
+                {
+                    "f": "86"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-MUS-200215",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-MUS-200215",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-MUS-200215",
+    "identifier": "DE-MUS-200215",
+    "name": "Heimatmuseum Heimatmuseum",
+    "location": "Waldthurn",
+    "type": [
+        "Organization",
+        "Museum"
+    ]
+}

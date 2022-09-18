@@ -1,0 +1,241 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-1888.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:04-04-12"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:28-11-18"
+                ],
+                {
+                    "t": "16:29:47.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:04-04-12"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1021395420"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "KN325"
+                },
+                {
+                    "d": "1888"
+                },
+                {
+                    "e": "DE-1888"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.stadt-werther.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://www.bibliotheken-in-owl.de/webopac/index.asp?DB=werther"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Werther/Westf. StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtbibliothek Werther (Westf.)"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Schlossstr. 36"
+                },
+                {
+                    "b": "Werther/Westfalen"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "33824"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "h": "HAUS WERTHER"
+                },
+                {
+                    "i": "Di, Do-Fr 10.00-12.00 und 15.00-18.00, Mi 15.00-20.00"
+                },
+                {
+                    "k": "8.42289"
+                },
+                {
+                    "l": "52.07521"
+                },
+                {
+                    "n": "05754052"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "5203"
+                },
+                {
+                    "f": "88 45 01"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "5203"
+                },
+                {
+                    "i": "88 10 24"
+                },
+                {
+                    "k": "stadtbibliothek@stadt-werther.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "06"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "e": "k"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "b"
+                },
+                {
+                    "d": "stadtbibliothek@stadt-werther.de"
+                }
+            ],
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "stadtbibliothek@stadt-werther.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "stadtbibliothek@stadt-werther.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-1888",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-1888",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-1888",
+    "identifier": "DE-1888",
+    "name": "Stadtbibliothek Werther (Westf.)",
+    "location": "Werther/Westfalen",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NRW"
+}

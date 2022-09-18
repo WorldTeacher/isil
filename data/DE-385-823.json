@@ -1,0 +1,277 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-385-823.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:24-08-16"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:13-03-19"
+                ],
+                {
+                    "t": "15:03:14.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:24-08-16"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1112233490"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "551823-4"
+                },
+                {
+                    "d": "385/823"
+                },
+                {
+                    "e": "DE-385-823"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://iutr.de/"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://TRiCAT.uni-trier.de"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "IRDT, Bibliothek"
+                },
+                {
+                    "4": "b"
+                }
+            ],
+            [
+                {
+                    "a": "Trier IRDT"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Institut f\u00fcr Recht und Digitalisierung Trier (IRDT), Bibliothek"
+                }
+            ]
+        ],
+        "029R": [
+            [
+                {
+                    "9": "009013644"
+                },
+                {
+                    "7": "Tw"
+                },
+                {
+                    "a": "Universit\u00e4tsbibliothek Trier"
+                },
+                {
+                    "e": "DE-385"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Behringstr. 21"
+                },
+                {
+                    "b": "Trier"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "54296"
+                },
+                {
+                    "f": "Rheinland-Pfalz"
+                },
+                {
+                    "h": "Campus II, Geb\u00e4ude H"
+                },
+                {
+                    "i": "Mo-Di und Do-Fr 8.00-13.00"
+                },
+                {
+                    "k": "6.67551"
+                },
+                {
+                    "l": "49.74759"
+                },
+                {
+                    "n": "07211000"
+                },
+                {
+                    "o": "barrierefrei"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "651"
+                },
+                {
+                    "f": "2 01-4704"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "651"
+                },
+                {
+                    "i": "2 01-4710"
+                },
+                {
+                    "k": "iutr@uni-trier.de"
+                }
+            ],
+            [
+                {
+                    "a": "W"
+                },
+                {
+                    "b": "Weiterer Kontakt"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "651"
+                },
+                {
+                    "f": "201-4700"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "651"
+                },
+                {
+                    "i": "201-4710"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0078"
+                },
+                {
+                    "d": "HBZ"
+                },
+                {
+                    "f": "65"
+                },
+                {
+                    "g": "02"
+                },
+                {
+                    "h": "06"
+                },
+                {
+                    "i": "P"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "c": "HBZ"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-385-823",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-385-823",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-385-823",
+    "identifier": "DE-385-823",
+    "name": "Institut f\u00fcr Recht und Digitalisierung Trier (IRDT), Bibliothek",
+    "location": "Trier",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NRW"
+}

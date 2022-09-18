@@ -1,0 +1,206 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-612.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:15-02-08"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:05-04-18"
+                ],
+                {
+                    "t": "13:47:23.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:15-02-08"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "987568507"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "d": "612"
+                },
+                {
+                    "e": "DE-612"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.kubikat.org"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://www.kubikat.org"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Bibliotheksverbund Kunsthistorisches Institut in Florenz, Max-Planck-Institut / Zentralinstitut f\u00fcr Kunstgeschichte, M\u00fcnchen / Deutsches Forum f\u00fcr Kunstgeschichte, Paris / Bibliotheca Hertziana, Max-Planck-Institut f\u00fcr Kunstgeschichte, Rom"
+                },
+                {
+                    "4": "a"
+                }
+            ],
+            [
+                {
+                    "a": "M\u00fcnchen KuBiFV"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Kunstbibliotheken-Fachverbund Florenz-M\u00fcnchen-Paris-Rom"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "c/o Bibliothek des Zentralinstituts f\u00fcr Kunstgeschichte, Katharina-von-Bora-Str. 10"
+                },
+                {
+                    "b": "M\u00fcnchen"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "80333"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "k": "11.56645"
+                },
+                {
+                    "l": "48.14463"
+                },
+                {
+                    "n": "09162000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "z": "Kontaktadresse"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "k": "bibliotheksleitung@zikg.eu"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "96"
+                },
+                {
+                    "g": "06"
+                },
+                {
+                    "h": "11"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAY"
+                },
+                {
+                    "c": "BVB"
+                },
+                {
+                    "d": "KuBiFV"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ],
+        "047A": [
+            [
+                {
+                    "a": "Dezentral organisierter Fachverbund ohne eigentliche Verbundzentrale"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-612",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-612",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-612",
+    "identifier": "DE-612",
+    "name": "Kunstbibliotheken-Fachverbund Florenz-M\u00fcnchen-Paris-Rom",
+    "location": "M\u00fcnchen",
+    "type": [
+        "Organization",
+        "Organization"
+    ],
+    "addressRegion": "BAY"
+}

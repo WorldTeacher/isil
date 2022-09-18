@@ -1,0 +1,230 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-387.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:28-11-18"
+                ],
+                {
+                    "t": "16:39:03.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020583826"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "AH387"
+                },
+                {
+                    "d": "387"
+                },
+                {
+                    "e": "DE-387"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.stadtbuecherei.org"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://webopac.citkomm.de/altena/search.aspx"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Altena StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtb\u00fccherei Altena"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Marktstr. 14/16"
+                },
+                {
+                    "b": "Altena/Westfalen"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "58762"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "i": "Mo-Di und Fr 14.00-18.00, Do 10.00-13.00 und 14.00-18.00, Sa 10.00-13.00"
+                },
+                {
+                    "k": "7.67247"
+                },
+                {
+                    "l": "51.29458"
+                },
+                {
+                    "n": "05962004"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "2352"
+                },
+                {
+                    "f": "2 10 18"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "2352"
+                },
+                {
+                    "i": "2 10 17"
+                },
+                {
+                    "k": "altena@stadtbuecherei.org"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "06"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "altena@stadtbuecherei.org"
+                }
+            ],
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "altena@stadtbuecherei.org"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-387",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-387",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-387",
+    "identifier": "DE-387",
+    "name": "Stadtb\u00fccherei Altena",
+    "location": "Altena/Westfalen",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NRW"
+}

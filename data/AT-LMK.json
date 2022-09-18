@@ -1,0 +1,215 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/AT-LMK.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:06-03-12"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:21-10-16"
+                ],
+                {
+                    "t": "17:07:49.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:06-03-12"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1020420502"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "030061-5"
+                },
+                {
+                    "d": "AT-LMK"
+                },
+                {
+                    "e": "AT-LMK"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.landesmuseum.ktn.gv.at/240848_DE-LMK-Bibliothek"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://opac.obvsg.at/lbk"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "K\u00e4rntner Landesbibliothek"
+                },
+                {
+                    "4": "a"
+                }
+            ],
+            [
+                {
+                    "a": "Klagenfurt Landesmuseum"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Landesmuseum f\u00fcr K\u00e4rnten, Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Museumgasse 2"
+                },
+                {
+                    "b": "Klagenfurt"
+                },
+                {
+                    "d": "AT"
+                },
+                {
+                    "e": "A-9021"
+                },
+                {
+                    "f": "\u00d6sterreich"
+                },
+                {
+                    "k": "14.31245"
+                },
+                {
+                    "l": "46.62111"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "43"
+                },
+                {
+                    "e": "50"
+                },
+                {
+                    "f": "5 36-30560 und -30570"
+                },
+                {
+                    "g": "43"
+                },
+                {
+                    "h": "50"
+                },
+                {
+                    "i": "5 36-30540"
+                },
+                {
+                    "k": "bibliothek@landesmuseum.ktn.gv.at"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "c": "0157"
+                },
+                {
+                    "e": "\u00d6BV"
+                },
+                {
+                    "f": "81"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "WEU"
+                },
+                {
+                    "c": "\u00d6BV"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ],
+        "047A": [
+            [
+                {
+                    "a": "Allgemein (\u00f6ffentlich) zug\u00e4nglich, Fernleihe m\u00f6glich"
+                }
+            ]
+        ]
+    },
+    "_id": "AT-LMK",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/AT-LMK",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/AT-LMK",
+    "identifier": "AT-LMK",
+    "name": "Landesmuseum f\u00fcr K\u00e4rnten, Bibliothek",
+    "location": "Klagenfurt",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "WEU"
+}

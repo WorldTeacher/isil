@@ -1,0 +1,281 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-82-101.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:18-11-99"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:13-11-19"
+                ],
+                {
+                    "t": "16:40:56.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "009010424"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "511101-8"
+                },
+                {
+                    "d": "82/101"
+                },
+                {
+                    "e": "DE-82-101"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.gmb.rwth-aachen.de/"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://index.ub.rwth-aachen.de/TouchPointClient_touchpoint/start.do?View=i101&Branch=101&BaseURL=this"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Mathematische Lehrst\u00fchle, Bibliothek"
+                },
+                {
+                    "4": "a"
+                }
+            ],
+            [
+                {
+                    "a": "Math. Lehrst\u00fchle, Bibliothek"
+                },
+                {
+                    "4": "a"
+                }
+            ],
+            [
+                {
+                    "a": "Aachen UB Mathematische Lehrst\u00fchle, Bibliothek"
+                },
+                {
+                    "4": "a"
+                }
+            ],
+            [
+                {
+                    "a": "Aachen UB Math. Lehrst\u00fchle, Bibliothek"
+                },
+                {
+                    "4": "a"
+                }
+            ],
+            [
+                {
+                    "a": "Aachen UB GMB"
+                },
+                {
+                    "4": "b"
+                }
+            ],
+            [
+                {
+                    "a": "Aachen UB GMB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Gemeinsame Mathematische Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Templergraben 55"
+                },
+                {
+                    "b": "Aachen"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "52062"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "h": "Raum 228-233"
+                },
+                {
+                    "i": "Mo-Do 8.15-20.00, Fr. 8.15-16.00"
+                },
+                {
+                    "k": "6.07779"
+                },
+                {
+                    "l": "50.77779"
+                },
+                {
+                    "n": "05334002"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Aachen"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "52056"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "241"
+                },
+                {
+                    "f": "80-94512"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "241"
+                },
+                {
+                    "i": "80-92322"
+                },
+                {
+                    "k": "gmb@mathematik.rwth-aachen.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "c": "0050"
+                },
+                {
+                    "d": "HBZ"
+                },
+                {
+                    "f": "65"
+                },
+                {
+                    "g": "02"
+                },
+                {
+                    "h": "07"
+                },
+                {
+                    "i": "P"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "c": "HBZ"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-82-101",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-82-101",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-82-101",
+    "identifier": "DE-82-101",
+    "name": "Gemeinsame Mathematische Bibliothek",
+    "location": "Aachen",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NRW"
+}

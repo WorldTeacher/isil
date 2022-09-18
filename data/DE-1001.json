@@ -1,0 +1,244 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-1001.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:04-12-18"
+                ],
+                {
+                    "t": "13:06:10.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "02058752X"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "GQ561"
+                },
+                {
+                    "d": "1001"
+                },
+                {
+                    "e": "DE-1001"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "https://www.obersulm.de/gemeindebuecherei"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://bibliotheken.kivbf.de/obersulm"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Obersulm GB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Gemeindeb\u00fccherei Obersulm"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Rathausgasse 2"
+                },
+                {
+                    "b": "Obersulm"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "74182"
+                },
+                {
+                    "f": "Baden-W\u00fcrttemberg"
+                },
+                {
+                    "h": "Rathaus"
+                },
+                {
+                    "i": "Di und Do 14.30-19.00, Mi und Fr 10.00-12.00 und 14.30-18.00, Sa 9.30-12.30"
+                },
+                {
+                    "k": "10.69592"
+                },
+                {
+                    "l": "53.91898"
+                },
+                {
+                    "n": "08125110"
+                },
+                {
+                    "o": "Barrierefrei"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Obersulm"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "74178"
+                },
+                {
+                    "f": "Baden-W\u00fcrttemberg"
+                },
+                {
+                    "g": "80"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "7130"
+                },
+                {
+                    "f": "28-170"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "7130"
+                },
+                {
+                    "i": "28-179"
+                },
+                {
+                    "k": "gemeindebuecherei@obersulm.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "06"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "d": "V\u00d6B-BF"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-1001",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-1001",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-1001",
+    "identifier": "DE-1001",
+    "name": "Gemeindeb\u00fccherei Obersulm",
+    "location": "Obersulm",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAW"
+}

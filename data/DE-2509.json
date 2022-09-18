@@ -1,0 +1,271 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-2509.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:29-06-17"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:29-06-17"
+                ],
+                {
+                    "t": "11:59:41.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:29-06-17"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1136094504"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "NF773"
+                },
+                {
+                    "d": "2509"
+                },
+                {
+                    "e": "DE-2509"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.buecherei-grafenwoehr.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://www.eopac.net/BGX430966/"
+                },
+                {
+                    "z": "B"
+                }
+            ],
+            [
+                {
+                    "u": "https://www.eopac.net/BGX430966/contact/"
+                },
+                {
+                    "x": "Kontaktformular"
+                },
+                {
+                    "z": "W"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Grafenw\u00f6hr StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtb\u00fccherei St. Michael Grafenw\u00f6hr"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Kolpingstr. 1"
+                },
+                {
+                    "b": "Grafenw\u00f6hr"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "92655"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "i": "Mi und Sa 16.00-18.00"
+                },
+                {
+                    "j": "Sonder\u00f6ffnungszeiten am Di 8.00-12.00 und Do 9.30-10.30"
+                },
+                {
+                    "k": "11.90555"
+                },
+                {
+                    "l": "49.71550"
+                },
+                {
+                    "n": "09374124"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "a": "Felsm\u00fchlstr. 20"
+                },
+                {
+                    "b": "Grafenw\u00f6hr"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "92655"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "9641"
+                },
+                {
+                    "f": "92 43 88"
+                },
+                {
+                    "k": "info@buecherei-grafenwoehr.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "10"
+                },
+                {
+                    "h": "06"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAY"
+                },
+                {
+                    "c": "BVB"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "stadt-bibliothek@volkach.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "stadt-bibliothek@volkach.de"
+                }
+            ],
+            [
+                {
+                    "a": "b"
+                },
+                {
+                    "d": "info@buecherei-grafenwoehr.de"
+                }
+            ],
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "info@buecherei-grafenwoehr.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-2509",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-2509",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-2509",
+    "identifier": "DE-2509",
+    "name": "Stadtb\u00fccherei St. Michael Grafenw\u00f6hr",
+    "location": "Grafenw\u00f6hr",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAY"
+}

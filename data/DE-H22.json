@@ -1,0 +1,280 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-H22.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:18-11-99"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:13-06-19"
+                ],
+                {
+                    "t": "14:57:42.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "009002995"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "208022-9"
+                },
+                {
+                    "b": "DB237"
+                },
+                {
+                    "d": "H 22"
+                },
+                {
+                    "e": "DE-H22"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.mkg-hamburg.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://kataloge.uni-hamburg.de/DB=3.7/LNG=DU/"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Hamburg GBB/MKGH"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Gerd Bucerius Bibliothek im Museum f\u00fcr Kunst und Gewerbe"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Steintorplatz"
+                },
+                {
+                    "b": "Hamburg"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "20099"
+                },
+                {
+                    "f": "Hamburg"
+                },
+                {
+                    "i": "Di-Mi und Fr 11.00-17.30, Do 11.00-19.00"
+                },
+                {
+                    "j": "ge\u00e4nderte \u00d6ffnungszeiten zwischen Weihnachten u. Neujahr u. an Donnerstagen vor Feiertagen sowie mit Ausstellungser\u00f6ffnungen, bitte tel. erfragen"
+                },
+                {
+                    "k": "10.00898"
+                },
+                {
+                    "l": "53.55166"
+                },
+                {
+                    "n": "02000000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "40"
+                },
+                {
+                    "f": "42 81 34-203"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "40"
+                },
+                {
+                    "i": "42 81 34-209"
+                },
+                {
+                    "k": "bibliothek@mkg-hamburg.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0025"
+                },
+                {
+                    "e": "GBV"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "07"
+                },
+                {
+                    "h": "08"
+                },
+                {
+                    "i": "P"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Kunst und Kunstgeschichte <Theorie, Praxis>"
+                },
+                {
+                    "a": "Europ\u00e4ische Kunstgeschichte <Fr\u00fchzeit bis Gegenwart>"
+                },
+                {
+                    "a": "Europ\u00e4ische Plastik"
+                },
+                {
+                    "a": "Antike Kunst"
+                },
+                {
+                    "a": "alter Orient"
+                },
+                {
+                    "a": "Islam"
+                },
+                {
+                    "a": "ostasiatische Kunst"
+                },
+                {
+                    "a": "Architektur"
+                },
+                {
+                    "a": "Mode und Textil"
+                },
+                {
+                    "a": "Weltausstellungen"
+                },
+                {
+                    "a": "Buchkunst"
+                },
+                {
+                    "a": "Grafik"
+                },
+                {
+                    "a": "Fotografie"
+                },
+                {
+                    "a": "Auktionskataloge"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "HAM"
+                },
+                {
+                    "c": "GBV"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ],
+        "035J": [
+            [
+                {
+                    "a": "KEINE Fernleihe"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-H22",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-H22",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-H22",
+    "identifier": "DE-H22",
+    "name": "Gerd Bucerius Bibliothek im Museum f\u00fcr Kunst und Gewerbe",
+    "location": "Hamburg",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "HAM"
+}

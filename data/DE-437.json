@@ -1,0 +1,233 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-437.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:28-11-18"
+                ],
+                {
+                    "t": "16:38:49.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:27-05-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020584148"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "AG437"
+                },
+                {
+                    "d": "437"
+                },
+                {
+                    "e": "DE-437"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.mettmann.de/bibliothek/index.php"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://www.bibnet.de"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Mettmann StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtbibliothek Mettmann"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Am K\u00f6nigshof"
+                },
+                {
+                    "b": "Mettmann"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "40822"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "h": "Neandertalhalle"
+                },
+                {
+                    "i": "Mo-Di 15.00-18.00, Do 10.00-13.00 und 15.00-18.00, Fr 13.00-18.00, Sa 10.00-13.00"
+                },
+                {
+                    "k": "6.97519"
+                },
+                {
+                    "l": "51.24904"
+                },
+                {
+                    "n": "05158024"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "2104"
+                },
+                {
+                    "f": "9 80-413 bis -414"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "2104"
+                },
+                {
+                    "i": "9 80-752"
+                },
+                {
+                    "k": "bibliothek@mettmann.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "06"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "bibliothek@mettmann.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "bibliothek@mettmann.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-437",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-437",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-437",
+    "identifier": "DE-437",
+    "name": "Stadtbibliothek Mettmann",
+    "location": "Mettmann",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NRW"
+}

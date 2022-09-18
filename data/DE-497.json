@@ -1,0 +1,239 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-497.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:02-03-16"
+                ],
+                {
+                    "t": "08:52:48.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020584539"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "GB497"
+                },
+                {
+                    "d": "497"
+                },
+                {
+                    "e": "DE-497"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.stadtbuecherei.geesthacht.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://opac.geesthacht-schwarzenbek.de/opax1/index.S"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Geesthacht StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtb\u00fccherei Geesthacht"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Rathausstr. 58"
+                },
+                {
+                    "b": "Geesthacht"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "21502"
+                },
+                {
+                    "f": "Schleswig-Holstein"
+                },
+                {
+                    "i": "Mo und Fr 10.00-16.00, Di und Do 10.00-19.00, Sa 10.00-13.00"
+                },
+                {
+                    "k": "10.37460"
+                },
+                {
+                    "l": "53.43551"
+                },
+                {
+                    "n": "01053032"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Geesthacht"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "21500"
+                },
+                {
+                    "f": "Schleswig-Holstein"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "4152"
+                },
+                {
+                    "f": "8 46 96 11"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "4152"
+                },
+                {
+                    "i": "22 33"
+                },
+                {
+                    "k": "stadtbuecherei@geesthacht.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "07"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Geesthacht"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "HAM"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "d": "BZSH"
+                },
+                {
+                    "e": "l"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-497",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-497",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-497",
+    "identifier": "DE-497",
+    "name": "Stadtb\u00fccherei Geesthacht",
+    "location": "Geesthacht",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "HAM"
+}

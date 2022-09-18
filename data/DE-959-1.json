@@ -1,0 +1,267 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-959-1.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:12-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:22-02-21"
+                ],
+                {
+                    "t": "15:40:02.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020601336"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "d": "959/1"
+                },
+                {
+                    "e": "DE-959-1"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.bib.hs-osnabrueck.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://osopc4.ub.uni-osnabrueck.de:8080/DB=2/LNG=DU/"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Osnabr\u00fcck HS Campus Haste"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Hochschule Osnabr\u00fcck, Bibliothek Campus Haste"
+                }
+            ]
+        ],
+        "029R": [
+            [
+                {
+                    "9": "02058718X"
+                },
+                {
+                    "7": "Tw"
+                },
+                {
+                    "a": "Hochschule Osnabr\u00fcck, Bibliothek Campus Westerberg"
+                },
+                {
+                    "e": "DE-959"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Am Kr\u00fcmpel 31"
+                },
+                {
+                    "b": "Osnabr\u00fcck"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "49090"
+                },
+                {
+                    "f": "Niedersachsen"
+                },
+                {
+                    "h": "Geb. HR"
+                },
+                {
+                    "i": "Mo-Fr 9.00-20.00, Sa 10.00-14.00"
+                },
+                {
+                    "j": "vorlesungsfreie Zeiten siehe Homepage"
+                },
+                {
+                    "k": "8.03842"
+                },
+                {
+                    "l": "52.30255"
+                },
+                {
+                    "n": "03404000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Osnabr\u00fcck"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "49009"
+                },
+                {
+                    "f": "Niedersachsen"
+                },
+                {
+                    "g": "19 40"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "541"
+                },
+                {
+                    "f": "9 69-5140 (Ausleihe) und -5094 (Information)"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "541"
+                },
+                {
+                    "i": "9 69-5059"
+                },
+                {
+                    "k": "bibinfoh@hs-osnabrueck.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "73"
+                },
+                {
+                    "g": "02"
+                },
+                {
+                    "h": "07"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Agrarwissenschaften"
+                },
+                {
+                    "a": "Landschaftsarchitektur"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NIE"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "GBV"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-959-1",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-959-1",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-959-1",
+    "identifier": "DE-959-1",
+    "name": "Hochschule Osnabr\u00fcck, Bibliothek Campus Haste",
+    "location": "Osnabr\u00fcck",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NIE"
+}

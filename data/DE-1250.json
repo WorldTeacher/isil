@@ -1,0 +1,238 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-1250.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:20-04-05"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:20-10-16"
+                ],
+                {
+                    "t": "12:32:08.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:27-05-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "027371093"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "GL841"
+                },
+                {
+                    "d": "1250"
+                },
+                {
+                    "e": "DE-1250"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.bibliothek.biberach.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://www.landkreisbiberach.de/webopac"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "BiberachBerufszentr.BibMedio."
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Kreis-Berufsschulzentrum Biberach, Bibliothek/Mediothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Leipzigstr. 11"
+                },
+                {
+                    "b": "Biberach/Ri\u00df"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "88400"
+                },
+                {
+                    "f": "Baden-W\u00fcrttemberg"
+                },
+                {
+                    "i": "Mo 8.00-14.00, Di und Do 8.00-19.00, Mi 8.00-13.00, Fr 10.00-13.00"
+                },
+                {
+                    "k": "9.79865"
+                },
+                {
+                    "l": "48.08788"
+                },
+                {
+                    "n": "08426021"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Biberach/Ri\u00df"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "88381"
+                },
+                {
+                    "f": "Baden-W\u00fcrttemberg"
+                },
+                {
+                    "g": "11 65"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "7351"
+                },
+                {
+                    "f": "3 46-203"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "7351"
+                },
+                {
+                    "i": "3 46-344"
+                },
+                {
+                    "k": "bibliothek@biberach.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "03"
+                },
+                {
+                    "h": "07"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "SWB"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-1250",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-1250",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-1250",
+    "identifier": "DE-1250",
+    "name": "Kreis-Berufsschulzentrum Biberach, Bibliothek/Mediothek",
+    "location": "Biberach/Ri\u00df",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAW"
+}

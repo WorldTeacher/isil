@@ -1,0 +1,220 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Lue13.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:11-05-22"
+                ],
+                {
+                    "t": "14:25:27.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020595212"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "101245-9"
+                },
+                {
+                    "d": "L\u00fc 13"
+                },
+                {
+                    "e": "DE-Lue13"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://archiv.luebeck.de/"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "L\u00fcbeck Stadtarchiv Bibl."
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Archiv der Hansestadt L\u00fcbeck, Handbibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "M\u00fchlendamm 1/3"
+                },
+                {
+                    "b": "L\u00fcbeck"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "23552"
+                },
+                {
+                    "f": "Schleswig-Holstein"
+                },
+                {
+                    "i": "Mo-Do 8.00-16.00, Fr 8.00-12.00"
+                },
+                {
+                    "k": "10.68505"
+                },
+                {
+                    "l": "53.86052"
+                },
+                {
+                    "n": "01003000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "451"
+                },
+                {
+                    "f": "1 22 41 52"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "451"
+                },
+                {
+                    "i": "1 22 15 17"
+                },
+                {
+                    "k": "archiv@luebeck.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0367"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "07"
+                },
+                {
+                    "i": "P"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "L\u00fcbeck"
+                },
+                {
+                    "a": "Hanse"
+                },
+                {
+                    "a": "Ostseeraum"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "HAM"
+                },
+                {
+                    "d": "Kalliope"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Lue13",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Lue13",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Lue13",
+    "identifier": "DE-Lue13",
+    "name": "Archiv der Hansestadt L\u00fcbeck, Handbibliothek",
+    "location": "L\u00fcbeck",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "HAM"
+}

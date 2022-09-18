@@ -1,0 +1,228 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-1476.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:03-12-07"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:12-05-22"
+                ],
+                {
+                    "t": "11:27:36.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:03-12-07"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "986670960"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "101293-9"
+                },
+                {
+                    "b": "GK186"
+                },
+                {
+                    "d": "1476"
+                },
+                {
+                    "e": "DE-1476"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://stadt-rehau.de/detail.asp?id=1916"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://rehau-findus.opac.datronic.de/cgi-bin/findus.fcgi.pl?customer=rehau"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Rehau StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtb\u00fccherei Rehau"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Martin-Luther-Str. 1"
+                },
+                {
+                    "b": "Rehau"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "95111"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "i": "Di, Do und Fr 14.00-18.00, Mi 10.00-13.00"
+                },
+                {
+                    "k": "12.04317"
+                },
+                {
+                    "l": "50.25021"
+                },
+                {
+                    "n": "09475162"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "9283"
+                },
+                {
+                    "f": "20-71"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "9283"
+                },
+                {
+                    "i": "20-60"
+                },
+                {
+                    "k": "buecherei@stadt-rehau.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0367"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "06"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAY"
+                },
+                {
+                    "c": "BVB"
+                },
+                {
+                    "e": "n"
+                },
+                {
+                    "g": "R"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "buecherei@stadt-rehau.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-1476",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-1476",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-1476",
+    "identifier": "DE-1476",
+    "name": "Stadtb\u00fccherei Rehau",
+    "location": "Rehau",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAY"
+}

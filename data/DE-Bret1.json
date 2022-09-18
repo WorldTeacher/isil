@@ -1,0 +1,260 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Bret1.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:18-11-99"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:17-02-16"
+                ],
+                {
+                    "t": "14:17:36.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "00902199X"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "758401-5"
+                },
+                {
+                    "b": "NA532"
+                },
+                {
+                    "d": "Bret 1"
+                },
+                {
+                    "e": "DE-Bret1"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.melanchthon.com"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://www.ubka.uni-karlsruhe.de/kgk/"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Bretten Melanchthonhaus"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Melanchthonhaus, Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Melanchthonstr. 1"
+                },
+                {
+                    "b": "Bretten"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "75015"
+                },
+                {
+                    "f": "Baden-W\u00fcrttemberg"
+                },
+                {
+                    "i": "nach Vereinbarung"
+                },
+                {
+                    "j": "nicht \u00f6ffentlich zug\u00e4nglich"
+                },
+                {
+                    "k": "8.70685"
+                },
+                {
+                    "l": "49.03680"
+                },
+                {
+                    "n": "08215007"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Bretten"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "75005"
+                },
+                {
+                    "f": "Baden-W\u00fcrttemberg"
+                },
+                {
+                    "g": "15 60"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "7252"
+                },
+                {
+                    "f": "94 41-0"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "7252"
+                },
+                {
+                    "i": "94 41-16"
+                },
+                {
+                    "k": "info@melanchthon.com"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0037"
+                },
+                {
+                    "d": "SWB"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "07"
+                },
+                {
+                    "h": "06"
+                },
+                {
+                    "i": "P"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Melanchthon, Philipp"
+                },
+                {
+                    "a": "Reformationsgeschichte"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAW"
+                },
+                {
+                    "c": "SWB"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Bret1",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Bret1",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Bret1",
+    "identifier": "DE-Bret1",
+    "name": "Melanchthonhaus, Bibliothek",
+    "location": "Bretten",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAW"
+}

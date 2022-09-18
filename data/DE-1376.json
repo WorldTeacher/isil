@@ -1,0 +1,224 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-1376.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:24-03-09"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:11-03-16"
+                ],
+                {
+                    "t": "14:14:17.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:24-03-09"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "993359337"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "d": "1376"
+                },
+                {
+                    "e": "DE-1376"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "https://www.schwalmtal.de/"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Schwalmtal Stb"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Bibliothek am Markt"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Markt 2-8"
+                },
+                {
+                    "b": "Schwalmtal"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "41366"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "i": "Di 14.00-18.00, Mi 10.00-13.00, Do 14.00-19.00, Fr 10.00-13.00 und 14.00-18.00"
+                },
+                {
+                    "j": "2. und 4. Sa 10.00-13.00"
+                },
+                {
+                    "k": "6.27292"
+                },
+                {
+                    "l": "51.21317"
+                },
+                {
+                    "n": "05166024"
+                },
+                {
+                    "o": "barrierefrei"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "2163"
+                },
+                {
+                    "f": "94 62 02"
+                },
+                {
+                    "k": "bibliothek@gemeinde-schwalmtal.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "06"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "b"
+                },
+                {
+                    "d": "bibliothek@gemeinde-schwalmtal.de"
+                }
+            ],
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "bibliothek@gemeinde-schwalmtal.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "bibliothek@gemeinde-schwalmtal.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-1376",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-1376",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-1376",
+    "identifier": "DE-1376",
+    "name": "Bibliothek am Markt",
+    "location": "Schwalmtal",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NRW"
+}

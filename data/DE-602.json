@@ -1,0 +1,218 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-602.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:13-07-07"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:19-04-16"
+                ],
+                {
+                    "t": "16:36:31.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:13-07-07"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "98498867X"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "d": "602"
+                },
+                {
+                    "e": "DE-602"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.kobv.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://www.kobv.de"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "KOBV"
+                },
+                {
+                    "4": "a"
+                }
+            ],
+            [
+                {
+                    "a": "Berlin KOBV"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Kooperativer Bibliotheksverbund Berlin-Brandenburg"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Takustr. 7"
+                },
+                {
+                    "b": "Berlin"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "14195"
+                },
+                {
+                    "f": "Berlin"
+                },
+                {
+                    "k": "13.29800"
+                },
+                {
+                    "l": "52.45570"
+                },
+                {
+                    "n": "11000000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "30"
+                },
+                {
+                    "f": "8 41 85-308"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "30"
+                },
+                {
+                    "i": "8 41 85-269"
+                },
+                {
+                    "k": "kobv-zt@zib.de"
+                }
+            ]
+        ],
+        "035D": [
+            [
+                {
+                    "b": "DE-BeKBV (fr\u00fcherer MARC Code)"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "96"
+                },
+                {
+                    "g": "02"
+                },
+                {
+                    "h": "11"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BER"
+                },
+                {
+                    "c": "KOBV"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-602",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-602",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-602",
+    "identifier": "DE-602",
+    "name": "Kooperativer Bibliotheksverbund Berlin-Brandenburg",
+    "location": "Berlin",
+    "type": [
+        "Organization",
+        "Organization"
+    ],
+    "addressRegion": "BER"
+}

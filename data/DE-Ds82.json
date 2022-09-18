@@ -1,0 +1,240 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Ds82.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:18-11-99"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:16-11-20"
+                ],
+                {
+                    "t": "11:42:29.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:27-05-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "00905295X"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "618082-6"
+                },
+                {
+                    "b": "CT709"
+                },
+                {
+                    "d": "Ds 82"
+                },
+                {
+                    "e": "DE-Ds82"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.hlmd.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://lbsopac.rz.uni-frankfurt.de/IMPLAND=Y/SRT=YOP/LNG=DU/DB=73/"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Darmstadt Hes.Landesmus.Kunst"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Hessisches Landesmuseum Darmstadt, Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Friedenspl. 1"
+                },
+                {
+                    "b": "Darmstadt"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "64283"
+                },
+                {
+                    "f": "Hessen"
+                },
+                {
+                    "i": "Di-Fr 10.00-12.00"
+                },
+                {
+                    "k": "8.65366"
+                },
+                {
+                    "l": "49.87489"
+                },
+                {
+                    "n": "06411000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "z": "Zugang zur Bibliothek \u00fcber Verwaltungseingang des Museums"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "6151"
+                },
+                {
+                    "f": "16 57-124, -125 (Bibl.) und -000 (Zentrale)"
+                },
+                {
+                    "k": "Museumsbibliothek@hlmd.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0036"
+                },
+                {
+                    "e": "HBV"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "02"
+                },
+                {
+                    "h": "07"
+                },
+                {
+                    "i": "P"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Kulturgeschichte"
+                },
+                {
+                    "a": "Kunstgeschichte"
+                },
+                {
+                    "a": "Geologie"
+                },
+                {
+                    "a": "Pal\u00e4ontologie"
+                },
+                {
+                    "a": "Mineralogie"
+                },
+                {
+                    "a": "Zoologie"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "HES"
+                },
+                {
+                    "c": "HeBIS"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Ds82",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Ds82",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Ds82",
+    "identifier": "DE-Ds82",
+    "name": "Hessisches Landesmuseum Darmstadt, Bibliothek",
+    "location": "Darmstadt",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "HES"
+}

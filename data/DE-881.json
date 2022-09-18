@@ -1,0 +1,252 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-881.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:28-01-16"
+                ],
+                {
+                    "t": "16:33:29.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020586590"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "668881-0"
+                },
+                {
+                    "b": "LC037"
+                },
+                {
+                    "d": "881"
+                },
+                {
+                    "e": "DE-881"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.merzig.de/leben_in_merzig/bildung/stadtbibliothek"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Merzig StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtbibliothek Merzig"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Hochwaldstr. 47"
+                },
+                {
+                    "b": "Merzig"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "66663"
+                },
+                {
+                    "f": "Saarland"
+                },
+                {
+                    "i": "Di und Do 9.00-13.00 und 16.00-19.00, Mi und Fr 13.00-16.00"
+                },
+                {
+                    "k": "6.64170"
+                },
+                {
+                    "l": "49.44318"
+                },
+                {
+                    "n": "10042113"
+                },
+                {
+                    "o": "barrierefreier Eingang vorhanden"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Merzig"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "66663"
+                },
+                {
+                    "g": "10 02 30"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "6861"
+                },
+                {
+                    "f": "85-391"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "6861"
+                },
+                {
+                    "i": "85-158"
+                },
+                {
+                    "k": "stadtbibliothek@merzig.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0072"
+                },
+                {
+                    "d": "SWB"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "07"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Judaica"
+                },
+                {
+                    "a": "Gustav-Regler-Bildarchiv"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "SWB"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-881",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-881",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-881",
+    "identifier": "DE-881",
+    "name": "Stadtbibliothek Merzig",
+    "location": "Merzig",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAW"
+}

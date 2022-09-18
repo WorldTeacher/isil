@@ -1,0 +1,275 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-M483.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:24-09-21"
+                ],
+                {
+                    "t": "09:53:37.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020596510"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "808483-X"
+                },
+                {
+                    "b": "DM890"
+                },
+                {
+                    "d": "M 483"
+                },
+                {
+                    "e": "DE-M483"
+                },
+                {
+                    "f": "KSFHD"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.ksh-muenchen.de/hochschule/zentrale-einrichtungen-dienste/bibliotheken/"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://opac.ksfh.de/InfoGuideClient.kshsis/search.do?methodToCall=switchSearchPage&SearchType=1"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Katholische Stiftungsfachhochschule - KSFH (fr\u00fcherer Name)"
+                },
+                {
+                    "4": "a"
+                }
+            ],
+            [
+                {
+                    "a": "M\u00fcnchen KSH"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Katholische Stiftungshochschule M\u00fcnchen, Bibliothek M\u00fcnchen"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Preysingstra\u00dfe 89b"
+                },
+                {
+                    "b": "M\u00fcnchen"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "81667"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "i": "Mo-Do 9.00-17.00, Fr 9.00-16.00, Sa 10.00-13.00"
+                },
+                {
+                    "k": "11.60250"
+                },
+                {
+                    "l": "48.13293"
+                },
+                {
+                    "n": "09162000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "a": "Preysingstra\u00dfe 83"
+                },
+                {
+                    "b": "M\u00fcnchen"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "81667"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "89"
+                },
+                {
+                    "f": "4 80 92-1262"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "89"
+                },
+                {
+                    "i": "4 80 92-1359"
+                },
+                {
+                    "k": "bibliothek.muc@ksh-m.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0026"
+                },
+                {
+                    "d": "BVB"
+                },
+                {
+                    "f": "70"
+                },
+                {
+                    "g": "07"
+                },
+                {
+                    "h": "07"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Soziale Arbeit"
+                },
+                {
+                    "a": "Pflegemanagement"
+                },
+                {
+                    "a": "Pflegep\u00e4dagogik"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAY"
+                },
+                {
+                    "c": "BVB"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ],
+        "035Q": [
+            [
+                {
+                    "a": "j"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-M483",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-M483",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-M483",
+    "identifier": "DE-M483",
+    "name": "Katholische Stiftungshochschule M\u00fcnchen, Bibliothek M\u00fcnchen",
+    "location": "M\u00fcnchen",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAY"
+}

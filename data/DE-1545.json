@@ -1,0 +1,222 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-1545.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:05-02-08"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:28-01-16"
+                ],
+                {
+                    "t": "16:16:48.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:05-02-08"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "987424769"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "GN655"
+                },
+                {
+                    "d": "1545"
+                },
+                {
+                    "e": "DE-1545"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.kirchseeon.de/index.php?id=0,53"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://kirchseeon-opac.customer.findus-internet-opac.de/cgi-bin/findus.fcgi.pl?customer=kirchseeon"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Kirchseeon GB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Gemeindeb\u00fccherei Kirchseeon"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Rathausstr. 1"
+                },
+                {
+                    "b": "Kirchseeon"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "85614"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "i": "Mo-Mi 10.00-12.00 und 15.00-18.00, Fr 10.00-12.00 und 15.00-19.00, Sa 10.00-12.00"
+                },
+                {
+                    "k": "11.88695"
+                },
+                {
+                    "l": "48.07422"
+                },
+                {
+                    "n": "09175124"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "8091"
+                },
+                {
+                    "f": "5 52-40"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "8091"
+                },
+                {
+                    "i": "5 52-18"
+                },
+                {
+                    "k": "buecherei@kirchseeon.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "10"
+                },
+                {
+                    "h": "06"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAY"
+                },
+                {
+                    "c": "BVB"
+                },
+                {
+                    "e": "n"
+                },
+                {
+                    "g": "R"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "buecherei@kirchseeon.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-1545",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-1545",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-1545",
+    "identifier": "DE-1545",
+    "name": "Gemeindeb\u00fccherei Kirchseeon",
+    "location": "Kirchseeon",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAY"
+}

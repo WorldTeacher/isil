@@ -1,0 +1,261 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-445.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:21-11-16"
+                ],
+                {
+                    "t": "18:00:03.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020584210"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "AF445"
+                },
+                {
+                    "d": "445"
+                },
+                {
+                    "e": "DE-445"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.stadtbuecherei-gladbeck.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://www.stadtbuecherei-gladbeck.de"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Gladbeck StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtb\u00fccherei Gladbeck"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Friedrich-Ebert-Str. 8"
+                },
+                {
+                    "b": "Gladbeck"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "45964"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "i": "Di 11.00-20.00, Mi-Fr 11.00-18.00, Sa 10.00-13.00"
+                },
+                {
+                    "k": "6.98941"
+                },
+                {
+                    "l": "51.57108"
+                },
+                {
+                    "n": "05562014"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Gladbeck"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "45956"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "g": "6 29"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "2043"
+                },
+                {
+                    "f": "9 92-640, -642, -643 und -654"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "2043"
+                },
+                {
+                    "i": "9 91-414"
+                },
+                {
+                    "k": "stadtbuecherei@stadt-gladbeck.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "08"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "b"
+                },
+                {
+                    "d": "stadtbuecherei@stadt-gladbeck.de"
+                }
+            ],
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "stadtbuecherei@stadt-gladbeck.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "stadtbuecherei@stadt-gladbeck.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-445",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-445",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-445",
+    "identifier": "DE-445",
+    "name": "Stadtb\u00fccherei Gladbeck",
+    "location": "Gladbeck",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NRW"
+}

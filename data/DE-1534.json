@@ -1,0 +1,183 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-1534.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:05-02-08"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:19-02-18"
+                ],
+                {
+                    "t": "11:00:50.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:05-02-08"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "987431641"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "PR191"
+                },
+                {
+                    "d": "1534"
+                },
+                {
+                    "e": "DE-1534"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "G\u00fcntersleben K\u00d6B"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Gemeindeb\u00fccherei G\u00fcntersleben"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Rimparer Str. 20"
+                },
+                {
+                    "b": "G\u00fcntersleben"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "97261"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "k": "9.90727"
+                },
+                {
+                    "l": "49.86928"
+                },
+                {
+                    "n": "09679142"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "k": "bue-guentersleben@gmx.d"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "10"
+                },
+                {
+                    "h": "06"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAY"
+                },
+                {
+                    "c": "BVB"
+                },
+                {
+                    "e": "n"
+                },
+                {
+                    "g": "R"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "bue-guentersleben@gmx.d"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-1534",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-1534",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-1534",
+    "identifier": "DE-1534",
+    "name": "Gemeindeb\u00fccherei G\u00fcntersleben",
+    "location": "G\u00fcntersleben",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAY"
+}

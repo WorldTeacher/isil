@@ -1,0 +1,258 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-378.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9040:22-10-21"
+                ],
+                {
+                    "t": "16:20:04.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020583796"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "AF378"
+                },
+                {
+                    "d": "378"
+                },
+                {
+                    "e": "DE-378"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.marl.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://www.bibliotheken-im-kreisre.de"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Marl StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "die insel - Stadtbibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Bergstr. 230"
+                },
+                {
+                    "b": "Marl"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "45768"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "i": "Di-Fr 10.00-18.00, Sa 10.00-13.00"
+                },
+                {
+                    "k": "7.09644"
+                },
+                {
+                    "l": "51.65341"
+                },
+                {
+                    "n": "05562024"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Marl"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "45745"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "g": "15 80"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "2365"
+                },
+                {
+                    "f": "99-4200"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "2365"
+                },
+                {
+                    "i": "99-4201"
+                },
+                {
+                    "k": "stadtbibliothek@marl.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "07"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "e": "l"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "b"
+                },
+                {
+                    "d": "zentralbibliothek@marl.de"
+                }
+            ],
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "zentralbibliothek@marl.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "zentralbibliothek@marl.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-378",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-378",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-378",
+    "identifier": "DE-378",
+    "name": "die insel - Stadtbibliothek",
+    "location": "Marl",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NRW"
+}

@@ -1,0 +1,254 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Al1.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:18-11-99"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:24-09-21"
+                ],
+                {
+                    "t": "14:06:50.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "009030204"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "EE487"
+                },
+                {
+                    "d": "Al 1"
+                },
+                {
+                    "e": "DE-Al1"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "https://landesarchiv.thueringen.de/altenburg"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://tsaabg.thulb.uni-jena.de/cgi-bin/koha/opac-main.pl"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Altenburg Th\u00fc. Staatsarchiv"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Landesarchiv Th\u00fcringen - Staatsarchiv Altenburg, Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Schlo\u00df 7"
+                },
+                {
+                    "b": "Altenburg"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "04600"
+                },
+                {
+                    "f": "Th\u00fcringen"
+                },
+                {
+                    "i": "Mo-Do 08.00-15.45"
+                },
+                {
+                    "k": "12.43932"
+                },
+                {
+                    "l": "50.98863"
+                },
+                {
+                    "n": "16077001"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Altenburg"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "04583"
+                },
+                {
+                    "f": "Th\u00fcringen"
+                },
+                {
+                    "g": "13 31"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "3447"
+                },
+                {
+                    "f": "89 00 40 0"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "3447"
+                },
+                {
+                    "i": "89 00 39 7"
+                },
+                {
+                    "k": "altenburg@la.thueringen.de"
+                },
+                {
+                    "l": "E-Mail-Adresse gilt nicht f\u00fcr verschl\u00fcsselte bzw. elektronisch signierte Dokumente"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "02"
+                },
+                {
+                    "h": "07"
+                },
+                {
+                    "i": "P"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Sachsen-Altenburg <Herzogtum>"
+                },
+                {
+                    "a": "Altenburger Land <Landkreis>"
+                },
+                {
+                    "a": "Th\u00fcringen <Geschichte>"
+                },
+                {
+                    "a": "Sachsen <Geschichte>"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "THU"
+                },
+                {
+                    "d": "Kalliope"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Al1",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Al1",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Al1",
+    "identifier": "DE-Al1",
+    "name": "Landesarchiv Th\u00fcringen - Staatsarchiv Altenburg, Bibliothek",
+    "location": "Altenburg",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "THU"
+}

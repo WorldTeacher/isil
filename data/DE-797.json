@@ -1,0 +1,264 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-797.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:28-11-18"
+                ],
+                {
+                    "t": "16:38:20.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020585918"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "LQ121"
+                },
+                {
+                    "d": "797"
+                },
+                {
+                    "e": "DE-797"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.stadt-rees.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://webopac.krzn.de/WebOPAC/start?homegkz=460"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Rees StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtb\u00fccherei Rees"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Markt 18"
+                },
+                {
+                    "b": "Rees"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "46459"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "i": "Di und Do-Fr 10.00-12.30 und 14.30-18.00, Mi und Sa 10.00-12.30"
+                },
+                {
+                    "k": "6.39591"
+                },
+                {
+                    "l": "51.75764"
+                },
+                {
+                    "n": "05154044"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Rees"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "46452"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "g": "13 62"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "2851"
+                },
+                {
+                    "f": "5 81 05"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "2851"
+                },
+                {
+                    "i": "91 78 96"
+                },
+                {
+                    "k": "buecherei@stadt-rees.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "07"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "d": "Kalliope"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "b"
+                },
+                {
+                    "d": "buecherei@stadt-rees.de"
+                }
+            ],
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "buecherei@stadt-rees.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "buecherei@stadt-rees.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-797",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-797",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-797",
+    "identifier": "DE-797",
+    "name": "Stadtb\u00fccherei Rees",
+    "location": "Rees",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NRW"
+}

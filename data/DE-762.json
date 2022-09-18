@@ -1,0 +1,253 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-762.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:28-11-18"
+                ],
+                {
+                    "t": "16:38:36.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020585608"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "LD406"
+                },
+                {
+                    "d": "762"
+                },
+                {
+                    "e": "DE-762"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.stadtbibliothek.bergheim.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://buecherei.bergheim.de"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Bergheim/Erft StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtbibliothek Bergheim"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Konrad-Adenauer-Pl. 1"
+                },
+                {
+                    "b": "Bergheim/Erft"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "50126"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "i": "Di und Fr 11.00-18.00, Mi-Do 12.00-19.00, Sa 10.00-13.00"
+                },
+                {
+                    "k": "6.63500"
+                },
+                {
+                    "l": "50.95620"
+                },
+                {
+                    "n": "05362008"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Bergheim/Erft"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "50101"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "g": "11 69"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "2271"
+                },
+                {
+                    "f": "89-380"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "2271"
+                },
+                {
+                    "i": "89-399"
+                },
+                {
+                    "k": "stadtbibliothek@bergheim.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "07"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "fernleihe@bergheim.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "fernleihe@bergheim.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-762",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-762",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-762",
+    "identifier": "DE-762",
+    "name": "Stadtbibliothek Bergheim",
+    "location": "Bergheim/Erft",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NRW"
+}

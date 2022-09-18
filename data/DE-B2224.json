@@ -1,0 +1,252 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-B2224.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:15-11-21"
+                ],
+                {
+                    "t": "10:50:12.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020589115"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "182224-X"
+                },
+                {
+                    "b": "FD038"
+                },
+                {
+                    "d": "B 2224"
+                },
+                {
+                    "e": "DE-B2224"
+                },
+                {
+                    "f": "KHSB"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "https://www.khsb-berlin.de/de/Bibliothek"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://vzlbs.gbv.de/LNG=DU/DB=40/"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Berlin KHSB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Katholische Hochschule f\u00fcr Sozialwesen Berlin, Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "K\u00f6penicker Allee 39/57"
+                },
+                {
+                    "b": "Berlin"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "10318"
+                },
+                {
+                    "f": "Berlin"
+                },
+                {
+                    "i": "Mo-Do 9.00-18.00, Fr 9.00-17.00, Sa 10.00-14.00"
+                },
+                {
+                    "k": "13.53438"
+                },
+                {
+                    "l": "52.48816"
+                },
+                {
+                    "n": "11000000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "30"
+                },
+                {
+                    "f": "50 10 10-17"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "30"
+                },
+                {
+                    "i": "50 10 10-88"
+                },
+                {
+                    "k": "bibliothek@khsb-berlin.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0111"
+                },
+                {
+                    "e": "GBV"
+                },
+                {
+                    "f": "70"
+                },
+                {
+                    "g": "10"
+                },
+                {
+                    "h": "07"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Soziale Arbeit"
+                },
+                {
+                    "a": "Sozialp\u00e4dagogik"
+                },
+                {
+                    "a": "Heilp\u00e4dagogik"
+                },
+                {
+                    "a": "Theologie"
+                },
+                {
+                    "a": "Religionsp\u00e4dagogik"
+                },
+                {
+                    "a": "Erziehungswissenschaften"
+                },
+                {
+                    "a": "Soziale Gerontologie"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BER"
+                },
+                {
+                    "c": "GBV"
+                },
+                {
+                    "d": "VTHK"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-B2224",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-B2224",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-B2224",
+    "identifier": "DE-B2224",
+    "name": "Katholische Hochschule f\u00fcr Sozialwesen Berlin, Bibliothek",
+    "location": "Berlin",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BER"
+}

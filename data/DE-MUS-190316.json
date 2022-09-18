@@ -1,0 +1,125 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-MUS-190316.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:06-01-12"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:12-10-20"
+                ],
+                {
+                    "t": "10:00:12.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:06-01-12"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1018564144"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "e": "DE-MUS-190316"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.museen-in-deutschland.de/singleview.php?muges=190316"
+                },
+                {
+                    "x": "Weitere Informationen"
+                },
+                {
+                    "z": "W"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Bauernhausmuseum Lindberg"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Zwieseler Str. 4"
+                },
+                {
+                    "b": "Lindberg"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "94227"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "m"
+                },
+                {
+                    "f": "86"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-MUS-190316",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-MUS-190316",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-MUS-190316",
+    "identifier": "DE-MUS-190316",
+    "name": "Bauernhausmuseum Lindberg",
+    "location": "Lindberg",
+    "type": [
+        "Organization",
+        "Museum"
+    ]
+}

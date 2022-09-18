@@ -1,0 +1,201 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Bog1.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:03-07-06"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:29-03-16"
+                ],
+                {
+                    "t": "08:42:14.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:03-07-06"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "98036857X"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "848003-5"
+                },
+                {
+                    "d": "Bog 1"
+                },
+                {
+                    "e": "DE-Bog1"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.bogen.de"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Bogen Stadtarchiv"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtarchiv Bogen"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Stadtplatz 56"
+                },
+                {
+                    "b": "Bogen"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "94327"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "k": "12.69206"
+                },
+                {
+                    "l": "48.90542"
+                },
+                {
+                    "n": "09278118"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "9422"
+                },
+                {
+                    "f": "50 51 09"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "9422"
+                },
+                {
+                    "i": "50 51 82"
+                },
+                {
+                    "k": "info@bogen.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0167"
+                },
+                {
+                    "f": "52"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "01"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAY"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Bog1",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Bog1",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Bog1",
+    "identifier": "DE-Bog1",
+    "name": "Stadtarchiv Bogen",
+    "location": "Bogen",
+    "type": [
+        "Organization",
+        "Archive"
+    ],
+    "addressRegion": "BAY"
+}

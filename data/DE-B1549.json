@@ -1,0 +1,277 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-B1549.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:01-03-04"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9999:15-11-17"
+                ],
+                {
+                    "t": "14:14:06.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "025694707"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "181549-0"
+                },
+                {
+                    "b": "AA604"
+                },
+                {
+                    "d": "B 1549"
+                },
+                {
+                    "e": "DE-B1549"
+                },
+                {
+                    "f": "BITOP"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.topographie.de/bibliothek/"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://www.topographie.de/opac/"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Berlin Stift. Topogr. Terrors"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stiftung Topographie des Terrors, Bibliothek"
+                }
+            ]
+        ],
+        "029R": [
+            [
+                {
+                    "9": "1018582606"
+                },
+                {
+                    "7": "Tw"
+                },
+                {
+                    "a": "Stiftung Topographie des Terrors"
+                },
+                {
+                    "e": "DE-MUS-429114"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Niederkirchnerstr. 8"
+                },
+                {
+                    "b": "Berlin"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "10963"
+                },
+                {
+                    "f": "Berlin"
+                },
+                {
+                    "i": "Mo-Fr 10.00-17.00"
+                },
+                {
+                    "k": "13.38397"
+                },
+                {
+                    "l": "52.50686"
+                },
+                {
+                    "n": "11000000"
+                },
+                {
+                    "o": "barrierefrei"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "30"
+                },
+                {
+                    "f": "25 45 09-23"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "30"
+                },
+                {
+                    "i": "25 45 09-99"
+                },
+                {
+                    "k": "bibliothek@topographie.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0111"
+                },
+                {
+                    "e": "GBV"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "06"
+                },
+                {
+                    "h": "07"
+                },
+                {
+                    "i": "P"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Gestapo"
+                },
+                {
+                    "a": "SS"
+                },
+                {
+                    "a": "Polizei <1933-1945>"
+                },
+                {
+                    "a": "Nationalsozialismus <allgemein>"
+                },
+                {
+                    "a": "Nationalsozialismus <Aufarbeitung nach 1945>"
+                },
+                {
+                    "a": "Verfolgung und Vernichtung der europ\u00e4ischen Juden und anderer Opfergruppen"
+                },
+                {
+                    "a": "Zweiter Weltkrieg"
+                },
+                {
+                    "a": "juristische Aufarbeitung der NS-Verbrechen"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BER"
+                },
+                {
+                    "c": "GBV"
+                },
+                {
+                    "d": "KOBV; VBAGGB"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-B1549",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-B1549",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-B1549",
+    "identifier": "DE-B1549",
+    "name": "Stiftung Topographie des Terrors, Bibliothek",
+    "location": "Berlin",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BER"
+}

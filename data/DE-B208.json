@@ -1,0 +1,261 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-B208.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:25-07-05"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:21-01-16"
+                ],
+                {
+                    "t": "14:43:26.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:25-07-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "97578725X"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "698208-6"
+                },
+                {
+                    "b": "DB584"
+                },
+                {
+                    "d": "B 208"
+                },
+                {
+                    "e": "DE-B208"
+                },
+                {
+                    "f": "MPIV"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.mpil.de/ww/de/pub/bibliothek.cfm"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://aleph.mpg.de/F?func=file&file_name=find-b&local_base=vrh01"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Heidelberg MPI V\u00f6lkerrecht"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Max-Planck-Institut f\u00fcr ausl\u00e4ndisches \u00f6ffentliches Recht und V\u00f6lkerrecht, Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Im Neuenheimer Feld 535"
+                },
+                {
+                    "b": "Heidelberg"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "69120"
+                },
+                {
+                    "f": "Baden-W\u00fcrttemberg"
+                },
+                {
+                    "i": "Mo-Fr 8.30-19.00, Sa 9.00-13.00"
+                },
+                {
+                    "k": "8.67295"
+                },
+                {
+                    "l": "49.42036"
+                },
+                {
+                    "n": "08221000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "6221"
+                },
+                {
+                    "f": "4 82-1"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "6221"
+                },
+                {
+                    "i": "4 82-288"
+                },
+                {
+                    "k": "library@mpil.de"
+                }
+            ],
+            [
+                {
+                    "a": "W"
+                },
+                {
+                    "b": "Fernleihe"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "k": "fernleihe@mpil.de"
+                }
+            ]
+        ],
+        "035D": [
+            [
+                {
+                    "b": "GyHeML (fr\u00fcherer MARC Code)"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0163"
+                },
+                {
+                    "d": "SWB"
+                },
+                {
+                    "d": "MPG"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "08"
+                },
+                {
+                    "h": "09"
+                },
+                {
+                    "i": "P"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "V\u00f6lkerrecht"
+                },
+                {
+                    "a": "Ausl\u00e4ndisches \u00d6ffentliches Recht"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAW"
+                },
+                {
+                    "c": "SWB"
+                },
+                {
+                    "e": "k"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-B208",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-B208",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-B208",
+    "identifier": "DE-B208",
+    "name": "Max-Planck-Institut f\u00fcr ausl\u00e4ndisches \u00f6ffentliches Recht und V\u00f6lkerrecht, Bibliothek",
+    "location": "Heidelberg",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAW"
+}

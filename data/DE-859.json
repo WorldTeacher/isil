@@ -1,0 +1,285 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-859.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:18-11-99"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:24-09-21"
+                ],
+                {
+                    "t": "09:54:10.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "00902431X"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "897100-6"
+                },
+                {
+                    "b": "DM270"
+                },
+                {
+                    "d": "859"
+                },
+                {
+                    "e": "DE-859"
+                },
+                {
+                    "f": "FHBKA"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.hochschule-kempten.de/services/bibliothek.html"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://fkeoz3.bib-bvb.de/InfoGuideClient.fkesis/start.do?Login=wofkeext"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Kempten HS"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Hochschule Kempten, Hochschulbibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Bahnhofstr. 61"
+                },
+                {
+                    "b": "Kempten"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "87435"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "i": "Mo-Fr 7.45-18.00, Sa 9.30-14.00"
+                },
+                {
+                    "k": "10.31313"
+                },
+                {
+                    "l": "47.71525"
+                },
+                {
+                    "n": "09763000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Kempten"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "87406"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "g": "16 80"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "831"
+                },
+                {
+                    "f": "25 23-128"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "831"
+                },
+                {
+                    "i": "25 23-275"
+                },
+                {
+                    "k": "bibliothek@hs-kempten.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0077"
+                },
+                {
+                    "d": "BVB"
+                },
+                {
+                    "f": "70"
+                },
+                {
+                    "g": "02"
+                },
+                {
+                    "h": "07"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAY"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "BVB"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "flnehmend@hs-kempten.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "flgebend@hs-kempten.de"
+                }
+            ]
+        ],
+        "035O": [
+            [
+                {
+                    "a": "FZL DE-617"
+                }
+            ]
+        ],
+        "035Q": [
+            [
+                {
+                    "a": "j"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-859",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-859",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-859",
+    "identifier": "DE-859",
+    "name": "Hochschule Kempten, Hochschulbibliothek",
+    "location": "Kempten",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAY"
+}

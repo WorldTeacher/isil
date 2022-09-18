@@ -1,0 +1,131 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-MUS-200611.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:06-01-12"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:12-10-20"
+                ],
+                {
+                    "t": "09:57:03.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:06-01-12"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1018564942"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "e": "DE-MUS-200611"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.museen-in-deutschland.de/singleview.php?muges=200611"
+                },
+                {
+                    "x": "Weitere Informationen"
+                },
+                {
+                    "z": "W"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Tachauer Heimatmuseum"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Schulgasse 3a"
+                },
+                {
+                    "b": "Weiden/Oberpfalz"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "92637"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "k": "12.16226"
+                },
+                {
+                    "l": "49.67558"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "m"
+                },
+                {
+                    "f": "86"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-MUS-200611",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-MUS-200611",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-MUS-200611",
+    "identifier": "DE-MUS-200611",
+    "name": "Tachauer Heimatmuseum",
+    "location": "Weiden/Oberpfalz",
+    "type": [
+        "Organization",
+        "Museum"
+    ]
+}

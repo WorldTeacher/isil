@@ -1,0 +1,243 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-978.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:28-11-18"
+                ],
+                {
+                    "t": "16:37:52.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "02058735X"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "LD728"
+                },
+                {
+                    "d": "978"
+                },
+                {
+                    "e": "DE-978"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.stadtbibliothek-bad-neuenahr-ahrweiler.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://bad-neuenahr-ahrweiler.bibliotheca-open.de/Mediensuche/ErweiterteSuche.aspx"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Bad Neuenahr-Ahr.StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtbibliothek Bad Neuenahr-Ahrweiler"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Willibrordusstr. 1"
+                },
+                {
+                    "b": "Bad Neuenahr-Ahrweiler"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "53474"
+                },
+                {
+                    "f": "Rheinland-Pfalz"
+                },
+                {
+                    "i": "Mo, Mi und Fr 15.00-19.00, Di und Do 10.00-12.00 und 15.00-19.00"
+                },
+                {
+                    "k": "7.13673"
+                },
+                {
+                    "l": "50.54062"
+                },
+                {
+                    "n": "07131007"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "2641"
+                },
+                {
+                    "f": "2 92 58"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "2641"
+                },
+                {
+                    "i": "20 26 82"
+                },
+                {
+                    "k": "Stadtbibl.BadNeu-Ahr@t-online.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "07"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "d": "VBRP"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "Stadtbibl.BadNeu-Ahr@t-online.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "Stadtbibl.BadNeu-Ahr@t-online.de"
+                }
+            ]
+        ],
+        "035O": [
+            [
+                {
+                    "a": "ISIL DE-929; FZL DE-621"
+                },
+                {
+                    "b": "CONTAINER"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-978",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-978",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-978",
+    "identifier": "DE-978",
+    "name": "Stadtbibliothek Bad Neuenahr-Ahrweiler",
+    "location": "Bad Neuenahr-Ahrweiler",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NRW"
+}

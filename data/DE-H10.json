@@ -1,0 +1,198 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-H10.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:16-11-20"
+                ],
+                {
+                    "t": "11:42:30.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020591810"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "GB722"
+                },
+                {
+                    "d": "H 10"
+                },
+                {
+                    "e": "DE-H10"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.buecherhallen.de"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "B\u00fccherhallen Hamburg, Zentralbibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "H\u00fchnerposten 1"
+                },
+                {
+                    "b": "Hamburg"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "20097"
+                },
+                {
+                    "f": "Hamburg"
+                },
+                {
+                    "i": "Mo-Sa 11.00-19.00"
+                },
+                {
+                    "k": "10.00819"
+                },
+                {
+                    "l": "53.54968"
+                },
+                {
+                    "n": "02000000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "40"
+                },
+                {
+                    "f": "4 26 06-215"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "40"
+                },
+                {
+                    "i": "4 26 06-216"
+                },
+                {
+                    "k": "zentralbibliothek@buecherhallen.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "08"
+                },
+                {
+                    "h": "09"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "HAM"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "e": "l"
+                }
+            ]
+        ],
+        "035J": [
+            [
+                {
+                    "a": "Leihverkehr: nur gebend, siehe H 107 (Abteilung Musik)"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-H10",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-H10",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-H10",
+    "identifier": "DE-H10",
+    "name": "B\u00fccherhallen Hamburg, Zentralbibliothek",
+    "location": "Hamburg",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "HAM"
+}

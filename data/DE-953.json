@@ -1,0 +1,255 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-953.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:18-11-99"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:24-09-21"
+                ],
+                {
+                    "t": "09:53:59.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:27-05-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "009037721"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "682000-1"
+                },
+                {
+                    "b": "BC097"
+                },
+                {
+                    "d": "953"
+                },
+                {
+                    "e": "DE-953"
+                },
+                {
+                    "f": "FHMA"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.bib.hs-mannheim.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://bsz.ibs-bw.de/hsma"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Mannheim Hochschule"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Hochschule Mannheim, Hochschulbibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Paul-Wittsack-Str. 10"
+                },
+                {
+                    "b": "Mannheim"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "68163"
+                },
+                {
+                    "f": "Baden-W\u00fcrttemberg"
+                },
+                {
+                    "i": "Mo-Do 9.00-18.30, Fr 9.00-18.00"
+                },
+                {
+                    "j": "in dem Semesterferien verk\u00fcrzt (s. Homepage)"
+                },
+                {
+                    "k": "8.48192"
+                },
+                {
+                    "l": "49.47112"
+                },
+                {
+                    "n": "08222000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "621"
+                },
+                {
+                    "f": "2 92-6140"
+                },
+                {
+                    "k": "bibliothek@hs-mannheim.de"
+                }
+            ]
+        ],
+        "035D": [
+            [
+                {
+                    "a": "952"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0064"
+                },
+                {
+                    "d": "SWB"
+                },
+                {
+                    "f": "70"
+                },
+                {
+                    "g": "02"
+                },
+                {
+                    "h": "08"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "SWB"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035O": [
+            [
+                {
+                    "a": "ISIL DE-180; FZL DE-621"
+                }
+            ],
+            [
+                {
+                    "a": "ISIL DE-180; FZL DE-622"
+                }
+            ],
+            [
+                {
+                    "a": "ISIL DE-180; FZL DE-623"
+                }
+            ]
+        ],
+        "035Q": [
+            [
+                {
+                    "a": "j"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-953",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-953",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-953",
+    "identifier": "DE-953",
+    "name": "Hochschule Mannheim, Hochschulbibliothek",
+    "location": "Mannheim",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAW"
+}

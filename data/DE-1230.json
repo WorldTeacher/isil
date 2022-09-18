@@ -1,0 +1,210 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-1230.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:25-08-04"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:28-11-18"
+                ],
+                {
+                    "t": "16:30:27.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "026387816"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "d": "1230"
+                },
+                {
+                    "e": "DE-1230"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.buecherei-raesfeld.de/"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Raesfeld K\u00d6B"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "\u00d6ffentliche B\u00fccherei Raesfeld"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Weseler Str. 34"
+                },
+                {
+                    "b": "Raesfeld"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "46348"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "i": "Di und Do-Fr 15.00-19.00, Mi und So 9.30-12.30"
+                },
+                {
+                    "k": "6.83525"
+                },
+                {
+                    "l": "51.76857"
+                },
+                {
+                    "n": "05554040"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "2865"
+                },
+                {
+                    "f": "20 21 24"
+                },
+                {
+                    "k": "buecherei@raesfeld.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "10"
+                },
+                {
+                    "h": "06"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "buecherei@raesfeld.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "buecherei@raesfeld.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-1230",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-1230",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-1230",
+    "identifier": "DE-1230",
+    "name": "\u00d6ffentliche B\u00fccherei Raesfeld",
+    "location": "Raesfeld",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NRW"
+}

@@ -1,0 +1,210 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Lbn3.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:26-06-19"
+                ],
+                {
+                    "t": "07:56:52.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020595034"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "GC313"
+                },
+                {
+                    "d": "Lbn 3"
+                },
+                {
+                    "e": "DE-Lbn3"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.luebben.com/cgi-bin/idx.pl?ID=2x620x0"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "L\u00fcbben StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtbibliothek L\u00fcbben"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Ernst-von-Houwald-Damm 14"
+                },
+                {
+                    "b": "L\u00fcbben"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "15907"
+                },
+                {
+                    "f": "Brandenburg"
+                },
+                {
+                    "i": "Mo-Di 10.00-17.00, Do 10.00-19.00, Fr 10.00-16.00"
+                },
+                {
+                    "k": "13.89989"
+                },
+                {
+                    "l": "51.93985"
+                },
+                {
+                    "n": "12061316"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "3546"
+                },
+                {
+                    "f": "71 60"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "3546"
+                },
+                {
+                    "i": "22 55 70"
+                },
+                {
+                    "k": "bibliothek@tks-luebben.de"
+                },
+                {
+                    "l": "ab 1.Aug. 2019 neue E-Mailadresse: bibliothek@luebben.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "07"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BER"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "KOBV"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Lbn3",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Lbn3",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Lbn3",
+    "identifier": "DE-Lbn3",
+    "name": "Stadtbibliothek L\u00fcbben",
+    "location": "L\u00fcbben",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BER"
+}

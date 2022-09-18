@@ -1,0 +1,281 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-981.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:27-03-18"
+                ],
+                {
+                    "t": "13:56:56.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020587384"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "753200-3"
+                },
+                {
+                    "b": "DY101"
+                },
+                {
+                    "d": "981"
+                },
+                {
+                    "e": "DE-981"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.hs-pforzheim.de/De-de/Hochschule/Einrichtungen/Bibliothek/Seiten/Inhaltseite.aspx"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://bsz.ibs-bw.de/hspf"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Pforzheim HS Gestalt"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Hochschule Pforzheim / Fakult\u00e4t Gestaltung, Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Holzgartenstr. 36"
+                },
+                {
+                    "b": "Pforzheim"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "75175"
+                },
+                {
+                    "f": "Baden-W\u00fcrttemberg"
+                },
+                {
+                    "i": "Mo-Do 8.30-18.30, Fr 8.30-18.00"
+                },
+                {
+                    "j": "vorlesungsfreie Zeit: Mo-Do 8.30-12.00 und 13.00-16.00, Fr 8.30-12.00"
+                },
+                {
+                    "k": "8.70804"
+                },
+                {
+                    "l": "48.88796"
+                },
+                {
+                    "n": "08231000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "7231"
+                },
+                {
+                    "f": "28 67 32"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "7231"
+                },
+                {
+                    "i": "28 77 32"
+                },
+                {
+                    "k": "gestaltung.bibliothek@hs-pforzheim.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0154"
+                },
+                {
+                    "d": "SWB"
+                },
+                {
+                    "f": "70"
+                },
+                {
+                    "g": "02"
+                },
+                {
+                    "h": "07"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Design"
+                },
+                {
+                    "a": "Kunst"
+                },
+                {
+                    "a": "Mode"
+                },
+                {
+                    "a": "Schmuck"
+                },
+                {
+                    "a": "Grafik"
+                },
+                {
+                    "a": "Industrial design"
+                },
+                {
+                    "a": "Transportation design"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "SWB"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "b"
+                },
+                {
+                    "d": "gestaltung.bibliothek@hs-pforzheim.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "gestaltung.bibliothek@hs-pforzheim.de"
+                }
+            ],
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "gestaltung.bibliothek@hs-pforzheim.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-981",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-981",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-981",
+    "identifier": "DE-981",
+    "name": "Hochschule Pforzheim / Fakult\u00e4t Gestaltung, Bibliothek",
+    "location": "Pforzheim",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAW"
+}

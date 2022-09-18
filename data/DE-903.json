@@ -1,0 +1,228 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-903.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:29-03-16"
+                ],
+                {
+                    "t": "08:34:33.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020586787"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "LC086"
+                },
+                {
+                    "d": "903"
+                },
+                {
+                    "e": "DE-903"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.hann.muenden.de/index.phtml?NavID=295.404&La=1"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Hann. M\u00fcnden StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtb\u00fccherei Hann. M\u00fcnden"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Schlossplatz 5"
+                },
+                {
+                    "b": "Hann. M\u00fcnden"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "34346"
+                },
+                {
+                    "f": "Niedersachsen"
+                },
+                {
+                    "i": "Mo 10.00-13.30 und 14.30-18.00, Mi 10.00-13.30 und 14.30-17.00, Do 14.30-18.00, Sa 10.00-13.00 (gerade Kalenderwochen)"
+                },
+                {
+                    "k": "9.68330"
+                },
+                {
+                    "l": "51.41670"
+                },
+                {
+                    "n": "03152016"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Hann. M\u00fcnden"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "34335"
+                },
+                {
+                    "f": "Niedersachsen"
+                },
+                {
+                    "g": "15 28"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "5541"
+                },
+                {
+                    "f": "75-210"
+                },
+                {
+                    "k": "Stadtbuecherei@hann.muenden.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "07"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Hann. M\u00fcnden <Heimatkunde>"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NIE"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "GBV"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-903",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-903",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-903",
+    "identifier": "DE-903",
+    "name": "Stadtb\u00fccherei Hann. M\u00fcnden",
+    "location": "Hann. M\u00fcnden",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NIE"
+}

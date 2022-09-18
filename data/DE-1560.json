@@ -1,0 +1,198 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-1560.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:17-01-08"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:30-04-18"
+                ],
+                {
+                    "t": "15:13:00.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:17-01-08"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "987186205"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "LD522"
+                },
+                {
+                    "d": "1560"
+                },
+                {
+                    "e": "DE-1560"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Marktheidenfeld KrkhsB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Patientenbibliothek am Klinikum Main-Spessart"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Baumhofstr. 93"
+                },
+                {
+                    "b": "Marktheidenfeld"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "97828"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "i": "Di 09.00-12.00"
+                },
+                {
+                    "j": "nicht \u00f6ffentlich zug\u00e4nglich"
+                },
+                {
+                    "k": "9.62404"
+                },
+                {
+                    "l": "49.84862"
+                },
+                {
+                    "n": "09677157"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "9391"
+                },
+                {
+                    "f": "5 02-0"
+                },
+                {
+                    "k": "buecherei.mar@kkh-msp.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "36"
+                },
+                {
+                    "g": "03"
+                },
+                {
+                    "h": "03"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAY"
+                },
+                {
+                    "c": "BVB"
+                },
+                {
+                    "e": "n"
+                },
+                {
+                    "g": "R"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "buecherei.mar@kkh-msp.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-1560",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-1560",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-1560",
+    "identifier": "DE-1560",
+    "name": "Patientenbibliothek am Klinikum Main-Spessart",
+    "location": "Marktheidenfeld",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAY"
+}

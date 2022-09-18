@@ -1,0 +1,280 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-1029.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:18-11-99"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:11-10-21"
+                ],
+                {
+                    "t": "13:16:37.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:27-05-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "009054642"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "803010-8"
+                },
+                {
+                    "d": "1029"
+                },
+                {
+                    "e": "DE-1029"
+                },
+                {
+                    "f": "FHWEI"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.hswt.de/hochschule/zentrale-einrichtungen/bibliothek.html"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://opac.hswt.de/TouchPoint/start.do?View=ffw&Language=de&Branch=10"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Triesdorf HSWT"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Hochschule Weihenstephan-Triesdorf, Teilbibliothek Triesdorf"
+                }
+            ]
+        ],
+        "029R": [
+            [
+                {
+                    "9": "009054634"
+                },
+                {
+                    "7": "Tw"
+                },
+                {
+                    "a": "Hochschule Weihenstephan-Triesdorf, Zentralbibliothek"
+                },
+                {
+                    "e": "DE-1028"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Markgrafenstr. 16"
+                },
+                {
+                    "b": "Weidenbach/Mittelfranken"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "91746"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "i": "Mo-Fr 10.00-14.00"
+                },
+                {
+                    "j": "vorlesungsfreie Zeit: Mo-Fr 10.00-13.00"
+                },
+                {
+                    "k": "10.65351"
+                },
+                {
+                    "l": "49.20306"
+                },
+                {
+                    "n": "09571216"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "9826"
+                },
+                {
+                    "f": "6 54-120"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "9826"
+                },
+                {
+                    "i": "6 54-4121"
+                },
+                {
+                    "k": "bibliothek.triesdorf@hswt.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0056"
+                },
+                {
+                    "d": "BVB"
+                },
+                {
+                    "f": "73"
+                },
+                {
+                    "g": "02"
+                },
+                {
+                    "h": "07"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Agrarwirtschaft"
+                },
+                {
+                    "a": "Ern\u00e4hrungswirtschaft"
+                },
+                {
+                    "a": "Umwelt"
+                },
+                {
+                    "a": "Erneuerbare Energien"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAY"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "BVB"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "bibliothek.triesdorf@hswt.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "bibliothek.triesdorf@hswt.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-1029",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-1029",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-1029",
+    "identifier": "DE-1029",
+    "name": "Hochschule Weihenstephan-Triesdorf, Teilbibliothek Triesdorf",
+    "location": "Weidenbach/Mittelfranken",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAY"
+}

@@ -1,0 +1,206 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-1851.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:29-03-11"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:20-09-21"
+                ],
+                {
+                    "t": "12:46:47.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:29-03-11"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1010790234"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "KE107"
+                },
+                {
+                    "d": "1851"
+                },
+                {
+                    "e": "DE-1851"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.mediothek-friedeburg.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://bibkataloge.de/friedeburg"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Friedeburg Mediothek"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Mediothek Friedeburg"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "L\u00fcttmoorland 2"
+                },
+                {
+                    "b": "Friedeburg"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "26446"
+                },
+                {
+                    "f": "Niedersachsen"
+                },
+                {
+                    "k": "7.82942"
+                },
+                {
+                    "l": "53.45393"
+                },
+                {
+                    "n": "03462005"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "4465"
+                },
+                {
+                    "f": "97 85 33"
+                },
+                {
+                    "k": "kontakt@mediothek-friedeburg.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "05"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NIE"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "GBV"
+                },
+                {
+                    "d": "\u00d6VK"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-1851",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-1851",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-1851",
+    "identifier": "DE-1851",
+    "name": "Mediothek Friedeburg",
+    "location": "Friedeburg",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NIE"
+}

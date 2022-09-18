@@ -1,0 +1,267 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Bor4.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:07-07-22"
+                ],
+                {
+                    "t": "09:55:25.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020589670"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "WB368"
+                },
+                {
+                    "d": "Bor 4"
+                },
+                {
+                    "e": "DE-Bor4"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "https://www.mediothek-borna.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://borna.lmscloud.net/"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Borna Mediothek"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Mediothek Borna"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Martin-Luther-Pl. 9"
+                },
+                {
+                    "b": "Borna"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "04552"
+                },
+                {
+                    "f": "Sachsen"
+                },
+                {
+                    "i": "Mo-Di und Do-Fr 10:00-18:00 Uhr, Sa 9:00-12:00 Uhr"
+                },
+                {
+                    "k": "12.49839"
+                },
+                {
+                    "l": "51.12525"
+                },
+                {
+                    "n": "14729050"
+                },
+                {
+                    "o": "Ja, au\u00dfer Sachliteratur und Jugendbibliothek im 1. OG"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "3433"
+                },
+                {
+                    "f": "20 19 22"
+                },
+                {
+                    "k": "mediothek@borna.de"
+                }
+            ]
+        ],
+        "035D": [
+            [
+                {
+                    "a": "541"
+                },
+                {
+                    "b": "DE-541"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "07"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "SAX"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "SWB"
+                },
+                {
+                    "d": "\u00d6VK"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "f": "x"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "a"
+                },
+                {
+                    "d": "mediothek@borna.de"
+                }
+            ],
+            [
+                {
+                    "a": "b"
+                },
+                {
+                    "d": "mediothek@borna.de"
+                }
+            ],
+            [
+                {
+                    "a": "d"
+                },
+                {
+                    "d": "mediothek@borna.de"
+                }
+            ],
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "mediothek@borna.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "mediothek@borna.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Bor4",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Bor4",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Bor4",
+    "identifier": "DE-Bor4",
+    "name": "Mediothek Borna",
+    "location": "Borna",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "SAX"
+}

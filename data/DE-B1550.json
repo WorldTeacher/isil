@@ -1,0 +1,248 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-B1550.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:12-06-01"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:22-02-21"
+                ],
+                {
+                    "t": "14:40:19.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:27-05-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "021937680"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "181550-7"
+                },
+                {
+                    "b": "DY526"
+                },
+                {
+                    "d": "B 1550"
+                },
+                {
+                    "e": "DE-B1550"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "https://technikmuseum.berlin/sammlung/bibliothek/"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://btmoz2.bib-bvb.de/webOPACClient.btmsis/start.do?Login=wobtm"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Berlin Dt. Technikmus. Bib."
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stiftung Deutsches Technikmuseum Berlin, Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Trebbiner Str. 9"
+                },
+                {
+                    "b": "Berlin"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "10963"
+                },
+                {
+                    "f": "Berlin"
+                },
+                {
+                    "i": "Di-Do 10.00-17.15, Fr 10.00-14.00"
+                },
+                {
+                    "k": "13.37655"
+                },
+                {
+                    "l": "52.49851"
+                },
+                {
+                    "n": "11000000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "30"
+                },
+                {
+                    "f": "9 02 54-135 (Lesesaal)"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "30"
+                },
+                {
+                    "i": "9 02 54-175"
+                },
+                {
+                    "k": "bibliothek@dtmb.de"
+                }
+            ]
+        ],
+        "035D": [
+            [
+                {
+                    "a": "B 75"
+                }
+            ],
+            [
+                {
+                    "a": "B 419"
+                }
+            ],
+            [
+                {
+                    "a": "D\u00fc 28"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0149"
+                },
+                {
+                    "d": "BVB"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "07"
+                },
+                {
+                    "h": "09"
+                },
+                {
+                    "i": "P"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Technikgeschichte"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BER"
+                },
+                {
+                    "c": "KOBV"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-B1550",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-B1550",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-B1550",
+    "identifier": "DE-B1550",
+    "name": "Stiftung Deutsches Technikmuseum Berlin, Bibliothek",
+    "location": "Berlin",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BER"
+}

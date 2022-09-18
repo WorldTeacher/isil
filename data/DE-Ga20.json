@@ -1,0 +1,209 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Ga20.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:02-09-16"
+                ],
+                {
+                    "t": "10:45:21.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020591470"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "EZ275"
+                },
+                {
+                    "d": "Ga 20"
+                },
+                {
+                    "e": "DE-Ga20"
+                },
+                {
+                    "f": "BBG"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "https://www.dhge.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://kataloge.thulb.uni-jena.de/DB=4/LNG=DU/"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Gera DHGE Campus Gera"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Duale Hochschule Gera-Eisenach, Bibliothek, Campus Gera"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Weg der Freundschaft 4"
+                },
+                {
+                    "b": "Gera"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "07546"
+                },
+                {
+                    "f": "Th\u00fcringen"
+                },
+                {
+                    "i": "Mo und Mi 7.45-11.30 und 12.30-15.30, Di und Do 7.45-11.30 und 12.30-17.00, Fr 7.45-13.30"
+                },
+                {
+                    "k": "12.06912"
+                },
+                {
+                    "l": "50.90371"
+                },
+                {
+                    "n": "16052000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "365"
+                },
+                {
+                    "f": "43 41-118"
+                },
+                {
+                    "k": "bibliothek-gera@dhge.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "70"
+                },
+                {
+                    "g": "02"
+                },
+                {
+                    "h": "06"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "THU"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "GBV"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Ga20",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Ga20",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Ga20",
+    "identifier": "DE-Ga20",
+    "name": "Duale Hochschule Gera-Eisenach, Bibliothek, Campus Gera",
+    "location": "Gera",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "THU"
+}

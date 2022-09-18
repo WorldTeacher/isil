@@ -1,0 +1,235 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-A5.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:13-11-19"
+                ],
+                {
+                    "t": "16:38:50.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020588496"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "CU052"
+                },
+                {
+                    "d": "A 5"
+                },
+                {
+                    "e": "DE-A5"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.suermondt-ludwig-museum.de/bibliothek/index.html"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://webopac.verbund.aachen.de/"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Aachen Suermondt-Ludwig-Mus."
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Suermondt-Ludwig-Museum, Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Wilhelmstr. 18"
+                },
+                {
+                    "b": "Aachen"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "52070"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "i": "Di-Do 12.00-18.00, Fr 12.00-15.00"
+                },
+                {
+                    "k": "6.09553"
+                },
+                {
+                    "l": "50.77347"
+                },
+                {
+                    "n": "05334002"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "241"
+                },
+                {
+                    "f": "4 79 80-29"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "241"
+                },
+                {
+                    "i": "3 70 75"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "07"
+                },
+                {
+                    "i": "P"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Kunst des Mittelalters"
+                },
+                {
+                    "a": "Kunst des Barock"
+                },
+                {
+                    "a": "Malerei des 19. Jahrhunderts"
+                },
+                {
+                    "a": "Graphik"
+                },
+                {
+                    "a": "K\u00fcnstlermonographien"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "d": "VBAachen"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ],
+        "047A": [
+            [
+                {
+                    "a": "Der Web-OPAC ist ein Verbund-OPAC der Bibliotheken der Region Aachen. Die Best\u00e4nde der Bibliothek des Suermondt-Ludwig-Museums sind erkenntlich an der Zweigstelle \"Aachen Suermondt Ludwig\" in der Exemplarinformation. Bisher sind nur ein Teil der Best\u00e4nde dort erfasst."
+                }
+            ]
+        ]
+    },
+    "_id": "DE-A5",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-A5",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-A5",
+    "identifier": "DE-A5",
+    "name": "Suermondt-Ludwig-Museum, Bibliothek",
+    "location": "Aachen",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NRW"
+}

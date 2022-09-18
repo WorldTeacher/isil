@@ -1,0 +1,219 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-1285.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:19-10-06"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:03-06-21"
+                ],
+                {
+                    "t": "15:11:34.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:19-10-06"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "98160501X"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "KM990"
+                },
+                {
+                    "d": "1285"
+                },
+                {
+                    "e": "DE-1285"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.hude.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://hude.internetopac.de"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Hude/Oldenb. GB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Gemeindebibliothek Hude"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Vielstedter Kirchweg 15"
+                },
+                {
+                    "b": "Hude/Oldenburg"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "27798"
+                },
+                {
+                    "f": "Niedersachsen"
+                },
+                {
+                    "i": "Di 9.00-12.00 und 15.00-19.00, Do 15.30-19.30"
+                },
+                {
+                    "j": "in den Ferien nur Donnerstags ge\u00f6ffnet"
+                },
+                {
+                    "k": "8.44727"
+                },
+                {
+                    "l": "53.10790"
+                },
+                {
+                    "n": "03458010"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "4408"
+                },
+                {
+                    "f": "61 15"
+                },
+                {
+                    "k": "buecherei.hude@t-online.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "06"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Oldenburg <Region>"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NIE"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "GBV"
+                },
+                {
+                    "d": "\u00d6VK"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-1285",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-1285",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-1285",
+    "identifier": "DE-1285",
+    "name": "Gemeindebibliothek Hude",
+    "location": "Hude/Oldenburg",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NIE"
+}

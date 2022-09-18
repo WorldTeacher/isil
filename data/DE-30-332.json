@@ -1,0 +1,251 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-30-332.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:23-09-02"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:09-01-20"
+                ],
+                {
+                    "t": "07:48:56.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "02392246X"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "601332-6"
+                },
+                {
+                    "d": "30/332"
+                },
+                {
+                    "e": "DE-30-332"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.archiv.uni-frankfurt.de/39883913/UAF?legacy_request=1"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Frankfurt/M Uni-Archiv"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Universit\u00e4t Frankfurt, Universit\u00e4tsarchiv"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Zeppelinallee 13"
+                },
+                {
+                    "b": "Frankfurt/Main"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "60325"
+                },
+                {
+                    "f": "Hessen"
+                },
+                {
+                    "i": "Besuch nur nach vorheriger schriftlicher Anmeldung"
+                },
+                {
+                    "k": "8.65333"
+                },
+                {
+                    "l": "50.12113"
+                },
+                {
+                    "n": "06412000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "a": "Senckenberganlage 31-33"
+                },
+                {
+                    "b": "Frankfurt/Main"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "60325"
+                },
+                {
+                    "f": "Hessen"
+                },
+                {
+                    "h": "Juridicum"
+                },
+                {
+                    "k": "8.65283"
+                },
+                {
+                    "l": "50.11864"
+                },
+                {
+                    "n": "06412000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "69"
+                },
+                {
+                    "f": "7 98-22717"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "69"
+                },
+                {
+                    "i": "7 98-23173"
+                },
+                {
+                    "k": "uniarchiv@uni-frankfurt.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0036"
+                },
+                {
+                    "e": "HBV"
+                },
+                {
+                    "f": "58"
+                },
+                {
+                    "g": "02"
+                },
+                {
+                    "h": "07"
+                },
+                {
+                    "i": "P"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "HES"
+                },
+                {
+                    "c": "HeBIS"
+                },
+                {
+                    "d": "Kalliope"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-30-332",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-30-332",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-30-332",
+    "identifier": "DE-30-332",
+    "name": "Universit\u00e4t Frankfurt, Universit\u00e4tsarchiv",
+    "location": "Frankfurt/Main",
+    "type": [
+        "Organization",
+        "Archive"
+    ],
+    "addressRegion": "HES"
+}

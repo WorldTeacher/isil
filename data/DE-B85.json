@@ -1,0 +1,284 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-B85.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:18-11-99"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:10-12-20"
+                ],
+                {
+                    "t": "07:33:56.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "009002472"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "180085-1"
+                },
+                {
+                    "b": "CN104"
+                },
+                {
+                    "d": "B 85"
+                },
+                {
+                    "e": "DE-B85"
+                },
+                {
+                    "f": "BBA"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "https://www.julius-kuehn.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://vzopc4.gbv.de:8080/DB=19/LNG=DU/"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Berlin JKI"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Julius K\u00fchn-Institut, Bundesforschungsinstitut f\u00fcr Kulturpflanzen, Informationszentrum und Bibliothek Berlin-Dahlem"
+                }
+            ]
+        ],
+        "029R": [
+            [
+                {
+                    "9": "1126601373"
+                },
+                {
+                    "7": "Tw"
+                },
+                {
+                    "a": "Julius K\u00fchn-Institut, Bundesforschungsinstitut f\u00fcr Kulturpflanzen"
+                },
+                {
+                    "e": "DE-2476"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "K\u00f6nigin-Luise-Str. 19"
+                },
+                {
+                    "b": "Berlin"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "14195"
+                },
+                {
+                    "f": "Berlin"
+                },
+                {
+                    "i": "Mo-Do 9.00-12.30 und 13.00-15.00, Fr 8.00-12.00"
+                },
+                {
+                    "k": "13.29867"
+                },
+                {
+                    "l": "52.45822"
+                },
+                {
+                    "n": "11000000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "30"
+                },
+                {
+                    "f": "83 04 21 20"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "30"
+                },
+                {
+                    "i": "83 04 21 03"
+                },
+                {
+                    "k": "bibliothek@julius-kuehn.de"
+                }
+            ]
+        ],
+        "035D": [
+            [
+                {
+                    "a": "Kle 2"
+                },
+                {
+                    "b": "DE-Kle2"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0114"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "01"
+                },
+                {
+                    "h": "07"
+                },
+                {
+                    "i": "P"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Pflanzenschutz"
+                },
+                {
+                    "a": "Phytomedizin"
+                },
+                {
+                    "a": "Landwirtschaft"
+                },
+                {
+                    "a": "Forstwirtschaft"
+                },
+                {
+                    "a": "Pflanzenkrankheit"
+                },
+                {
+                    "a": "Entomologie"
+                },
+                {
+                    "a": "Mykologie"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BER"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "GBV"
+                },
+                {
+                    "d": "VBBMELV; BRB"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-B85",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-B85",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-B85",
+    "identifier": "DE-B85",
+    "name": "Julius K\u00fchn-Institut, Bundesforschungsinstitut f\u00fcr Kulturpflanzen, Informationszentrum und Bibliothek Berlin-Dahlem",
+    "location": "Berlin",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BER"
+}

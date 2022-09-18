@@ -1,0 +1,224 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-714.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:10-05-22"
+                ],
+                {
+                    "t": "12:24:24.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:28-05-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "02058525X"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "GC039"
+                },
+                {
+                    "d": "714"
+                },
+                {
+                    "e": "DE-714"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "https://www.stadtbibliothek-oelde.de/de/"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://sb-oelde.lmscloud.net/cgi-bin/koha/opac-main.pl"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Oelde StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtbibliothek Oelde"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Geiststr. 14"
+                },
+                {
+                    "b": "Oelde"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "59302"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "i": "Di 9.00-12.00 und 14.30-18.00, Mi 14.30-18.00, Do 9.00-12.00 und 14.30-18.00, Fr-Sa 9.00-12.00"
+                },
+                {
+                    "k": "8.14044"
+                },
+                {
+                    "l": "51.81966"
+                },
+                {
+                    "n": "05570028"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "2522"
+                },
+                {
+                    "f": "72-700"
+                },
+                {
+                    "k": "stadtbuecherei@oelde.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "06"
+                },
+                {
+                    "h": "07"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "d": "HBZ-DigBib"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "Stadtbuecherei@oelde.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "Stadtbuecherei@oelde.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-714",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-714",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-714",
+    "identifier": "DE-714",
+    "name": "Stadtbibliothek Oelde",
+    "location": "Oelde",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NRW"
+}

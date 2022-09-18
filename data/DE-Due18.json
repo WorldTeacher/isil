@@ -1,0 +1,290 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Due18.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:10-08-20"
+                ],
+                {
+                    "t": "13:53:46.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020590431"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "408018-X"
+                },
+                {
+                    "b": "CY685"
+                },
+                {
+                    "d": "D\u00fc 18"
+                },
+                {
+                    "e": "DE-Due18"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.kunstakademie-duesseldorf.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://kad.zbsport.de"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "D\u00fcsseldorf Kunstakad"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Kunstakademie D\u00fcsseldorf, Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Reuterkaserne 1"
+                },
+                {
+                    "b": "D\u00fcsseldorf"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "40213"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "i": "Mo 9.00-17.00, Di-Do 9.00-20.00, Fr 9.00-14.00"
+                },
+                {
+                    "j": "Semesterferien Mo-Do 10.00-17.00, Fr 10.00-14.00"
+                },
+                {
+                    "k": "6.77216"
+                },
+                {
+                    "l": "51.23052"
+                },
+                {
+                    "n": "05111000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "z": "reine Besucheranschrift, keine Postzustellung"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "a": "Eiskellerstr. 1"
+                },
+                {
+                    "b": "D\u00fcsseldorf"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "40213"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "211"
+                },
+                {
+                    "f": "13 96-461 und -462"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "221"
+                },
+                {
+                    "i": "13 96-225"
+                },
+                {
+                    "k": "bibliothek@kunstakademie-duesseldorf.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0126"
+                },
+                {
+                    "d": "HBZ"
+                },
+                {
+                    "f": "70"
+                },
+                {
+                    "g": "02"
+                },
+                {
+                    "h": "08"
+                },
+                {
+                    "i": "P"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Bildende Kunst"
+                },
+                {
+                    "a": "Kunstgeschichte"
+                },
+                {
+                    "a": "Architektur"
+                },
+                {
+                    "a": "Fotografie"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "HBZ"
+                },
+                {
+                    "e": "k"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "fernleihe@kunstakademie-duesseldorf.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "fernleihe@kunstakademie-duesseldorf.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Due18",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Due18",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Due18",
+    "identifier": "DE-Due18",
+    "name": "Kunstakademie D\u00fcsseldorf, Bibliothek",
+    "location": "D\u00fcsseldorf",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NRW"
+}

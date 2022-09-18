@@ -1,0 +1,202 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/AT-LBB.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:29-11-04"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:22-03-16"
+                ],
+                {
+                    "t": "16:16:21.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "02677092X"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "030036-6"
+                },
+                {
+                    "c": "31.001.0000-1"
+                },
+                {
+                    "d": "AT-LBB"
+                },
+                {
+                    "e": "AT-LBB"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.burgenland.at/landesbibliothek"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Eisenstadt Burgenl\u00e4ndische LB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Burgenl\u00e4ndische Landesbibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Landhaus, Europapl. 1"
+                },
+                {
+                    "b": "Eisenstadt"
+                },
+                {
+                    "d": "AT"
+                },
+                {
+                    "e": "A-7000"
+                },
+                {
+                    "f": "\u00d6sterreich"
+                },
+                {
+                    "k": "16.52856"
+                },
+                {
+                    "l": "47.84905"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "43"
+                },
+                {
+                    "e": "2682"
+                },
+                {
+                    "f": "6 00-2356"
+                },
+                {
+                    "g": "43"
+                },
+                {
+                    "h": "2682"
+                },
+                {
+                    "i": "6 00-2058"
+                },
+                {
+                    "k": "post.kultur@bgld.gv.at"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "c": "0157"
+                },
+                {
+                    "e": "\u00d6BV"
+                },
+                {
+                    "f": "21"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "WEU"
+                },
+                {
+                    "c": "\u00d6BV"
+                },
+                {
+                    "e": "n"
+                }
+            ]
+        ],
+        "047A": [
+            [
+                {
+                    "a": "Allgemein (\u00f6ffentlich) zug\u00e4nglich"
+                }
+            ]
+        ]
+    },
+    "_id": "AT-LBB",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/AT-LBB",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/AT-LBB",
+    "identifier": "AT-LBB",
+    "name": "Burgenl\u00e4ndische Landesbibliothek",
+    "location": "Eisenstadt",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "WEU"
+}

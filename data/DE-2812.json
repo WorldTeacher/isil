@@ -1,0 +1,206 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-2812.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:01-08-19"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:01-08-19"
+                ],
+                {
+                    "t": "11:00:18.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:01-08-19"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1191919870"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "GS090"
+                },
+                {
+                    "d": "2812"
+                },
+                {
+                    "e": "DE-2812"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "https://www.salem-baden.de/de/leben-wohnen/bildung/buechereien/buecherei-im-feuchtmayerhaus/"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "https://wwwopac.rz-kiru.de/salem/index.asp?DB=salem"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Salem StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "B\u00fccherei der Gemeinde Salem"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "T\u00fcfinger Str. 10"
+                },
+                {
+                    "b": "Salem"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "88682"
+                },
+                {
+                    "f": "Baden-W\u00fcrttemberg"
+                },
+                {
+                    "i": "Di und Mi 15.00-18.00, Do 15.00-19.00 und Fr 10.00-12.00 und 15.00-17.00"
+                },
+                {
+                    "j": "Umzug der bestehenden B\u00fccherei im Feuchtmeyerhaus Salem im April 2020 in die Neue Mitte Salem, Am Schlosssee 1"
+                },
+                {
+                    "k": "9.28363"
+                },
+                {
+                    "l": "47.76151"
+                },
+                {
+                    "n": "08435052"
+                },
+                {
+                    "o": "barrierefrei"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "7553"
+                },
+                {
+                    "f": "9 10 56"
+                },
+                {
+                    "k": "buecherei@saleminfo.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "06"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAW"
+                },
+                {
+                    "d": "Onleihe24"
+                },
+                {
+                    "e": "l"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-2812",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-2812",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-2812",
+    "identifier": "DE-2812",
+    "name": "B\u00fccherei der Gemeinde Salem",
+    "location": "Salem",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAW"
+}

@@ -1,0 +1,241 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-807.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:07-05-21"
+                ],
+                {
+                    "t": "10:50:19.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:27-05-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020586019"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "GA134"
+                },
+                {
+                    "d": "807"
+                },
+                {
+                    "e": "DE-807"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.troisdorf.de/web/de/familie_bildung/Bildung/Stadtbibliothek/"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Troisdorf StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtbibliothek City Center"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "K\u00f6lner Str. 69-81"
+                },
+                {
+                    "b": "Troisdorf"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "53840"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "i": "Di und Fr 10.00-18.00, Mi 10.00-13.00, Do 13.00-18.00, Sa 10.00-14.00"
+                },
+                {
+                    "k": "7.15692"
+                },
+                {
+                    "l": "50.81526"
+                },
+                {
+                    "n": "05382068"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "a": "Schlo\u00dfstr. 4-6"
+                },
+                {
+                    "b": "Troisdorf"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "53840"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "2241"
+                },
+                {
+                    "f": "900 9161"
+                },
+                {
+                    "k": "stadtbibliothek@troisdorf.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "07"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "b"
+                },
+                {
+                    "d": "stadtbibliothek@troisdorf.de"
+                }
+            ],
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "stadtbibliothek@troisdorf.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "stadtbibliothek@troisdorf.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-807",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-807",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-807",
+    "identifier": "DE-807",
+    "name": "Stadtbibliothek City Center",
+    "location": "Troisdorf",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NRW"
+}

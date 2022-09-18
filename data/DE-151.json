@@ -1,0 +1,260 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-151.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:17-02-16"
+                ],
+                {
+                    "t": "14:14:38.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020582978"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "AD151"
+                },
+                {
+                    "d": "151"
+                },
+                {
+                    "e": "DE-151"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.stabue.neumuenster.de/"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://www.opac.neumuenster.de"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Neum\u00fcnster StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtb\u00fccherei Neum\u00fcnster"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Wasbeker Str. 14-20"
+                },
+                {
+                    "b": "Neum\u00fcnster"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "24534"
+                },
+                {
+                    "f": "Schleswig-Holstein"
+                },
+                {
+                    "i": "Di-Fr 10.00-19.00, Sa 10.00-14.00"
+                },
+                {
+                    "k": "9.97956"
+                },
+                {
+                    "l": "54.07214"
+                },
+                {
+                    "n": "01004000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "4321"
+                },
+                {
+                    "f": "40 76 32"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "4321"
+                },
+                {
+                    "i": "40 76 33"
+                },
+                {
+                    "k": "info@stabue.neumuenster.de"
+                },
+                {
+                    "l": "Auskunft"
+                }
+            ],
+            [
+                {
+                    "a": "W"
+                },
+                {
+                    "b": "Fernleihe"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "4321"
+                },
+                {
+                    "f": "40 76 39"
+                },
+                {
+                    "k": "fernleihe@stabue.neumuenster.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "08"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Neum\u00fcnster <Geschichte>"
+                },
+                {
+                    "a": "Schleswig-Holstein <Geschichte>"
+                },
+                {
+                    "a": "Musikbibliothek"
+                },
+                {
+                    "a": "Notensammlung"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "HAM"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "GBV"
+                },
+                {
+                    "d": "BZSH"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-151",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-151",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-151",
+    "identifier": "DE-151",
+    "name": "Stadtb\u00fccherei Neum\u00fcnster",
+    "location": "Neum\u00fcnster",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "HAM"
+}

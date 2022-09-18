@@ -1,0 +1,263 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-837.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:28-11-18"
+                ],
+                {
+                    "t": "16:38:05.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:27-05-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020586248"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "LB781"
+                },
+                {
+                    "d": "837"
+                },
+                {
+                    "e": "DE-837"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://opac.landau.de"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Landau StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtbibliothek Landau/Pfalz"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Heinrich-Heine-Pl. 10"
+                },
+                {
+                    "b": "Landau/Pfalz"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "76829"
+                },
+                {
+                    "f": "Rheinland-Pfalz"
+                },
+                {
+                    "h": "Karl und Edith Fix-Haus"
+                },
+                {
+                    "i": "Mo-Di  14.00-18.00, Do-Fr 10.00-18.00, Sa 9.00-13.00"
+                },
+                {
+                    "k": "8.12244"
+                },
+                {
+                    "l": "49.19891"
+                },
+                {
+                    "n": "07313000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ],
+            [
+                {
+                    "b": "Landau/Pfalz"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "76825"
+                },
+                {
+                    "f": "Rheinland-Pfalz"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "P"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "6341"
+                },
+                {
+                    "f": "13-4320"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "6341"
+                },
+                {
+                    "i": "13-4319"
+                },
+                {
+                    "k": "stadtbibliothek@landau.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "07"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "b"
+                },
+                {
+                    "d": "Fernleihe.Stadtbibliothek@Landau.de"
+                }
+            ],
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "Fernleihe.Stadtbibliothek@Landau.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "Fernleihe.Stadtbibliothek@Landau.de"
+                }
+            ]
+        ],
+        "035O": [
+            [
+                {
+                    "a": "ISIL DE-Lan1; FZL DE-621"
+                },
+                {
+                    "b": "CONTAINER"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-837",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-837",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-837",
+    "identifier": "DE-837",
+    "name": "Stadtbibliothek Landau/Pfalz",
+    "location": "Landau/Pfalz",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NRW"
+}

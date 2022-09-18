@@ -1,0 +1,225 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-1420.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:14-11-07"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:11-11-16"
+                ],
+                {
+                    "t": "13:41:58.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:14-11-07"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "986393975"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "JB174"
+                },
+                {
+                    "d": "1420"
+                },
+                {
+                    "e": "DE-1420"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.hersbruck.de/buecherei"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://www.datronic.de/cgi-bin/findus.fcgi.pl?customer=hersbruck"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Hersbruck StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtb\u00fccherei Hersbruck"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Schlo\u00dfplatz 4a"
+                },
+                {
+                    "b": "Hersbruck"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "91217"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "i": "Mo-Di 14.00-18.00, Mi und Fr 11.00-14.00, Do 15.00-19.00"
+                },
+                {
+                    "k": "11.43091"
+                },
+                {
+                    "l": "49.50747"
+                },
+                {
+                    "n": "09574132"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "9151"
+                },
+                {
+                    "f": "7 35-152"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "9151"
+                },
+                {
+                    "i": "7 35-9152"
+                },
+                {
+                    "k": "buecherei@hersbruck.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "06"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAY"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "BVB"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "Buecherei@hersbruck.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-1420",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-1420",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-1420",
+    "identifier": "DE-1420",
+    "name": "Stadtb\u00fccherei Hersbruck",
+    "location": "Hersbruck",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAY"
+}

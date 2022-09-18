@@ -1,0 +1,214 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-911.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:25-09-14"
+                ],
+                {
+                    "t": "11:37:06.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "02058685X"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "HD864"
+                },
+                {
+                    "d": "911"
+                },
+                {
+                    "e": "DE-911"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.elsenfeld.de/kuturfreizeit/bibliothek/"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Elsenfeld GB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Gemeindebibliothek Elsenfeld"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Marienstr. 4"
+                },
+                {
+                    "b": "Elsenfeld"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "63820"
+                },
+                {
+                    "f": "Bayern"
+                },
+                {
+                    "i": "Di 14.00-19.00, Mi 14.00-18.00, Do 10.00-12.00 und 14.00-19.00, Fr 14.00-19.00"
+                },
+                {
+                    "k": "9.16092"
+                },
+                {
+                    "l": "49.84598"
+                },
+                {
+                    "n": "09676121"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "6022"
+                },
+                {
+                    "f": "62 32 42"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "6022"
+                },
+                {
+                    "i": "62 33 99"
+                },
+                {
+                    "k": "info@bibliothek-elsenfeld.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "06"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAY"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "info@bibliothek-elsenfeld.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-911",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-911",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-911",
+    "identifier": "DE-911",
+    "name": "Gemeindebibliothek Elsenfeld",
+    "location": "Elsenfeld",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAY"
+}

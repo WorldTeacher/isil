@@ -1,0 +1,248 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/AT-NMW-Z.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:29-11-04"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:09-03-22"
+                ],
+                {
+                    "t": "16:13:43.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "026770849"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "030028-7"
+                },
+                {
+                    "c": "15.409.0660-7"
+                },
+                {
+                    "d": "AT-NMW-Z"
+                },
+                {
+                    "e": "AT-NMW-Z"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "https://www.nhm-wien.ac.at/museum/bibliotheken"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://koha.nhm-wien.ac.at/"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Wien Naturhist.Mus.Zoolog."
+                },
+                {
+                    "4": "c"
+                }
+            ],
+            [
+                {
+                    "a": "Natural History Museum Vienna"
+                },
+                {
+                    "4": "d"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Naturhistorisches Museum Wien, Zoologische Hauptbibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Burgring 7"
+                },
+                {
+                    "b": "Wien"
+                },
+                {
+                    "d": "AT"
+                },
+                {
+                    "e": "A-1010"
+                },
+                {
+                    "f": "\u00d6sterreich"
+                },
+                {
+                    "g": "Bibliothek"
+                },
+                {
+                    "h": "Bibliothek"
+                },
+                {
+                    "k": "16.36047"
+                },
+                {
+                    "l": "48.20573"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "43"
+                },
+                {
+                    "e": "1"
+                },
+                {
+                    "f": "5 21 77-326"
+                },
+                {
+                    "k": "bibliothek@nhm-wien.ac.at"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "c": "0157"
+                },
+                {
+                    "e": "\u00d6BV"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "13"
+                },
+                {
+                    "h": "09"
+                },
+                {
+                    "i": "P"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Anthropologie"
+                },
+                {
+                    "a": "Botanik"
+                },
+                {
+                    "a": "Geologie"
+                },
+                {
+                    "a": "Mineralogie"
+                },
+                {
+                    "a": "Pr\u00e4historie"
+                },
+                {
+                    "a": "Zoologie"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "WEU"
+                },
+                {
+                    "c": "\u00d6BV"
+                },
+                {
+                    "d": "Kalliope"
+                },
+                {
+                    "e": "n"
+                },
+                {
+                    "f": "x"
+                }
+            ]
+        ]
+    },
+    "_id": "AT-NMW-Z",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/AT-NMW-Z",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/AT-NMW-Z",
+    "identifier": "AT-NMW-Z",
+    "name": "Naturhistorisches Museum Wien, Zoologische Hauptbibliothek",
+    "location": "Wien",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "WEU"
+}

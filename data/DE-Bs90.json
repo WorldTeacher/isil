@@ -1,0 +1,252 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-Bs90.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:23-09-09"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:15-11-17"
+                ],
+                {
+                    "t": "09:20:21.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:23-09-09"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "996974725"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "a": "338090-7"
+                },
+                {
+                    "d": "Bs 90"
+                },
+                {
+                    "e": "DE-Bs90"
+                },
+                {
+                    "f": "BFAV"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.fli.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://vzopc4.gbv.de:8080/DB=19.4/LNG=DU/"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Braunschweig F.-Loeffler-Inst."
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Friedrich-Loeffler-Institut, Bundesforschungsinstitut f\u00fcr Tiergesundheit, Institut f\u00fcr Tierern\u00e4hrung, Bibliothek"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Bundesallee 37"
+                },
+                {
+                    "b": "Braunschweig"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "38116"
+                },
+                {
+                    "f": "Niedersachsen"
+                },
+                {
+                    "i": "nach Vereinbarung"
+                },
+                {
+                    "j": "nicht \u00f6ffentlich zug\u00e4nglich"
+                },
+                {
+                    "k": "10.44989"
+                },
+                {
+                    "l": "52.28613"
+                },
+                {
+                    "n": "03101000"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "531"
+                },
+                {
+                    "f": "5 96-3102"
+                },
+                {
+                    "k": "bibliothek.niedersachsen@fli.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "c": "0111"
+                },
+                {
+                    "e": "GBV"
+                },
+                {
+                    "f": "81"
+                },
+                {
+                    "g": "01"
+                },
+                {
+                    "h": "05"
+                },
+                {
+                    "i": "P"
+                },
+                {
+                    "l": "CC0"
+                }
+            ]
+        ],
+        "035G": [
+            [
+                {
+                    "a": "Tierern\u00e4hrung"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NIE"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "GBV"
+                },
+                {
+                    "d": "VBBMELV"
+                },
+                {
+                    "e": "k"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "bibliothek.fernleihe@fli"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "bibliothek.fernleihe@fli"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-Bs90",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-Bs90",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-Bs90",
+    "identifier": "DE-Bs90",
+    "name": "Friedrich-Loeffler-Institut, Bundesforschungsinstitut f\u00fcr Tiergesundheit, Institut f\u00fcr Tierern\u00e4hrung, Bibliothek",
+    "location": "Braunschweig",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NIE"
+}

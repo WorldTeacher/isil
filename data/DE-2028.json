@@ -1,0 +1,218 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-2028.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:03-12-13"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:17-02-16"
+                ],
+                {
+                    "t": "13:32:08.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9006:03-12-13"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "1044938161"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "KQ036"
+                },
+                {
+                    "d": "2028"
+                },
+                {
+                    "e": "DE-2028"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "http://www.ortsbuecherei-gingen.de"
+                },
+                {
+                    "z": "A"
+                }
+            ],
+            [
+                {
+                    "u": "http://www.ortsbuecherei-gingen.de/katalog.html"
+                },
+                {
+                    "z": "B"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Gingen/Fils StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Ortsb\u00fccherei Gingen"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Bahnhofstr. 25"
+                },
+                {
+                    "b": "Gingen/Fils"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "73333"
+                },
+                {
+                    "f": "Baden-W\u00fcrttemberg"
+                },
+                {
+                    "i": "Mo und Fr 15.30-17.30, Mi 16.30-18.30"
+                },
+                {
+                    "k": "9.78036"
+                },
+                {
+                    "l": "48.65731"
+                },
+                {
+                    "n": "08117025"
+                },
+                {
+                    "o": "barrierefrei"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "7162"
+                },
+                {
+                    "f": "96 06-45"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "7162"
+                },
+                {
+                    "i": "96 06-66"
+                },
+                {
+                    "k": "buecherei@gingen.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "05"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "BAW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "c": "SWB"
+                },
+                {
+                    "e": "a"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-2028",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-2028",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-2028",
+    "identifier": "DE-2028",
+    "name": "Ortsb\u00fccherei Gingen",
+    "location": "Gingen/Fils",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "BAW"
+}

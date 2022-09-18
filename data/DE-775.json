@@ -1,0 +1,230 @@
+{
+    "id": "https://sigel.staatsbibliothek-berlin.de/api/org/DE-775.jsonld",
+    "data": {
+        "001A": [
+            [
+                [
+                    "9006:11-07-00"
+                ]
+            ]
+        ],
+        "001B": [
+            [
+                [
+                    "9006:17-02-16"
+                ],
+                {
+                    "t": "14:07:38.000"
+                }
+            ]
+        ],
+        "001D": [
+            [
+                [
+                    "9999:23-03-05"
+                ]
+            ]
+        ],
+        "001U": [
+            [
+                [
+                    "utf8"
+                ]
+            ]
+        ],
+        "002@": [
+            [
+                [
+                    "Tw"
+                ]
+            ]
+        ],
+        "003@": [
+            [
+                [
+                    "020585721"
+                ]
+            ]
+        ],
+        "008H": [
+            [
+                {
+                    "b": "LC694"
+                },
+                {
+                    "d": "775"
+                },
+                {
+                    "e": "DE-775"
+                }
+            ]
+        ],
+        "009Q": [
+            [
+                {
+                    "u": "https://www.goch.de/de/inhalt-4/stadtbuecherei-goch/"
+                },
+                {
+                    "z": "A"
+                }
+            ]
+        ],
+        "029@": [
+            [
+                {
+                    "a": "Goch StB"
+                },
+                {
+                    "4": "c"
+                }
+            ]
+        ],
+        "029A": [
+            [
+                {
+                    "a": "Stadtb\u00fccherei Goch"
+                }
+            ]
+        ],
+        "032P": [
+            [
+                {
+                    "a": "Pfalzdorfer Str. 47"
+                },
+                {
+                    "b": "Goch"
+                },
+                {
+                    "d": "DE"
+                },
+                {
+                    "e": "47574"
+                },
+                {
+                    "f": "Nordrhein-Westfalen"
+                },
+                {
+                    "i": "Di-Mi und Fr 10.00-17.00, Do 15.00-19.00, Sa 10.00-12.00"
+                },
+                {
+                    "k": "6.17281"
+                },
+                {
+                    "l": "51.68788"
+                },
+                {
+                    "n": "05154016"
+                },
+                {
+                    "p": "j"
+                },
+                {
+                    "2": "S"
+                }
+            ]
+        ],
+        "035B": [
+            [
+                {
+                    "a": "S"
+                },
+                {
+                    "c": "j"
+                },
+                {
+                    "d": "49"
+                },
+                {
+                    "e": "2823"
+                },
+                {
+                    "f": "8 81 58"
+                },
+                {
+                    "g": "49"
+                },
+                {
+                    "h": "2823"
+                },
+                {
+                    "i": "87 71 83"
+                },
+                {
+                    "k": "Stadtbuecherei@goch.de"
+                }
+            ]
+        ],
+        "035E": [
+            [
+                {
+                    "a": "H"
+                },
+                {
+                    "b": "s"
+                },
+                {
+                    "f": "33"
+                },
+                {
+                    "g": "04"
+                },
+                {
+                    "h": "07"
+                }
+            ]
+        ],
+        "035I": [
+            [
+                {
+                    "a": "NRW"
+                },
+                {
+                    "b": "\u00dcLV"
+                },
+                {
+                    "e": "l"
+                },
+                {
+                    "g": "V"
+                }
+            ]
+        ],
+        "035L": [
+            [
+                {
+                    "a": "b"
+                },
+                {
+                    "d": "stadtbuecherei@goch.de"
+                }
+            ],
+            [
+                {
+                    "a": "e"
+                },
+                {
+                    "d": "stadtbuecherei@goch.de"
+                }
+            ],
+            [
+                {
+                    "a": "f"
+                },
+                {
+                    "d": "stadtbuecherei@goch.de"
+                }
+            ]
+        ]
+    },
+    "_id": "DE-775",
+    "seeAlso": "https://ld.zdb-services.de/resource/organisations/DE-775",
+    "sameAs": "https://ld.zdb-services.de/resource/organisations/DE-775",
+    "identifier": "DE-775",
+    "name": "Stadtb\u00fccherei Goch",
+    "location": "Goch",
+    "type": [
+        "Organization",
+        "Library"
+    ],
+    "addressRegion": "NRW"
+}
